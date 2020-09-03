@@ -1,1 +1,30 @@
-site_name: My Docs
+site_name: BCE
+theme: 
+  name: flatly
+  custom_dir: docs/assets/
+
+nav:
+    - Inicial: index.md
+    - Planejamento:
+      - Planejamento avaliação: planejamento_avalia.md
+      - Planejamento projeto: planejamento_projeto.md
+    - Contexto de uso:
+      - Storyboard: storyboard.md
+      - Análise de usuário: analise_usuario.md
+      - Análise de tarefas: 
+        - HTA: hta.md
+        - GOMS: goms.md
+      - Análise do uso:
+        - Avaliação heurística: avaliacao_heuristica.md
+        - Características: caracteristicas.md
+      - Técnicas de análise: tecnicas_analise.md
+    - Acessibilidade:
+      - WCAG: wcag.md
+    - Concepção/Avaliação:
+      - Guia de estilo: style_guide.md
+      - Metas de usabilidade: metas_usabilidade.md
+      - Protótipos:
+        - Protótipo de papel: prototipo_papel.md
+        - Média fidelidade: prototipo_media.md
+        - Alta fidelidade: prototipo_alta.md
+     
