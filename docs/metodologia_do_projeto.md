@@ -32,7 +32,7 @@ Todas as metodologias adotadas durante esse projeto tem relação com dois princ
 >
 > -- <cite> Manifesto Ágil [1] </cite>
 
-Com base nesses princípios, foi utilizado partes de várias metodologias já conhecidas como SCRUM, XP, Kanban com o objetivo de utilizar uma metodologia que melhor adaptasse ao nosso contexto.
+Com base nesses princípios, foi utilizado partes de várias metodologias já conhecidas como SCRUM, Kanban e XP com o objetivo de utilizar uma metodologia que melhor adaptasse ao nosso contexto.
 
 
 ### 3.1 SCRUM
@@ -102,11 +102,47 @@ Na metodologia Scrum é recomendado que se realize reuninões de status do proje
 
 No nosso contexto, as _dailies_ serão realizadas no meio das sprints. O grupo não julgou necessário a realização de reuniões diárias, desse modo ficou determinado que ocorreriam reuniões de status no meio da daily, geralmente na quarta-feira.
 
-### 3.1 KANBAN
+### 3.2 KANBAN
 
 Kanban é um quadro de cartões, sendo que cada cartão representa uma atividade, onde é controlado os fluxos em que cada cartão se encontra. Esses fluxos podem ser vários, dependendo do processo em questão, mas no geral são 3 fluxos principais: "a fazer", "fazendo" e "feito". 
 
 No nosso contexto, o kanban foi dividido em 5 fluxos: _project backlog_, _sprint backlog_, _in progress_, _review_ e _done_. No primeiro processo é onde ficam todos os cartões de tarefas mapeados até o momento. No segundo fluxo ficam os cartões de tarefa que serão realizados na sprint atual, no terceiro fluxo ficam as cartões cuja as tarefas já foram iniciadas, no fluxo _review_ ficam as tarefas que já foram concluídas e estão esperando por revisão de terceiros, e no último fluxo, _done_, ficam as tarefas que já foram revisadas e aprovadas. [[3]](https://pt.wikipedia.org/wiki/Kanban)
+
+### 3.3 Extreme Programming (XP)
+
+Extreme Programming é uma metodologia com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicabilidade e feedback. Objetivando a execução de projetos dentro prazo e do orçamento, fazendo que o cliente fique satisfeito com os resultados sem que a equipe do projeto seja sobrecarregada. [[4]](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+
+No nosso contexto o XP foi adaptado, uma vez que nosso projeto não irá conter codificação de software e essa metodologia possui um grande enfoque nesse tópico. Assim somente algumas das atividades propostas por essa metodologia foram utilizadas.
+
+#### **3.3.1 Propriedade coletiva e "Programação" Pareada**
+
+Essas duas atividades buscam fazer com que todos os membros do tipo, ou a maior parte deles, tenham o sentimento de posse sobre os artefatos do projeto. E assim evitar ao máximo possível o sentimento de "Isso não foi eu que fiz, então não é problema meu".
+
+Com o objetivo de se criar um propriedade coletiva de todos os artefaos do projeto, as atividades chaves são sempre atribuidas para mais de uma pessoa, e revisada por terceiros. Desse modo se envolve várias pessoas durante a conclusão da tarefa, difundindo conhecimento gerado e a "posse" sobre o artefato.
+
+#### **3.3.2 Entregas pequenas e Refatoração**
+
+Essas duas etapas buscam realizar interações curtas mantendo a qualidade. Esse objetivo é obtido reduzindo o prazo das entregas das atividades, podendo implicar na redução da qualidade do artefato entregue. Como essa redução de qualidade não é aceitável, é atividades de refatoração, onde os artefatos entregues serão retrabalhados por outros membros do projeto a fim de corrigir eventuais erros e aumentar a qualidade do artefato.
+
+
+
+### 4. Plano de comunicação
+
+Com o objetivo de evitar evitar problemas na comunicação dos membros e consequentemente gerar problemas nas entregas do projeto, foi pensando no plano de comunicação da equipe.
+
+Oficialmente, toda a comunicação deve ser realizada por meio de duas ferramentas, o site de hospedagem de repositórios, GitHub, e o site de vídeoconferência Jitsi, sendo que as vídeosconferências realizadas devem ser documentadas e mantidas no GitHub.
+
+As tarefas são delegadas por meio de issues e pull request, e toda comunicação deve ser feita por meio de comentários nesses dois canais.
+
+Não oficialmente, os membros os membros do projeto participam de um grupo de telegram, onde é realizado perguntas não pertinentes ao projeto.
+
+É fortemente desencorajado a utilização de canais não oficiais para abordar temas pertinentes sobre o projeto. Isso por que se busca deixar documentado todas as atividades realizadas durante o desenvolvimento, e comunicação por canais não oficiais dificultam essa documentação. Outro motivo é que pelo fato do projeto ser livre, no sentido das quatro liberdades descritas na licença GPL v3.0, sendo elas:
+* A liberdade de executar o projeto, para qualuqe propósito
+* A liberdade de estudar o projeto, e adaptá-lo para suas necessidades
+* A liberdade de redistribuir cópias do projeto
+* A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamento, de modo que toda a comunidade se beneficie.
+
+Com isso em mente, é desejável que qualquer pessoa que se interesse pelo projeto possa acessá-lo livremente, sem autorizações e inclusões em canais não oficiais.
 
 ## 5. Referências
 
@@ -115,3 +151,10 @@ No nosso contexto, o kanban foi dividido em 5 fluxos: _project backlog_, _sprint
 * [2] SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 * [3] KANBAN. Disponível em [https://pt.wikipedia.org/wiki/Kanban](https://pt.wikipedia.org/wiki/Kanban)
+
+* [4] Extreme Programming. Disponível em [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+
+Durante a elaboração desse documento, foi dois documentos de metodologia se mostraram úteis e serviram como referência, sendo eles:
+
+* [O documento de metodologia do projeto SigiVilares](https://interacao-humano-computador.github.io/2019.2-SigiVilares/planejamento/Metodologia/)
+* [O documento de metodologia do projeto Acacia](https://fga-eps-mds.github.io/2019.2-Acacia/#/project_methodology)
