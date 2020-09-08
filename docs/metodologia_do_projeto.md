@@ -69,14 +69,14 @@ Nosso _project backlog_ pode ser encontrado em [https://github.com/Interacao-Hum
 
 #### **3.1.2 Sprints**
 
-Uma sprint é a unidade básica de desenvolvimento na metodologia Scrum. As sprints podem durar entre uma semana e um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, gerando valor e permitindo a avaliação dinâmica do trabalho. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)).
+Uma sprint é a unidade básica de desenvolvimento na metodologia Scrum. As sprints podem durar entre uma semana e um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, gerando valor e permitindo a avaliação dinâmica do trabalho. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, foi definido que as sprints irão durar entre 7 a 10 dias.
 
 
 #### **3.1.3 Sprint Planning**
 
-_Sprint planning_ é um evento de planejamento onde será definido quais tarefas (no nosso caso _issues_) do _product backlog_ serão feitas na próxima _sprint_. 
+_Sprint planning_ é um evento de planejamento onde será definido quais tarefas (no nosso caso _issues_) do _product backlog_ serão feitas na próxima _sprint_. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, o projeto e suas entregas estão definidos no plano de ensino da disciplina. Assim foi criado 7 milestones, isso é pontos de entrega do trabalho, e suas respectivas entregas.
 
@@ -87,7 +87,7 @@ Com isso em mente, é realizado reuniões nas segundas-feiras para definir quais
 
 #### **3.1.4 Sprint Review**
 
-_Sprint Review_ é um evento de validação e verificação que ocorre antes do _Sprint planning_. Durante esse evento é analisado as entregas da sprint anterior e sua qualidade. Após essa análise a atividade pode ser concluída ou pode voltar para o _product backlog_, associada com um pedido de correção. Durante esse evento também é discutido dificuldades enfrentadas e pontos de melhoria para a próxima sprint.
+_Sprint Review_ é um evento de validação e verificação que ocorre antes do _Sprint planning_. Durante esse evento é analisado as entregas da sprint anterior e sua qualidade. Após essa análise a atividade pode ser concluída ou pode voltar para o _product backlog_, associada com um pedido de correção. Durante esse evento também é discutido dificuldades enfrentadas e pontos de melhoria para a próxima sprint. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, os _sprints review_ ocorrem em duas etapas. A etapa de validação e verificação ocorre durante a sprint, sempre que um _pull request_ é criado. Pull request é a abstração da entrega de uma atividade. As atividades são realizadas em um ambiente individual de desenvolvimento, esse ambiente é um clone do ambiente original onde fica as atividades entregues, esse ambiente é conhecido por branches. Sempre uma atividade é concluída em seu ambiente clone, é criado um _pull request_, isso é, um pedido para que as alterações criadas no ambiente clone vá para o ambiente original. É nessa etapa que ocorre a validação e verificação. Antes do _pull request_ ser aceito é revisionado a atividade.
 
@@ -95,9 +95,23 @@ A segunda etapa ocorre antes da _sprint review_, onde é discutido as dificuldad
 
 #### **3.1.5 Daily Meeting**
 
+Na metodologia Scrum é recomendado que se realize reuninões de status do projeto diariamente, sendo essa reunião conhecida como _daily meeting_. Essa reunião é sempre realizada em um mesmo horário e deve durar no máximo 15 minutos. O objetivo é deixar todos os integrantes cientes do trabalho um do outro, desse modo cada participante deve responder a três perguntas: 
+* O que você tem feito da daily passada para a daily atual?
+* O que você está planejando fazer da daily atual para a daily de amanhã?
+* Você tem algum problema impedindo você de realizar sua atividade?
+
+No nosso contexto, as _dailies_ serão realizadas no meio das sprints. O grupo não julgou necessário a realização de reuniões diárias, desse modo ficou determinado que ocorreriam reuniões de status no meio da daily, geralmente na quarta-feira.
+
+### 3.1 KANBAN
+
+Kanban é um quadro de cartões, sendo que cada cartão representa uma atividade, onde é controlado os fluxos em que cada cartão se encontra. Esses fluxos podem ser vários, dependendo do processo em questão, mas no geral são 3 fluxos principais: "a fazer", "fazendo" e "feito". 
+
+No nosso contexto, o kanban foi dividido em 5 fluxos: _project backlog_, _sprint backlog_, _in progress_, _review_ e _done_. No primeiro processo é onde ficam todos os cartões de tarefas mapeados até o momento. No segundo fluxo ficam os cartões de tarefa que serão realizados na sprint atual, no terceiro fluxo ficam as cartões cuja as tarefas já foram iniciadas, no fluxo _review_ ficam as tarefas que já foram concluídas e estão esperando por revisão de terceiros, e no último fluxo, _done_, ficam as tarefas que já foram revisadas e aprovadas. [[3]](https://pt.wikipedia.org/wiki/Kanban)
 
 ## 5. Referências
 
 * [1] Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
 * [2] SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+
+* [3] KANBAN. Disponível em [https://pt.wikipedia.org/wiki/Kanban](https://pt.wikipedia.org/wiki/Kanban)
