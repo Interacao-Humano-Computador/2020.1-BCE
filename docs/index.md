@@ -41,18 +41,24 @@ ______
     <div class="row">
         <div class="col-2">
             <img class="image-logo" src="assets/images/logos/github.png">
+            O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação,
+            além disso também utilizamos ferramentas como MkDocs que nos torna mais simples a criação e manutenção da página do gihub-pages.
         </div>
         <div class="col-2">
             <img class="image-logo" src="assets/images/logos/telegram.png">
+            Escolhemos o Telegram como ferramenta de comunicação, pois todos os integrantes do grupo já estão familiarizados com ela, além de ser possível criar enquetes o que facita a tomada de decisões.
         </div>
         <div class="col-2">
             <img class="image-logo" src="assets/images/logos/jitsi.png">
+            Utilizamos o jitsi como ferramenta de chamadas e video chamadas, pois é uma excelente ferramenta que é estável e todos os integrantes conseguem ter acesso.
         </div>
         <div class="col-2">
             <img class="image-logo" src="assets/images/logos/drive.png">
+            O Google Drive é uma ótima ferramenta para gerar documentos de tipos tradicionais como: Excel, Word, PowerPoint e permite também o trabalho simultâneo e cooperativo tudo sem precisar de realizar qualquer instalação, todos os integrantes já tem familiaridade com a ferramenta.
         </div>
         <div class="col-2">
             <img class="image-logo" src="assets/images/logos/zenhub.png">
+            O ZenHub nos auxilia na organização da equipe no que tange as atividades designadas a cada um dos integrantes ao longo do semestre.
         </div>
     </div>
 </div>
