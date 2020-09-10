@@ -5,6 +5,12 @@ ______
 
 # Visao Geral
 
+#### Versionamento
+
+|  Data  | Versão | Descrição | Autor |
+|----|----| --- | --- | 
+| 10/09/2020 |0.0.1 | Adiciona conteúdo inicial da documentação para ponto de controle 1. | Geraldo Victor, João Victor| 
+
 <p text-align="justify">&emsp;&emsp; Repositório destinado à disciplina Interação Humano Computador para um estudo sobre o site da BCE.</p>
 
 <p text-align="justify">&emsp;&emsp;A disciplina fornece uma visão geral da área de Interação entre Humano e Computador, destacando as principais teorias de fundamentos, métodos e técnicas utilizadas para a concepção e desenvolvimento de sistemas e avaliação de uso.</p>
