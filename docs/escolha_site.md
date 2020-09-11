@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 10/09/2020 | 0.1 | Análises de sites para escolha do projeto | Rafaella Junqueira |
+| 11/09/2020 | 0.2 | Análises de sites para escolha do projeto | Rafaella Junqueira |
 
 <p align="justify">
 Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações heurísticas, conforme demostrado a seguir.
@@ -47,18 +48,36 @@ Pesquisas realizadas demonstram que compras online aumentaram em 71% durante o a
 A avaliação heurística realizada neste site apresentou problemas relacionados a compatibilidade do sistema com o mundo real, flexibilidade e eficiência de uso, estética e design. A maior parte dos problemas encontrados não possui alto grau de severidade, as maiores oportunidades de melhoria estão todas relacionadas à estética e disposição das informações ao longo do site. 
 </div>
 
-<!-- ## Receita Federal
-<div align="justify">
-A Receita Federal é um órgão que tem como responsabilidade a administração dos tributos federais e o controle aduaneiro, além de atuar no combate à evasão fiscal (sonegação), contrabando, descaminho, contrafação (pirataria) e tráfico de drogas, armas e animais. As principais funções da RFB relacionam-se com a administração tributária e aduaneira da União.
+## SAE
 
-A área destinada aos cidadãos conta com mais de 16 (desesseis) serviços, de modo que o escopo da avaliação sobre este site se restringe aos serviços
-- Cadastro de documentos
-- Declarações e demonstrativos
-- Certidões e situação fiscal
-- Isenções
-- Pagamentos e parcelamentos
-- Restituições
-</div> -->
+<div align="justify">
+
+O Projeto SAE é originário de pesquisas envolvendo professores e estudantes de três instituições brasileiras
+de ensino superior (UCB, UFRGS e PUC-RS), que objetiva empregar recursos tecnológicos adequados a
+uma metodologia educacional coerente ao ensino-aprendizagem almejado, consistindo num projeto,
+naturalmente, multidisciplinar (Educação, Psicologia e Informática).
+
+Os principais módulos componentes do SAE são:
+- Banco de Questões (BDQ)
+- Projeto de monitoria estudantil (PMon)
+- Acadêmico (Maior)
+- Sistema tutor inteligente
+- Módulo de interface animada
+- Acompanhamento real
+- Cooperação
+- Apoio à decisão
+- Conteúdo
+
+O escopo de avaliação deste site se restringe à área de Questões, que possui 6 módulos:
+- Questões
+- Listas
+- Histórico
+- Testes
+- Correções
+
+Após análise das heurísticas, foi identificado que a maior parte dos problemas da página se referem à estética e design, reconhecimento ao invés de lembrança e status do sistema. O maior fator impactante é o de design, que deixa a desejar e dificulta o aprendizado do usuário quanto à lógica do site, assim como a ausência de rastreabilidade de rotas, dificultado que o usuário se localize sobre os passos que foram feitos até atingir o objetivo final.
+
+</div>
 
 ## Conclusão
 
