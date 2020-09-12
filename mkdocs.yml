@@ -6,8 +6,8 @@ theme:
 nav:
     - Inicial: index.md
     - Planejamento:
-      - Planejamento avaliação: planejamento_avalia.md
       - Planejamento projeto: planejamento_projeto.md
+      - Metodologia: metodologia_do_projeto.md
     - Contexto de uso:
       - Storyboard: storyboard.md
       - Análise de usuário: analise_usuario.md
