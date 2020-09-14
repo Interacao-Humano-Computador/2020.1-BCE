@@ -60,7 +60,7 @@ about: Template padrão para criação de atas de reunião
     <td colspan="5"></td>
   </tr>
   <tr>
-    <td colspan="2">Rafaella Oliveira</td>
+    <td colspan="2">Rafaella Junqueira</td>
     <td colspan="1"><center><b></b></td>
     <td colspan="5"></td>
   </tr>
