@@ -25,14 +25,14 @@ Os dados analisados foram provenientes de dois questionários: o primeiro, respo
 Professores que declararam não terem nenhum conhecimento com o uso da Internet tiveram um percentual de não uso do Portal de 75%, professores que se declararam iniciantes tiveram um percentual de não uso de 54,5% e o percentual vai diminuindo gradativamente até chegarmos aos usuários que se declaram experts com um percentual de não uso de apenas 6,7%.
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-19.1.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-19.1.png">
 </p>
 
 De acordo com a pesquisa, os professores universitários brasileiros utilizam a Internet principalmente para realizar pesquisas acadêmicas, onde 6522 dos 6689
 professores pesquisados assinalaram essa opção, isto é (97,5%).
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-19.2.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-19.2.png">
 </p>
 
 Os cinco principais motivos para o não uso do Portal, que respondem por 71,5% das opções assinalados pelos não-usuários do
@@ -40,14 +40,14 @@ Portal foram respectivamente: o desconhecimento do Portal (24,5%); a utilizaçã
 dificuldade de acesso (6,6%) e a falta de acesso em casa (6,4%). 
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-19.3.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-19.3.png">
 </p>
 
 
 Os não-usuários responderam que utilizam alguma fonte eletrônica informacional em 2.657 casos e que não utilizavam nenhuma fontes eletrônica outras 121 vezes, o que representa apenas 11,90% dos 1017 não-usuários respondentes. As quatro fontes eletrônicas informacionais mais utilizadas, responsáveis por 73,31% das fontes eletrônicas informacionais utilizadas pelos não-usuários foram respectivamente: ferramentas de busca na Internet como o Google ou Yahoo (28,15%); sites na web em geral (18,74%); livrarias na Internet (14,75%); catálogos on line de bibliotecas (11,67%).
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-19.4.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-19.4.png">
 </p>
 
 Na sexta pergunta foi questionado aos não-usuários do Portal se a possibilidade de acesso ao Portal Capes a partir de casa era imprescindível para
@@ -56,7 +56,7 @@ eles se tornarem usuários do Portal. De acordo com a TAB. 51, pode-se concluir 
 residencial poderia modificar esta situação de não uso.
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-19.5.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png">
 </p>
 
 

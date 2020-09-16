@@ -36,7 +36,7 @@ Pretendia saber a quanto tempo o respondente exercia a função atualmente ocupa
 * 5% mais de 10 anos
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.1.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png">
 </p>
 
 #### Pergunta 2:
@@ -48,7 +48,7 @@ Pretendia avaliar como os bibliotecários percebiam suas habilidades e conhecime
 * 5% indiferente
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.2.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png">
 </p>
 
 #### Pergunta 3:
@@ -68,7 +68,7 @@ Pergunta de natureza aberta, onde foi perguntado quais ferramentas de TIC utiliz
 
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.3.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.3.png">
 </p>
 
 #### Pergunta 4:
@@ -85,7 +85,7 @@ Pergunta de natureza aberta, onde foi perguntado quais recursos de TIC os respon
 * 11% internet
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.4.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png">
 </p>
 
 
@@ -96,7 +96,7 @@ Pergunta de natureza objetiva, pretendia verificar o grau de familiarização do
 * 21% NÃO
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.5.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.5.png">
 </p>
 
 #### Pergunta 6:
@@ -110,7 +110,7 @@ Pergunta de natureza objetiva, os respondentes deveriam marcar entre os serviço
 * 21% backup online
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.6.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.6.png">
 </p>
 
 #### Pergunta 7:
@@ -124,7 +124,7 @@ Pergunta de natureza objetiva, os respondentes deveriam marcar entre os serviço
 * 5% backup online
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.7.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.7.png">
 </p>
 
 #### Pergunta 8:
@@ -134,7 +134,7 @@ Pergunta de natureza objetiva, foi perguntado se os entrevistados tinham conheci
 * 37% não tinham conhecimento
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.8.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.8.png">
 </p>
 
 #### Pergunta 9:
@@ -145,7 +145,7 @@ Pergunta de natureza objetiva, foi perguntado qual era a visão dos entrevistado
 * 0% desnecessário
 
 <p align="center">
-  <img src="../docs/assets/images/print_screen/user-profile-search-1.9.png">
+  <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-1.9.png">
 </p>
 
 ## Conclusões
