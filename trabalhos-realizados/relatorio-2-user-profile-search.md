@@ -141,11 +141,6 @@ Aplicativo de biblioteca |
 
 
 
-
-
-
-
-
 ## Conclusões
 
 Os resultados mostram que os não-usuários preferem utilizar os serviços do Google para realizar seus trabalhos acadêmicos, utilizando os primeiros resultados como fonte de referência, sendo eles fontes acadêmicas ou não. As motivações para os não-usuários não utilizarem os serviços da BCE são que:
