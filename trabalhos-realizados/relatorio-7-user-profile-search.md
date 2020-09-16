@@ -3,7 +3,7 @@
 | | |
 |:-:| :-: |
 | **Título:** | USABILIDADE EM BIBLIOTECAS DIGITAIS |
-| **Autor:** | FERNANDA PEREIRA |
+| **Autor:** | FERNANDA PEREIRA & GERCINA ÂNGELA BORÉM LIMA |
 | **Tipo:** | Artigo apresentado no I Congresso ISKOEspanha e Portugal, 2013  |
 ___
 <br/>
@@ -51,4 +51,4 @@ Os resultados dessa pesquisa não podem ser diretamente usados no nosso trabalho
 
 ## REFERÊNCIAS
 
-Lago, Gessyca Lago Computação em nuvem: estudo sobre o uso e implementação na visão dos bibliotecários da BCE/UnB/Gessyca da Silva Lago. – 2014.
+**PEREIRA**, FERNANDA; **LIMA**, GERCINA ÂNGELA BORÉM. USABILIDADE EM BIBLIOTECAS DIGITAIS. Artigo apresentado no I Congresso ISKOEspanha e Portugal - 2013
