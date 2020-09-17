@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 08/09/2020 |  0.1   | Criação do documento | Durval Carvalho |
+| 17/09/2020 |  0.2   | Revisão do documento | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -94,7 +95,7 @@ Na metodologia Scrum é recomendado que se realize reuninões de status do proje
 * O que você está planejando fazer da daily atual para a daily de amanhã?
 * Você tem algum problema impedindo você de realizar sua atividade?
 
-No nosso contexto, as _dailies_ serão realizadas no meio das sprints. O grupo não julgou necessário a realização de reuniões diárias, desse modo ficou determinado que ocorreriam reuniões de status no meio da daily, geralmente na quarta-feira.
+No nosso contexto, as _dailies_ serão realizadas nas quartas-feiras. O grupo não julgou necessário a realização de reuniões diárias, desse modo ficou determinado que ocorreriam reuniões de status no meio da daily, geralmente na quarta-feira.
 
 ### 3.2 KANBAN
 
