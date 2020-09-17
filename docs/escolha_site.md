@@ -1,5 +1,6 @@
 # <center>Análise de sites</center>
 
+## Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 10/09/2020 | 0.1 | Análises de sites para escolha do projeto | Rafaella Junqueira |

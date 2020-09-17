@@ -1,9 +1,3 @@
----
-id: metodologia
-title: Metodologia do Projeto
-sidebar_label: Metodologia do Projeto
----
-
 # Metodologia do projeto e Processos
 
 ## Histórico de Versão

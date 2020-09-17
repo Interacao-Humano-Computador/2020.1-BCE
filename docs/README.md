@@ -1,3 +1,5 @@
+<!-- docs/README.MD is the home page -->
+
 ## BCE
 
 Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da BCE, aplicando conceitos aprendidos na discplina e propondo melhorias de usabilidade para a área destinada a empréstimo e devolução de livros.
