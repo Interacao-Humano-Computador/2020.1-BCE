@@ -1,7 +1,7 @@
 site_name: BCE
 theme: 
   name: flatly
-  custom_dir: docs/assets/
+  custom_dir: docs/_media/assets/
 
 nav:
     - Inicial: index.md
