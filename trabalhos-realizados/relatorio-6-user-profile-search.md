@@ -2,7 +2,7 @@
 
 | | |
 |:-:| :-: |
-| **Título:** | AVALIAÇÃO DE USABILIDADE DE WEBSITESINTEGRANDO GESTORES, DESENVOLVEDORES E USUÁRIOS |
+| **Título:** | AVALIAÇÃO DE USABILIDADE DE WEBSITES INTEGRANDO GESTORES, DESENVOLVEDORES E USUÁRIOS |
 | **Autor:** | Sueli Angélica do Amaral & Jose Antonio Machado Nascimento |
 | **Tipo:** | Artigo publicado no XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013) |
 ___
@@ -39,4 +39,4 @@ Concluiu-se, que a reformulação do website deve privilegiar a criação de hip
 
 ## REFERÊNCIAS
 
-Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. Avaliação de usabilidade de websitesintegrando gestores, desenvolvedores e usuários, XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013).
+Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. Avaliação de usabilidade de websites integrando gestores, desenvolvedores e usuários, XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013).

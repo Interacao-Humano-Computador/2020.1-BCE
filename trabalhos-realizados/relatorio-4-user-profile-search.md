@@ -22,7 +22,7 @@ Algumas sugestão de melhoria foram feitas durante as entrevistas:
 
 “Curiosidades, os livros que mais são alugados, as seções mais procuradas, quantas pessoas passam pela BCE... curiosidades em geral” (Entrevistado n. 7)“
 
-"Acho que tá suficiente o número de postagens, e acho que poderiam investir um pouco maisem divulgar informações tipo curiosidades sobre a BCE. Acho que seria o tipo deinformação que me interessaria” (Entrevistado n. 24).“
+"Acho que tá suficiente o número de postagens, e acho que poderiam investir um pouco mais em divulgar informações tipo curiosidades sobre a BCE. Acho que seria o tipo de informação que me interessaria” (Entrevistado n. 24).“
 
 "Acho bem agradável o Instagram deles, não é um Instagram que fica com muito  conteúdo  nada  a  ver,  eles  são  bem  objetivos,  mostram  o  horário  de funcionamento  e  os  eventos  que  eles  vão  fazer,  mas  tudo  bem  pontual” (Entrevistado n. 25).“
 
@@ -30,7 +30,7 @@ Algumas sugestão de melhoria foram feitas durante as entrevistas:
 
 "Era bom ter [o horário de funcionamento] lá naquela bio [do Instagram], acho que seria interessante” (Entrevistadon. 30). “
 
-"Acho que já tá bem interessante o jeito que tá sendo feito. No momento não temnada que eu queira acrescentar” (Entrevistadon. 33).“
+"Acho que já tá bem interessante o jeito que tá sendo feito. No momento não tem nada que eu queira acrescentar” (Entrevistadon. 33).“
 
 "Não nas mídias, mas eu gostaria de ver mais informativos na BCE mesmo [no espaço físico]” (Entrevistadon. 42).“
 

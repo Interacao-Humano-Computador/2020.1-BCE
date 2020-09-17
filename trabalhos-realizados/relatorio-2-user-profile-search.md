@@ -55,7 +55,7 @@ O não-usuário de um biblioteca é aquele que tem o direito de usar a bibliotec
 
 |       |               |   |   |   |   |  |
 | :-:   | :-:           |:-:|:-:|:-:|:-:| :-:   |
-| Idade | <td colspan=5> Ano do estudo  |  **total** |
+| Idade | Ano do estudo |   |   |   |   | **total** |
 |       | **1° ano** | **2° ano** | **3° ano** | **4° ano** | **5° ano** |       |
 | 17    | 2 | 0 | 0 | 0 | 0 |   **2**   |
 | 18    | 2  | 0 | 0 | 0 | 0 |   **2**   |
@@ -119,8 +119,8 @@ Afim de conhecer os motivos para usarem as ferramentas citadas, foi perguntado q
 
 | Categoria do critério | Critério |
 | :-:                   | :-:      |
-| Usabilidade | É fácil de usar; Sempre usei; Ele é o único que conheço; É mais prático; Você só precisa colocar o tópico no mecanismo de busca; É o principal mecanismo de busca; É rápido; É grátis; É um mecanismo de busca que todos consultam; É prático e rápido; O uso é fácil e você encontra de tudo; Você só pesquisa com uma palavra; A interface é simples e fácil de usar; Posso consultá-lo de qualquer lugar; Posso fazer meu trabalho sem sair de casa; |
-| Conteúdo | contém todas as informações de que preciso; Sempre encontro as informações de que preciso; Possui informações em todos os formatos; Você encontra informações em todos os idiomas; Sempre mostra algumas informações relacionadas ao assunto que você está procurando; Porque possui artigos científicos; Tem muita informação; Em uma única pesquisa, você pode encontrar de vídeos a resumos de livros; Encontro artigos e livros completos que me servem; Tem todos os tipos de documentos e os PDFs de que preciso; Possui as informações em diversas mídias, vídeos, artigos, pdfs | 
+| Usabilidade | É fácil de usar;<br/> Sempre usei;<br/> Ele é o único que conheço;<br/> É mais prático;<br/> Você só precisa colocar o tópico no mecanismo de busca;<br/> É o principal mecanismo de busca;<br/> É rápido;<br/> É grátis;<br/> É um mecanismo de busca que todos consultam;<br/> É prático e rápido;<br/> O uso é fácil e você encontra de tudo;<br/> Você só pesquisa com uma palavra;<br/> A interface é simples e fácil de usar;<br/> Posso consultá-lo de qualquer lugar;<br/> Posso fazer meu trabalho sem sair de casa;<br/> |
+| Conteúdo | contém todas as informações de que preciso;<br/> Sempre encontro as informações de que preciso;<br/> Possui informações em todos os formatos;<br/> Você encontra informações em todos os idiomas;<br/> Sempre mostra algumas informações relacionadas ao assunto que você está procurando;<br/> Porque possui artigos científicos;<br/> Tem muita informação;<br/> Em uma única pesquisa, você pode encontrar de vídeos a resumos de livros;<br/> Encontro artigos e livros completos que me servem;<br/> Tem todos os tipos de documentos e os PDFs de que preciso;<br/> Possui as informações em diversas mídias, vídeos, artigos, pdfs | 
 
 
 Com a facilidade de uma entrevista de diálogo aberto, os entrevistados deram sugestões para a biblioteca atrair não usuários no gráfico quatro. Alguns exemplos que nos permitirão pensar em estratégias de marketing conhecendo os sentimentos dos não usuários.
@@ -128,14 +128,14 @@ Com a facilidade de uma entrevista de diálogo aberto, os entrevistados deram su
 | Razões para o não uso da biblioteca | Condição para voltar a ser um usuário da biblioteca |
 | :-: | :-: |
 | Fica longe da minha faculdade | Entrega de livros | 
-| Dificuldade para localizar os livros nas estantes | Aplicativo com mapa de localização do livro; Uma pessoa da biblioteca em cada sala para nos ajudar | 
-| Poucos exemplares  | Disponibilizar livros digitais; Aplicativo para saber a disponibilidade dos livros | 
-| Livros desatualizados  | Comprar as últimas versões dos livros; Aplicativos que mostre as edições disponíveis |
-| Não se sabe usar o catálogo  | Comprar as últimas versões dos livros; Aplicativos que mostre as edições disponíveis |
-| Não sei usar o catálogo  | Uma pessoa explicando como é usado e nos acompanhando para encontrar o livro; Aplicativo para fazer pesquisas como o Google |
+| Dificuldade para localizar os livros nas estantes | Aplicativo com mapa de localização do livro; <br/> Uma pessoa da biblioteca em cada sala para nos ajudar | 
+| Poucos exemplares  | Disponibilizar livros digitais; <br/> Aplicativo para saber a disponibilidade dos livros | 
+| Livros desatualizados  | Comprar as últimas versões dos livros; <br/> Aplicativos que mostre as edições disponíveis |
+| Não se sabe usar o catálogo  | Comprar as últimas versões dos livros; <br/> Aplicativos que mostre as edições disponíveis |
+| Não sei usar o catálogo  | Uma pessoa explicando como é usado e nos acompanhando para encontrar o livro; <br/> Aplicativo para fazer pesquisas como o Google |
 | Não há espaço para trabalho em grupo  | Disponibilizar espaços para coworking | 
-| Nunca fui, não conheço  | Exposições com estudantes de arte; Concursos de leitura; Visitas guiadas; Palestras no dia de boas-vindas à universidade | 
-| Fechado por motivos de greve  | Poste avisos em locais centrais como restaurante universitário, minhocão, paradeiros de obnibus ou faculdades.
+| Nunca fui, não conheço  | Exposições com estudantes de arte; <br/> Concursos de leitura; <br/> Visitas guiadas; Palestras no dia de boas-vindas à universidade | 
+| Fechado por motivos de greve  | Poste avisos em locais centrais como restaurante universitário, minhocão, paradeiros de ónibus ou faculdades.
 Aplicativo de biblioteca | 
 | Não há tomadas  | Colocar tomadas | 
 
@@ -172,7 +172,6 @@ Há também os motivos externos que dificulta a utilização dos serviços da bi
 | Ergonomia | Falta de Conforto térmico: (temperatura, umidade e ventilação) Falta de  Conforto acústico; Falta de  Conforto luminoso. |
 
 Em relação à usabilidade, os entrevistados mencionaram que os catálogos são complicados, demoram muito para fazer uma pesquisa, um nome com grafia incorreta ou mesmo um título incompleot não permite ter resultados. Foi evidenciado que os usuários sentiam que o sistema era muito complicado para uso e que era frequênte problemas nas bases de dados durante a pesquisa.
-
 
 
 ## REFERÊNCIAS

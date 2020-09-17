@@ -132,7 +132,7 @@ Quanto à idade, a maioria (68,20%) possui entre 20 e 30 anos, seguidos pelos qu
   <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png">
 </p>
 
-A  Tabela  3demonstra  que  a  maioria  é  do  sexo  feminino  (77,30%)  e  apenas (22,70%) é do sexo masculino
+A  Tabela 3 demonstra  que  a  maioria  é  do  sexo  feminino  (77,30%)  e  apenas (22,70%) é do sexo masculino
 
 <p align="center">
   <img src="../docs/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png">
@@ -183,7 +183,7 @@ Das estratégias de marketing que estão sendo utilizadas pela BCE são consider
 
 Quando perguntado quais novas estratégias podiam ser usadas, as seguintes estratégias foram citadas:
 
-* Utilização de forma mais frequente dotwitterda BCE.
+* Utilização de forma mais frequente do twitter da BCE.
 * Realização  de  exposições  sobre  os  processos  executados  em  cada  um  dos setores  da  BCE,  tais  como:  setor  de  seleção  e  aquisição,  processamento técnico, restauração e obras raras.
 * Desenvolvimento  de  programas  de  letramento  informacional  e  alfabetização digital juntamente com os departamentos, levando a um maior contato com os usuários.
 * Campanhas  educativas  por  meio  da  divulgação  dos  serviços  e  produtos  da BCE em eventos da UnB.

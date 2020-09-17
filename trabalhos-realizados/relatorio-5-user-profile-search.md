@@ -93,7 +93,6 @@ Com os resultados da pesquisa foi possível concluir que:
 * Dentre os serviços ofertados pela BCE, os serviços oferecidos via rede são os mais usados.
 * Há uma carência de treinamento dos docentes para utilizar os serviços da BCE
 * Ficou  evidenciada  a  preferência  dos  docentes  pelas  informações  em  formato  eletrônico,  em  detrimento  dos materiais impressos.
-* 
 
 ## REFERÊNCIAS
 

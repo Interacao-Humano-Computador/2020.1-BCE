@@ -2,8 +2,7 @@
 
 | | |
 |:-:| :-: |
-| **Título:** | SERVIÇOS DE REFERÊNCIA E INFORMAÇÃO EM BIBLIOTECAS
-UNIVERSITÁRIAS DA AMÉRICA LATINA: ANÁLISE DE SEUS WEBSITES |
+| **Título:** | SERVIÇOS DE REFERÊNCIA E INFORMAÇÃO EM BIBLIOTECAS UNIVERSITÁRIAS DA AMÉRICA LATINA: ANÁLISE DE SEUS WEBSITES |
 | **Autor:** | Alice de Amorim Borges Vazquez |
 | **Tipo:** | Dissertação de mestarado em Gestão de Unidades de Informação |
 ___
@@ -40,12 +39,12 @@ As quatro missões do profissional de referência das Bibliotecas Universitária
 * Promover e personalizar os serviços da biblioteca 
 
 Características principais dos serviços de referências oferecidos pelas Bibliotecas Universitárias:
-* Acompanha o usuári o durante todo o processo de busca de informação
+* Acompanha o usuário durante todo o processo de busca de informação
 * Auxilia, em especial, os grupos sociais menos favorecidos
-* Auxilia os usuáriosno momento da utilização de documentos
+* Auxilia os usuários no momento da utilização de documentos
 * Encaminha os usuários às fontes de informação ou a outra instituição
 * Oferece informação específica de natureza prática e utilitária
-* Orienta o usuáriono uso das obras de referência Orienta o usuário quanto à fonte de informação mais adequada
+* Orienta o usuário no uso das obras de referência Orienta o usuário quanto à fonte de informação mais adequada
 * Procura atrair os não-usuáriosda biblioteca
 * Utiliza fontes de informação não convencionais
 
@@ -67,7 +66,7 @@ Os atendimentos dos Serviços de Referência atendem a 3 tipos de usuários:
 De acordo com Maness(2007), um sistema que se proponha a dar suporte aos serviços de uma biblioteca deve:
 * Ser  centrada  no usuário;  participaçãodos usuários na  criação  de  conteúdos  e serviços que eles vêem na presença da biblioteca na web, OPAC, etc;
 * Oferecer  uma  experiência  multimídia;  coleções  e  serviços  de  Biblioteca  2.0 devem ser uma função das UI por conterem componentes de áudio e vídeo
-* Ser  socialmente  rica:  presença  da  biblioteca  na webinclui  a  presença  dosusuários
+* Ser  socialmente  rica:  presença  da  biblioteca  na web inclui  a  presença  dos usuários
 * Ser  comunitariamente  inovadora:  deve  permitir  que  os usuários mudem   a biblioteca
 
 Produtos e serviços prestados pelas BUs:
@@ -99,7 +98,7 @@ A Biblioteca Central da UnB disponibiliza as seguintes ferramentas auxiliáres �
 
 ## REFERÊNCIAS
 
-Vazquez, Alice de Amorim BorgesServiços  de Referência  e informação  em  bibliotecas  universitárias  da América Latina: análise de seus websistes / Alice de Amorim Borges Vazquez. -2017.
+Vazquez, Alice de Amorim Borges. Serviços  de Referência  e informação  em  bibliotecas  universitárias  da América Latina: análise de seus websistes / Alice de Amorim Borges Vazquez. - 2017.
 
 MANESS, Jack Teoria da biblioteca 2.0: web 2.0 e suas implicações para as bibliotecas. Inf. & Soc.:Est., João Pessoa, v. 17, n. 1, p. 43-51, jan./abr. 2007 
 
