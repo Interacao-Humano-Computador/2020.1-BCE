@@ -1,7 +1,0 @@
-- **Ponto de Controle 1**
-  - [Escolha do site](/escolha_site)
-  - [Metodologia do projeto](/metodologia_do_projeto)
-  - [Planejamento do projeto](/planejamento_projeto)
-  - [Processo de design](/processo_design)
-- **Ponto de Controle 2**
-  - [Perfil de Usuários](/user_profile)

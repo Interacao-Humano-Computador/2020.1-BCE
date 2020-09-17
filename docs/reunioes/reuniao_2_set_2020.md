@@ -20,7 +20,7 @@ Após a divulgação das análises individuais, foi realizado uma enquete anôni
 <h1 align="center">
   <br>
     <a href="logo.png">
-      <img src="docs/_media/assets/images/print_screen/enquete_1.jpg" alt="Enquete para definir o escopo do trabalho" width="250">
+      <img src="docs/assets/images/print_screen/enquete_1.jpg" alt="Enquete para definir o escopo do trabalho" width="250">
     </a>
   <br>
 </h1>
