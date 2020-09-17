@@ -93,7 +93,6 @@ Portanto, o site da Biblioteca Central da UnB foi o escolhido para o projeto da 
 </div>
 
 ## Bibliografia
-<div align="justify">
 
 BARBOSA, Simone; DINIZ, Bruno. _Interação Humano-Computador_. Editora Elsevier, Rio de Janeiro,
 2010.
@@ -107,5 +106,3 @@ _Relatório de atividades - 2017_. Disponível em https://www.bce.unb.br/wp-cont
 
 NASCIMENTO, José Antonio Machado. _Usabilidade no contexto de gestores, desenvolvedores e usuários do
 website da Biblioteca Central da Universidade de Brasília_. Brasília, 2006.
-
-</div>
