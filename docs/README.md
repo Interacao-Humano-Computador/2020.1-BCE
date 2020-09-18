@@ -9,9 +9,9 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
  ---- | ---- | ----- | ------ |
 <img src="_media/equipe/durval.jpg" alt="Durval Carvalho" width="100"> | Durval Carvalho de Souza	 | dudurval2@gmail.com | [@durvalcarvalho](https://github.com/durvalcarvalho) |
 <img src="_media/equipe/geraldo.jpg" alt="Geraldo Victor" width="100"> | Geraldo Victor Alves Barbosa	 | geraldovictor@outlook.com | [@geraldovictor](https://github.com/geraldovictor) |
-<img src="_media/equipe/isabella.jpg" alt="Isabella Carneiro" width="100"> | Isabella Carneiro Godinho de Morais Sa	 | isabella@isabella.com | [@isabellacgmsa](https://github.com/isabellacgmsa) |
-<img src="_media/equipe/joao.jpg" alt="João Victor" width="100"> | João Victor de Oliveira Matos	 | joao@joao.com | [@joao15victor08](https://github.com/joao15victor08) |
-<img src="_media/equipe/rafaella.jpg" alt="Rafaella Oliveira" width="100"> | Rafaella Oliveira de Faria Junqueira	 | 	rafaella@rafaella.com | [@RafaellaJunqueira](https://github.com/RafaellaJunqueira) |
+<img src="_media/equipe/isabella.jpg" alt="Isabella Carneiro" width="100"> | Isabella Carneiro Godinho de Morais Sa	 | Isabellacgmsa1@gmail.com | [@isabellacgmsa](https://github.com/isabellacgmsa) |
+<img src="_media/equipe/joao.jpg" alt="João Victor" width="100"> | João Victor de Oliveira Matos	 | joao15victor08@gmail.com | [@joao15victor08](https://github.com/joao15victor08) |
+<img src="_media/equipe/rafaella.jpg" alt="Rafaella Oliveira" width="100"> | Rafaella Oliveira de Faria Junqueira	 | 	rafaellafjunqueira@gmail.com | [@RafaellaJunqueira](https://github.com/RafaellaJunqueira) |
 
 <h3> Ferramentas </h3>
 
