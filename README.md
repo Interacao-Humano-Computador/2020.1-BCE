@@ -18,7 +18,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 |------|------|---------|
 |Durval Carvalho de Souza| 16/0005191 |[@durvalcarvalho](https://github.com/durvalcarvalho)|
 |Geraldo Victor Alves Barbosa| 17/0011119 |[@geraldovictor](https://github.com/geraldovictor)|
-|Isabella Carneiro Godinho de Morais Sa| |[@isabellacgmsa](https://github.com/isabellacgmsa)|
+|Isabella Carneiro Godinho de Morais Sa| 18/0019066 |[@isabellacgmsa](https://github.com/isabellacgmsa)|
 |João Victor de Oliveira Matos| 17/0013987 |[@joao15victor08](https://github.com/joao15victor08)|
 |Rafaella Oliveira de Faria Junqueira|16/0142628|[@RafaellaJunqueira](https://github.com/RafaellaJunqueira)|
 
