@@ -3,24 +3,27 @@
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 17/09/2020 |  0.1   | Criação do documento | Durval Carvalho |
+| 17.09.2020 |  0.1   | Criação do documento | Durval Carvalho |
+| 18.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
+
+<div align="justify">
 
 ## 1. Introdução
 
-Esse documento visa explorar as caracteristicas de usuários e não usuários dos sistemas de BCE. O primeiro passo para ampliar o entendimento a respeitos dos usuários é traçar um perfil deles. Assim, perguntas como: quem são eles?; quais seus objetivos?; qual o grau de escolaridade deles?; e outras, nos ajudaram a entender a quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para futuras atividades de análises e avaliação. (Courage e Baxter, 2005; Hackos e Redish, 1998).
+Esse documento visa explorar as caracteristicas de usuários e não usuários dos sistemas de BCE. O primeiro passo para ampliar o entendimento a respeito dos usuários é traçar um perfil deles. Assim, perguntas como: "quem são eles?", "quais seus objetivos?", "qual o grau de escolaridade deles?", e outras, nos ajudarão a entender a quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para atividades de análise e avaliação. (Courage e Baxter, 2005; Hackos e Redish, 1998).
 
-Perfil de usuário é uma descrição detalhada das caracteristicas dos usuários. Devemos identificar as caracteristicas de interesses, como cargo, função experiência, nível de instrução, atividades principais, faixa etárica e outras caracteristicas etnografia. Esses dados são geralmente coletados através de entrevistas e questionários.
+Perfil de usuário é uma descrição detalhada das caracteristicas dos usuários. Devemos identificar as caracteristicas de interesses, como cargo, função, experiência, nível de instrução, atividades principais, faixa etária e outras caracteristicas etnográficas. Esses dados geralmente são coletados através de entrevistas e aplicação de questionários.
 
-Uma vez que os dados dos perfis de usuários foram coletados, serão criados as personas. Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, baseado nas pesquisas elaboradas. (Cooper et al., 2007; Pruitt e Adlin,
-2006; Cooper, 1999). As personas são utilizadas principalmente para manter um grupo de dados de usuários representados em uma única entidade, a persona, desse modo facilitando sua identificação em discursões. Uma persona, de acordo com Courage e Baxter (2005) deve ter as seguintes caracteristicas determinadas:
-- Identidade: Nome, sobrenome, idade, dados demográficos e foto.
-- Status: Primária, Secundária, Stakeholder, não-usuário.
-- Objetivos: O que motiva essa persona
-- Habilidades: Quais as competências dessa persona? (educação, treinamento, competências)
-- Tarefas: Quais tarefas essa persona realiza? Com que frequência? Com qual duração? 
-- Relacionamentos: Como essa persona de relaciona com as demais personas?
-- Requisitos: O que essa persona precisa?
-- Expectativas: O que essa persona está esperando do sistema?
+Uma vez que os dados dos perfis de usuários foram coletados, serão criadas personas, ou seja, personagens fictícios, arquétipos hipotéticos de um grupo de usuários reais, baseado nas pesquisas elaboradas. (Cooper et al., 2007; Pruitt e Adlin,
+2006; Cooper, 1999). As personas são utilizadas principalmente para manter um grupo de dados de usuários representados em uma única entidade, a persona, facilitando assim sua identificação em discussões. Uma persona, de acordo com Courage e Baxter (2005) deve ter as seguintes caracteristicas determinadas:
+- Identidade: nome, sobrenome, idade, dados demográficos e foto;
+- Status: primária, Secundária, Stakeholder, não-usuário;
+- Objetivos: o que motiva essa persona;
+- Habilidades: quais as competências dessa persona? (educação, treinamento, competências);
+- Tarefas: quais tarefas essa persona realiza? Com que frequência? Com qual duração?;
+- Relacionamentos: como essa persona de relaciona com as demais personas?;
+- Requisitos: o que essa persona precisa?;
+- Expectativas: o que essa persona está esperando do sistema?.
 
 
 ## 2. Objetivo
@@ -31,7 +34,7 @@ Esse documento tem como objetivo documentar os perfis de usários encontrados du
 
 Um dos motivos para escolha da BCE como escopo do projeto, foi a imensa quantidade de pesquisas a respeito dos usuários de sistemas de informação de suporte a pesquisa acadêmica. Esses sistemas são diversos, dentre eles o portal do CAPES, base de dados públicas e privadas, acervo digital, Biblioteca Digital de Teses e Dissertações (BDTD) e o site da BCE. Todos esses sistemas são potencialmente usados quando usuários acadêmicos realizam pesquisas acadêmicas, e provavelmente compartilham do mesmo grupo de usuários.
 
-Partindo desse pressuposto, foi realizado pesquisas por artigos, dissertações e teses de conclusão de cursos que expunham temas relacionados à "bibliotecas universitárias", "usabilidade", "pesquisa acadêmica", "BCE", "UnB" e outras palavras chaves relacionadas ao tema.
+Partindo desse pressuposto, foram realizadas pesquisas por artigos, dissertações e teses de conclusão de curso que expunham temas relacionados a "bibliotecas universitárias", "usabilidade", "pesquisa acadêmica", "BCE", "UnB" e outras palavras-chave relacionadas ao tema.
 
 O resultado dessa pesquisa foram os 19 documentos a seguir:
 - Computação em nuvem: estudo sobre o uso e implementação na visão dos bibliotecários da BCE/UnB/Gessyca da Silva Lago. – 2014.
@@ -45,60 +48,60 @@ O resultado dessa pesquisa foram os 19 documentos a seguir:
 - GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Dantas, Jefferson Higino
 - [Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras.  Wesley Rodrigo Fernandes. – 2012.
 
-Com base nesses documentos foi extraido dados, definições e informações que eram pertinentes ao escopo do nosso projeto. Cada um dessas análises foi realizada no formato de relatórios, onde o responsável realizava a leitura do documento e selecionava as partes pertinentes ao projeto. 
+Com base nesses documentos foram extraidos dados, definições e informações que eram pertinentes ao escopo do nosso projeto. Cada um dessas análises foi realizada no formato de relatórios, onde o responsável realizava a leitura do documento e selecionava as partes pertinentes ao projeto. 
 
 Após a definição dos perfis de usuários, as personas foram ... [continuar durante a issue de personas]
 
 ## 4. Usuários
 
-Os usuários, no nosso contexto, são os agentes que utilizam os sistemas da BCE. Esses agentes podem ser agentes humanos ou agentes de software. No nosso contexto existem diferentes tipos de usuários, estudantes, bibliotecários, professores e pesquisadores são alguns deles. Esse tópico visa definir os tipos de usuários encontrados durante a pesquisa.
+Os usuários no contexto deste projeto são os agentes que utilizam os sistemas da BCE, que podem ser classificados como agentes humanos ou agentes de software. Existem diferentes tipos de usuários a exemplo de estudantes, bibliotecários, professores e pesquisadores. Esse tópico visa definir os tipos de usuários encontrados durante a pesquisa.
 
 Constam no cadastro da BCE 22574 usuários, distribuidos nas seguintes categorias:
-- Alunos de graduação: 12197 (54%)
-- Alunos da pós-graduação: 12197 (7.6%)
-- Servidores: 12197 (5.8%)
-- Professores: 12197 (15.6%)
-- Ex-Alunos: 12197 (13.6%)
+- Alunos de graduação: 12197 (54%);
+- Alunos da pós-graduação: 12197 (7.6%);
+- Servidores: 12197 (5.8%);
+- Professores: 12197 (15.6%);
+- Ex-Alunos: 12197 (13.6%).
 
 ### 4.1. **Bibliotecários**
 
-Bibliotecários é um profissional liberal que trata a informação e a torna acessível ao usuário final, independente do suporte informacional. O bibliotecário tem a responsabilidade de identificar a demanda de informação em diferentes contextos e levando em consideração a diversidade do público. Eles podem trabalhar em bibliotecas, centros de documentação, empresas, escritórios jurídicos e pode gerir redes e sistemas de informação. [[13](https://pt.wikipedia.org/wiki/Bibliotec%C3%A1rio)]
+Bibliotecário é um profissional liberal que trata a informação e a torna acessível ao usuário final, independente do suporte informacional, cuja responsabilidade é identificar a demanda de informação em diferentes contextos considerando a diversidade do público. Eles podem trabalhar em bibliotecas, centros de documentação, empresas, escritórios jurídicos e pode gerir redes e sistemas de informação. [[13](https://pt.wikipedia.org/wiki/Bibliotec%C3%A1rio)]
 
-Na pesquisa realizada por LAGO (2014) e por ROCHA (2012) com os bibliotecários que atuavam na BCE, mostrou que:
+Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibliotecários que atuavam na BCE, mostrou que:
 
 <hr>
 
-- 47% dos bibliotecário ocupavam o cargo a menos 2 anos. LAGO (2014)
+- 47% dos bibliotecários ocupavam o cargo há menos 2 anos. LAGO (2014)
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png">
 </p>
 
 <hr>
 
-- 68.2% dos bibliotecário estão na faixa etária entre 20 a 30 anos. ROCHA (2012)
+- 68.2% dos bibliotecários estavam na faixa etária de 20 a 30 anos. ROCHA (2012)
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png">
 </p>
 
 <hr>
 
-- A maioria dos bibliotecário é do sexo feminino (77,30%) e apenas (22,70%) é do sexo masculino. ROCHA (2012)
+- A maioria dos bibliotecários era do sexo feminino (77,30%) e apenas 22,70% do sexo masculino. ROCHA (2012)
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png">
 </p>
 
 <hr>
 
-- A maioria dos bibliotecário possuem somente graduação (63.70%). ROCHA (2012)
+- A maioria dos bibliotecários possuía somente a graduação como formação acadêmica (63.70%). ROCHA (2012)
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png">
 </p>
 
-- Quando perguntado quais seriam as principais dificuldades durante a implementação de novos programas, 28.90% apontaram dificuldade no orçamento financeiro, e 26.70% apontaram o número insuficiente de pessoal. ROCHA (2012)
+- Quando perguntado sobre quais seriam as principais dificuldades durante a implementação de novos programas, 28.90% apontaram alto custo, e 26.70% apontaram o número insuficiente de pessoal. ROCHA (2012)
 
 | Dificuldades para uso de estratégias de marketing na BCE | Frequência | Porcentagem |
 | :------------------------------------------------------: | :--------: | :---------: |
@@ -112,11 +115,11 @@ Na pesquisa realizada por LAGO (2014) e por ROCHA (2012) com os bibliotecários 
 
 <hr>
 
-- 74% dos bibliotecário se auto avaliam ter facilidade na utilização de Tecnologias de Informação e Comunicação (TIC). LAGO (2014)
-- 16% afirmam ter dificuldades. LAGO (2014)
+- 74% dos bibliotecários auto avaliaram-se com facilidade na utilização de Tecnologias de Informação e Comunicação (TIC). LAGO (2014);
+- 16% afirmaram ter dificuldades. LAGO (2014)
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png">
 </p>
 
 <hr>
@@ -124,28 +127,28 @@ Na pesquisa realizada por LAGO (2014) e por ROCHA (2012) com os bibliotecários 
 - Email, Bases de Dados, Editores de Documentos e Biblioteca Digital foram os recursos de TIC apontados como mais usados. LAGO (2014)
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png">
 </p>
 
 <hr>
 
-Os bibliotecários, no nosso contexto, são os responsáveis pela oferta dos serviço de referência. As quatro missões do profissional de referência são (Vazquez, 2017):
-- Ajudar os usuários a compreender o funcionamento das bibliotecas
-- Responder perguntas dos usuários
-- Ajudar os usuários a selecionar as obras desejadas
-- Promover e personalizar os serviços da biblioteca
+Os bibliotecários, no contexto deste projeto, são os responsáveis pela oferta dos serviço de referência. As quatro missões do profissional de referência são (Vazquez, 2017):
+- Ajudar os usuários a compreender o funcionamento das bibliotecas;
+- Responder perguntas dos usuários;
+- Ajudar os usuários a selecionar as obras desejadas;
+- Promover e personalizar os serviços da biblioteca.
 
-As categorias dos serviços de referência oferatos são:
-- Provisão de documentos: Circulação, consulta, emprestimos entre bibliotecas, comutação, fornecimento de cópias, entrega de material, preparação de tradução
-- Provisão de informação: auxilar os usuários
-- Provisão de auxílio bibliografico: Localização de material, especificação de referência, levantamento bibliográfico;
-- Serviço de alertas: Novas aquisições, exposições
-- Orientação ao público: Provisão de guia, consulta orientada, cursos, divulgação de serviços, preparação de obras.
+As categorias dos serviços de referência ofertados são:
+- Provisão de documentos: circulação, consulta, emprestimos entre bibliotecas, comutação, fornecimento de cópias, entrega de material, preparação de tradução;
+- Provisão de informação: auxilar os usuários;
+- Provisão de auxílio bibliografico: localização de material, especificação de referência, levantamento bibliográfico;
+- Serviço de alertas: novas aquisições, exposições;
+- Orientação ao público: provisão de guia, consulta orientada, cursos, divulgação de serviços, preparação de obras.
 
 Os bibliotecários atendem a 3 tipos de usuários (GARCEZ; RADOS, 2002):
-- Usuário presencial: São pesquisadores, discentese docentesdas instituições de ensino, que podem ser intermediados ou não pelos gerenciadores da informação na busca por informação e que estão geograficamente próximos à sede física da biblioteca;
-- Usuário off campus: São docentes,discentese pesquisadores que se encontram distantes geograficamente das bibliotecas, mas estão inseridos nos programas de ensino, pesquisa e extensão das instituições educacionais, que também podem ou não ser intermediados pelos gerenciadores da informação;
-- Usuário remoto: São pesquisadores e profissionais liberais que podem ter ou não vinculação com a instituição provedora; o contato pode ser virtualmente, por correio eletrônico, telefone e fax [...].
+- Usuário presencial: pesquisadores, discentes e docentes das instituições de ensino, que podem ser intermediados ou não pelos gerenciadores da informação na busca por dados e que estão geograficamente próximos à sede física da biblioteca;
+- Usuário off campus: docentes, discentes e pesquisadores que se encontram distantes geograficamente das bibliotecas, mas estão inseridos nos programas de ensino, pesquisa e extensão das instituições educacionais, que também podem ou não ser intermediados pelos gerenciadores da informação;
+- Usuário remoto: pesquisadores e profissionais liberais que podem ter ou não vinculação com a instituição provedora; o contato pode ser virtualmente, por correio eletrônico, telefone e fax [...].
 
 ### 4.2. **Não-usuário de bibliotecas universitárias**
 
@@ -166,18 +169,18 @@ Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usu�
 
 <hr>
 
-- 49.5% dos não usuários possuem de 20 a 22 anos. E 48.5% dos não-usuários então entre o 3 e 4 ano de seu cursos
+- 49.5% dos não usuários possuem idade entre 20 a 22 anos. E 48.5% dos não-usuários estão entre o 3º e 4º ano de seus cursos.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png">
 </p>
 
 <br><br><hr>
 
-- 64% dos não-usuários estão matriculados em cursos nas áreas de ciências humanas.
+- 64% dos não-usuários estão matriculados em cursos das áreas de ciências humanas.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png">
 </p>
 
 <br><br><hr>
@@ -186,7 +189,7 @@ Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usu�
 
 <br><br><hr>
 
-- Afim de conhecer quais critérios de usabilidade e conteúdo eram reconhecidos pelos não-usuários, os seguintes tópicos foram citados:
+- A fim de conhecer quais critérios de usabilidade e conteúdo eram reconhecidos pelos não-usuários, os seguintes tópicos foram citados:
 
 | Categoria do critério | Critério |
 | :-:                   | :-:      |
@@ -213,22 +216,20 @@ Aplicativo de biblioteca |
 <hr>
 <br>
 
-Com base nos dados coletados, as principais dificuldades foram categorizadas e associadas com tópicos citados pelos não-usuários
+Com base nos dados coletados, as principais dificuldades foram categorizadas e associadas aos tópicos citados pelos não-usuários.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png">
 </p>
 
 #### 4.3. Docentes
 
-Na pesquisa realizada por Nasser e Dantas (2007), foi entrevistado 20 docentes da Universidade de Brasília com objetivo de identificar o perfil dos docentes e seus comportamentos durante o processo de pesquisa.
+Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docentes da Universidade de Brasília com objetivo de identificar o perfil dos docentes e seus comportamentos durante o processo de pesquisa. Os resultados dessa pesquisa foram:
 
-Os resultados dessa pesquisa foram:
-
-- 39% dos docente possuem entre 1 a 5 de docência, enquanto que 27% tinham de 6 a 10 anos.
+- 39% dos docentes possuíam de 1 a 5 anos de docência, enquanto que 27% possuíam 6 a 10 anos.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png">
 </p>
 
 <hr>
@@ -236,63 +237,63 @@ Os resultados dessa pesquisa foram:
 - 46% eram docentes da área das ciências sociais, e 26% das ciências exatas.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png">
 </p>
 
 <hr>
 
-- Durante a pesquisa de referências bibliográficas, 67% preferem pesquisar utilizando sites abertos, 20% sites privados, e 13% preferem consultar outros docentes.
+- Durante a pesquisa de referências bibliográficas, 67% dos docentes preferem pesquisar utilizando sites abertos, 20% sites privados, e 13% preferem consultar outros docentes.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png">
 </p>
 
 <hr>
 
-- Durante a pesquisa de referências bibliográficas, a maioria dos docentes buscam com maior frequência periódicos científicos, livros e anais de congressos.
+- Durante a pesquisa de referências bibliográficas, a maioria dos docentes busca periódicos científicos, livros e anais de congressos com maior frequência.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png">
 </p>
 
 <hr>
 
-- Entre os serviços ofertados pela BCE, os docentes apontaram que os serviços que são utilizados com maior frequência (mensalmente) são: Portal de Periódicos da CAPES, Catálogo online da BCE e Biblioteca Digital de Teses e Dissertações.
+- Entre os serviços ofertados pela BCE, os docentes apontaram que os utilizados com maior frequência (mensalmente) são: Portal de Periódicos da CAPES, Catálogo online da BCE e Biblioteca Digital de Teses e Dissertações.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png">
 </p>
 
 <hr>
 
-- Quando perguntado quais serviços os docentes recomendavam o uso a seus alunos, 15% recomendou o Portal de Periódicos da CAPES, 14% o serviço de empréstimo, 14% os serviços de pesquisa de material, 12% o site da Biblioteca Digital de Teses e Dissertações.
+- Quando perguntado quais serviços os docentes recomendavam o uso a seus alunos, 15% recomendaram o Portal de Periódicos da CAPES, 14% o serviço de empréstimo, 14% os serviços de pesquisa de material e 12% o site da Biblioteca Digital de Teses e Dissertações.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png">
 </p>
 
 <hr>
 
-- Quando perguntado quais eram as principais dificuldades enfrentadas durante o uso dos serviços da BCE, foi descoberto que 42% dos docentes consideram o material bibliográfico disponível é insuficiente e/ou desatualizado
+- Quando perguntado quais eram as principais dificuldades enfrentadas durante o uso dos serviços da BCE, foi descoberto que 42% dos docentes consideram o material bibliográfico disponível insuficiente e/ou desatualizado.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png">
 </p>
 
 <hr>
 
-- Quando perguntado quais eram as principais barreiras que os docentes encontravam durante a realização de pesquisas online, foi apontado que 23% dos docentes tem dificuldade para filtrar os grandes volumes de informação disponível, 23% não possuem tempo suficiente para realizar pesquisa de qualidade na internet, 18% consideram as interfaces dos sites de pesquisa bibliográficas difíceis de usar, e 12% consideram que as informações obtidas podem não ser confiáveis.
+- Quando perguntado quais eram as principais barreiras que os docentes encontravam durante a realização de pesquisas online, foi apontado que 23% dos docentes tâm dificuldade para filtrar os grandes volumes de informação disponíveis, 23% não possuem tempo suficiente para realizar pesquisa de qualidade na internet, 18% consideram as interfaces dos sites de pesquisa bibliográficas difíceis de usar, e 12% consideram que as informações obtidas podem não ser confiáveis.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png">
 </p>
 
 <hr>
 
-- Quando perguntado quais eram as principais dificuldades enfrentadas durante a utilização de bases de dados, 32% considera que as informações relevantes estão em base de dados pagas, 17% possuem dificuldade na escolha da base de dados, 17% possuem dificuldade na combinação dos termos e operadores.
+- Quando perguntado quais eram as principais dificuldades enfrentadas durante a utilização de bases de dados, 32% consideraram que as informações relevantes estão em base de dados pagas, 17% possuem dificuldade na escolha da base de dados, 17% possuem dificuldade na combinação dos termos e operadores.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png">
 </p>
 
 <hr>
@@ -300,7 +301,7 @@ Os resultados dessa pesquisa foram:
 - Quando perguntado sobre a exigência do acesso remoto as bases de dados, 80.2% dos docentes afirmam que o uso remoto é imprescindível.
 
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png">
+  <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png">
 </p>
 
 
@@ -317,8 +318,7 @@ Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas 
 - Avisos de não funcionamento (greve, paralização, etc.)
 - Serviços ofertados
 
-
-## 5. Referências
+## Bibliografia
 
 - [1] Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. Avaliação de usabilidade de websitesintegrando gestores, desenvolvedores e usuários, XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013).
 - [2] Dantas, Jefferson Higino. GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Artigo publicado no XV Seminário Nacional de Bibliotecas Universitárias (SNBU)
@@ -332,3 +332,5 @@ Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas 
 - [10] Sousa, Tamiê Moraes de. Tendências em bibliotecas universitárias. As mídias sociais aplicadas na BCE-UnB.
 - [11] VEGA, José Antonio Merlo. El servicio bibliotecário de referencia. In:Anales de documentación,n. 3, 2000. p. 93-126
 - [12] Vazquez, Alice de Amorim BorgesServiços de Referência e informação em bibliotecas universitárias da América Latina: análise de seus websistes / Alice de Amorim Borges Vazquez. -2017.
+
+</div>

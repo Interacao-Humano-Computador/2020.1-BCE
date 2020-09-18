@@ -3,20 +3,16 @@
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 08/09/2020 |  0.1   | Criação do documento | Durval Carvalho |
-| 17/09/2020 |  0.2   | Revisão do documento | Durval Carvalho |
+| 08.09.2020 |  0.1   | Criação do documento | Durval Carvalho |
+| 17.09.2020 |  0.2   | Revisão do documento | Durval Carvalho |
 
 ## 1. Introdução
 
 O documento de metodologia busca descrever as abordagens utilizadas durante o processo de desenvolvimento desse projeto.  Nele será descrito quais metodologias foram usadas como referência, e quais métodos foram adotados para o nosso contexto. Esse documento também visa explorar como a equipe se organizou e comunicou durante o projeto.
 
-
-
 ## 2. Objetivo
 
 Esse documento tem como objetivo documentar as metodologias utilizadas, assim como todos os processos adotados durante o desenvolvimento do projeto.
-
-
 
 ## 3. Metodologias
 
@@ -29,13 +25,11 @@ Todas as metodologias adotadas durante esse projeto tem relação com dois princ
 
 Com base nesses princípios, foi utilizado partes de várias metodologias já conhecidas como SCRUM, Kanban e XP com o objetivo de utilizar uma metodologia que melhor adaptasse ao nosso contexto.
 
-
 ### 3.1 SCRUM
 
 O Scrum é um framework de gerenciamento de projetos, da organização ao desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível, através de várias técnicas, utilizando desde o início de 1990 e que atualmente é utilizado em mais de 60% dos projetos ágeis em todo o mundo. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 Essa metodologia define várias atividades que devem ocorrer durante o processo de desenvolvimento. No nosso contexto foram adotadas as seguintes atividades: _Product Backlog_, _Sprints_, _Sprint Planning_, _Sprint Review_, _Daily Meeting_, 
-
 
 #### **3.1.1 Product Backlog**
 
@@ -61,13 +55,11 @@ Por fim, as tarefas são uma lista de sub atividades que devem ser feitas para q
 
 Nosso _project backlog_ pode ser encontrado em [https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues](https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues).
 
-
 #### **3.1.2 Sprints**
 
 Uma sprint é a unidade básica de desenvolvimento na metodologia Scrum. As sprints podem durar entre uma semana e um mês, e são um esforço dentro de uma faixa de tempo. Esse faixa de tempo deve ser relativamente curta para possibilitar entregas parciais do sistema, gerando valor e permitindo a avaliação dinâmica do trabalho. [[2]](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
 
 No nosso contexto, foi definido que as sprints irão durar entre 7 a 10 dias.
-
 
 #### **3.1.3 Sprint Planning**
 
@@ -78,7 +70,6 @@ No nosso contexto, o projeto e suas entregas estão definidos no plano de ensino
 Desse modo, todas as atividade e seus prazos são conhecidas, restando somente a definição dos responsáveis pela sua realização. 
 
 Com isso em mente, é realizado reuniões nas segundas-feiras para definir quais as atividades devem ser priorizadas, com base na milestones mais próxima da data atual. Uma vez definido as atividades, é definido os responsáveis e a data de término da sprint.
-
 
 #### **3.1.4 Sprint Review**
 
@@ -139,7 +130,7 @@ Não oficialmente, os membros os membros do projeto participam de um grupo de te
 
 Com isso em mente, é desejável que qualquer pessoa que se interesse pelo projeto possa acessá-lo livremente, sem autorizações e inclusões em canais não oficiais.
 
-## 5. Referências
+## Bibliografia
 
 * [1] Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
