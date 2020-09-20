@@ -55,7 +55,7 @@ Foi perguntado aos entrevistados quais avisos eram mais relevantes nas postagens
 
 A relação entre idade e anos de estudo na UNB seguiu a seguinte distribuição
 <p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-4.1.png">
+  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-4.1.png">
 </p>
 
 ## Conclusões
