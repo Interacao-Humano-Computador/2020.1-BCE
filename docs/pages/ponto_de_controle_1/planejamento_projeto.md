@@ -5,8 +5,8 @@
 |  Data  | Versão | Descrição | Autor |
 |----|----| --- | --- | 
 | 11.09.2020 | 0.1 | Criação do planejamento do projeto | João Victor |
-| 17.09.2020 | Inclusão das atividades do processo de design ao cronograma | João Victor |
-| 18.09.2020 | 0.2 | Revisão do documento | Rafaella Junqueira |
+| 17.09.2020 | 0.2 | Inclusão das atividades do processo de design ao cronograma | João Victor |
+| 18.09.2020 | 0.3 | Revisão do documento | Rafaella Junqueira |
 
 ## 1. Cronograma
 <p text-align="justify">&emsp;&emsp;O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
