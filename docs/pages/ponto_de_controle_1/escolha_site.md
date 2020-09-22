@@ -3,12 +3,13 @@
 ## Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
-| 10/09/2020 | 0.1 | Análises de sites para escolha do projeto | Rafaella Junqueira |
-| 11/09/2020 | 0.2 | Análises de sites para escolha do projeto | Rafaella Junqueira |
-| 11/09/2020 | 0.3 | Revisão do documento | Durval Carvalho |
-
+| 10.09.2020 | 0.1 | Documentação da escolha do site para o projeto | Rafaella Junqueira |
+| 11.09.2020 | 0.2 | Revisão do documento | Durval Carvalho |
+| 18.09.2020 | 0.3 | Rafatoração de formatação | Rafaella Junqueira |
 <br/>
 <p align="justify">
+
+## Contexto
 Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações heurísticas, conforme demostrado a seguir.
 </p>
 
