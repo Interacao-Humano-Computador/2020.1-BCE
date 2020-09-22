@@ -2,8 +2,7 @@
 
 | | |
 |:-:| :-: |
-| **Título:** | Análise do espaço virtual da biblioteca central da
-universidade de brasília: marketing como referencial teóricometodológico |
+| **Título:** | Análise do espaço virtual da biblioteca central da universidade de brasília: marketing como referencial teóricometodológico |
 | **Autor:** | Thiago Teixeira Barbosa |
 | **Tipo:** | Monografia de obtenção de bacharel em Biblioteconomia |
 ___
@@ -16,7 +15,7 @@ Analisa a utilização do Marketing no espaço virtual da Biblioteca Central da 
 
 ### **Metodologia**
 
-Pesquisa exploratória com a abordagem de coleta de dados quantitativa. 
+Pesquisa exploratória com a abordagem de coleta de dados quantitativa.
 
 ### **Amostragem**
 
@@ -100,9 +99,8 @@ Como esses dados do desempenho da BCE pode refletir na estatística de emprésti
 
 ## Conclusões
 
-Através da análise dos dados foi possível observar que em suma a BCE durante esse período na maioria dos critérios melhorou seu desempenho, porém é necessário ressaltar em alguns ela perdeu desempenho, o que pode causar desinteresse nos usuários caso não seja encontrado algo que os auxiliem para sua pesquisa. Dentro do escopo do projeto de IHC podemos destacar que o laboratório de acesso digital teve melhora de desempenho considerável e que isso reflete diretamente na importancia que um sistemas digitais tem  e que tem ganhado cada vez mais visibilidade, portanto, tornar esses sistemas mais agradáveis aos seus usuários é um processo imprescindível. 
+Através da análise dos dados foi possível observar que em suma a BCE durante esse período na maioria dos critérios melhorou seu desempenho, porém é necessário ressaltar em alguns ela perdeu desempenho, o que pode causar desinteresse nos usuários caso não seja encontrado algo que os auxiliem para sua pesquisa. Dentro do escopo do projeto de IHC podemos destacar que o laboratório de acesso digital teve melhora de desempenho considerável e que isso reflete diretamente na importancia que um sistemas digitais tem  e que tem ganhado cada vez mais visibilidade, portanto, tornar esses sistemas mais agradáveis aos seus usuários é um processo imprescindível.
 
 ## REFERÊNCIAS
 
-Barbosa, Thiago Teixeira Barbosa Análise do espaço virtual da biblioteca central da
-universidade de brasília: marketing como referencial teóricometodológico – 2012.
+Barbosa, Thiago Teixeira Barbosa. Análise do espaço virtual da biblioteca central da universidade de brasília: marketing como referencial teóricometodológico – 2012.

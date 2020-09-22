@@ -10,7 +10,7 @@ ___
 
 ### **Objetivo da pesquisa**
 
-Apresenta pesquisa sobre a usabilidade na recuperação da informação no Repositório Institucional da Universidade de Brasília (RIUnB). O objetivo geral da pesquisa é descrever a interação entre usuários pós graduandos e o RIUnB durante o processo de recuperação da informação. 
+Apresenta pesquisa sobre a usabilidade na recuperação da informação no Repositório Institucional da Universidade de Brasília (RIUnB). O objetivo geral da pesquisa é descrever a interação entre usuários pós graduandos e o RIUnB durante o processo de recuperação da informação.
 
 ### **Metodologia**
 
@@ -32,17 +32,13 @@ Para o primeiro gráfico 86 foram consultados no total.
   <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.4.png">
 </p>
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.5.png">
-</p>
-
 
 #### Pergunta 1:
 Pretendia saber a quais eram os repositórios mais de acesso aberto utilizados
 
 * 75% DSpace
 * 8% Desconhecido
-* 4% SciELO 
+* 4% SciELO
 * 3% TEDE
 * 2% Drupal
 * 1% Corisco
@@ -76,7 +72,7 @@ Pretendia saber a qual era a frequencia de uso do RIUnB
 
 * 39,58% Nunca
 * 4,68% Anualmente
-* 22,91% Semestralmente 
+* 22,91% Semestralmente
 * 21,27% Mensalmente
 * 10,93% Semanalmente
 
@@ -107,7 +103,7 @@ Pretendia saber a quais eram os métodos de acesso ao RIUnB
 
 * 55,44% Google
 * 51,48% URL do RIUnB
-* 31,68% Sites da UnB 
+* 31,68% Sites da UnB
 * 22,77% Google Acadêmico
 * 6,43% Base de dados
 * 2,47% Outros
@@ -119,8 +115,8 @@ Pretendia saber a quais eram os métodos de acesso ao RIUnB
 
 ## Conclusões
 
-Para identificar o perfil dos usuários, foram coletados dados a partir dos questionários enviado aos estudantes de pós?graduação. De acordo com as observações, os estudantes de pós graduação da Universidade utilizam a Internet com grande frequência para fazer pesquisas acadêmicas, especificamente bases de dados, o Google acadêmico, portal de periódicos da Capes, entre outros. Constatou?se que os estudantes no geral utilizam o serviço apenas ocasionalmente ou não utilizam. O que demonstra que o repositório ainda não constitui uma preferência de serviço de busca. Quando consultam o repositório, o fazem geralmente para buscar um documento específico e ocasionalmente fazer uma busca por assunto ou autor. Como foi observado que os usuários geralmente acessam o repositório pelo Google, e utilizam muito este serviço para fazer pesquisas acadêmicas, talvez fosse interessante trabalhar a interoperabilidade do repositório, para que os documentos do RIUnB sejam mais visíveis à comunidade científica pelo Google ou Google acadêmico. Também seria positivo aos estudantes da UnB que o RIUnB fosse mais divulgado a partir de diferentes estratégias. O treinamento do repositório oferecido pela Biblioteca da UnB já constitui uma interessante forma de divulgar o sistema assim como uma boa prática de ensino de uso do repositório.
+Para identificar o perfil dos usuários, foram coletados dados a partir dos questionários enviado aos estudantes de pós graduação. De acordo com as observações, os estudantes de pós graduação da Universidade utilizam a Internet com grande frequência para fazer pesquisas acadêmicas, especificamente bases de dados, o Google acadêmico, portal de periódicos da Capes, entre outros. Constatou-se que os estudantes no geral utilizam o serviço apenas ocasionalmente ou não utilizam. O que demonstra que o repositório ainda não constitui uma preferência de serviço de busca. Quando consultam o repositório, o fazem geralmente para buscar um documento específico e ocasionalmente fazer uma busca por assunto ou autor. Como foi observado que os usuários geralmente acessam o repositório pelo Google, e utilizam muito este serviço para fazer pesquisas acadêmicas, talvez fosse interessante trabalhar a interoperabilidade do repositório, para que os documentos do RIUnB sejam mais visíveis à comunidade científica pelo Google ou Google acadêmico. Também seria positivo aos estudantes da UnB que o RIUnB fosse mais divulgado a partir de diferentes estratégias. O treinamento do repositório oferecido pela Biblioteca da UnB já constitui uma interessante forma de divulgar o sistema assim como uma boa prática de ensino de uso do repositório.
 
 ## REFERÊNCIAS
 
-Café, Luísa Chaves Café Avaliação da usabilidade na interação e recuperação da informação dos usuários pós graduandos no repositório institucional da universidade de brasília. – 2016.
+Café, Luísa Chaves Café. Avaliação da usabilidade na interação e recuperação da informação dos usuários pós graduandos no repositório institucional da universidade de brasília. – 2016.

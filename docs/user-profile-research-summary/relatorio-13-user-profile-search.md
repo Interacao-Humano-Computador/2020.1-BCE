@@ -4,14 +4,13 @@
 |:-:| :-: |
 | **Título:** | BIBLIOTECA UNIVERSITÁRIA E OS INDICADORES DO SINAES: estudo do caso da Universidade de Brasília |
 | **Autor:** | Flor de María Silvestre Estela e Murilo Bastos da Cunha |
-| **Tipo:** | Monografia de obtenção de bacharel em Biblioteconomia |
+| **Tipo:** | Relato de Pesquisa |
 ___
 <br/>
 
 ### **Objetivo da pesquisa**
 
-Analisar a visão dos bibliotecários da BCE/UnB sobre o uso e
-implementação de serviços de computação em nuvem em sua biblioteca.
+Analisar a visão dos bibliotecários da BCE/UnB sobre o uso e implementação de serviços de computação em nuvem em sua biblioteca.
 
 ### **Metodologia**
 
@@ -143,8 +142,7 @@ Pretendia avaliar a qualidade do acervo da biblioteca de acordo com os estudante
 </p>
 
 #### Pergunta 4:
-Pretendia avaliar como era considerado o acesso à bibliografia das discplinas por meio da biblioteca de acordo com os estudantes, docentes e técnicos.
-
+Pretendia avaliar como era considerado o acesso à bibliografia das disciplinas por meio da biblioteca de acordo com os estudantes:
 
 * 26% Consideram excelente
 * 4% Consideram bom
@@ -158,11 +156,8 @@ Pretendia avaliar como era considerado o acesso à bibliografia das discplinas p
 
 ## Conclusões
 
-
-Os resultados mostram que para os itens de serviços oferecidos, acervo e acesso a bibliografia das disclinas em bibliotecas da UnB quase que para todos os casos foi avaliado como ótimo/excelente ou bom pela maioria das pessoas que foram consultadas, já os resultados do item infraestrutura, serviços e coleções da BCE/UnB, os usuários a avaliam como regular ou pior do que isso em sua maioria, não contribuindo assim mais fortemente na promoção da pesquisa, ensino e extensão. 
+Os resultados mostram que para os itens de serviços oferecidos, acervo e acesso a bibliografia das disclinas em bibliotecas da UnB quase que para todos os casos foi avaliado como ótimo/excelente ou bom pela maioria das pessoas que foram consultadas, já os resultados do item infraestrutura, serviços e coleções da BCE/UnB, os usuários a avaliam como regular ou pior do que isso em sua maioria, não contribuindo assim mais fortemente na promoção da pesquisa, ensino e extensão.
 
 ## REFERÊNCIAS
 
-Estela e Cunha, Flor de María Silvestre Estela e Murilo Bastos da Cunha BIBLIOTECA UNIVERSITÁRIA E OS
-INDICADORES DO SINAES:
-estudo do caso da Universidade de Brasília. – 2017.
+Estela e Cunha, Flor de María Silvestre Estela e Murilo Bastos da Cunha. BIBLIOTECA UNIVERSITÁRIA E OS INDICADORES DO SINAES: estudo do caso da Universidade de Brasília. – 2017.
