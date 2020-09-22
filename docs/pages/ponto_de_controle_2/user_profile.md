@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 17.09.2020 |  0.1   | Criação do documento | Durval Carvalho |
 | 18.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
+| 22.09.2020 |  0.3   | Adição de novas informações | Durval Carvalho |
 
 <div align="justify">
 
@@ -24,7 +25,7 @@ Um dos motivos para escolha da BCE como escopo do projeto, foi a imensa quantida
 
 Partindo desse pressuposto, foram realizadas pesquisas por artigos, dissertações e teses de conclusão de curso que expunham temas relacionados a "bibliotecas universitárias", "usabilidade", "pesquisa acadêmica", "BCE", "UnB" e outras palavras-chave relacionadas ao tema.
 
-O resultado dessa pesquisa foram os 19 documentos a seguir:
+O resultado dessa pesquisa foram os 14 documentos a seguir:
 - Computação em nuvem: estudo sobre o uso e implementação na visão dos bibliotecários da BCE/UnB/Gessyca da Silva Lago. – 2014.
 - Não-usuário de bibliotecas universitárias: um estudo de caso na Universidade de Brasília - UnB / Flor de María Silvestre Estela. - 2019.
 - Serviços de Referência e informação em bibliotecas universitárias da América Latina: análise de seus websistes. Alice de Amorim Borges Vazquez. - 2017.
@@ -34,7 +35,11 @@ O resultado dessa pesquisa foram os 19 documentos a seguir:
 - USABILIDADE EM BIBLIOTECAS DIGITAIS. PEREIRA, FERNANDA; LIMA, GERCINA ÂNGELA BORÉM. - 2013
 - Princípios de marketing aplicados às unidades de informação: estudo de caso da Biblioteca Central da Universidade de Brasília. Stephanie Moira Brauna da Rocha. – 2012
 - GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Dantas, Jefferson Higino
-- [Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras.  Wesley Rodrigo Fernandes. – 2012.
+- Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras.  Wesley Rodrigo Fernandes. – 2012.
+- BIBLIOTECA UNIVERSITÁRIA E OS INDICADORES DO SINAES: estudo do caso da Universidade de Brasília. – 2017. Estela e Cunha, Flor de María Silvestre Estela e Murilo Bastos da Cunha 
+- A Utilização dos Recursos Multimídias para a Busca da Informação na Biblioteca Central da Universidade de Brasília (BCE) - 2011. Santos, Wesclei Batista Santos. 
+- Análise do espaço virtual da biblioteca central da universidade de brasília: marketing como referencial teóricometodológico – 2012. Barbosa, Thiago Teixeira Barbosa.
+- Avaliação da usabilidade na interação e recuperação da informação dos usuários pós graduandos no repositório institucional da universidade de brasília. – 2016. Café, Luísa Chaves Café. 
 
 Com base nesses documentos foram extraidos dados, definições e informações que eram pertinentes ao escopo do nosso projeto. Cada um dessas análises foi realizada no formato de relatórios, onde o responsável realizava a leitura do documento e selecionava as partes pertinentes ao projeto. 
 
@@ -107,6 +112,36 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 <p align="center">
   <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png">
 </p>
+
+<hr>
+
+- Quando perguntado sobre a qualidade da infraestrutura da biblioteca (Estela, Cunha, 2017):
+  * 10% consideram ótimo
+  * 35% Consideram bom
+  * 31% Consideram regular
+  * 13% Consideram ruim
+  * 3% Consideram péssimo
+  * 7% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca (Estela, Cunha, 2017):
+  * 14% consideram ótimo
+  * 44% Consideram bom
+  * 23% Consideram regular
+  * 14% Consideram ruim
+  * 2% Consideram péssimo
+  * 13% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre a qualidade do acervo da biblioteca (Estela, Cunha, 2017):
+  * 18% consideram ótimo
+  * 40% Consideram bom
+  * 18% Consideram regular
+  * 5% Consideram ruim
+  * 3% Consideram péssimo
+  * 16% Não souberam opinar
 
 <hr>
 
@@ -208,6 +243,8 @@ Com base nos dados coletados, as principais dificuldades foram categorizadas e a
   <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png">
 </p>
 
+<hr>
+
 #### 4.3. Docentes
 
 Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docentes da Universidade de Brasília com objetivo de identificar o perfil dos docentes e seus comportamentos durante o processo de pesquisa. Os resultados dessa pesquisa foram:
@@ -290,6 +327,36 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
   <img src="../../_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png">
 </p>
 
+<hr>
+
+- Quando perguntado sobre a qualidade da infraestrutura da biblioteca:
+  * 5% consideram ótimo
+  * 33% Consideram bom
+  * 34% Consideram regular
+  * 17% Consideram ruim
+  * 6% Consideram péssimo
+  * 5% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca:
+  * 12% consideram ótimo
+  * 40% Consideram bom
+  * 30% Consideram regular
+  * 9% Consideram ruim
+  * 3% Consideram péssimo
+  * 6% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre a qualidade do acervo da biblioteca:
+  * 8% consideram ótimo
+  * 35% Consideram bom
+  * 29% Consideram regular
+  * 18% Consideram ruim
+  * 5% Consideram péssimo
+  * 5% Não souberam opinar
+<hr>
 
 #### 4.4. Informações que os usuários desejam
 
@@ -303,6 +370,73 @@ Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas 
 - Vídeos ensinando encontrar obras no acervo
 - Avisos de não funcionamento (greve, paralização, etc.)
 - Serviços ofertados
+
+#### 4.5. Usuários Alunos 
+
+<!-- FALAR MAIS SOBRE OS USUÁRIOS ALUNOS -->
+
+<hr>
+
+- Quando perguntado sobre a qualidade da infraestrutura da biblioteca (Estela, Cunha, 2017):
+  * 9% Consideram ótimo
+  * 25% Consideram bom
+  * 28% Consideram regular
+  * 15% Consideram ruim
+  * 22% Consideram péssimo
+  * 1% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca (Estela, Cunha, 2017):
+  * 13% Consideram ótimo
+  * 38% Consideram bom
+  * 24% Consideram regular
+  * 11% Consideram ruim
+  * 10% Consideram péssimo
+  * 4% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre a qualidade do acervo da biblioteca (Estela, Cunha, 2017):
+  * 14% Consideram ótimo
+  * 33% Consideram bom
+  * 24% Consideram regular
+  * 15% Consideram ruim
+  * 10% Consideram péssimo
+  * 5% Não souberam opinar
+
+<hr>
+
+- Quando perguntado sobre o acesso à bibliografia das disciplinas por meio da biblioteca (Estela, Cunha, 2017):
+  * 26% Consideram excelente
+  * 4% Consideram bom
+  * 25% Consideram regular
+  * 10% Consideram ruim
+  * 4% Consideram insuficiente
+  
+<hr>
+
+Quando perguntado se os alunos entrevistados conheciam e utilizavam algum serviço de streaming de media, as seguintes respostas foram obtidas (Santos, 2011):
+  * 85% Conhecem e usam
+  * 5% Conheciam e não usavam
+  * 10% Não conheciam
+
+<hr>
+
+Quando perguntado em quais serviços de streaming os alunos tinham cadastro (Santos, 2011):
+  * 90% Tinham cadastro no Youtube
+  * 5% Tinham cadastro no Flickr
+  * 10% Tinham cadastro no SlideShare
+  * 5% Tinham cadastro no PodCasting
+  * 15% Tinham cadastro em outras
+
+<hr>
+
+Quando perguntado se os alunos usariam algum serviço de streaming caso ele fosse utilizado pela BCE (Santos, 2011):
+  * 80% Usariam
+  * 20% Talvez Usariam
+  
+<hr>
 
 ## Bibliografia
 
