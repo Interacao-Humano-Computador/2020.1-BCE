@@ -31,6 +31,9 @@ Também se buscou criar pelo menos uma persona por papel de usuário para montar
 
 Desse modo, as personas serão divididas em **personas primárias**, **personas secundárias** e **antiusuário**. Personas primárias são o foco do nosso design, o design será orientada as características dessa persona. Já personas secundárias, serão levadas em conta, mas quando tivermos que decidir realizar um design que favoreça uma persona primária ou secundára, a primária levará a vantagem. Por fim, as personas que forem antiusuários representa as pessoas que não irão usar o nosso produto, e dessa maneira mão deve influenciar as decisões do projeto. (Barbosa e Silva, 2010)
 
+## 3. Metodologia
+
+Para criar as personas foi necessário uma releitura do documento de perfil de usuário. Assim possibilitando a identificação de grupos característicos de usuários dos sistemas da BCE. Após a identificação desses grupos e de suas características predominantes, foi utilizado o site [uxpressia](https://uxpressia.com/) para criar os cartões de cada persona.
 
 ## 3. Personas Primárias
 
