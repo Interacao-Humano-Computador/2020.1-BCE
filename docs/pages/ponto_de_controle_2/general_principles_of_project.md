@@ -35,7 +35,7 @@ Alguns conjuntos de diretrizes são desenvolvidos especificamente para certos am
 
 * <b>Padrão de projeto não universal:</b> De forma geral não é possível definir um padrão de projeto que sirva para qualquer caso, pois cada site tem seu público alvo, finalidade e sua interface.
 * <b>Existência de alguns padrões de acessibilidade:</b> Padrões de acessibilidade são extremamente importantes para que o site seja inclusivo,felizmente existem alguns padrões de acessibilidade que podem ser definidos para projetos web, isso contribuirá para a promoção da eficiência do usuário caso ele tenha alguma necessidade especial.
-* <b>Responsividade:</b> Um site pode por meio das tecnologias atuais se tornar responsivo, ou seja, ter seus itens redimensionados conforme o tamanho da tela do usuário, o que pode vir a ser conveniente de acoordo com o dispositivo que o usuário tenha acesso. 
+* <b>Responsividade:</b> Um site pode por meio das tecnologias atuais se tornar responsivo, ou seja, ter seus itens redimensionados conforme o tamanho da tela do usuário, o que pode vir a ser conveniente de acordo com o dispositivo que o usuário tenha acesso. 
 * <b>Consistência e padronização:</b> Uma vez decido o design é possível manter uma consistência e padronização para aquele site e garantir ao usuário que ele consiga se situar e se sentir confortável ao utilizá-lo.
 * <b>Portabilidade:</b> Uma das grandes vantagens de se utilizar sistemas web é que a maioria deles permitem seu uso sem a necessidade de instalação de nenhum outro sistema adicional, dessa forma seguir os padrões descritos acima pode ser facilitador para que o usuário independente de sua plataforma tenha a sensação de segurança no sentido de conseguir executar todas as tarefas possíveis do sistema.
 ## Conclusão
