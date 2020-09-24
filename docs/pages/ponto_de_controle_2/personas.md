@@ -35,6 +35,8 @@ Desse modo, as personas serão divididas em **personas primárias**, **personas 
 
 Para criar as personas foi necessário uma releitura do documento de perfil de usuário. Assim possibilitando a identificação de grupos característicos de usuários dos sistemas da BCE. Após a identificação desses grupos e de suas características predominantes, foi utilizado o site [uxpressia](https://uxpressia.com/) para criar os cartões de cada persona.
 
+Vale lembra que as imagem usada nos cartões das personas não são de pessoas reais. Estas imagens são resultados do processamento da rede neural [StyleGAN](https://en.wikipedia.org/wiki/StyleGAN) desenvolvida pela Nvidia. Essa rede neural foi treinada para criar fotos de pessoas, e o serviço está disponibilizado no site [thispersondoesnotexist](https://thispersondoesnotexist.com/).
+
 ## 3. Personas Primárias
 
 <p align="center">
