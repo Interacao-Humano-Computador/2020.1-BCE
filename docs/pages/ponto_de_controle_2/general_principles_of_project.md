@@ -13,7 +13,7 @@ São princípios que se baseam na necessidade de projetarmos o sistema utilizand
 
 * <b>Correspondência com as expectativas dos usuários:</b> Devemos explorar os mapeamentos naturais, seja entre as variáveis mentais e as físicas, seja entre as tarefas e os controles utilizados para manipular essas variáveis no mundo real e no sistema projetado.[2]
 
-* <b>Simplicidade nas estruturas das tarefas:</b> Devenis simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Tarefas desnecessariamente complexas podem ser reestruturadas, em geral utilizando inovações tecnológicas.[3]
+* <b>Simplicidade nas estruturas das tarefas:</b> Devemos simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Tarefas desnecessariamente complexas podem ser reestruturadas, em geral utilizando inovações tecnológicas.[3]
 
 * <b>Equilíbrio entre controle e liberdade do usuário:</b> Quando deixamos o usuário “no comando”, ele aprende rapidamente e ganha um sentimento de maestria. Entretanto, existe a necessidade de buscar um equilíbrio, pois quando não há limites ou restrições os usuários podem se sentir perdidos ou angustiados com o excesso de opções. Devemos tentar reduzir o número de opções ou decisões que o usuário precisa tomar a cada instante.[4]
 
