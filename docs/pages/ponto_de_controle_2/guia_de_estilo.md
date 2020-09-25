@@ -14,7 +14,7 @@ Com base na avaliação e visando melhorias esse documento apresenta as caracter
 
 A logo da BCE é formada pela logo da Universidade de Brasília adicionada dos dizeres 'BCE' ao lado ou embaixo como podemos ver a seguir.
 
-<img height="200px" src="assets/images/logos/BCE.jpg">
+<img height="200px" src="assets/images/logos/BCE.png">
 <img src="assets/images/logos/logo_branca.png">
 <img src="assets/images/logos/logo_preta.png">
 <img src="assets/images/logos/logo_grande.png">
@@ -53,7 +53,7 @@ Os símbolos utilizados no site são para as seguintes funções:
 
 Os símbolos deverão seguir o seguinte padrão:
 
-<img height="200px" src="assets/images/logos/busca.png">
+<img height="200px" src="assets/images/logos/busca.jpg">
 <img height="200px" src="assets/images/logos/home.png">
 <img height="200px" src="assets/images/logos/logout.png">
 <img height="200px" src="assets/images/logos/ajuda.png">
