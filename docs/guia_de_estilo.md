@@ -20,7 +20,7 @@ A logo da BCE é formada pela logo da Universidade de Brasília adicionada dos d
 
 ## Tipografia
 
-A fonte utilizada no site foi a 'Verdana'.
+A fonte utilizada no site é a 'Verdana'.
 
 ## Paleta de Cores
 
