@@ -5,12 +5,13 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 24.09.2020 |  0.1   | Criação do documento de personas | Durval Carvalho |
 | 25.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
+| 26.09.2020 |  0.3   | Correção de erros ortográficos | Durval Carvalho |
 
 <div align="justify">
     
 ## 1. Introdução
 
-O documento de personas visa apresentar um grupo de personas fictício, que irão representar os interesses, personalidades, características e desejos de grupos de usuários do sistema de empréstimo da Biblioteca Central da UnB. Essa abordagem se mostra bastante útil para guiar as decisões de projeto entre os designers do produto, sempre mantendo o foco no que realmente importa, os usuários, que no caso serão representados por um persona. (Cooper et al. 2007; Pruitt e Adlin, 2006)
+Este documento visa apresentar um grupo de pessoas fictícias, que irão representar os interesses, personalidades, características e desejos de grupos de usuários do sistema de empréstimo da Biblioteca Central da UnB. Essa abordagem se mostra bastante útil para guiar as decisões de projeto entre os designers do produto, sempre mantendo o foco no que realmente importa, os usuários, que no caso serão representados por um persona. (Cooper et al. 2007; Pruitt e Adlin, 2006)
 
 As personas são definidas principalmente por seus objetivos. Esses objetivos foram obtidos através de um longa pesquisa de perfil de usuário, e com base nos dados obtidos foi possível encontrar características em comum e assim criar uma persona representativa. Desse modo, embora as personas sejam fictícias, elas são definidas com rigor e detalhes para representar usuários "típicos" da aplicação. (Barbosa e Silva, 2010)
 
@@ -28,9 +29,13 @@ Uma persona, de acordo com Courage e Baxter (2005) deve ter as seguintes caracte
 
 O objetivo desse documento é definir quais serão as personas que irão guiar as decisões de design. Desse modo se busca criar personas com o máximo de detalhamento possível, sem perder a conexão com os dados reais obtidos na pesquisa de perfil de usuário.
 
-Também se buscou criar pelo menos uma persona por papel de usuário para montar o elenco de personas do projeto. Por mais que o desin da aplicação não seja orientada para todas as personas que serão descrita a seguir, é fundamental conhecer os "típicos usuários" da aplicação, para que não seja cometido falhas graves para nenhum tipo de usuário. (Barbosa e Silva, 2010)
+Também se buscou criar pelo menos uma persona por papel de usuário para montar o elenco de personas do projeto. Por mais que o design da aplicação não seja orientada para todas as personas que serão descrita a seguir, é fundamental conhecer os "típicos usuários" da aplicação, para que não seja cometido falhas graves para nenhum tipo de usuário. (Barbosa e Silva, 2010)
 
+<<<<<<< Updated upstream
 Desse modo, as personas serão divididas em **personas primárias**, **personas secundárias** e **antiusuário**. Personas primárias são o foco do nosso design, o design será orientada as características dessa persona. Já personas secundárias, serão levadas em conta, mas quando tivermos que decidir realizar um design que favoreça uma persona primária ou secundára, a primária levará a vantagem. Por fim, as personas que forem antiusuários representarão as pessoas que não irão usar o nosso produto, e dessa maneira não deve influenciar as decisões do projeto. (Barbosa e Silva, 2010)
+=======
+Desse modo, as personas serão divididas em **personas primárias**, **personas secundárias** e **antiusuário**. Personas primárias são o foco do nosso design, o design será orientada as características dessa persona. Já personas secundárias, serão levadas em conta, mas quando tivermos que decidir realizar um design que favoreça uma persona primária ou secundára, a primária levará a vantagem. Por fim, as personas que forem antiusuários representa as pessoas que não irão usar o nosso produto, e dessa maneira não deve influenciar as decisões do projeto. (Barbosa e Silva, 2010)
+>>>>>>> Stashed changes
 
 ## 3. Metodologia
 
