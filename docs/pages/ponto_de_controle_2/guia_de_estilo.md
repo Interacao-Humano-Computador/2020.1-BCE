@@ -6,6 +6,7 @@
 | 23/09/2020 | 0.1 | Criação do Documento | Isabella Carneiro |
 | 26/09/2020 | 0.2 | Adição do Objetivo e Metodologia do documento | Durval Carvalho |
 | 26/09/2020 | 0.2 | Modificação do tópico Tipografia | Durval Carvalho |
+| 26/09/2020 | 0.2 | Modificação do tópico Opções de Acessibilidade | Durval Carvalho |
 
 ## 1. Introdução
 
