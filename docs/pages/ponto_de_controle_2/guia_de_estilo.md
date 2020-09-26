@@ -122,7 +122,9 @@ Os símbolos deverão seguir o seguinte padrão:
 
 ## Opções de Acessibilidade
 
-Há a opção de alto contraste para facilitar a leitura de pessoas com problemas de visão.
+* Haverá a opção de alto contraste para facilitar a leitura de pessoas com problemas de visão.
+* Não haverá informações destacadas apenas por cores para facilitar para pessoas com dificuldade em diferencias as cores.
+* Haverá a opção de aumentar o tamanho da fonte para pessoas com problemas de visão.
 
 ## Layout
 
