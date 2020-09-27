@@ -10,6 +10,7 @@
 | 27/09/2020 | 0.4 | Adição do tópico Identidade Visual da UnB e da BCE | Durval Carvalho |
 | 27/09/2020 | 0.5 | Modificação dos tópicos Introdução, objetivo e Metodologia | Durval Carvalho |
 | 27/09/2020 | 0.6 | Modificação na estrutura do documento | Durval Carvalho |
+| 27/09/2020 | 0.7 | Adição das recomendações de modificações da tipografia do site da BCE | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -199,14 +200,22 @@ No design atual, não há uma padronização de tamanho de fontes. Existem diver
 
 <hr>
 
-> **Conclusão:** <br>
-> É notório que o site da BCE não utiliza as famílias tipográficas criadas e sugeridas pela FUB. Vale ressaltar que a fonte utilizada (_Verdana_) é uma fonte proprietária, e caso não tenha sido devidamente licenciada para uso não pessoal, pode acarretar em problemas de legais. <br>
-> **É altamente recomendado que se utilize somente as fontes tipográficas “UnB Office”!**
+<blockquote>
+<p><b>Conclusão:</b></p>
+<p>É notório que o site da BCE não utiliza as famílias tipográficas criadas e sugeridas pela FUB. Vale ressaltar que a fonte utilizada (<i>Verdana</i>) é uma fonte proprietária, e caso não tenha sido devidamente licenciada para uso não pessoal, pode acarretar em problemas de legais.</p>
+<b><img src='_media/assets/images/warning.png' height='15'> É altamente recomendado que se utilize somente as fontes tipográficas “UnB Office”!</b>
 
+<p>Outro problema relacionado a tipografia são os tamanhos das fontes. Além de não seguirem um padrão, uma vez que há varios tamanhos diferentes para elementos de semânica semelhante ou igual, os tamanhos são fixados. O fato de serem fixados dificultam a portabilidade em diversos dispositivos (celulares, tablets, computadores, projetores etc.). Uma forma de resolver esse problema de portabilidade é a utilização de tamanhos de fontes dinâmicos, que utilizam como base para o calculo o tamanho da área disponível para visualização do dispositivos.</p>
+
+<b><img src='_media/assets/images/warning.png' height='15'> É altamente recomendado a utilização da unidade de medida “em” para as fontes!</b>
+
+<br>
+<b><img src='_media/assets/images/warning.png' height='15'> É recomendado que se padronize os tamanhos das fontes de acordo com semântica do texto associado!</b>
+
+</blockquote>
 
 
 ### 5.2. Cor e identidade
-
 
 As cores dos textos também não estão padronizadas, em textos de mesma relevância semântica é utilizado cores diferentes (#003366 e #666666). Já em outros elementos textuais, são utilizado as cores #009999, #FF3366, #074260, #297474 e #336C89, além do branco (#FFFFFF) e do preto (#000000). Devido a semelhança entre algumas dessas cores, como por exemplo a #003366 e #074260, acredita-se a intenção original era utilizar somente uma delas. 
 
