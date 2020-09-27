@@ -14,6 +14,7 @@
 | 27/09/2020 | 0.9 | Modificação das recomendações de modificações da tipografia do site da BCE | Durval Carvalho |
 | 27/09/2020 | 0.10 | Modificação do tópico Cor e Identidade do site da BCE | Durval Carvalho |
 | 27/09/2020 | 0.11 | Modificação do tópico Logos e Assinaturas do site da BCE | Durval Carvalho |
+| 27/09/2020 | 0.12 | Adição do tópico Padrões dos Símbolos e Ícones | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -325,36 +326,75 @@ Já assinatura básica é usada cinco vezes, sendo duas na versão com contorno,
 
 ### 5.4. Padrões de Formas
 
+### 5.5. Padrões dos Símbolos e Ícones
 
-### 5.5. Padrões de Formas
+A Semiótica estuda signos, processos de significação e processos de comunicação. Sendo signos toda imagem, diagrama, ícone, símbolo e etc. Um signo deve possuir uma relação com a a ideia que deseja transmitir, e o interpretador desse símbolo, no nosso caso o usuário, deve conseguir compreender o significado que o símbolo possui. Com base nesses conceitos foi identificado os símbolos e ícones que são utilizados na interface do sistema, e analisado sua semântica no contexto.
 
+| ID | Ícone | Descrição |
+| -- | ----- | ----------------- |
+| 1  | <img src='_media/assets/images/simbolos-semiotica/symbol-1.png' height=50> | O ícone é um Megafone. <br> O ícone aparece num popup de avisos. <br> O ícone é acompanhado do texto "AVISOS". <br> Não é possível interagir com o ícone |
+| 6  | <img src='_media/assets/images/simbolos-semiotica/symbol-6.png' height=50> | O ícone é um Megafone. <br> O ícone aparece no cabeçalho da página principal da BCE. <br> O ícone é acompanhado pelo texto "Fala.Br" <br> Quando clicado é aberto em uma nova aba o site da Plataforma Integrada de Ouvidoria e Acesso à Informação |
+| 2  | <img src='_media/assets/images/simbolos-semiotica/symbol-2.png' height=50> | O ícone é a logo do serviço de mensagem instantânea _Facebook Messenger_. <br> O ícone aparece no canto inferior direito da página principal da site da BCE. <br> O ícone não é acompanhado por texto. <br> O ícone quando clicado abre uma janela do _Facebook Messenger_ perguntado se deseja falar com a bibliotecária. |
+| 3  | <img src='_media/assets/images/simbolos-semiotica/symbol-3.png' height=50> | O ícone é um gancho de telefone fixo. <br> O ícone aparece no cabeçalho da página principal da BCE. <br> O ícone é acompanhado por texto com o número de telefone da BCE. <br> Não é possível interagir com o ícone |
+| 4  | <img src='_media/assets/images/simbolos-semiotica/symbol-4.png' height=50> | O ícone é um envelope de carta. <br> O ícone aparece no cabeçalho da página principal da BCE. <br> O ícone é acompanhado pelo texto com o endereço de email da BCE. <br> Não é possível interagir com o ícone |
+| 5  | <img src='_media/assets/images/simbolos-semiotica/symbol-5.png' height=50> | O ícone é uma lupa de mão. <br> O ícone aparece no cabeçalho da página principal da BCE. <br> O ícone é acompanhado pelo texto "Buscar no Site" <br> Quando clicado no ícone ou no texto que o acompanha é aberto uma campo de digitação para escrever os termos da pesquisa. |
+| 26  | <img src='_media/assets/images/simbolos-semiotica/symbol-26.png' height=50> | O ícone é uma lupa de mão. <br> O ícone aparece ao lado de um campo de digitação. <br> O ícone é acompanhado pelo texto "Coloque o termo" <br> Quando clicado no ícone é carregado uma nova página, no mesmo site, com os posts que contém o termo digitado |
+| 27  | <img src='_media/assets/images/simbolos-semiotica/symbol-27.png' height=50> | O ícone é uma lupa de mão. <br> O ícone aparece logo acima do campo de pesquisa integrada na página principal do site da BCE <br> O ícone é acompanhado pelo texto "Busca Integrada" <br> Quando clicado no ícone ou no texto que o acompanha é carregado o campo de pesquisa do sistema integrado da BCE. |
+| 25  | <img src='_media/assets/images/simbolos-semiotica/symbol-25.png' height=50> | O ícone é uma lupa de mão (cor #336C89). <br> O ícone aparece no no centro direito do painel de empréstimo do site BCE, na parte dos livros pendentes <br> O ícone é acompanhado pelo texto "Pending titles" <br> Não é possível interagir com o ícone nem o texto que o acompanha |
+| 24  | <img src='_media/assets/images/simbolos-semiotica/symbol-24.png' height=50> | O ícone é uma lupa de mão. <br> O ícone aparece no no centro direito do painel de empréstimo do site BCE, na parte dos livros reservados <br> O ícone é acompanhado pelo texto "Reserved titles" <br> Não é possível interagir com o ícone nem o texto que o acompanha |
+| 7  | <img src='_media/assets/images/simbolos-semiotica/symbol-7.png' height=50> | O ícone é o perfil de uma pessoa, do ombro para cima. <br> O ícone aparece no menu horizontal do site da BCE <br> O ícone é acompanhado pelo texto "MINHA CONTA" <br> Quando clicado no ícone é carregado, na mesma aba, a tela de login do site consulta.bce.unb.br |
+| 8  | <img src='_media/assets/images/simbolos-semiotica/symbol-8.png' height=50> | O ícone é a letra "i" minuscula <br> O ícone aparece logo abaixo do menu horizontal da página principal do site da BCE <br> O ícone é acompanhado pelo texto "BCE, SiB-UnB e Covid-19: FAQ e dúvidas frequentes" <br> Não é possível interagir com o ícone, porém quando clicado no texto ao lado do ícone é aberto, nas mesma aba, o FAQ da BCE |
+| 9  | <img src='_media/assets/images/simbolos-semiotica/symbol-9.png' height=50> | O ícone é o perfil de uma agenda telefônica com um perfil de pessoa na capa. <br> O ícone aparece logo acima do campo de pesquisa integrada na página principal do site da BCE <br> O ícone é acompanhado pelo texto "Catálogo Online" <br> Quando clicado no ícone ou no texto que o acompanha é carregado o campo de pesquisa do catálogo online |
+| 10  | <img src='_media/assets/images/simbolos-semiotica/symbol-10.png' height=50> | O ícone é um livro. <br> O ícone aparece no menu lateral posicionado no lado direito da página principal do site da BCE. <br> O ícone é acompanhado pelo texto "Empréstimos" <br> Quando clicado no ícone ou no texto que o acompanha é aberto em uma nova aba a página onde é tirado as dúvidas em relação aos serviços de empréstimos da BCE |
+| 11  | <img src='_media/assets/images/simbolos-semiotica/symbol-11.png' height=50> | O ícone é um capelo. <br> O ícone aparece no menu lateral posicionado no lado direito da página principal do site da BCE. <br> O ícone é acompanhado pelo texto "Capacitação" <br> Quando clicado no ícone ou no texto que o acompanha é aberto em uma nova aba a página onde é tirado as dúvidas em relação aos serviços de capacitação da BCE |
+| 12  | <img src='_media/assets/images/simbolos-semiotica/symbol-12.png' height=50> | O ícone é um relógio analógico de parede. <br> O ícone aparece no menu lateral posicionado no lado direito da página principal do site da BCE. <br> O ícone é acompanhado pelo texto "Funcionamento" <br> Quando clicado no ícone ou no texto que o acompanha é aberto em uma nova aba a página uma lista de serviços e seus horários de funcionamento  |
+| 13  | <img src='_media/assets/images/simbolos-semiotica/symbol-13.png' height=50> | O ícone é um notebook aberto. <br> O ícone aparece no menu lateral posicionado no lado direito da página principal do site da BCE. <br> O ícone é acompanhado pelo texto "Bibliotecas Digitais" <br> Quando clicado no ícone ou no texto que o acompanha é aberto em uma nova aba a página onde é listado os serviços de disponibilização de obras digitais |
+| 14  | <img src='_media/assets/images/simbolos-semiotica/symbol-14.png' height=50> | O ícone é um iPad. <br> O ícone aparece no menu lateral posicionado no lado direito da página principal do site da BCE. <br> O ícone é acompanhado pelo texto "Bases de EBooks" <br> Quando clicado no ícone ou no texto que o acompanha é aberto em uma nova aba a página onde é listado as bases de dados que BCE disponibiliza |
+| 15  | <img src='_media/assets/images/simbolos-semiotica/symbol-15.png' height=50> | O ícone é um cifrão um traço. <br> O ícone aparece no menu lateral posicionado no lado direito da página principal do site da BCE. <br> O ícone é acompanhado pelo texto "Multas (gerador de GRU)" <br> Quando clicado no ícone é carregado, em outra aba, a tela de login do site gru.bce.unb.br |
+| 16  | <img src='_media/assets/images/simbolos-semiotica/symbol-16.png' height=50> | O ícone é a visão frontal de uma casa com uma porta e uma chaminé cifrão um traço. <br> O ícone aparece no cabeçalho do painel do serviço de empréstimo da BCE, ao lado do nome do usuário <br> O ícone não é acompanhado por nenhum texto <br> Quando clicado no ícone é carregado a página inicial do painel do serviço de empréstimo da BCE |
+| 17  | <img src='_media/assets/images/simbolos-semiotica/symbol-17.png' height=50> | O ícone é o caractere da interrogação ('?') cercado por parênteses. <br> O ícone aparece no cabeçalho do painel do serviço de empréstimo da BCE, no lado superior direito <br> O ícone é acompanhado pelo texto "Help" <br> Quando clicado no ícone ou no texto que o acompanha é aberto uma nova janela com um PDF descrevendo os como os serviços ofertados podem ser consumidos |
+| 18  | <img src='_media/assets/images/simbolos-semiotica/symbol-18.png' height=50> | O ícone é um círculo formado por duas setas curvas <br> O ícone aparece no lado direito dos livros que estão na posse do usuário. <br> O ícone é acompanhado pelo texto "Renew" <br> Quando clicado no ícone ou no texto que o acompanha é carregado uma nova página onde é apresentado se a renovação foi bem-sucedida ou não |
+| 19  | <img src='_media/assets/images/simbolos-semiotica/symbol-19.png' height=50> | O ícone é formado por 2 simbolos, sendo o primeiro um X vermelho e o segundo um livro com duas setas apontado para frente e para trás <br> O ícone aparece ao lado direito do status do livro após clicado no botão de renovação <br> O ícone é acompanhado pelo texto "Title(s) NO renewed" <br> Não é possível interagir com o ícone nem o texto que o acompanha |
+| 20  | <img src='_media/assets/images/simbolos-semiotica/symbol-20.png' height=50> | O ícone é  uma seta apontando para a esquerda <br> O ícone aparece na parte inferior da página de status do livro após clicado no botão de renovação <br> O ícone é acompanhado pelo texto "Back" <br> Quando clicado no ícone ou no texto que o acompanha é carregado o painel principal do serviço de empréstimo da BCE  |
+| 21  | <img src='_media/assets/images/simbolos-semiotica/symbol-21.png' height=50> | O ícone é uma agenda telefônica com o caracter "arroba" (@) na frente da agenda <br> O ícone aparece na parte inferior da página de status do livro após clicado no botão de renovação <br> O ícone é acompanhado pelo texto "Receipt by email" <br> Quando clicado no ícone ou no texto que o acompanha o ícone e o texto somem e é carregado um texto apresentado se o email foi enviado com sucesso ou não. |
+| 22  | <img src='_media/assets/images/simbolos-semiotica/symbol-22.png' height=50> | O ícone é o caractere "X" dentro de um círculo  agenda telefônica com o caracter "arroba" (@) na frente da agenda <br> O ícone aparece no cabeçalho do painel do serviço de empréstimo da BCE, no lado superior direito <br> O ícone é acompanhado pelo texto "Logout" <br> Quando clicado no ícone ou no texto que o acompanha o usuário é deslogado e é aberto a tela de _logout_. A tela de _logout_ é completamente branca  |
+| 23  | <img src='_media/assets/images/simbolos-semiotica/symbol-23.png' height=50> | O ícone é uma seta apontando para a direita ao lado de um retângulo <br> O ícone aparece no menu direito, na parte superior esquerda <br> O ícone não é acompanhado por texto <br> Quando clicado no ícone o menu lateral colapsa e se transforma em um retângulo com o texto "serviços" inscrito |
 
-### 5.6. Padrões dos Simbolos
+As páginas que o usuário precisa acessar para utilizar o serviço de emprestimo da BCE utilizam 27 símbolos, algums com suporte textual e outros não. Algums interagíveis e outros não. Um problema encontrado foi a reutilização de ícones em contextos diferentes (IDs 5, 26, 27, 25 e 24). Essa reutilização pode confundir os usuários, uma vez que possuem significados diferentes e hora interagível e hora não.
 
-Os símbolos utilizados no site são para as seguintes funções:
-* Busca
-* Ajuda
-* Logout
-* Ir para página inicial
-* Salvar
-* Procurar uma data
+Outro problema encontrado foi a utilização de ícones com baixa resolução, que dificultam a sua visualização e consequêntemente sua interpretação.
 
-Os símbolos deverão seguir o seguinte padrão:
+Outro problema é a utilização de textos em inglês para dar suporte os ícones. É preferível a utilização da lingua nativa dos usuários da BCE, para maior acessibilidade.
 
-<img height="200px" src="_media/assets/images/logos/busca.jpg">
-<img height="200px" src="_media/assets/images/logos/home.png">
-<img height="200px" src="_media/assets/images/logos/logout.png">
-<img height="200px" src="_media/assets/images/logos/ajuda.png">
-<img height="200px" src="_media/assets/images/logos/salvar.jpg">
-<img height="200px" src="_media/assets/images/logos/calendario.png">
+<blockquote>
+<p><b>Conclusão:</b></p>
+<p>Os símbolos em sua grande maioria são acompanhados de informação textual que facilita sua interpretação. Em alguns casos são utilizados imagens sem correlação com a mensagem transmitida (IDs 9 e 23) que dificultam a sua interpretação. Em alguns casos é utilizado imagens de baixa qualidade e textos em inglês que também dificultam a interpretação do símbolo</p>
+<b><img src='_media/assets/images/warning.png' height='15'> 
+    É sugerido utilizar imagens de maior qualidade gráfica (IDs 21 e 19)
+</b>
 
-## 5.7. Opções de Acessibilidade
+<b><img src='_media/assets/images/warning.png' height='15'> 
+    É sugerido textos em português para dar suporte a informação dos símbolos (IDs 22, 21, 20, 19, 18 e 17)
+</b>
+
+<b><img src='_media/assets/images/warning.png' height='15'> 
+    É o não reaproveitamento de símbolos em contextos diferentes (IDs 5, 26, 27, 25 e 24)
+</b>
+
+</blockquote>
+
+## 5.6. Opções de Acessibilidade
+
+<!-- FALAR MAIS SOBRE -->
 
 * Haverá a opção de alto contraste para facilitar a leitura de pessoas com problemas de visão.
 * Não haverá informações destacadas apenas por cores para facilitar para pessoas com dificuldade em diferencias as cores.
 * Haverá a opção de aumentar o tamanho da fonte para pessoas com problemas de visão.
 
-## 5.8. Layout
+## 5.7. Layout
+
+<!-- FALAR MAIS SOBRE -->
+<!-- DETALHAR MAIS -->
 
 <p>O layout do site é definido por:</p>
 <img src="_media/assets/images/logos/layout.png">
