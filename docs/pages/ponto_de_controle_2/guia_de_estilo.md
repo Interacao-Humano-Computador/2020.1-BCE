@@ -61,7 +61,7 @@ No design atual, não há uma padronização de tamanho de fontes. Existem diver
 </p>
 </div>
 
-As cores dos textos também não estão padronizadas, em textos de mesma importância semântica é utilizado as cores #003366 e #666666. Já em outros elementos textuais, as cores #009999, #FF3366, #074260, #297474 e #336C89, além do branco(#FFFFFF) e do preto (#000000). Devido a semelhança entre algumas dessas cores, como por exemplo a #003366 e #074260, acredita-se a intenção original era utilizar somente uma delas. 
+As cores dos textos também não estão padronizadas, em textos de mesma relevância semântica é utilizado cores diferentes (#003366 e #666666). Já em outros elementos textuais, são utilizado as cores #009999, #FF3366, #074260, #297474 e #336C89, além do branco (#FFFFFF) e do preto (#000000). Devido a semelhança entre algumas dessas cores, como por exemplo a #003366 e #074260, acredita-se a intenção original era utilizar somente uma delas. 
 
 <p align='center'>
     <img src='_media/assets/images/print_screen/color_666666.png' style='margin: 5px;'>
