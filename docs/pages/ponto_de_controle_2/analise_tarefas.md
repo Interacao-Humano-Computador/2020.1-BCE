@@ -50,7 +50,8 @@ Plano 0: faça 1 - 2. Caso o login não tenha sido realizado previamente, faça 
 <br>&emsp;&emsp;**4.** Verifique o status de renovação realizada
 <br>&emsp;&emsp;&emsp;**4.1** Receba por email o recibo de renovação
 
-Plano 0: faça 1 - 2 - 3 - 4. 
+Plano 0: faça 1 - 2 - 3 - 4.
+<br>Plano 1: faça 1.1 - 1.2
 <br>Plano 4: faça 4.1
     
 ### 2.2 Representação gráfica
