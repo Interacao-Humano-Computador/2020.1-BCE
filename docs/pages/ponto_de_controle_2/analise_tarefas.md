@@ -16,54 +16,55 @@ Esta análise parte dos objetivos do usuário para identificar as tarefas que de
 
 ### 2.1 Representação textual
 
-Representação textual do objetivo de agendamento de empréstimos:
+#### 2.1.1 Representação textual do objetivo de agendamento de empréstimos:
 
-0. Agendar empréstimos
-    1. Localize o livro desejado
-        <br>1.1 Acesse o catálogo da biblioteca (na "busca integrada")
-        <br>1.2 Insira o título buscado
-        <br>1.3 Forneça os critérios de pesquisa
-        <br>1.4 Identifique na lista o livro desejado
-    2. Reserve o livro
-        <br>2.1 Selecione o livro desejado
-        <br>2.2 Acesse "Ver o registro no catálogo"
-        <br>2.3 Clique em "reserva"
-        <br>2.4 Insira os dados de cadastro
-    3. Faça login
-        <br> 3.1 Clique em "minha conta"
-        <br> 3.2 Insira CPF e senha
-        <br> 3.3 Clique em "login"
+**0.** Agendar empréstimos
+<br>&emsp;&emsp;**1.** Localize o livro desejado
+<br>&emsp;&emsp;&emsp;**1.1** Acesse o catálogo da biblioteca (na "busca integrada")
+<br>&emsp;&emsp;&emsp;**1.2** Insira o título buscado
+<br>&emsp;&emsp;&emsp;**1.3** Forneça os critérios de pesquisa
+<br>&emsp;&emsp;&emsp;**1.4** Identifique na lista o livro desejado
+<br>&emsp;&emsp;**2.** Reserve o livro
+<br>&emsp;&emsp;&emsp;**2.1** Selecione o livro desejado
+<br>&emsp;&emsp;&emsp;**2.2** Acesse "Ver o registro no catálogo"
+<br>&emsp;&emsp;&emsp;**2.3** Clique em "reserva"
+<br>&emsp;&emsp;&emsp;**2.4** Insira os dados de cadastro
+<br>&emsp;&emsp;**3.** Faça login
+<br>&emsp;&emsp;&emsp;**3.1** Clique em "minha conta"
+<br>&emsp;&emsp;&emsp;**3.2** Insira CPF e senha
+<br>&emsp;&emsp;&emsp;**3.3** Clique em "login"
 
 Plano 0: faça 1 - 2. Caso o login não tenha sido realizado previamente, faça 3 - 1 - 2.
 <br>Plano 1: faça 1.1 - 1.2 - 1.4. Caso esteja na área de catálogo de pesquisa geral, faça 1.1 - 1.2 - 1.3 - 1.4.
 <br>Plano 2: faça 2.1 - 2.2 - 2.3 - 2.4. Caso já esteja na área de catálogo de pesquisa geral, faça 2.1 - 2.3 - 2.4.
 <br>Plano 3: faça 3.1 e 3.2. Caso já tenha realizado a pesquisa e esteja na área de catálogo de pesquisa geral, faça 3.3 - 3.2
 
+#### 2.1.2 Representação textual do objetivo de renovação do prazo de devolução:
 
-Representação textual do objetivo de renovação do prazo de devolução:
-
-0. Renovar prazo de devolução
-    1. Realize login de acesso
-        <br> 1.1 Clique em "minha conta"
-        <br> 1.2 Insira CPF e senha
-    2. Identifique o livro desejado na área "títulos pendentes"
-    3. Clique em "Renovar"
-    4. Verifique o status de renovação realizada
-        <br>4.1 Receba por email o recibo de renovação
+**0.** Renovar prazo de devolução
+<br>&emsp;&emsp;**1.** Realize login de acesso
+<br>&emsp;&emsp;&emsp;**1.1** Clique em "minha conta"
+<br>&emsp;&emsp;&emsp;**1.2** Insira CPF e senha
+<br>&emsp;&emsp;**2.** Identifique o livro desejado na área "títulos pendentes"
+<br>&emsp;&emsp;**3.** Clique em "Renovar"
+<br>&emsp;&emsp;**4.** Verifique o status de renovação realizada
+<br>&emsp;&emsp;&emsp;**4.1** Receba por email o recibo de renovação
 
 Plano 0: faça 1 - 2 - 3 - 4. 
 <br>Plano 4: faça 4.1
     
-### 2.1 Representação gráfica
+### 2.2 Representação gráfica
 
-Representação gráfica do objetivo de agendamento de empréstimos.
+#### 2.2.1 Representação gráfica do objetivo de agendamento de empréstimos.
 
 <p align='center'>
     <img src='_media/images/AHT_objetivo1.png'>
 </p>
 
-| Objetivos/ operações | Problemas e recomendações |
-|:--------------------:|:-------------------------:|
+<p text-align="right">
+
+|        Objetivos/ operações       | Problemas e recomendações |
+|:---------------------------------:|:-------------------------:|
 | 0. Agendar empréstimo | - |
 | 1. Localize o livro desejado | **input**: entre na página principal da BCE |
 | 1.1 Acesse o catálogo da biblioteca | **input**: clique na barra de pesquisa da área intitulada "pesquisa integrada" ou "catálogo online". |
@@ -78,6 +79,8 @@ Representação gráfica do objetivo de agendamento de empréstimos.
 | 3.1 Clique em "minha conta" | **feedback**: caso queira realizar o login antes de pesquisar um livro, clique em "minha conta" e será redirecionado para a será redirecionado para uma página de autenticação contendo espaços para CPF e senha |
 | 3.2 Insira CPF e senha | **feedback**: após confirmar, será redirecionado para a área de perfil do usuário. <br> **problema**: quando direcionado para a área de perfil após fazer login, não existem meios de retornar à busca, é preciso retornar para a página principal do site direto pela barra URL.<br>**recomendações**: a logo da UnB à esquerda poderia redirecionar o usuário para a página incial, onde é possível realizar a busca por materiais.|
 | 3.3 Clique em "login" | **input**: caso tenha realizado a pesquisa e queira reservar um livro mas não tenha realizado login, clique sobre o botão "fechar" do *pop-up* com as informações de localização e tipo do livro que estará aberta. Em seguida clique no botão "login" no canto superior direito. <br>**feedback**: aparecerá um *pop-up* solicitando informações cadastrais. Após confirmação, aparecerá o nome do usuário no canto superior direito em uma barra verde.|
+
+</p>
 
 Representação gráfica do objetivo de renovação do prazo de devolução.
 
