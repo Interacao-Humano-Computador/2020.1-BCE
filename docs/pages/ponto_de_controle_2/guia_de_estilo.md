@@ -5,12 +5,15 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 23/09/2020 | 0.1 | Criação do Documento | Isabella Carneiro |
 | 26/09/2020 | 0.2 | Adição do Objetivo e Metodologia do documento | Durval Carvalho |
-| 26/09/2020 | 0.2 | Modificação do tópico Tipografia | Durval Carvalho |
-| 26/09/2020 | 0.3 | Modificação do tópico Opções de Acessibilidade | Isabella Carneiro |
-| 27/09/2020 | 0.4 | Adição do tópico Identidade Visual da UnB e da BCE | Durval Carvalho |
-| 27/09/2020 | 0.5 | Modificação dos tópicos Introdução, objetivo e Metodologia | Durval Carvalho |
-| 27/09/2020 | 0.6 | Modificação na estrutura do documento | Durval Carvalho |
-| 27/09/2020 | 0.7 | Adição das recomendações de modificações da tipografia do site da BCE | Durval Carvalho |
+| 26/09/2020 | 0.3 | Modificação do tópico Tipografia | Durval Carvalho |
+| 26/09/2020 | 0.4 | Modificação do tópico Opções de Acessibilidade | Isabella Carneiro |
+| 27/09/2020 | 0.5 | Adição do tópico Identidade Visual da UnB e da BCE | Durval Carvalho |
+| 27/09/2020 | 0.6 | Modificação dos tópicos Introdução, objetivo e Metodologia | Durval Carvalho |
+| 27/09/2020 | 0.7 | Modificação na estrutura do documento | Durval Carvalho |
+| 27/09/2020 | 0.8 | Adição das recomendações de modificações da tipografia do site da BCE | Durval Carvalho |
+| 27/09/2020 | 0.9 | Modificação das recomendações de modificações da tipografia do site da BCE | Durval Carvalho |
+| 27/09/2020 | 0.10 | Modificação do tópico Cor e Identidade do site da BCE | Durval Carvalho |
+| 27/09/2020 | 0.11 | Modificação do tópico Logos e Assinaturas do site da BCE | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -205,59 +208,128 @@ No design atual, não há uma padronização de tamanho de fontes. Existem diver
 <p>É notório que o site da BCE não utiliza as famílias tipográficas criadas e sugeridas pela FUB. Vale ressaltar que a fonte utilizada (<i>Verdana</i>) é uma fonte proprietária, e caso não tenha sido devidamente licenciada para uso não pessoal, pode acarretar em problemas de legais.</p>
 <b><img src='_media/assets/images/warning.png' height='15'> É altamente recomendado que se utilize somente as fontes tipográficas “UnB Office”!</b>
 
-<p>Outro problema relacionado a tipografia são os tamanhos das fontes. Além de não seguirem um padrão, uma vez que há varios tamanhos diferentes para elementos de semânica semelhante ou igual, os tamanhos são fixados. O fato de serem fixados dificultam a portabilidade em diversos dispositivos (celulares, tablets, computadores, projetores etc.). Uma forma de resolver esse problema de portabilidade é a utilização de tamanhos de fontes dinâmicos, que utilizam como base para o calculo o tamanho da área disponível para visualização do dispositivos.</p>
+<p>Outro problema relacionado a tipografia são os tamanhos das fontes. Além de não seguirem um padrão, uma vez que há varios tamanhos diferentes para elementos de semântica semelhante ou igual, os tamanhos são fixados. O fato de serem fixados dificultam a portabilidade em diversos dispositivos (celulares, tablets, computadores, projetores etc.). Uma forma de resolver esse problema de portabilidade é a utilização de tamanhos de fontes dinâmicos, que utilizam como base para o calculo o tamanho da área disponível para visualização do dispositivos.</p>
 
-<b><img src='_media/assets/images/warning.png' height='15'> É altamente recomendado a utilização da unidade de medida “em” para as fontes!</b>
+<b><img src='_media/assets/images/warning.png' height='15'> É altamente recomendado a utilização da unidade de medida “<i>em</i>” para as fontes!</b>
 
 <br>
 <b><img src='_media/assets/images/warning.png' height='15'> É recomendado que se padronize os tamanhos das fontes de acordo com semântica do texto associado!</b>
-
 </blockquote>
 
 
 ### 5.2. Cor e identidade
 
-As cores dos textos também não estão padronizadas, em textos de mesma relevância semântica é utilizado cores diferentes (#003366 e #666666). Já em outros elementos textuais, são utilizado as cores #009999, #FF3366, #074260, #297474 e #336C89, além do branco (#FFFFFF) e do preto (#000000). Devido a semelhança entre algumas dessas cores, como por exemplo a #003366 e #074260, acredita-se a intenção original era utilizar somente uma delas. 
+No site da BCE foi posssível identificar 11 cores predominantes. Essas cores não são usadas consistentemente, há diversos elementos de semântica semelhante que utilizam cores diferentes ou aproximadas. Ficou evidente que o site não possui nenhuma configuração em termos de identidade visual, além do logo no canto superior esquerdo, e que as cores encontradas fazem parte da configuração padrão do software _Meu Pergamum_, sendo esse o software utilizado para suportar o serviço de empréstimo.
 
+Um problema grave identidade é que a opção alto contraste quando habilitada modifica os outros parâmetros além das cores, e essas modificações deixa o site com um layout "quebrado", pois muda dimensões de elementos e não altera todas as cores.
+
+<div style='border-style: solid;'>
+<p align='center'> Painel principal do software <i>Meu Pergamum</i> em sua configuração padrão </p>
 <p align='center'>
-    <img src='_media/assets/images/print_screen/color_666666.png' style='margin: 5px;' height='225'>
-    <img src='_media/assets/images/print_screen/color_009999.png' style='margin: 5px;' height='225'>
-    <img src='_media/assets/images/print_screen/color_297474.png' style='margin: 5px;' height='225'>
-    <img src='_media/assets/images/print_screen/color_003366.png' style='margin: 5px;' height='225'>
-    <img src='_media/assets/images/print_screen/color_074260.png' style='margin: 5px;' height='225'>
-    <img src='_media/assets/images/print_screen/color_336C89.png' style='margin: 5px;' height='225'>
-    <img src='_media/assets/images/print_screen/color_FF3366.png' style='margin: 5px;' height='225'>
+    <img src='_media/assets/images/meu-pergamum.png' style='margin: 5px;'>
 </p>
 
+<p align='center'> Painel principal do site da BCE  </p>
+<p align='center'>
+    <img src='_media/assets/images/print_screen/main-panel-bce-site.png' >
+</p>
 
+<p align='center'> Painel principal do site da BCE com o contraste ativado </p>
+<p align='center'>
+    <img src='_media/assets/images/print_screen/main-panel-bce-site-with-contrast.png'>
+</p>
 
-<!-- A logo da Biblioteca Central é formada pela logo da Universidade de Brasília adicionada a sigla 'BCE' ao lado ou embaixo como podemos ver a seguir.
+</div>
+
+A próxima imagem identifica as principais cores que são utilizadas no painel principal da site da BCE.
 
 <p align='center'>
-    <img height="100px" src="_media/assets/images/logos/BCE.png" style='margin: 10px;'>
-    <img src="_media/assets/images/logos/logo_branca.png" style='margin: 10px;'>
-    <img src="_media/assets/images/logos/logo_preta.png" style='margin: 10px;'>
-    <img src="_media/assets/images/logos/logo_grande.png" style='margin: 10px;'>
-</p> -->
+    <img src='_media/assets/images/print_screen/main-panel-bce-site-with-numbers.png' >
+</p>
+
+As próximas imagens detalha quais são as cores identificadas pelos números da imagem anterior
+
+<p align='center'>
+    <img src='_media/assets/images/color-1.png' height='110'>
+    <img src='_media/assets/images/color-2.png' height='110'>
+    <img src='_media/assets/images/color-3.png' height='110'>
+    <img src='_media/assets/images/color-4.png' height='110'>
+    <img src='_media/assets/images/color-5.png' height='110'>
+    <img src='_media/assets/images/color-6.png' height='110'>
+    <img src='_media/assets/images/color-7.png' height='110'>
+    <img src='_media/assets/images/color-8.png' height='110'>
+    <img src='_media/assets/images/color-9.png' height='110'>
+    <img src='_media/assets/images/color-10.png' height='110'>
+    <img src='_media/assets/images/color-11.png' height='110'>
+</p>
+
+<hr>
+
+<blockquote>
+<p><b>Conclusão:</b></p>
+<p>É evidente que o site da BCE não segue os padrões de identidade visual sugeridos pela FUB. O site não possui configuração a nível de estilização, possuindo assim a mesma configuração do software que utiliza (<i>Meu Pergamum</i>). O software utilizado também não segue um padrão consistente, possuindo mais de 10 cores em elementos distintos de semântica semelhante. </p>
+
+<b>
+    <img src='_media/assets/images/warning.png' height='15'> 
+    É altamente recomendado que se realize um redesign da estilização da painel principal do site da BCE. Nesse novo design deve-se seguir as cores da definidas no manual de identidade visual da UnB.
+</b>
+
+<p>Outro problema grave é o modo “alto contraste” quando habilitado. As alterações que são feitas vão além da mudanças de cores da interface, alterando dimensões e tamanhos de elementos da tela que quebram o layout inicial. Desse modo é evidente que esse modo não aumenta a acessibilidade do site, e sim a degrada. </p>
+
+<b>
+    <img src='_media/assets/images/warning.png' height='15'> 
+    É altamente recomendado que durante o redesign da página, onde será definido as novas cores, se pense também nas cores equivalentes quando o modo “alto contraste” estiver habilitado.
+</b>
 
 
-## Paleta de Cores
-
-* A cor de fundo do site está dividida entre a cor branca (#FFFFFF) e a cor cinza (#F1F3F2).
-* A cor do menu é o azul (#3162C6).
-
-<img src="_media/assets/images/logos/cor_Branca.png">
-<img src="_media/assets/images/logos/cor_Cinza.png">
-<img src="_media/assets/images/logos/cor_Azul.png">
+</blockquote>
 
 
-## Padronização de Formas
+### 5.3. Logos e Assinaturas
+
+A logo do BCE, assim como a logo de várias outras organizações filhas da Fundação Universidade de Brasília, é uma extensão da logo da UnB, com o acréscimo da sigla “BCE” ou do nome completo “Biblioteca Central”.
+
+Desde o acesso ao site base da BCE (https://bce.unb.br/) até o acesso do painel principal onde é ofertado os serviços de empréstimo é encontrado 7 assinaturas. Lembrando que uma assinatura é composta pela combinação do símbolo (logo) coma a tipografia. 
+
+<p align='center'>
+    <img src="_media/assets/images/logos/logo_branca.png" height='35'>
+    <img src="_media/assets/images/logos/bce-logo-1.png" height='35'>
+    <img src="_media/assets/images/logos/bce-logo-2.png" height='35'>
+    <img src="_media/assets/images/logos/bce-logo-3.png" height='35'>
+    <img src="_media/assets/images/logos/bce-logo-4.png" height='35'>
+    <img src="_media/assets/images/logos/bce-logo-5.png" height='35'>
+    <img src="_media/assets/images/logos/bce-logo-6.png" height='35'>
+</p>
+
+A assinatura completa é utilizada duas vezes, um na versão completa e na versão com contorno negativo. Vale que, de acordo com o padrão definido pela identidade visual da FUB, versão com contorno negativo não deve ser usadas em fundos coloridos, somente preto e branco, .
+
+Já assinatura básica é usada cinco vezes, sendo duas na versão com contorno, uma na versão negativa e duas na versão básica horizontal. Uma das logos básicas da verão horizontal não é mostrada em sua completude, pois estrapola os limites de tamanho definidos pelo software _Meu Pergamum_.
+
+<blockquote>
+<p><b>Conclusão:</b></p>
+<p>Os logos são bem utilizados durante a navegação do site, somente um dos logos encontrados foge do padrão definido.</p>
+<p>Devido o fato das assinatura estarem disponíveis em imagens, não foi possível verificar qual tipografia foi utilizada, mas quando comparada visualmente com as logos defindas no manual de identidade visuais da FUB, não foi notado diferenças.</p>
+
+<b>
+    <img src='_media/assets/images/warning.png' height='15'> 
+    É sugerido utilizar a logo de duas cores invés da logo com contorno negativo.
+</b>
+
+<br>
+
+<b>
+    <img src='_media/assets/images/warning.png' height='15'> 
+    É sugerido redimensionar a logo que é utilizada no painel principal do <i>Meu Pergamum</i>, para que apareça em sua totalidade.
+</b>
+</blockquote>
+
+### 5.4. Padrões de Formas
 
 
-## Padronização de Elementos da Interface
+### 5.5. Padrões de Formas
 
 
-## Padronização dos Simbolos Usados
+### 5.6. Padrões dos Simbolos
 
 Os símbolos utilizados no site são para as seguintes funções:
 * Busca
@@ -276,22 +348,26 @@ Os símbolos deverão seguir o seguinte padrão:
 <img height="200px" src="_media/assets/images/logos/salvar.jpg">
 <img height="200px" src="_media/assets/images/logos/calendario.png">
 
-## Opções de Acessibilidade
+## 5.7. Opções de Acessibilidade
 
 * Haverá a opção de alto contraste para facilitar a leitura de pessoas com problemas de visão.
 * Não haverá informações destacadas apenas por cores para facilitar para pessoas com dificuldade em diferencias as cores.
 * Haverá a opção de aumentar o tamanho da fonte para pessoas com problemas de visão.
 
-## Layout
+## 5.8. Layout
 
 <p>O layout do site é definido por:</p>
 <img src="_media/assets/images/logos/layout.png">
 
-
+'
 ## Referências Bibliográficas
 
-[1] Resumo da vida de Matthew Carter. Disponível em: http://tipografos.net/designers/mathew-carter.html. Acessado em 26 de setembro de 2020.
+[1] Resumo da vida de Matthew Carter. Disponível em: http://tipografos.net/designers/mathew-carter.html . Acessado em 26 de setembro de 2020.
 
-[2] Descrição da fonte Verdana. Disponível em: https://pt.wikipedia.org/wiki/Verdana. Acessado em 26 de setembro de 2020.
+[2] Descrição da fonte Verdana. Disponível em: https://pt.wikipedia.org/wiki/Verdana . Acessado em 26 de setembro de 2020.
 
-[3] Manual de Identidade Visual da UnB, 1ª edição. Disponível em: http://marca.unb.br/arquivosdigitais/files/manual/Manual_Identidade_Visual_UnB.zip. Acessado em 27 de setembro de 2020.
+[3] Manual de Identidade Visual da UnB, 1ª edição. Disponível em: http://marca.unb.br/arquivosdigitais/files/manual/Manual_Identidade_Visual_UnB.zip . Acessado em 27 de setembro de 2020.
+
+[4] Web Style Sheets, CSS tips & tricks. Disponível em: https://www.w3.org/Style/Examples/007/units.en.html . Acessado em 27 de setembro de 2020.
+
+[5] Site color-hex. Disponível em: https://www.color-hex.com/ . Acessado em 27 de setembro de 2020.
