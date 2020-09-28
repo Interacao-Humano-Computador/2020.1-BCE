@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 26.09.2020 | 0.1 | Realização da Análise de Tarefas | Rafaella Junqueira |
+| 27.09.2020 | 0.2 | Refinamento do documento | Rafaella Junqueira |
 
 <div align="justify"> 
 
