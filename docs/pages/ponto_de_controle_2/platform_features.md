@@ -4,6 +4,8 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 25.09.2020 |  0.1   | Criação do documento de características da plataforma | João Victor  |
+| 28.09.2020 |  0.2   | Modificação nos objetivos do documento | Durval Carvalho  |
+| 28.09.2020 |  0.3   | Remoção dos tópicos disconexos do documento | Durval Carvalho |
 
 <div align="justify">
 
@@ -11,21 +13,6 @@
 Nesse documento são definidos os objetivos, os recursos e as restrições do sistema de empréstimo da Biblioteca Central da UnB.
 
 ## 2. Objetivos
-O objetivo principal do sistema é dar suporte aos empréstimos de livros oferecidos pelo ​ site da BCE.  
-## 3. Recursos
-* Realizar a reserva de um material;
-* Consultar situação de reservas;
-* Cancelar reservas de material;
-* Ver o histórico de reservas;
-* Renovar prazo de devolução;
-* Ver o histórico de renovações realizadas;
-* Ver débitos pendentes com a BCE;
-* Ver o histórico de débitos;
-* Ver o histórico de materiais pendentes.
-
-
-## 4. Restrições
-* O site não é responsivo para dispositivos móveis.
-* Não possui método de pagamento online dos débitos.
+O objetivo desse documento é determinar quais são as características das plataformas que irão consumir ou disponibilizar o sistema. Uma vez compreendido as suas características, será possível produzir design personalizado que leva em consideração características peculiares de cada plataforma, como por exemplo tamanho de tela, capacidade média de processamento, memória disponível etc.
 
 </div>
