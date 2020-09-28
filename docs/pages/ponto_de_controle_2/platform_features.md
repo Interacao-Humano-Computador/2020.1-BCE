@@ -13,19 +13,19 @@ Nesse documento são definidos os objetivos, os recursos e as restrições do si
 ## 2. Objetivos
 O objetivo principal do sistema é dar suporte aos empréstimos de livros oferecidos pelo ​ site da BCE.  
 ## 3. Recursos
-* Realizar a reserva de um material
+* Realizar a reserva de um material;
 * Consultar situação de reservas;
 * Cancelar reservas de material;
 * Ver o histórico de reservas;
 * Renovar prazo de devolução;
 * Ver o histórico de renovações realizadas;
-* Ver débitos pendenter com a BCE;
+* Ver débitos pendentes com a BCE;
 * Ver o histórico de débitos;
-* Ver o histórico de materiais pendentes;
+* Ver o histórico de materiais pendentes.
 
 
 ## 4. Restrições
 * O site não é responsivo para dispositivos móveis.
-* Não possui método de pagamento online dos débitos
+* Não possui método de pagamento online dos débitos.
 
 </div>
