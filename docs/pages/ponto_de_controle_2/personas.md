@@ -31,11 +31,7 @@ O objetivo desse documento é definir quais serão as personas que irão guiar a
 
 Também se buscou criar pelo menos uma persona por papel de usuário para montar o elenco de personas do projeto. Por mais que o design da aplicação não seja orientada para todas as personas que serão descrita a seguir, é fundamental conhecer os "típicos usuários" da aplicação, para que não seja cometido falhas graves para nenhum tipo de usuário. (Barbosa e Silva, 2010)
 
-<<<<<<< Updated upstream
 Desse modo, as personas serão divididas em **personas primárias**, **personas secundárias** e **antiusuário**. Personas primárias são o foco do nosso design, o design será orientada as características dessa persona. Já personas secundárias, serão levadas em conta, mas quando tivermos que decidir realizar um design que favoreça uma persona primária ou secundára, a primária levará a vantagem. Por fim, as personas que forem antiusuários representarão as pessoas que não irão usar o nosso produto, e dessa maneira não deve influenciar as decisões do projeto. (Barbosa e Silva, 2010)
-=======
-Desse modo, as personas serão divididas em **personas primárias**, **personas secundárias** e **antiusuário**. Personas primárias são o foco do nosso design, o design será orientada as características dessa persona. Já personas secundárias, serão levadas em conta, mas quando tivermos que decidir realizar um design que favoreça uma persona primária ou secundára, a primária levará a vantagem. Por fim, as personas que forem antiusuários representa as pessoas que não irão usar o nosso produto, e dessa maneira não deve influenciar as decisões do projeto. (Barbosa e Silva, 2010)
->>>>>>> Stashed changes
 
 ## 3. Metodologia
 
