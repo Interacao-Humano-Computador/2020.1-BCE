@@ -17,14 +17,15 @@
 | 27/09/2020 | 0.12 | Adição do tópico Padrões dos Símbolos e Ícones | Durval Carvalho |
 |27/09/2020 | 0.13 | Modificação do tópico Opções de Acessibilidade |Isabella Carneiro |
 |27/09/2020 | 0.14 | Modificação do tópico Layout |Isabella Carneiro |
+|27/09/2020 | 0.15 | Revisão do documento | Durval Carvalho |
 
 ## 1. Introdução
 
-Este guia de estilo apresenta como a Fundação Universidade de Brasília (FUB) defini sua identidade visual, e consequêntemente, a identidade visual de todas as suas organizações. Com vez compreendido as diretrizes e recomendações da identidade visual, é valiado o site da Biblioteca Central (BCE) da Universidade de Brasília (UnB), com a finalidade de analisar se os padrões definods pela FUB estão sendo seguidos. 
+Este guia de estilo apresenta como a Fundação Universidade de Brasília (FUB) defini sua identidade visual, e consequêntemente, a identidade visual de todas as suas sub organizações. Uma vez compreendido as diretrizes e recomendações da identidade visual, é avaliado o site da Biblioteca Central (BCE) da Universidade de Brasília (UnB), com a finalidade de analisar se os padrões definidos pela FUB estão sendo seguidos. 
 
-A avaliação da identidade visual da BCE avaliar outros aspectos que não são definos pela FUB, como o _layout_ da página, utilização de símbolos, e análise de elementos da interface.
+A avaliação da identidade visual da BCE avalia outros tópicos não definidos pelo manual de identidade visual da FUB, como o _layout_ da página, utilização de símbolos, e análise de elementos da interface.
 
-Após a avaliação, é sugerido uma série de modificações, que pretendem atender as especificações da identidade visual da FUB e melhorar a usabilidade do site.
+Após a avaliação, é sugerido uma série de modificações, que pretendem atender as especificações da identidade visual da FUB e melhorar a usabilidade do site da BCE.
 
 ## 2. Objetivo
 
@@ -32,15 +33,15 @@ O objetivo desse documento é compreender o estado pré-intervenção do design 
 
 ## 3. Metodologia
 
-Antes de analisar o site da BCE, foi preciso compreender quais são as diretrizes relacionadas à identidade visual da FUB. Aspectos como tipografia, paleta de cores e logomarca foram definidas e com base nessas definições foi analisado se o site da BCE atendia ou não as diretrizes da FUB.
+Antes de analisar o site da BCE, foi preciso compreender quais são as diretrizes relacionadas à identidade visual da FUB. Aspectos como tipografia, paleta de cores e logomarca foram definidas e com base nessas definições foi analisado se o site da BCE atendia ou não as diretrizes do guia de identidade da FUB.
 
 Durante o processo de avaliação do site da BCE, algumas perguntas foram feitas para guiar a avaliação:
-- Quais tipografias eram usadas? Qual era predominante? Estão de acordo com a identidade visual da FUB?
-- Quais logos são usadas? Estão de acordo com a identidade visual da FUB?
-- Quais cores são usadas? Estão de acordo com a identidade visual da FUB?
+- Quais tipografias eram usadas? Qual era predominante? Elas estão de acordo com a identidade visual da FUB?
+- Quais logos são usadas? Elas estão acordo com a identidade visual da FUB?
+- Quais cores são usadas? Elas estão de acordo com a identidade visual da FUB?
+- Existe uma Padronização de Simbolos usados? Se sim, qual?
 - Existe uma Padronização de Formas? Se sim, qual?
 - Existe uma Padronização de Elementos da Interface? Se sim, qual?
-- Existe uma Padronização de Simbolos usados? Se sim, qual?
 - Existe opções de acessibilidade? Se sim, quais? Elas servem ao seu propósito?
 - Como o layout da página (proporções, grids, diposição de elementos) está definido?
 
@@ -51,9 +52,9 @@ Com base nas respostas dessas perguntas, foi avaliado a necessidade de propor mu
 
 A identidade visual da Biblioteca Central, assim como das diversas instituições da UnB, estão intimamente ligadas a identidade visual da UnB. Desse modo, primeiro iremos analisar brevemente a identidade visual da UnB, afim de compreender com a UnB e BCE se apresenta através de sua marca.
 
-Uma identidade visual consiste em um conjunto de elementos gráficos que representam visualmente e de forma sistematizada um nome, idéia, produto, empresa, instituição ou serviço.  A construção da identidade visual da UnB é anterior a Universidade em si. A preocupação de se estabelecer um código visual existe desde sua concepção. No entanto, todas as intervenções na identidade visual ocorreram de forma isolada e nunca houve um setor exclusivamente dedicado à gerência do uso da marca da UnB. [3]
+Uma identidade visual consiste num conjunto de elementos gráficos que representam visualmente e de forma sistematizada um nome, uma idéia, um produto, uma empresa, uma instituição ou serviço. A construção da identidade visual da UnB é anterior a Universidade em si. A preocupação de se estabelecer um código visual existe desde sua concepção. No entanto, todas as intervenções na identidade visual ocorreram de forma isolada e nunca houve um setor exclusivamente dedicado à gerência do uso da marca da UnB. [3]
 
-O registro mais antigo de manifestações visuais da marca UnB foi no ano de 1962. Em editorial onde documentava os atos de fundação, metodologia de ensino e metas de desenvolvimento da instituição há uma logo em sua capa. Embora essa marca nunca tenha sido registrada nem estabelecida oficialmente como marca da UnB, é considerada a primeira manifestação da marca que conhecemos hoje. [3]
+O registro mais antigo de manifestações visuais da marca UnB foi no ano de 1962. Neste ano, foi publicado um editorial onde documentava os atos de fundação, metodologia de ensino e metas de desenvolvimento da instituição, sendo que na capa havia a primeira logomarca utilizada para representar a instituição. Embora essa marca nunca tenha sido registrada nem estabelecida oficialmente como marca da UnB, é considerada a primeira manifestação da marca que conhecemos hoje. [3]
 
 <p align='center'>
     <img src='_media/logos/unb_logo_1.png'>
@@ -61,7 +62,7 @@ O registro mais antigo de manifestações visuais da marca UnB foi no ano de 196
 
 Oficialmente, a história da marca da UnB começa em 1963, com a criação de seu simbolo pelo design gráfilo [Aloísio Magalhães](https://pt.wikipedia.org/wiki/Alo%C3%ADsio_Magalh%C3%A3es), pioneiro do _design_ no Brasil e responsável pela implementação de dezenas de programas de identidade visual em instituições públicas e privadas, nas décadas de 60 e 70. Acredita-se que Aloísio tenha utilizado a ilustração de capa do Editorial publicado em 1962, como referência visual para o símbolo. [3]
 
-Somente em 1983 foi criado o primeiro manual de identidade visual para UnB, pelo escritório de design Cauduro Martino. Esse manual usou como base a logo criada por Aloísio e determinava normas de utilização dos símbolo e sua associação a nomes de institutos, faculdades, departamentos e órgão complementares, além de cores institucionais e alfabeto padrão. [3]
+Somente em 1983, 20 anos depois, foi criado o primeiro manual de identidade visual para UnB, pelo escritório de design [Cauduro Martino](http://enciclopedia.itaucultural.org.br/instituicao6617/cauduro-martino-arquitetos-associados). Esse manual usou como base a logo criada por Aloísio e determinava normas de utilização dos símbolo e sua associação a nomes de institutos, faculdades, departamentos e órgão complementares, além de cores institucionais e tipografia padrão. [3]
 
 Esse manual de identidade visual é extenso detalhado, alguns pontos de maiores relevância para o nosso projeto serão detalhados a seguir.
 
@@ -75,15 +76,15 @@ O símbolo é o principal elemento do sistema de identidade visual da UnB.
 
 A forma faz alusão direta ao projeto urbanístico de Brasília, por meio da representação do cruzamento dos eixos principais do Plano Piloto (região administrativa do Distrito Federal). Ao mesmo tempo, estes eixos representam a ligação das alas sul e norte do prédio central da universidade, o Instituto Central de Ciências (ICC). Também faz referência às características físicas do _campus_: espaços abertos e grandes áreas verdes em contraste com o céu azul, também presentes na capital de horizontes amplos. [3]
 
-O símbolo da UnB é protegido pelo registro de marca no Instituto Nacional de Propriedade Industrial. Considerando direitos de propriedade intelectual, o símbolo não deve ser alterado. A Fundação Universidade de Brasília é detentora exclusiva do uso e comercialização deste símbolo.
+O símbolo da UnB é protegido pelo registro de marca no Instituto Nacional de Propriedade Industrial. Considerando direitos de propriedade intelectual, <span style="color:yellow">o símbolo não deve ser alterado!</span> A Fundação Universidade de Brasília é detentora exclusiva do uso e comercialização deste símbolo.
 
-Evite reproduções imprecisas do símbolo. Deve-se utilziar os arquivos digitais fornecidos pela UnB, disponíveis no portal UnB, no endereço [www.marca.unb.br/marca.php](http://marca.unb.br/marca.php).
+<span style="color:yellow">Evite reproduções imprecisas do símbolo.</span> Deve-se utilizar os arquivos digitais fornecidos pela UnB, disponíveis no portal UnB, no endereço [www.marca.unb.br/marca.php](http://marca.unb.br/marca.php).
 
 <p align='center'>
     <img src='_media/logos/unb_logo_2.png'>
 </p>
 
-Com o objetivo de atender às diferentes situações de uso e a enorme diversidade de suportes de aplicação, o símbolo da UnB apresenta algumas variações. É sempre recomendado a utilização da versão em duas cores, mas quando não for possível as versões alternativas que podem ser utilizadas são as seguintes. [3] 
+Com o objetivo de atender às diferentes situações de uso e a enorme diversidade de suportes de aplicação, o símbolo da UnB apresenta algumas variações. <span style="color:yellow">É sempre recomendado a utilização da versão em duas cores</span>, mas quando não for possível as versões alternativas que podem ser utilizadas são: [3] 
 
 <p align='center'>
     <img src='_media/logos/unb_logo_3.png'>
@@ -95,15 +96,15 @@ A tipografia é um elemento fundamental para a consolidação de qualquer sistem
 
 A especificação de uma família tipográfica para uma instituição de grande porte como a UnB precisa atender a diversos requisitos tipográficos, técnicos, práticos, legais, econômicos e formais. [3]
 
-Com isso em mente, a estratégia escolhida para antender a todos esses requisitos simutaneamente, dentro do prazo e a custos razoáveis, foi a de adaptar uma família tipográfica livre especialmente para o projeto. Esta estratégia elimita custos com licenças de uso e permite que as fontes sejam modificadas e redistribuidas livremente para toda a comunidade universitária. [3]
+Com isso em mente, a estratégia escolhida para atender a todos esses requisitos simutaneamente, dentro do prazo e a custos razoáveis, foi a de adaptar uma família tipográfica livre especialmente para o projeto. Esta estratégia elimina custos com licenças de uso e permite que as fontes sejam modificadas e redistribuidas livremente para toda a comunidade universitária. [3]
 
-As famílias tipográficas institucionais da UnB foram desenvolvidas por [Gustavo Ferreira](https://www.typotheque.com/authors/gustavo_ferreira), à partir da família tipografica livre _Liberation Sans_. [3]
+As famílias tipográficas institucionais da UnB foram desenvolvidas por [Gustavo Ferreira](https://www.typotheque.com/authors/gustavo_ferreira), à partir da família tipografica livre chamada _Liberation Sans_. [3]
 
 <p align='center'>
     <img src='_media/assets/images/liberation-sans.png'>
 </p>
 
-O resultado do trabalho de Gustavo Ferreira foi as duas famílias tipográficas oficiais da UnB: _UnB Office_ e _UnB Pro_, que constituem o pacote de software livre _Fontes UnB_. A família _UnB Pro_ é direcionada a profissionais de comunicação visual, pois possui recursos avançados que só funcionam em aplicativos de desenho e editoração. Já a família UnB Office é indicada para o uso do público geral da UnB. [3]
+O resultado do trabalho de Gustavo Ferreira foi as duas famílias tipográficas oficiais da UnB: _UnB Office_ e _UnB Pro_, que constituem o pacote de software livre _Fontes UnB_, disponível no [site da UnB](http://marca.unb.br/fontesunb.php). A família _UnB Pro_ é direcionada a profissionais de comunicação visual, pois possui recursos avançados que só funcionam em aplicativos de desenho e editoração. Já a família UnB Office é indicada para o uso do público geral da UnB. [3]
 
 <p align='center'>
     <img src='_media/assets/images/tipografia-unb.png' height='300'>
@@ -121,9 +122,9 @@ Em algumas situações, a utilização de cores Pantone é tecnicamente inviáve
     <img src='_media/logos/unb_logo_5.png'>
 </p>
 
-O código cromático define também uma paleta de cores auxiliares, para complementar as cores institucionais e fortalecer o padrão cromático da identidade visual. Esta paleta é definida tendo como ponto de partida as cores do símbolo, principal da marca UnB. [3]
+O código cromático define também uma paleta de cores auxiliares, para complementar as cores institucionais e fortalecer o padrão cromático da identidade visual. Esta paleta é definida com base nas cores primárias do símbolo. [3]
 
-A palena de cores auxiliares é formada por tonalidades derivadas do Azul UnB e Verde UnB, além de amarelo, prata e tonalidades neutras. Essas cores podem ser utilizadas isoladamente ou em combinações de duas, três ou mais cores. As cores da paleta foram escolhidas partindo do princípio que qualquer combinação entre elas deve resultar em um padrão harmônico. [3]
+A paleta de cores auxiliares é formada por tonalidades derivadas do Azul UnB e Verde UnB, além de amarelo, prata e tonalidades neutras. Essas cores podem ser utilizadas isoladamente ou em combinações de duas, três ou mais cores. As cores da paleta foram escolhidas partindo do princípio que qualquer combinação entre elas deve resultar num padrão harmônico. [3]
 
 <p align='center'>
     <img src='_media/assets/images/paleta-de-cores.svg' style='background-color:white;'>
@@ -131,9 +132,9 @@ A palena de cores auxiliares é formada por tonalidades derivadas do Azul UnB e 
 
 #### 4.4. Assinaturas
 
-Emprega-se o termo assinaturo para denominar as combinações entre símbolos e tipograma. As assinaturas são a forma de apresentação mais recorrente da marca e, provavelmente, as mais reconhecíveis como tal. [3]
+Emprega-se o termo assinatura para denominar as combinações entre símbolos e tipograma. As assinaturas são a forma de apresentação mais recorrente da marca e, provavelmente, as mais reconhecíveis como tal. [3]
 
-O sistema estabelece duas categorias principais deste elemento: assinatura básica (tipograma básico + símbolo) e assinatura completa (tipograma completo + símbolo). Utilize preferencialmente as uma das duas versões da assinatura básica, visto que são mais sintéticas e, acredita-se, têm maior rapidez de leitura. Dessa forma, desempenham melhor seu papel como marca. [3]
+O sistema estabelece duas categorias principais deste elemento: assinatura básica (tipograma básico + símbolo) e assinatura completa (tipograma completo + símbolo). <span style='color:yellow'>Utilize preferencialmente as uma das duas versões da assinatura básica</span>, visto que são mais sintéticas e, acredita-se, têm maior rapidez de leitura. Dessa forma, desempenham melhor seu papel como marca. [3]
 
 
 <div style='border-style: solid; margin-bottom: 10px;'>
@@ -175,11 +176,11 @@ O sistema estabelece duas categorias principais deste elemento: assinatura bási
 
 ## 5. Avaliação da interface da BCE
 
-Após a compreenção da identidade visual da FUB, foi avaliado o atual site da Biblioteca Central (BCE) da Universidade de Brasília (UnB). Sempre que foi encontrado uma desarmonia com as diretrizes do manual de identidade visual da FUB é sugerido uma alteração de modo que melhore a usabilidade e esteja de acordo com as definições da FUB.
+Após a compreenção da identidade visual da FUB, foi avaliado como se apresentava a atual estilização do site da Biblioteca Central (BCE) da Universidade de Brasília (UnB). Sempre que foi encontrado uma desarmonia com as diretrizes do manual de identidade visual da FUB é sugerido uma alteração de modo que melhore a usabilidade e esteja de acordo com as definições da FUB.
 
 ### 5.1. Tipografia
 
-A fonte utilizada com maior frequência no site da BCE é a `Verdana`. Essa fonte foi criada por Matthew Carter para a Microsoft Corporations, e é da subfamília `Regular`. A fonte `Verdana` é de uso gratuito apenas para uso pessoal, desse modo é preciso autorização quando utilizada para uso comercial. Essa fonte foi criada para oferecer melhor legibilidade possível em monitores de baixa resolução, porém muitos editores de `Web` não recomendam seu uso, pois o tamanho da fonte é incompatível com o tamanho das demais fontes, assim um caractere em `Verdana` 10pt é consideravelmente maior que o mesmo caractere em `Times New Roman` também em 10pt, dificultando assim a leitura quando há mais de uma tipografia na mesma página. [[1]](http://tipografos.net/designers/mathew-carter.html) [[2]](https://pt.wikipedia.org/wiki/Verdana)
+A fonte utilizada com maior frequência no site da BCE é a `Verdana`. Essa fonte foi criada por [Matthew Carter](http://tipografos.net/designers/mathew-carter.html) para a Microsoft Corporations, e é da subfamília `Regular`. A fonte `Verdana` é de uso gratuito apenas para uso pessoal, desse modo é preciso autorização quando utilizada para uso comercial. Essa fonte foi criada para oferecer melhor legibilidade possível em monitores de baixa resolução, porém muitos editores de `Web` não recomendam seu uso, pois o tamanho da fonte é incompatível com o tamanho das demais fontes, assim um caractere em `Verdana` 10pt é consideravelmente maior que o mesmo caractere em `Times New Roman` também em 10pt, dificultando assim a leitura quando há mais de uma tipografia na mesma página. [[1]](http://tipografos.net/designers/mathew-carter.html) [[2]](https://pt.wikipedia.org/wiki/Verdana)
 
 Exemplos de Verdana:
 
@@ -208,7 +209,7 @@ No design atual, não há uma padronização de tamanho de fontes. Existem diver
 
 <blockquote>
 <p><b>Conclusão:</b></p>
-<p>É notório que o site da BCE não utiliza as famílias tipográficas criadas e sugeridas pela FUB. Vale ressaltar que a fonte utilizada (<i>Verdana</i>) é uma fonte proprietária, e caso não tenha sido devidamente licenciada para uso não pessoal, pode acarretar em problemas de legais.</p>
+<p>É notório que o site da BCE não utiliza as famílias tipográficas defindas pela FUB. Vale ressaltar que a fonte utilizada (<i>Verdana</i>) é uma fonte proprietária, e caso não tenha sido devidamente licenciada para uso não pessoal, e provavelmente não foi, pode acarretar em problemas de legais.</p>
 <b><img src='_media/assets/images/warning.png' height='15'> É altamente recomendado que se utilize somente as fontes tipográficas “UnB Office”!</b>
 
 <p>Outro problema relacionado a tipografia são os tamanhos das fontes. Além de não seguirem um padrão, uma vez que há varios tamanhos diferentes para elementos de semântica semelhante ou igual, os tamanhos são fixados. O fato de serem fixados dificultam a portabilidade em diversos dispositivos (celulares, tablets, computadores, projetores etc.). Uma forma de resolver esse problema de portabilidade é a utilização de tamanhos de fontes dinâmicos, que utilizam como base para o calculo o tamanho da área disponível para visualização do dispositivos.</p>
@@ -222,9 +223,9 @@ No design atual, não há uma padronização de tamanho de fontes. Existem diver
 
 ### 5.2. Cor e identidade
 
-No site da BCE foi posssível identificar 11 cores predominantes. Essas cores não são usadas consistentemente, há diversos elementos de semântica semelhante que utilizam cores diferentes ou aproximadas. Ficou evidente que o site não possui nenhuma configuração em termos de identidade visual, além do logo no canto superior esquerdo, e que as cores encontradas fazem parte da configuração padrão do software _Meu Pergamum_, sendo esse o software utilizado para suportar o serviço de empréstimo.
+No site da BCE foi posssível identificar 11 cores predominantes. Essas cores não são usadas consistentemente, há diversos elementos de semântica semelhante que utilizam cores diferentes ou aproximadas. Ficou evidente que o site não possui nenhuma configuração em termos de identidade visual (com exceção da logo), e que as cores encontradas fazem parte da configuração padrão do software _Meu Pergamum_, sendo esse o _software_ utilizado para suportar o serviço de empréstimo da BCE.
 
-Um problema grave identidade é que a opção alto contraste quando habilitada modifica os outros parâmetros além das cores, e essas modificações deixa o site com um layout "quebrado", pois muda dimensões de elementos e não altera todas as cores.
+Um problema grave identificado é que a opção alto contraste. Quando habilitada, essa opção modifica outros parâmetros além das cores, e essas modificações deixa o site com um layout "quebrado", pois muda dimensões de elementos, além de não alterar as cores do site como um todo.
 
 <div style='border-style: solid;'>
 <p align='center'> Painel principal do software <i>Meu Pergamum</i> em sua configuração padrão </p>
@@ -290,9 +291,9 @@ As próximas imagens detalha quais são as cores identificadas pelos números da
 
 ### 5.3. Logos e Assinaturas
 
-A logo do BCE, assim como a logo de várias outras organizações filhas da Fundação Universidade de Brasília, é uma extensão da logo da UnB, com o acréscimo da sigla “BCE” ou do nome completo “Biblioteca Central”.
+A logo do BCE, assim como a logo de várias outras organizações filhas da FUB, é uma extensão da logo da UnB, com o acréscimo da sigla “BCE” ou do nome completo “Biblioteca Central”.
 
-Desde o acesso ao site base da BCE (https://bce.unb.br/) até o acesso do painel principal onde é ofertado os serviços de empréstimo é encontrado 7 assinaturas. Lembrando que uma assinatura é composta pela combinação do símbolo (logo) coma a tipografia. 
+Desde o acesso ao site base da BCE (https://bce.unb.br/) até o acesso do painel principal onde é ofertado os serviços de empréstimo é encontrado 7 assinaturas. Lembrando que uma assinatura é composta pela combinação do símbolo (logo) com a tipografia.
 
 <p align='center'>
     <img src="_media/assets/images/logos/logo_branca.png" height='35'>
@@ -304,25 +305,25 @@ Desde o acesso ao site base da BCE (https://bce.unb.br/) até o acesso do painel
     <img src="_media/assets/images/logos/bce-logo-6.png" height='35'>
 </p>
 
-A assinatura completa é utilizada duas vezes, um na versão completa e na versão com contorno negativo. Vale que, de acordo com o padrão definido pela identidade visual da FUB, versão com contorno negativo não deve ser usadas em fundos coloridos, somente preto e branco, .
+A assinatura completa é utilizada duas vezes, uma na versão completa e outra na versão com contorno negativo. A versão com contorno negativo é mal utilizada, pois de acordo com o padrão definido pela identidade visual da FUB, essa versão só deve ser utilizada em fundos pretos ou brancos, sendo que nessa situação o fundo é amarelo.
 
 Já assinatura básica é usada cinco vezes, sendo duas na versão com contorno, uma na versão negativa e duas na versão básica horizontal. Uma das logos básicas da verão horizontal não é mostrada em sua completude, pois estrapola os limites de tamanho definidos pelo software _Meu Pergamum_.
 
 <blockquote>
 <p><b>Conclusão:</b></p>
 <p>Os logos são bem utilizados durante a navegação do site, somente um dos logos encontrados foge do padrão definido.</p>
-<p>Devido o fato das assinatura estarem disponíveis em imagens, não foi possível verificar qual tipografia foi utilizada, mas quando comparada visualmente com as logos defindas no manual de identidade visuais da FUB, não foi notado diferenças.</p>
+<p>Devido o fato das assinatura estarem disponíveis em imagens, não foi possível verificar se a tipografia utilizada estava de acordo com o padrão definido pela FUB, mas quando comparada visualmente com as logos defindas no manual de identidade visuais da FUB, não foi notado diferenças.</p>
 
 <b>
     <img src='_media/assets/images/warning.png' height='15'> 
-    É sugerido utilizar a logo de duas cores invés da logo com contorno negativo.
+    É sugerido que mude a logo utilizada no fundo amarelo ou mude o fundo.
 </b>
 
 <br>
 
 <b>
     <img src='_media/assets/images/warning.png' height='15'> 
-    É sugerido redimensionar a logo que é utilizada no painel principal do <i>Meu Pergamum</i>, para que apareça em sua totalidade.
+    É sugerido redimensionar a logo utilizada no painel principal do <i>Meu Pergamum</i>, para que apareça em sua totalidade.
 </b>
 </blockquote>
 
@@ -330,7 +331,7 @@ Já assinatura básica é usada cinco vezes, sendo duas na versão com contorno,
 
 ### 5.5. Padrões dos Símbolos e Ícones
 
-A Semiótica estuda signos, processos de significação e processos de comunicação. Sendo signos toda imagem, diagrama, ícone, símbolo e etc. Um signo deve possuir uma relação com a a ideia que deseja transmitir, e o interpretador desse símbolo, no nosso caso o usuário, deve conseguir compreender o significado que o símbolo possui. Com base nesses conceitos foi identificado os símbolos e ícones que são utilizados na interface do sistema, e analisado sua semântica no contexto.
+A Semiótica estuda signos, processos de significação e processos de comunicação. Sendo signos toda imagem, diagrama, ícone, símbolo e etc. Um signo deve possuir uma relação com a a ideia que deseja transmitir, e o interpretador desse símbolo, no nosso caso o usuário, deve conseguir compreender o significado asssociado. Com base nesses conceitos foi identificado os símbolos e ícones presentes na interface do sistema, e analisado sua semântica no contexto.
 
 | ID | Ícone | Descrição |
 | -- | ----- | ----------------- |
@@ -366,7 +367,7 @@ As páginas que o usuário precisa acessar para utilizar o serviço de emprestim
 
 Outro problema encontrado foi a utilização de ícones com baixa resolução, que dificultam a sua visualização e consequêntemente sua interpretação.
 
-Outro problema é a utilização de textos em inglês para dar suporte os ícones. É preferível a utilização da lingua nativa dos usuários da BCE, para maior acessibilidade.
+Outro problema é a utilização de textos em inglês para dar suporte os ícones. É preferível a utilização do idioma nativo dos usuários da BCE como padrão, para maior acessibilidade do sistema.
 
 <blockquote>
 <p><b>Conclusão:</b></p>
@@ -389,11 +390,13 @@ Outro problema é a utilização de textos em inglês para dar suporte os ícone
 
 <!-- FALAR MAIS SOBRE -->
 
-<p>A proposta de um site ser acessível tem como objetivo beneficiar as pessoas com necessidades especiais, dando-lhes autonomia e permitindo que elas não só utilizem, mas também contribuam com a web.</p>
-<p>A acessibilidade nos sites tem base legal, como por exemplo o Decreto Federal nº 5.296 torna obrigatório que todos os portais e sites dos órgãos da administração pública atendam aos padrões de acessibilidade digital. Além disso foi sancionada a Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei 13.146) que torna obrigatória a acessibilidade nos sites  da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo.</p>
-<p>Mas, mesmo existindo a legislação, isso não é suficiente para que todos os sites a cumpram e permitam a igualdade de acesso.</p>
+A proposta de um site ser acessível tem como objetivo beneficiar as pessoas com necessidades especiais, dando-lhes autonomia e permitindo que elas não só utilizem, mas também contribuam com a web.
 
-<p>Com o objetivo de facilitar o uso do site por pessoas com quaisquer deficiência ou dificuldade, está sendo proposto a adição das seguintes funcionalidades:</p>
+A acessibilidade nos sites tem base legal, como por exemplo o Decreto Federal nº 5.296 torna obrigatório que todos os portais e sites dos órgãos da administração pública atendam aos padrões de acessibilidade digital. Além disso foi sancionada a Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei 13.146) que torna obrigatória a acessibilidade nos sites  da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo.
+
+Mas, mesmo existindo a legislação, isso não é suficiente para que todos os sites a cumpram e permitam a igualdade de acesso.
+
+Com o objetivo de facilitar o uso do site por pessoas com quaisquer deficiência ou dificuldade, está sendo proposto a adição das seguintes funcionalidades:
 
 * Haverá a opção de alto contraste para facilitar a leitura de pessoas com problemas de visão.
 * Não haverá informações destacadas apenas por cores para facilitar para pessoas com dificuldade em diferencias as cores.
@@ -401,15 +404,12 @@ Outro problema é a utilização de textos em inglês para dar suporte os ícone
 
 ## 5.7. Layout
 
-<!-- FALAR MAIS SOBRE -->
-<!-- DETALHAR MAIS -->
-<p>O termo layout se refere à organização dos elementos gráficos de um site. É preciso ter muito cuidado para decidir o layout e a ordenação de seus compenentes para que tenha harmonia e todas as informações sejam de fácil visualização pelo usuário.</p>
+O termo layout se refere à organização dos elementos gráficos de um site. É preciso ter muito cuidado para decidir o layout e a ordenação de seus compenentes para que tenha harmonia e todas as informações sejam de fácil visualização pelo usuário.
 
-<p>Visando facilitar a visualização das informações a proposta de layout do site é definido por:</p>
+Visando facilitar a visualização das informações a proposta de layout do site é definido por:
 <img src="_media/assets/images/logos/layout.png">
 
-<p>Esse layout é simples e funcional, visto que as informações em destaque de cada página estarão visíveis no centro da tela. O menu ficará ao lado da área central, dessa forma toda a atenção do usuário se concentra em um só espaço e não há poluição visual.</p>
-
+Esse layout é simples e funcional, visto que as informações em destaque de cada página estarão visíveis no centro da tela. O menu ficará ao lado da área central, dessa forma toda a atenção do usuário se concentra em um só espaço e não há poluição visual.
 
 ## Referências Bibliográficas
 
