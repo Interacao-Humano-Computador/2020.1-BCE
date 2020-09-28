@@ -42,10 +42,10 @@ Alguns conjuntos de diretrizes são desenvolvidos especificamente para certos am
 
 ## 3. Conclusão
 
-Todos os pesquisadores e profissionais de IHC ressaltam que o uso de princípios e diretrizes jamais substitui as demais atividades de análise, design (conceitual e concreto) e avaliação. Embora princípios e diretrizes possam ser utilizados como auxílio ao design, elas não substituem um processo cuidadoso que inclui a busca pelo entendimento do problema, a elaboração de soluções candidatas e a avaliação dessas soluções alternativas.[12]
+Todos os pesquisadores e profissionais de IHC ressaltam que o uso de princípios e diretrizes jamais substitui as demais atividades de análise, design (conceitual e concreto) e avaliação. Embora princípios e diretrizes possam ser utilizados como auxílio ao design, elas não substituem um processo cuidadoso que inclui a busca pelo entendimento do problema, a elaboração de soluções candidatas e a avaliação dessas soluções alternativas.
 
 </div>
 
 ## Bibliografia
 
-- Barbosa, Simone Diniz Junqueira Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno Santana da Silva. – Rio de Janeiro: Elsevier, 2010. 
+- BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
