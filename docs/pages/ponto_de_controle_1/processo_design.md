@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 15.09.2020 |  0.1   | Criação do documento sobre o Processo de Design escolhido | Rafaella Junqueira, <br> Isabela Carneiro |
 | 17.09.2020 |  0.2   | Revisão do documento | Durval Carvalho |
+| 28.09.2020 |  0.3   | Adição de legendas nas imagens | Durval Carvalho |
 
 
 ## 1. Introdução
@@ -23,8 +24,13 @@ Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizado
 ### 4.1 **Ciclo de Mayhew**
 
 Proposto por Deborah Mayhew (1999), esse ciclo de vida possui uma visão holística e apresenta três fases principais que devem ser seguidas durante o processo iterativo.
+
 <p align='center'>
     <img src='/docs/_media/images/ciclo_mayhew.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Atividades básicas proposta pelo ciclo de Mayhew</b>
+        <br><small>Fonte: BARBOSA (2010)</small>
+    </figcaption>
 </p>
 
 - **Análise de requisitos**
@@ -42,6 +48,10 @@ No  ciclo de vida em estrela a ordem das atividades é decisão do designer, que
 
 <p align='center'>
     <img src='/docs/_media/images/ciclo_estrela.png'>
+    <figcaption align='center'>
+        <b>Figura 2: Atividades básicas proposta pelo ciclo vida em Estrela</b>
+        <br><small>Fonte: BARBOSA (2010)</small>
+    </figcaption>
 </p>
 
 - **Análise de tarefas, usuários e funções**
@@ -115,6 +125,10 @@ Os cenários refletem de forma descrita a sequência de ações de um usuário d
 
 <p align='center'>
     <img src='/docs/_media/images/ciclo_cenarios.png'>
+    <figcaption align='center'>
+        <b>Figura 3: Atividades básicas proposta pela Processo de Design Baseado em Cenários</b>
+        <br><small>Fonte: BARBOSA (2010)</small>
+    </figcaption>
 </p>
 
 - **Análise do problema**
@@ -132,6 +146,10 @@ O modelo de design dirigido por objetivos vai se pautar na criação de uma solu
 
 <p align='center'>
     <img src='/docs/_media/images/ciclo_objetivos.png'>
+    <figcaption align='center'>
+        <b>Figura 4: Atividades básicas proposta pela Processo de Design Dirigido por Objetivos</b>
+        <br><small>Fonte: BARBOSA (2010)</small>
+    </figcaption>
 </p>
 
 - **Pesquisar**
@@ -157,6 +175,10 @@ O modelo de design centrado na comunicação entende a interação humano-comput
 
 <p align='center'>
     <img src='/docs/_media/images/ciclo_comunicacao.png'>
+    <figcaption align='center'>
+        <b>Figura 5: Atividades básicas proposta pela Processo de Design Centrado na Comunicação</b>
+        <br><small>Fonte: BARBOSA (2010)</small>
+    </figcaption>
 </p>
 
 - **Análise:**
