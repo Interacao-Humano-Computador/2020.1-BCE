@@ -15,6 +15,8 @@
 | 27/09/2020 | 0.10 | Modificação do tópico Cor e Identidade do site da BCE | Durval Carvalho |
 | 27/09/2020 | 0.11 | Modificação do tópico Logos e Assinaturas do site da BCE | Durval Carvalho |
 | 27/09/2020 | 0.12 | Adição do tópico Padrões dos Símbolos e Ícones | Durval Carvalho |
+|27/09/2020 | 0.13 | Modificação do tópico Opções de Acessibilidade |Isabella Carneiro |
+|27/09/2020 | 0.14 | Modificação do tópico Layout |Isabella Carneiro |
 
 ## 1. Introdução
 
@@ -387,6 +389,12 @@ Outro problema é a utilização de textos em inglês para dar suporte os ícone
 
 <!-- FALAR MAIS SOBRE -->
 
+<p>A proposta de um site ser acessível tem como objetivo beneficiar as pessoas com necessidades especiais, dando-lhes autonomia e permitindo que elas não só utilizem, mas também contribuam com a web.</p>
+<p>A acessibilidade nos sites tem base legal, como por exemplo o Decreto Federal nº 5.296 torna obrigatório que todos os portais e sites dos órgãos da administração pública atendam aos padrões de acessibilidade digital. Além disso foi sancionada a Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei 13.146) que torna obrigatória a acessibilidade nos sites  da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo.</p>
+<p>Mas, mesmo existindo a legislação, isso não é suficiente para que todos os sites a cumpram e permitam a igualdade de acesso.</p>
+
+<p>Com o objetivo de facilitar o uso do site por pessoas com quaisquer deficiência ou dificuldade, está sendo proposto a adição das seguintes funcionalidades:</p>
+
 * Haverá a opção de alto contraste para facilitar a leitura de pessoas com problemas de visão.
 * Não haverá informações destacadas apenas por cores para facilitar para pessoas com dificuldade em diferencias as cores.
 * Haverá a opção de aumentar o tamanho da fonte para pessoas com problemas de visão.
@@ -395,11 +403,14 @@ Outro problema é a utilização de textos em inglês para dar suporte os ícone
 
 <!-- FALAR MAIS SOBRE -->
 <!-- DETALHAR MAIS -->
+<p>O termo layout se refere à organização dos elementos gráficos de um site. É preciso ter muito cuidado para decidir o layout e a ordenação de seus compenentes para que tenha harmonia e todas as informações sejam de fácil visualização pelo usuário.</p>
 
-<p>O layout do site é definido por:</p>
+<p>Visando facilitar a visualização das informações a proposta de layout do site é definido por:</p>
 <img src="_media/assets/images/logos/layout.png">
 
-'
+<p>Esse layout é simples e funcional, visto que as informações em destaque de cada página estarão visíveis no centro da tela. O menu ficará ao lado da área central, dessa forma toda a atenção do usuário se concentra em um só espaço e não há poluição visual.</p>
+
+
 ## Referências Bibliográficas
 
 [1] Resumo da vida de Matthew Carter. Disponível em: http://tipografos.net/designers/mathew-carter.html . Acessado em 26 de setembro de 2020.
