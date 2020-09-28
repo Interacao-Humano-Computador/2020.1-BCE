@@ -23,7 +23,7 @@ Fornecer ao usuário funções que são esperadas por ele naquele contexto.
 O sistema deve ser fácil para aprender a usar, com uma boa navagabilidade e intuitivo.
 
 ## Memorização
-O usuário não deve ser obrigado a reaprender a usar o sistema quando acessa-lo novamente depois de um periodo longo sem usa-lo. 
+O usuário não deve ser obrigado a reaprender a usar o sistema quando acessa-lo novamente depois de um periodo longo sem usa-lo.
 
 </div>
 
