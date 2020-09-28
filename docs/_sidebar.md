@@ -6,6 +6,9 @@
   - [Apresentação PC 1](/pages/ponto_de_controle_1/apresentacao.md)
   - [Log de atividades](/pages/ponto_de_controle_1/gerenciamento_do_projeto.md)
 
-- [**Ponto de Controle 2**](/pages/ponto_de_controle_2/user_profile.md)
-  - [Perfil de Usuários](/pages/ponto_de_controle_2/user_profile.md)
+- [**Ponto de Controle 2**](/pages/ponto_de_controle_2/perfil_usuario.md)
+  - [Perfil de Usuários](/pages/ponto_de_controle_2/perfil_usuario.md)
   - [Personas](/pages/ponto_de_controle_2/personas.md)
+
+- [**Ponto de Controle 3**](/pages/ponto_de_controle_3/principios_gerais.md)
+  - [Princípios Gerais](/pages/ponto_de_controle_3/principios_gerais.md)
