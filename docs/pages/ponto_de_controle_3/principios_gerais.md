@@ -48,4 +48,4 @@ Todos os pesquisadores e profissionais de IHC ressaltam que o uso de princípios
 
 ## Bibliografia
 
-- BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+- BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
