@@ -9,3 +9,4 @@
 - [**Ponto de Controle 2**](/pages/ponto_de_controle_2/user_profile.md)
   - [Perfil de Usuários](/pages/ponto_de_controle_2/user_profile.md)
   - [Personas](/pages/ponto_de_controle_2/personas.md)
+  - [Metas de Usabilidade](/pages/ponto_de_controle_2/personas.md)
