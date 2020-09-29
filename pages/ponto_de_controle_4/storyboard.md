@@ -4,13 +4,17 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 29.09.2020 |  0.1   | Criação do documento | Isabella Carneiro  |
-| 29.09.2020 |  0.2   | Adição das ferramentas | Isabella Carneiro  |
+| 29.09.2020 |  0.2   | Adição das ferramentas | Isabella Carneiro |
+| 29.09.2020 |  0.3   | Adição da descrição | Isabella Carneiro  |
+
 
 
 
 <div align='justify'>
 
 ## 1. Descrição
+<p>É uma técnica para visualização de cenários particulares do usuário de forma esquematizada.</p>
+<p>Essa técnica é formada por uma série de telas mostrando como o usuário pode progredir em uma tarefa e com ela pode se explorar diversos cenários.</p>
 
 ## 2. Objetivo
 
@@ -30,3 +34,5 @@
 ## 6. Conclusão
 
 ## 7. Referências
+- Sommerville, Ian. Engenharia de Software. 9a Edic¸ao. Pearson.
+- BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
