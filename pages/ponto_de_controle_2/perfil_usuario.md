@@ -40,20 +40,20 @@ O resultado dessa pesquisa foram os 14 documentos a seguir:
 - [Análise do espaço virtual da biblioteca central da universidade de brasília: marketing como referencial teóricometodológico – 2012. Barbosa, Thiago Teixeira Barbosa.][13]
 - [Avaliação da usabilidade na interação e recuperação da informação dos usuários pós graduandos no repositório institucional da universidade de brasília. – 2016. Café, Luísa Chaves Café. ][14]
 
-[1]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/1.%20computa%C3%A7%C3%A3o_em_nuvem_estudo_sobre_o_uso_e_implementa%C3%A7%C3%A3o_na_vis%C3%A3o_dos_bibliotec%C3%A1rios_da_bce_unb.pdf
-[2]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/2.%20n%C3%A3o_usu%C3%A1rio_de_bibliotecas_universit%C3%A1rias_um_estudo_de_caso_na_universidade_de_bras%C3%ADlia_.pdf
-[3]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/3.%20servi%C3%A7os_de_refer%C3%AAncia_e_informa%C3%A7%C3%A3o_em_bibliotecas_universit%C3%A1rias_da_am%C3%A9rica_latina_an%C3%A1lise_de_seus_websites.pdf
-[4]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/4.%20tend%C3%AAncias_em_bibliotecas_universit%C3%A1rias_as_m%C3%ADdias_sociais_aplicadas_na_bce-unb.pdf
-[5]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/5.%20%5Bperfect%5Dcomportamento_dos_docentes_do_programa_de_p%C3%B3s_gradua%C3%A7%C3%A3o_em_administra%C3%A7%C3%A3o_ppga_da_universidade_de_bras%C3%ADlia_na_busca_e_uso_da_informa%C3%A7%C3%A3o.pdf
-[6]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/6.%20%5Bperfect%5Davalia%C3%A7%C3%A3o_de_usabilidade_de_websitesintegrando_gestores%2C_desenvolvedores_e_usu%C3%A1rios.pdf
-[7]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/7.%20%5Bpag1044%5Dusabilidade_em_bibliotecas_digitaisabordagem_emp%C3%ADrica_e_anal%C3%ADtica.pdf
-[8]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/8.%20%5Bok%5Dprinc%C3%ADpios_de_marketing_aplicados_%C3%A0sunidades_de_informa%C3%A7%C3%A3o_estudo_de_caso_da_biblioteca_central_da_universidade_de_bras%C3%ADlia.pdf
-[9]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/9.%20%5Bok%5Dgest%C3%A3o_da_informa%C3%A7%C3%A3o_digital_na_biblioteca_central_da_universidade_de_bras%C3%ADlia_relato_de_experi%C3%AAncia.pdf
-[10]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/19.%20PORTAL%20PERI%C3%93DICOS%20CAPES:%20estudo%20dos%20n%C3%A3o-usu%C3%A1rios%20docentes%20das%20IFES%20brasileiras
-[11]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/GERALDO/13.%20%5Bperfect%5Dbiblioteca_universit%C3%A1ria_e_os_indicadores_do_sinaes_estudo_do_caso_da_universidade_de_bras%C3%ADlia.pdf
-[12]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/GERALDO/14.%20a_utiliza%C3%A7%C3%A3o_dos_recursos_multim%C3%ADdias_para_a_busca_da_informa%C3%A7%C3%A3o_na_biblioteca_central_da_universidade_de_bras%C3%ADlia_bcewesclei_batista_santos_bras%C3%ADlia_2011.pdf
-[13]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/GERALDO/16.%20an%C3%A1lise_do_espa%C3%A7o_virtual_da_biblioteca_central_da_universidade_de_bras%C3%ADlia_marketingcomo_referencial_te%C3%B3rico_metodol%C3%B3gico.pdf
-[14]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/GERALDO/17.%20avalia%C3%A7%C3%A3o_da_usabilidade_na_intera%C3%A7%C3%A3o_e_recupera%C3%A7%C3%A3o_da_informa%C3%A7%C3%A3o_dos_usu%C3%A1rios_p%C3%B3s8graduandos_no_reposit%C3%B3rio_institucional_da_universidade_de_bras%C3%ADlia.pdf
+[1]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/1.%20computa%C3%A7%C3%A3o_em_nuvem_estudo_sobre_o_uso_e_implementa%C3%A7%C3%A3o_na_vis%C3%A3o_dos_bibliotec%C3%A1rios_da_bce_unb.pdf
+[2]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/2.%20n%C3%A3o_usu%C3%A1rio_de_bibliotecas_universit%C3%A1rias_um_estudo_de_caso_na_universidade_de_bras%C3%ADlia_.pdf
+[3]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/3.%20servi%C3%A7os_de_refer%C3%AAncia_e_informa%C3%A7%C3%A3o_em_bibliotecas_universit%C3%A1rias_da_am%C3%A9rica_latina_an%C3%A1lise_de_seus_websites.pdf
+[4]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/4.%20tend%C3%AAncias_em_bibliotecas_universit%C3%A1rias_as_m%C3%ADdias_sociais_aplicadas_na_bce-unb.pdf
+[5]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/5.%20%5Bperfect%5Dcomportamento_dos_docentes_do_programa_de_p%C3%B3s_gradua%C3%A7%C3%A3o_em_administra%C3%A7%C3%A3o_ppga_da_universidade_de_bras%C3%ADlia_na_busca_e_uso_da_informa%C3%A7%C3%A3o.pdf
+[6]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/6.%20%5Bperfect%5Davalia%C3%A7%C3%A3o_de_usabilidade_de_websitesintegrando_gestores%2C_desenvolvedores_e_usu%C3%A1rios.pdf
+[7]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/7.%20%5Bpag1044%5Dusabilidade_em_bibliotecas_digitaisabordagem_emp%C3%ADrica_e_anal%C3%ADtica.pdf
+[8]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/8.%20%5Bok%5Dprinc%C3%ADpios_de_marketing_aplicados_%C3%A0sunidades_de_informa%C3%A7%C3%A3o_estudo_de_caso_da_biblioteca_central_da_universidade_de_bras%C3%ADlia.pdf
+[9]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/9.%20%5Bok%5Dgest%C3%A3o_da_informa%C3%A7%C3%A3o_digital_na_biblioteca_central_da_universidade_de_bras%C3%ADlia_relato_de_experi%C3%AAncia.pdf
+[10]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/DURVAL/19.%20PORTAL%20PERI%C3%93DICOS%20CAPES:%20estudo%20dos%20n%C3%A3o-usu%C3%A1rios%20docentes%20das%20IFES%20brasileiras
+[11]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/GERALDO/13.%20%5Bperfect%5Dbiblioteca_universit%C3%A1ria_e_os_indicadores_do_sinaes_estudo_do_caso_da_universidade_de_bras%C3%ADlia.pdf
+[12]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/GERALDO/14.%20a_utiliza%C3%A7%C3%A3o_dos_recursos_multim%C3%ADdias_para_a_busca_da_informa%C3%A7%C3%A3o_na_biblioteca_central_da_universidade_de_bras%C3%ADlia_bcewesclei_batista_santos_bras%C3%ADlia_2011.pdf
+[13]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/GERALDO/16.%20an%C3%A1lise_do_espa%C3%A7o_virtual_da_biblioteca_central_da_universidade_de_bras%C3%ADlia_marketingcomo_referencial_te%C3%B3rico_metodol%C3%B3gico.pdf
+[14]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/user-profile-research-summary/GERALDO/17.%20avalia%C3%A7%C3%A3o_da_usabilidade_na_intera%C3%A7%C3%A3o_e_recupera%C3%A7%C3%A3o_da_informa%C3%A7%C3%A3o_dos_usu%C3%A1rios_p%C3%B3s8graduandos_no_reposit%C3%B3rio_institucional_da_universidade_de_bras%C3%ADlia.pdf
 
 Com base nesses documentos foram extraidos dados, definições e informações que eram pertinentes ao escopo do nosso projeto. Cada um dessas análises foi realizada no formato de relatórios, onde o responsável realizava a leitura do documento e selecionava as partes pertinentes ao projeto. 
 
@@ -79,7 +79,7 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - 47% dos bibliotecários ocupavam o cargo há menos 2 anos. LAGO (2014)
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png' />
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png' />
   <figcaption align='center'>
     <b>Figura 1: Gráfico apresentando o tempo que os entrevistados exercem o cargo.</b>
     <br> 
@@ -92,7 +92,7 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - 68.2% dos bibliotecários estavam na faixa etária de 20 a 30 anos. ROCHA (2012)
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png'>
   <figcaption align='center'>
     <b>Figura 2: Gráfico apresentando a idade dos entrevistados</b>
     <br> 
@@ -105,7 +105,7 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - A maioria dos bibliotecários era do sexo feminino (77,30%) e apenas 22,70% do sexo masculino. ROCHA (2012)
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png'>
   <figcaption align='center'>
     <b>Figura 3: Tabela apresentando o gênero dos entrevistados</b>
     <br> 
@@ -118,7 +118,7 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - A maioria dos bibliotecários possuía somente a graduação como formação acadêmica (63.70%). ROCHA (2012)
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png'>
   <figcaption align='center'>
     <b>Figura 4: Tabela apresentando o grau de escolaridade dos entrevistados</b>
     <br> 
@@ -150,7 +150,7 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - 16% afirmaram ter dificuldades. LAGO (2014)
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png'>
   <figcaption align='center'>
     <b>Figura 5: Gráfico apresentando o dóminio das TIC pelos entrevistados</b>
     <br> 
@@ -194,7 +194,7 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - Email, Bases de Dados, Editores de Documentos e Biblioteca Digital foram os recursos de TIC apontados como mais usados. LAGO (2014)
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png'>
   <figcaption align='center'>
     <b>Figura 6: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
     <br> 
@@ -251,7 +251,7 @@ Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usu�
 - 49.5% dos não usuários possuem idade entre 20 a 22 anos. E 48.5% dos não-usuários estão entre o 3º e 4º ano de seus cursos.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png'>
   <figcaption align='center'>
     <b>Figura 7: Tabela apresentando o ano de graduação e a idade dos não-usuários entrevistados</b>
     <br> 
@@ -265,7 +265,7 @@ Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usu�
 - 64% dos não-usuários estão matriculados em cursos das áreas de ciências humanas.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png'>
   <figcaption align='center'>
     <b>Figura 8: Tabela apresentando o curso dos não-usuários entrevistados</b>
     <br> 
@@ -322,7 +322,7 @@ Aplicativo de biblioteca |
 Com base nos dados coletados, as principais dificuldades foram categorizadas e associadas aos tópicos citados pelos não-usuários.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png'>
   <figcaption align='center'>
     <b>Figura 9: Tabela as dificuldades que os não-usuários atribuiram a biblioteca</b>
     <br> 
@@ -339,7 +339,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - 39% dos docentes possuíam de 1 a 5 anos de docência, enquanto que 27% possuíam 6 a 10 anos.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png'>
   <figcaption align='center'>
     <b>Figura 10: Gráfico apresentando o tempo de docência dos entrevistados</b>
     <br> 
@@ -352,7 +352,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - 46% eram docentes da área das ciências sociais, e 26% das ciências exatas.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png'>
   <figcaption align='center'>
     <b>Figura 11: Gráfico apresentando o grau e a formação dos entrevistados</b>
     <br> 
@@ -365,7 +365,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Durante a pesquisa de referências bibliográficas, 67% dos docentes preferem pesquisar utilizando sites abertos, 20% sites privados, e 13% preferem consultar outros docentes.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png'>
   <figcaption align='center'>
     <b>Figura 12: Gráfico apresentando os canais de obtenção de informação preferido pelos entrevistados</b>
     <br> 
@@ -378,7 +378,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Durante a pesquisa de referências bibliográficas, a maioria dos docentes busca periódicos científicos, livros e anais de congressos com maior frequência.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png'>
   <figcaption align='center'>
     <b>Figura 13: Gráfico apresentando a frequências que os entrevistados consumiam cada tipo de fonte de informação</b>
     <br> 
@@ -391,7 +391,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Entre os serviços ofertados pela BCE, os docentes apontaram que os utilizados com maior frequência (mensalmente) são: Portal de Periódicos da CAPES, Catálogo online da BCE e Biblioteca Digital de Teses e Dissertações.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png'>
   <figcaption align='center'>
     <b>Figura 14: Gráfico apresentando a frequências que os entrevistados utilizavam os serviços ofetados pela BCE</b>
     <br> 
@@ -404,7 +404,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Quando perguntado quais serviços os docentes recomendavam o uso a seus alunos, 15% recomendaram o Portal de Periódicos da CAPES, 14% o serviço de empréstimo, 14% os serviços de pesquisa de material e 12% o site da Biblioteca Digital de Teses e Dissertações.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png'>
   <figcaption align='center'>
     <b>Figura 15: Gráfico apresentando a quais serviços da BCE os docentes indicavam aos seus alunos</b>
     <br> 
@@ -417,7 +417,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Quando perguntado quais eram as principais dificuldades enfrentadas durante o uso dos serviços da BCE, foi descoberto que 42% dos docentes consideram o material bibliográfico disponível insuficiente e/ou desatualizado.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png'>
   <figcaption align='center'>
     <b>Figura 16: Gráfico apresentando as principais dificuldades enfrentadas pelos docentes durante o uso dos serviços da BCE</b>
     <br> 
@@ -430,7 +430,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Quando perguntado quais eram as principais barreiras que os docentes encontravam durante a realização de pesquisas online, foi apontado que 23% dos docentes tâm dificuldade para filtrar os grandes volumes de informação disponíveis, 23% não possuem tempo suficiente para realizar pesquisa de qualidade na internet, 18% consideram as interfaces dos sites de pesquisa bibliográficas difíceis de usar, e 12% consideram que as informações obtidas podem não ser confiáveis.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png'>
+  <img src='/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png'>
   <figcaption align='center'>
     <b>Figura 17: Gráfico apresentando as principais dificuldades durante a realização de pesquisas online</b>
     <br> 
@@ -443,7 +443,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Quando perguntado quais eram as principais dificuldades enfrentadas durante a utilização de bases de dados, 32% consideraram que as informações relevantes estão em base de dados pagas, 17% possuem dificuldade na escolha da base de dados, 17% possuem dificuldade na combinação dos termos e operadores.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png'>
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png'>
   <figcaption align='center'>
     <b>Figura 18: Gráfico apresentando as principais dificuldades durante a realização de pesquisas em bases de dados</b>
     <br> 
@@ -456,7 +456,7 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 - Quando perguntado sobre a exigência do acesso remoto as bases de dados, 80.2% dos docentes afirmam que o uso remoto é imprescindível.
 
 <p align="center">
-  <img src='docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png'>
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png'>
   <figcaption align='center'>
     <b>Figura 19: Tabela indicando quantos docentes identificam o recurso de acesso remoto a portais de base de dados como imprescindível</b>
     <br> 

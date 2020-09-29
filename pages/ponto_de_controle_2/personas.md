@@ -43,21 +43,21 @@ Vale lembrar que as imagens utilizadas nos cartões das personas não são de pe
 ## 3. Personas Primárias
 
 <p align="center">
-    <img src='docs/_media/images/persona_1.png'>
+    <img src='/_media/images/persona_1.png'>
     <figcaption align='center'>
         <b>Figura 1: Persona N° 1.</b> Fonte: Autor
   </figcaption>
 </p>
 
 <p align="center">
-    <img src='docs/_media/images/persona_2.png'>
+    <img src='/_media/images/persona_2.png'>
     <figcaption align='center'>
         <b>Figura 2: Persona N° 2</b> Fonte: Autor
   </figcaption>
 </p>
 
 <p align="center">
-    <img src='docs/_media/images/persona_3.png'>
+    <img src='/_media/images/persona_3.png'>
     <figcaption align='center'>
         <b>Figura 3: Persona N° 3</b> Fonte: Autor
   </figcaption>
@@ -67,7 +67,7 @@ Vale lembrar que as imagens utilizadas nos cartões das personas não são de pe
 ## 4. Persona Secundária
 
 <p align="center">
-    <img src='docs/_media/images/persona_4.png'>
+    <img src='/_media/images/persona_4.png'>
     <figcaption align='center'>
         <b>Figura 4: Persona N° 4</b> Fonte: Autor
   </figcaption>
@@ -76,7 +76,7 @@ Vale lembrar que as imagens utilizadas nos cartões das personas não são de pe
 ## 5. Persona de antiusuários
 
 <p align="center">
-    <img src='docs/_media/images/persona_5.png'>
+    <img src='/_media/images/persona_5.png'>
     <figcaption align='center'>
         <b>Figura 5: Persona N° 5</b> Fonte: Autor
   </figcaption>

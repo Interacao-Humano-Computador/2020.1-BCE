@@ -1,0 +1,16 @@
+- [**Ponto de Controle 1**](/pages/ponto_de_controle_1/escolha_site.md)
+  - [Escolha do site](/pages/ponto_de_controle_1/escolha_site.md)
+  - [Metodologia do projeto](/pages/ponto_de_controle_1/metodologia_do_projeto.md)
+  - [Planejamento do projeto](/pages/ponto_de_controle_1/planejamento_projeto.md)
+  - [Processo de design](/pages/ponto_de_controle_1/processo_design.md)
+  - [Apresentação PC 1](/pages/ponto_de_controle_1/apresentacao.md)
+  - [Log de atividades](/pages/ponto_de_controle_1/gerenciamento_do_projeto.md)
+
+- [**Ponto de Controle 2**](/pages/ponto_de_controle_2/perfil_usuario.md)
+  - [Perfil de Usuários](/pages/ponto_de_controle_2/perfil_usuario.md)
+  - [Personas](/pages/ponto_de_controle_2/personas.md)
+  - [Análise de Tarefas](/pages/ponto_de_controle_2/analise_tarefas.md)
+  - [Guia de estilo](/pages/ponto_de_controle_2/guia_de_estilo.md)
+
+- [**Ponto de Controle 3**](/pages/ponto_de_controle_3/principios_gerais.md)
+  - [Princípios Gerais](/pages/ponto_de_controle_3/principios_gerais.md)

@@ -59,7 +59,7 @@ Plano 0: faça 1 - 2 - 3 - 4.
 ### 2.2 Representação gráfica
 
 <p align='center'>
-    <img src='docs/_media/images/AHT_objetivo1.png'>
+    <img src='/_media/images/AHT_objetivo1.png'>
     <figcaption align='center'>
         <b>Figura 1: Representação gráfica do objetivo de agendamento de empréstimos.</b>
         <br> 
@@ -98,7 +98,7 @@ Plano 0: faça 1 - 2 - 3 - 4.
 <hr>
 
 <p align='center'>
-    <img src='docs/_media/images/AHT_objetivo2.png'>
+    <img src='/_media/images/AHT_objetivo2.png'>
     <figcaption align='center'>
         <b>Figura 2: Representação gráfica do objetivo de renovação do prazo de devolução</b>
         <br> 
