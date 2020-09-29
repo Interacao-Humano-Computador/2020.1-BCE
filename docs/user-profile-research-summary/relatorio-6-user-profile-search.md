@@ -20,14 +20,14 @@ Foram realizadas  análise  do  contexto  de  uso  do website com  seus  gestore
 
 Na avaliação de usabilidade do website da BCE, de acordo com a lista de verificação, as seguintes categorias foram marcadas:
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-6.1.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-6.1.png'>
 </p>
 
 Na avaliação de usabilidade do website da BCE, de acordo com os critérios heurísticos, os seguintes problemas foram identificados:
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-6.2.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-6.2.png'>
 </p>
 
 

@@ -20,16 +20,16 @@ Esta pesquisa é considerada do tipo descritiva, pois neste estudo será realiza
 
 Para o primeiro gráfico 86 foram consultados no total.
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.2.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.2.png'>
 </p>
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.3.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.3.png'>
 </p>
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.4.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.4.png'>
 </p>
 
 
@@ -46,8 +46,8 @@ Pretendia saber a quais eram os repositórios mais de acesso aberto utilizados
 * 1% Maswelll
 * 3% Outros
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.1.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.1.png'>
 </p>
 
 #### Pergunta 2:
@@ -63,8 +63,8 @@ Pretendia avaliar o uso das ferramentas de pesquisa na internet
 * Google acadêmico: maioria votou 5, ou seja, uso elevado.
 * Google: maioria votou 5, ou seja, uso elevado.
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.6.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.6.png'>
 </p>
 
 #### Pergunta 3:
@@ -77,8 +77,8 @@ Pretendia saber a qual era a frequencia de uso do RIUnB
 * 10,93% Semanalmente
 
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.7.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.7.png'>
 </p>
 
 #### Pergunta 4:
@@ -93,8 +93,8 @@ Pretendia avaliar o uso das ferramentas de pesquisa na internet
 * Encontrar assunto: a maioria votou 5, ou seja, muito por esse motivo.
 * Encontrar doc específicio: a maioria votou 5, ou seja, muito por esse motivo.
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.8.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.8.png'>
 </p>
 
 
@@ -108,8 +108,8 @@ Pretendia saber a quais eram os métodos de acesso ao RIUnB
 * 6,43% Base de dados
 * 2,47% Outros
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.9.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-17.9.png'>
 </p>
 
 

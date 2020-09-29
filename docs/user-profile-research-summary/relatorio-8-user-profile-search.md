@@ -30,8 +30,8 @@ A pesquisa exploratória teve como instrumento um questionário aplicado a um gr
 #### Estrutura organizacional
 Atualmente a estrutura organizacional da biblioteca é composta por cinco tipos de serviços subdivididos em 11 seções, subordinados a uma Diretoria, conforme mostra Figura 4:
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.1.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.1.png'>
 </p>
 
 #### Recursos humanos
@@ -128,26 +128,26 @@ A amostra é composta por 12 bibliotecários admitidos por concurso e por 10 bib
 
 Quanto à idade, a maioria (68,20%) possui entre 20 e 30 anos, seguidos pelos que possuem entre 41 a 50 anos (18,20%), de acordo com o Gráfico 1:
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png'>
 </p>
 
 A  Tabela 3 demonstra  que  a  maioria  é  do  sexo  feminino  (77,30%)  e  apenas (22,70%) é do sexo masculino
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png'>
 </p>
 
 A respeito do tempo de exercício profissional na BCE, constata-se que a maior parte dos respondentes (72,80%) tem no máximo 5 anos de serviço, conforme Gráfico 2
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.4.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.4.png'>
 </p>
 
 Em relação ao grau de escolaridade, grande parte dos bibliotecários são graduados em biblioteconomia na UnB (63,70%); 1 bibliotecário (4,50%) égraduado em biblioteconomia e em letras e possui especialização em gestão da informação; 5 bibliotecários (22,70%) possuem especialização nas áreas de gestão universitária, gestão da informação, conservação e restauração de documentos, preservação digitale biblioteconomia; 2 bibliotecários (9,10%) possuem especialização (1 na área de biblioteconomia e 1 em marketing da informação) e mestrado em ciência da informação, de acordo com a Tabela 4:
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png'>
 </p>
 
 Quando perguntado quais seriam as principais dificuldades na implementação de estratégias de marketing no âmbito da BCE, 28.90% dos entrevistados apontou a limitação de recursos financerios, 26.70% número insuficiente de pessoal e 20% despreparo da equipe.
@@ -188,7 +188,7 @@ Quando perguntado quais novas estratégias podiam ser usadas, as seguintes estra
 * Desenvolvimento  de  programas  de  letramento  informacional  e  alfabetização digital juntamente com os departamentos, levando a um maior contato com os usuários.
 * Campanhas  educativas  por  meio  da  divulgação  dos  serviços  e  produtos  da BCE em eventos da UnB.
 * Telões  em  locais  visíveis  da  universidade,  contendo  informações  básicas  e importantes sobre a BCE, seus serviços e produtos.
-* Elaboração de um "guia do usuário" da BCE em formato impresso e digital.
+* Elaboração de um 'guia do usuário' da BCE em formato impresso e digital.
 * Criação  e  inclusão  de  um  guia  sobre  os  serviços  e  produtosda  BCE  no  kit que os calouros ganham ao entrar na UnB, no 1° semestre de curso.
 * Ampliação  da  divulgação  dos  produtos  e  serviços  oferecidos  pela  BCE diretamente nos departamentos, institutos e faculdades da UnB
 

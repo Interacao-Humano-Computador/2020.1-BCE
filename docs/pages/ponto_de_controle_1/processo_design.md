@@ -8,7 +8,7 @@
 
 
 ## 1. Introdução
-<div align="justify">
+<div align='justify'>
 Segundo Simone Barbosa (1999), o processo de design envolve três atividades básicas: identificação do problema, criação de uma proposta de intervenção e avaliação da intervenção. Entre os vários processos existentes, cada um detalha as atividades básicas de forma diferente e define como executar cada tarefa, a sequência em que devem ser executadas, os artefatos necessários para cada uma e os produzidos por elas. Todos os processos de design possuem uma característica comum que é a execução de atividades de forma interativa, permitindo refinamentos sucessivos da análise da situação atual e da proposta de intervenção. 
 
 ## 2. Objetivo
@@ -24,7 +24,7 @@ Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizado
 
 Proposto por Deborah Mayhew (1999), esse ciclo de vida possui uma visão holística e apresenta três fases principais que devem ser seguidas durante o processo iterativo.
 <p align='center'>
-    <img src='_media/images/ciclo_mayhew.png'>
+    <img src='/docs/_media/images/ciclo_mayhew.png'>
 </p>
 
 - **Análise de requisitos**
@@ -41,7 +41,7 @@ Na terceira e última fase do ciclo, é feita a coleta de opiniões dos usuário
 No  ciclo de vida em estrela a ordem das atividades é decisão do designer, que leva em consideração os recursos disponíveis no momento de iniciar o projeto. Segundo os autores Hix e Hartson (1993), o ciclo divide-se em quatro atividades principais: 
 
 <p align='center'>
-    <img src='_media/images/ciclo_estrela.png'>
+    <img src='/docs/_media/images/ciclo_estrela.png'>
 </p>
 
 - **Análise de tarefas, usuários e funções**
@@ -114,7 +114,7 @@ A solução projetada passa pelo processo base de prototipação e teste com usu
 Os cenários refletem de forma descrita a sequência de ações de um usuário durante a execução de uma tarefa, eles descrevem hipóteses de uso do sistema. Este modelo prevê a criação de vários cenários e, assim, possibilitar à equipe de design imaginar diferentes situações e gerar ideias de design. As atividades deste ciclo se dividem em três:
 
 <p align='center'>
-    <img src='_media/images/ciclo_cenarios.png'>
+    <img src='/docs/_media/images/ciclo_cenarios.png'>
 </p>
 
 - **Análise do problema**
@@ -131,7 +131,7 @@ A fase final consiste em prototipar a solução proposta pela equipe de design q
 O modelo de design dirigido por objetivos vai se pautar na criação de uma solução de design que foca em auxiliar o usuário a atingir seus objetivos. Este ciclo visa explorar as tecnologias em favor dos usuários e da alcance de seus objetivos. As atividades bases são divididas da seguinte maneira:
 
 <p align='center'>
-    <img src='_media/images/ciclo_objetivos.png'>
+    <img src='/docs/_media/images/ciclo_objetivos.png'>
 </p>
 
 - **Pesquisar**
@@ -156,7 +156,7 @@ Com todo o projeto de interfaces em mãos, esta fase propõe que a equipe de des
 O modelo de design centrado na comunicação entende a interação humano-computador como um processo de comunicação entre o usuário e a equipe de design, de modo que o uso da interface releve as intenções de quem a desenhou e os princípios interativos. Este ciclo é projetado para evitar o surgimento das dúvidas dos usuários e tem suas atividades bases divididas em três:
 
 <p align='center'>
-    <img src='_media/images/ciclo_comunicacao.png'>
+    <img src='/docs/_media/images/ciclo_comunicacao.png'>
 </p>
 
 - **Análise:**

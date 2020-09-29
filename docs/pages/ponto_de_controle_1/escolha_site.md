@@ -7,14 +7,14 @@
 | 11.09.2020 | 0.2 | Revisão do documento | Durval Carvalho |
 | 18.09.2020 | 0.3 | Rafatoração de formatação | Rafaella Junqueira |
 <br/>
-<p align="justify">
+<p align='justify'>
 
 ## Contexto
 Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações heurísticas, conforme demostrado a seguir.
 </p>
 
 ## SP Trans
-<div align="justify"> 
+<div align='justify'> 
 A São Paulo Transportes é a sociedade econômica mista controlada pelo município de São Paulo e tem por finalidade ​a gestão do sistema de transporte público por ônibus em São Paulo. O site denominado SPTrans é o portal de informações gerais para fornecer dados a respeito do transporte público da cidade de São Paulo.
 
 O escopo da avaliação foi restringido para à área intitulada no portal como “Canal do Estudante” e suas funcionalidades, que incluem:
@@ -28,7 +28,7 @@ A avaliação heurística para este site permitiu a identificação de oportunid
 </div>
 
 ## BCE - Biblioteca Central da UnB
-<div align="justify">
+<div align='justify'>
 A Universidade de Brasília foi a primeira universidade brasileira a implantar o conceito de Biblioteca Central Universitária, opondo-se ao antieconômico sistema de pequenas bibliotecas dispersas em Departamentos, Faculdades e Institutos. (NASSER, HIGINO, 2007).
 
 A Biblioteca Central tem o objetivo de atender aos diversos segmentos da Univeridade de Brasília em suas necessidades de documentação e informação nas áreas do conhecimento específico de sua atuação, contribuindo para a qualidade da eduação, da pesquisa e da extensão. (NASSER, HIGINO, 2007).
@@ -44,7 +44,7 @@ A avaliação heurística para este site permitiu a identificação de oportunid
 </div>
 
 ## Zara
-<div align="justify"> 
+<div align='justify'> 
 A Zara é uma rede de lojas de roupas e acessórios para o público feminino, masculino e infantil com sede na Espanha. Pertencente ao Grupo Inditex, recentemente a marca foi avaliada em aproximadamente 25.1 milhões de dólares pelo ranking BrandZ, considerada a marca mais valiosa da Espanha. 
 
 Pesquisas realizadas demonstram que compras online aumentaram em 71% durante o atual cenário de pandemia que vivemos. Dados mostram que os principais fatores que diferenciam as lojas virtuais são facilidade de navegação, entrega feita no mesmo dia e peças modernas.
@@ -54,7 +54,7 @@ A avaliação heurística realizada neste site apresentou problemas relacionados
 
 ## SAE
 
-<div align="justify">
+<div align='justify'>
 
 O Projeto SAE é originário de pesquisas envolvendo professores e estudantes de três instituições brasileiras
 de ensino superior (UCB, UFRGS e PUC-RS), que objetiva empregar recursos tecnológicos adequados a
@@ -85,7 +85,7 @@ Após análise das heurísticas, foi identificado que a maior parte dos problema
 
 ## Conclusão
 
-<div align="justify">
+<div align='justify'>
 
 Segundo os critérios propostos nas 10 (dez) heurísticas de Nielsen (2000) e utilizadas nas avaliações feitas, todos os sites apresentaram oportunidades de melhoria em vários aspectos de usabilidade. Entretanto, algumas barreiras foram encontradas principalmente em relação às informações de usuários.
 

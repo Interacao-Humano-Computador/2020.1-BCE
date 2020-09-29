@@ -7,11 +7,11 @@
 | 18.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
 | 22.09.2020 |  0.3   | Adição de novas informações | Durval Carvalho |
 
-<div align="justify">
+<div align='justify'>
 
 ## 1. Introdução
 
-Esse documento visa explorar as caracteristicas de usuários e não usuários dos sistemas de BCE. O primeiro passo para ampliar o entendimento a respeito dos usuários é traçar um perfil deles. Assim, perguntas como: "quem são eles?", "quais seus objetivos?", "qual o grau de escolaridade deles?", e outras, nos ajudarão a entender a quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para atividades de análise e avaliação. (Courage e Baxter, 2005; Hackos e Redish, 1998).
+Esse documento visa explorar as caracteristicas de usuários e não usuários dos sistemas de BCE. O primeiro passo para ampliar o entendimento a respeito dos usuários é traçar um perfil deles. Assim, perguntas como: 'quem são eles?', 'quais seus objetivos?', 'qual o grau de escolaridade deles?', e outras, nos ajudarão a entender a quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para atividades de análise e avaliação. (Courage e Baxter, 2005; Hackos e Redish, 1998).
 
 Perfil de usuário é uma descrição detalhada das caracteristicas dos usuários. Devemos identificar as caracteristicas de interesses, como cargo, função, experiência, nível de instrução, atividades principais, faixa etária e outras caracteristicas etnográficas. Esses dados geralmente são coletados através de entrevistas e aplicação de questionários.
 
@@ -23,7 +23,7 @@ Esse documento tem como objetivo documentar os perfis de usários encontrados du
 
 Um dos motivos para escolha da BCE como escopo do projeto, foi a imensa quantidade de pesquisas a respeito dos usuários de sistemas de informação de suporte a pesquisa acadêmica. Esses sistemas são diversos, dentre eles o portal do CAPES, base de dados públicas e privadas, acervo digital, Biblioteca Digital de Teses e Dissertações (BDTD) e o site da BCE. Todos esses sistemas são potencialmente usados quando usuários acadêmicos realizam pesquisas acadêmicas, e provavelmente compartilham do mesmo grupo de usuários.
 
-Partindo desse pressuposto, foram realizadas pesquisas por artigos, dissertações e teses de conclusão de curso que expunham temas relacionados a "bibliotecas universitárias", "usabilidade", "pesquisa acadêmica", "BCE", "UnB" e outras palavras-chave relacionadas ao tema.
+Partindo desse pressuposto, foram realizadas pesquisas por artigos, dissertações e teses de conclusão de curso que expunham temas relacionados a 'bibliotecas universitárias', 'usabilidade', 'pesquisa acadêmica', 'BCE', 'UnB' e outras palavras-chave relacionadas ao tema.
 
 O resultado dessa pesquisa foram os 14 documentos a seguir:
 - Computação em nuvem: estudo sobre o uso e implementação na visão dos bibliotecários da BCE/UnB/Gessyca da Silva Lago. – 2014.
@@ -64,32 +64,32 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 
 - 47% dos bibliotecários ocupavam o cargo há menos 2 anos. LAGO (2014)
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png' />
 </p>
 
 <hr>
 
 - 68.2% dos bibliotecários estavam na faixa etária de 20 a 30 anos. ROCHA (2012)
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png'>
 </p>
 
 <hr>
 
 - A maioria dos bibliotecários era do sexo feminino (77,30%) e apenas 22,70% do sexo masculino. ROCHA (2012)
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png'>
 </p>
 
 <hr>
 
 - A maioria dos bibliotecários possuía somente a graduação como formação acadêmica (63.70%). ROCHA (2012)
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png'>
 </p>
 
 - Quando perguntado sobre quais seriam as principais dificuldades durante a implementação de novos programas, 28.90% apontaram alto custo, e 26.70% apontaram o número insuficiente de pessoal. ROCHA (2012)
@@ -109,8 +109,8 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 - 74% dos bibliotecários auto avaliaram-se com facilidade na utilização de Tecnologias de Informação e Comunicação (TIC). LAGO (2014);
 - 16% afirmaram ter dificuldades. LAGO (2014)
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png'>
 </p>
 
 <hr>
@@ -147,8 +147,8 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 
 - Email, Bases de Dados, Editores de Documentos e Biblioteca Digital foram os recursos de TIC apontados como mais usados. LAGO (2014)
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png'>
 </p>
 
 <hr>
@@ -192,16 +192,16 @@ Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usu�
 
 - 49.5% dos não usuários possuem idade entre 20 a 22 anos. E 48.5% dos não-usuários estão entre o 3º e 4º ano de seus cursos.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png'>
 </p>
 
 <br><br><hr>
 
 - 64% dos não-usuários estão matriculados em cursos das áreas de ciências humanas.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png'>
 </p>
 
 <br><br><hr>
@@ -239,8 +239,8 @@ Aplicativo de biblioteca |
 
 Com base nos dados coletados, as principais dificuldades foram categorizadas e associadas aos tópicos citados pelos não-usuários.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png'>
 </p>
 
 <hr>
@@ -251,80 +251,80 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
 
 - 39% dos docentes possuíam de 1 a 5 anos de docência, enquanto que 27% possuíam 6 a 10 anos.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png'>
 </p>
 
 <hr>
 
 - 46% eram docentes da área das ciências sociais, e 26% das ciências exatas.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png'>
 </p>
 
 <hr>
 
 - Durante a pesquisa de referências bibliográficas, 67% dos docentes preferem pesquisar utilizando sites abertos, 20% sites privados, e 13% preferem consultar outros docentes.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png'>
 </p>
 
 <hr>
 
 - Durante a pesquisa de referências bibliográficas, a maioria dos docentes busca periódicos científicos, livros e anais de congressos com maior frequência.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png'>
 </p>
 
 <hr>
 
 - Entre os serviços ofertados pela BCE, os docentes apontaram que os utilizados com maior frequência (mensalmente) são: Portal de Periódicos da CAPES, Catálogo online da BCE e Biblioteca Digital de Teses e Dissertações.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png'>
 </p>
 
 <hr>
 
 - Quando perguntado quais serviços os docentes recomendavam o uso a seus alunos, 15% recomendaram o Portal de Periódicos da CAPES, 14% o serviço de empréstimo, 14% os serviços de pesquisa de material e 12% o site da Biblioteca Digital de Teses e Dissertações.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png'>
 </p>
 
 <hr>
 
 - Quando perguntado quais eram as principais dificuldades enfrentadas durante o uso dos serviços da BCE, foi descoberto que 42% dos docentes consideram o material bibliográfico disponível insuficiente e/ou desatualizado.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png'>
 </p>
 
 <hr>
 
 - Quando perguntado quais eram as principais barreiras que os docentes encontravam durante a realização de pesquisas online, foi apontado que 23% dos docentes tâm dificuldade para filtrar os grandes volumes de informação disponíveis, 23% não possuem tempo suficiente para realizar pesquisa de qualidade na internet, 18% consideram as interfaces dos sites de pesquisa bibliográficas difíceis de usar, e 12% consideram que as informações obtidas podem não ser confiáveis.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png'>
 </p>
 
 <hr>
 
 - Quando perguntado quais eram as principais dificuldades enfrentadas durante a utilização de bases de dados, 32% consideraram que as informações relevantes estão em base de dados pagas, 17% possuem dificuldade na escolha da base de dados, 17% possuem dificuldade na combinação dos termos e operadores.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png'>
 </p>
 
 <hr>
 
 - Quando perguntado sobre a exigência do acesso remoto as bases de dados, 80.2% dos docentes afirmam que o uso remoto é imprescindível.
 
-<p align="center">
-  <img src="_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png">
+<p align='center'>
+  <img src='/docs/_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png'>
 </p>
 
 <hr>
