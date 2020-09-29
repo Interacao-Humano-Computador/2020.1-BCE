@@ -6,13 +6,9 @@
   <title>BCE - Biblioteca Central da UnB</title>
   <meta name='description' content='Avaliação das Interfaces do site da BCE'>
   <meta name='viewport' content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0'>
-  <link rel='icon' href='_media/favicon.ico'>
+  <link rel='icon' href='docs/_media/favicon.ico'>
   
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css'>
-  <!-- <link rel='stylesheet' href='https://unpkg.com/docsify-sidebar-collapse@1.1.5/src/sidebar.css' /> -->
-  <!-- <link rel='stylesheet' href='http://127.0.0.1:5500/src/style.css' /> -->
-  <!-- <link rel='stylesheet' href='assets/css/sidebar-arrow.css' /> -->
-  <link rel='stylesheet' href='assets/css/sidebar-folder.css' />
 </head>
 
 <body>
@@ -25,17 +21,19 @@
     repo: 'Interacao-Humano-Computador/2020.1-BCE',
     name: 'Home',
     auto2top: true,
-    loadSidebar: true,
-    index: 'docs/index.html',
-    logo: '/_media/logos/unb-logo.png',
-    basePath: 'https://interacao-humano-computador.github.io/2020.1-BCE/',
-    alias: {
-      '/.*/_sidebar.md': '/_sidebar.md',
-    },
-
+    
+    basePath:    'https://interacao-humano-computador.github.io/2020.1-BCE/',
+    loadSidebar: 'docs/_sidebar.md',
+    index:       'docs/index.html',
+    logo:        'docs/_media/logos/unb-logo.png',
+    coverpage:   'docs/_coverpage.md',
+    
+    // alias: {
+    //   '/.*/_sidebar.md': '/_sidebar.md',
+    // },
+    
     relativePath: true,
     subMaxLevel: 1,
-    coverpage: true,
     search: {
       noData: {
         '/': 'No results!'
