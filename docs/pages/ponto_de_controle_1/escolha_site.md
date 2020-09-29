@@ -6,6 +6,7 @@
 | 10.09.2020 | 0.1 | Documentação da escolha do site para o projeto | Rafaella Junqueira |
 | 11.09.2020 | 0.2 | Revisão do documento | Durval Carvalho |
 | 18.09.2020 | 0.3 | Rafatoração de formatação | Rafaella Junqueira |
+
 <br/>
 <p align="justify">
 
