@@ -17,7 +17,7 @@ A primeira atividade feita foi a definição dos templates de issues, pull reque
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/2' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue2.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue2.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 1: Descrição da issue N° 2</b>
@@ -29,7 +29,7 @@ A segunda atividade feita foi a criação e configuração do ambiente de docume
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/1' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue1.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue1.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 2: Descrição da issue N° 1</b>
@@ -41,7 +41,7 @@ A primeira reunião foi feita no dia 02/09/20, e foi discutido a escolha do site
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/12' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue12.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue12.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 3: Descrição da reunião N° 1</b>
@@ -54,7 +54,7 @@ A segunda reunião foi feita no dia 04/09/20, e foi discutido quais atividades s
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/9' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue9.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue9.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 4: Descrição da reunião N° 2</b>
@@ -66,7 +66,7 @@ A terceira atividade feita foi a configuração do Github Projects, para funcion
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/15' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue15.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue15.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 5: Descrição da issue N° 15</b>
@@ -76,7 +76,7 @@ A terceira atividade feita foi a configuração do Github Projects, para funcion
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/projects/1' target='_blank'>
-        <img src='/docs/_media/assets/images/github/kanban.png'>
+        <img src='docs/_media/assets/images/github/kanban.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 6: Quadro Kanban do projeto</b>
@@ -88,7 +88,7 @@ A quarta atividade feita foi o documento de metodologia do projeto.
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/3' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue3.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue3.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 7: Descrição da issue N° 3</b>
@@ -100,7 +100,7 @@ A terceira reunião ocorreu no dia 09/09/20 e foi discutido o andamento da prime
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/17' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue17.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue17.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 8: Descrição da reunião N° 3</b>
@@ -120,7 +120,7 @@ A quinta atividade feita foi a entrega do documento de análise individuais do s
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/8' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue8.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue8.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 10: Descrição da issue N° 8</b>
@@ -132,7 +132,7 @@ A quarta reunião ocorreu no dia 11/09/20 para discutir o andamento da primeira 
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/10' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue20.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue20.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 11: Descrição da reunião N° 4</b>
@@ -144,7 +144,7 @@ A sexta atividade feita foi a definição das ferramentas que o grupo irá utili
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/10' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue10.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue10.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 12: Descrição da issue N° 10</b>
@@ -156,7 +156,7 @@ A sétima atividade feita foi a entrega do documento de planejamento. Esse docum
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/4' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue4.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue4.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 13: Descrição da issue N° 4</b>
@@ -168,7 +168,7 @@ A oitava atividade feita foi a documentação dos resultado da sprint. A sprint 
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/14' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue14.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue14.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 14: Documentação da Sprint Nº 1</b>
@@ -180,7 +180,7 @@ A quinta reunião ocorreu no dia 14/09/20 para definição de quais atividades s
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/28' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue28.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue28.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 14: Descrição da reunião N° 5</b>
@@ -192,7 +192,7 @@ A nona atividade feita foi a organização dos documentos do github pages. A pri
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/22' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue22.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue22.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 15: Descrição da issue N° 22</b>
@@ -204,7 +204,7 @@ A sexta reunião ocorreu no dia 16/09/20 para analisar o andamento da segunda sp
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/31' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue31.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue31.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 16: Descrição da reunião N° 6</b>
@@ -216,7 +216,7 @@ A décima atividade feita foi o documento do processo de design. Nessa documento
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/11' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue11.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue11.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 17: Descrição da issue N° 11</b>
@@ -228,7 +228,7 @@ A atividade N° 11 feita foi a migração do MkDocs para o Docsify. Os integrant
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/35' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue35.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue35.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 18: Descrição da issue N° 35</b>
@@ -240,7 +240,7 @@ A atividade N° 12 feita foi a entrega da segunda versão do documento de planej
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/23' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue23.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue23.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 19: Descrição da issue N° 23</b>
@@ -252,7 +252,7 @@ A atividade N° 13 feita foi a entrega dos slides da apresentação do projeto.
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/13' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue13.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue13.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 20: Descrição da issue N° 13</b>
@@ -264,7 +264,7 @@ A sétima reunião ocorreu no dia 18/09/20 para gravação da apresentação do 
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/39' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue39.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue39.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 21: Descrição da reunião N° 7</b>
@@ -276,7 +276,7 @@ A atividade N° 14 feita foi a entrega do vídeo da apresentação editado.
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/27' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue27.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue27.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 22: Descrição da issue N° 27</b>
@@ -288,7 +288,7 @@ A atividade N° 15 feita foi a entrega do documento de gerenciamento do projeto,
 
 <p align='center'>
     <a href='https://github.com/Interacao-Humano-Computador/2020.1-BCE/issues/40' target='_blank'>
-        <img src='/docs/_media/assets/images/github/pc1-issue40.png'>
+        <img src='docs/_media/assets/images/github/pc1-issue40.png'>
     </a>
     <figcaption align='center'>
         <b>Figura 23: Descrição da issue N° 40</b>
