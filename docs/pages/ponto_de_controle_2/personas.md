@@ -6,6 +6,7 @@
 | 24.09.2020 |  0.1   | Criação do documento de personas | Durval Carvalho |
 | 25.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
 | 26.09.2020 |  0.3   | Correção de erros ortográficos | Durval Carvalho |
+| 28.09.2020 |  0.4   | Adição de legendas nas imagens | Durval Carvalho |
 
 <div align='justify'>
     
@@ -41,29 +42,44 @@ Vale lembrar que as imagens utilizadas nos cartões das personas não são de pe
 
 ## 3. Personas Primárias
 
-<p align='center'>
+<p align="center">
     <img src='/docs/_media/images/persona_1.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Persona N° 1.</b> Fonte: Autor
+  </figcaption>
 </p>
 
-<p align='center'>
+<p align="center">
     <img src='/docs/_media/images/persona_2.png'>
+    <figcaption align='center'>
+        <b>Figura 2: Persona N° 2</b> Fonte: Autor
+  </figcaption>
 </p>
 
-<p align='center'>
+<p align="center">
     <img src='/docs/_media/images/persona_3.png'>
+    <figcaption align='center'>
+        <b>Figura 3: Persona N° 3</b> Fonte: Autor
+  </figcaption>
 </p>
 
 
 ## 4. Persona Secundária
 
-<p align='center'>
+<p align="center">
     <img src='/docs/_media/images/persona_4.png'>
+    <figcaption align='center'>
+        <b>Figura 4: Persona N° 4</b> Fonte: Autor
+  </figcaption>
 </p>
 
 ## 5. Persona de antiusuários
 
-<p align='center'>
+<p align="center">
     <img src='/docs/_media/images/persona_5.png'>
+    <figcaption align='center'>
+        <b>Figura 5: Persona N° 5</b> Fonte: Autor
+  </figcaption>
 </p>
 
 </div>

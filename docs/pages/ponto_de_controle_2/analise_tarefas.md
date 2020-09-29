@@ -58,13 +58,18 @@ Plano 0: faça 1 - 2 - 3 - 4.
     
 ### 2.2 Representação gráfica
 
-#### 2.2.1 Representação gráfica do objetivo de agendamento de empréstimos.
-
 <p align='center'>
     <img src='/docs/_media/images/AHT_objetivo1.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Representação gráfica do objetivo de agendamento de empréstimos.</b>
+        <br> 
+        Fonte: Elaboração própria
+    </figcaption>
 </p>
 
-<p text-align='right'>
+<hr>
+
+<p text-align="right">
 
 |        Objetivos/ operações       | Problemas e recomendações |
 |:---------------------------------:|:-------------------------:|
@@ -83,23 +88,38 @@ Plano 0: faça 1 - 2 - 3 - 4.
 | 3.2 Insira CPF e senha | <p align='left'> **Feedback**: após confirmar, será redirecionado para a área de perfil do usuário.**Problema**: quando direcionado para a área de perfil após fazer login, não existem meios de retornar à busca, é preciso retornar para a página principal do site direto pela barra URL.**Recomendações**: a logo da UnB à esquerda poderia redirecionar o usuário para a página incial, onde é possível realizar a busca por materiais. </p>|
 | 3.3 Clique em 'login' | <p align='left'> **Input**: caso tenha realizado a pesquisa e queira reservar um livro mas não tenha realizado login, clique sobre o botão 'fechar' do *pop-up* com as informações de localização e tipo do livro que estará aberta. Em seguida clique no botão 'login' no canto superior direito. <br>**Feedback**: aparecerá um *pop-up* solicitando informações cadastrais. Após confirmação, aparecerá o nome do usuário no canto superior direito em uma barra verde. </p>|
 
+<figcaption align='center'>
+    <b>Tabela 1: Problemas encontrados durante a análise da tarefa de agendamento de empréstimos</b>
+    <br> 
+    Fonte: Elaboração própria
+</figcaption>
 </p>
 
-Representação gráfica do objetivo de renovação do prazo de devolução.
+<hr>
 
 <p align='center'>
     <img src='/docs/_media/images/AHT_objetivo2.png'>
+    <figcaption align='center'>
+        <b>Figura 2: Representação gráfica do objetivo de renovação do prazo de devolução</b>
+        <br> 
+        Fonte: Elaboração própria
+    </figcaption>
 </p>
 
 | Objetivos/ operações | Problemas e recomendações |
 |:--------------------:|:-------------------------:|
 | 0. Renovar prazo de devolução | - |
-| 1. Realize login de acesso | <p align='left'> **Input**: acesse a página inicial da BCE. </p> |
-| 1.1 Clique em 'minha conta' | <p align='left'> **Feedback**: será redirecionado para a área de autenticação da CPF e senha. </p>|
-| 1.2 Insira CPF e senha | <p align='left'> **Feedback**: será redirecionado para a área de perfil do usuário. </p>|
-| Identifique o livro desejado na área 'títulos pendentes'. | <p align='left'> **Feedback**: assim que entrar na área de perfil do usuário haverá as informações sobre livros emprestados e ainda não devolvidos. Ao lado de todos haverá o botão 'renovar'. </p>|
-| 3. Clique em 'Renovar' | <p align='left'> **Feedback**: aparecerá um *pop-up* informando o status de renovação, aprovada ou não. </p>| 
-| 4. Verifique o status de renovação realizada | <p align='left'> **Feedback**: aparecerá uma mensagem indicando renovação ou não do livro e a opção de enviar comprovante por email.</p>|
+| 1. Realize login de acesso | <p align="left"> **Input**: acesse a página inicial da BCE. </p> |
+| 1.1 Clique em "minha conta" | <p align="left"> **Feedback**: será redirecionado para a área de autenticação da CPF e senha. </p>|
+| 1.2 Insira CPF e senha | <p align="left"> **Feedback**: será redirecionado para a área de perfil do usuário. </p>|
+| Identifique o livro desejado na área "títulos pendentes". | <p align="left"> **Feedback**: assim que entrar na área de perfil do usuário haverá as informações sobre livros emprestados e ainda não devolvidos. Ao lado de todos haverá o botão "renovar". </p>|
+| 3. Clique em "Renovar" | <p align="left"> **Feedback**: aparecerá um *pop-up* informando o status de renovação, aprovada ou não. </p>| 
+| 4. Verifique o status de renovação realizada | <p align="left"> **Feedback**: aparecerá uma mensagem indicando renovação ou não do livro e a opção de enviar comprovante por email.</p>|
+<figcaption align='center'>
+    <b>Tabela 2: Problemas encontrados durante a análise da tarefa de renovação do prazo de devolução</b>
+    <br> 
+    Fonte: Elaboração própria
+</figcaption>
 
 <br>
 
