@@ -25,13 +25,11 @@ Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizado
 
 Proposto por Deborah Mayhew (1999), esse ciclo de vida possui uma visão holística e apresenta três fases principais que devem ser seguidas durante o processo iterativo.
 
-<p align='center'>
-    <img src='/_media/images/ciclo_mayhew.png'>
-    <figcaption align='center'>
-        <b>Figura 1: Atividades básicas proposta pelo ciclo de Mayhew</b>
-        <br><small>Fonte: BARBOSA (2010)</small>
-    </figcaption>
-</p>
+![](/_media/images/ciclo_mayhew.png)
+<figcaption align='center'>
+    <b>Figura 1: Atividades básicas proposta pelo ciclo de Mayhew</b>
+    <br><small>Fonte: BARBOSA (2010)</small>
+</figcaption>
 
 - **Análise de requisitos**
 A análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto. 
@@ -46,13 +44,11 @@ Na terceira e última fase do ciclo, é feita a coleta de opiniões dos usuário
 ### 4.2  Ciclo de Vida em Estrela
 No  ciclo de vida em estrela a ordem das atividades é decisão do designer, que leva em consideração os recursos disponíveis no momento de iniciar o projeto. Segundo os autores Hix e Hartson (1993), o ciclo divide-se em quatro atividades principais: 
 
-<p align='center'>
-    <img src='/_media/images/ciclo_estrela.png'>
-    <figcaption align='center'>
-        <b>Figura 2: Atividades básicas proposta pelo ciclo vida em Estrela</b>
-        <br><small>Fonte: BARBOSA (2010)</small>
-    </figcaption>
-</p>
+![](/_media/images/ciclo_estrela.png)
+<figcaption align='center'>
+    <b>Figura 2: Atividades básicas proposta pelo ciclo vida em Estrela</b>
+    <br><small>Fonte: BARBOSA (2010)</small>
+</figcaption>
 
 - **Análise de tarefas, usuários e funções**
 Esta atividade visa identificar e compreender os problemas da situação atual, levantamento das necessidades e das oportunidades de melhoria
@@ -123,13 +119,11 @@ A solução projetada passa pelo processo base de prototipação e teste com usu
 ### 4.5 Design Baseado em Cenários
 Os cenários refletem de forma descrita a sequência de ações de um usuário durante a execução de uma tarefa, eles descrevem hipóteses de uso do sistema. Este modelo prevê a criação de vários cenários e, assim, possibilitar à equipe de design imaginar diferentes situações e gerar ideias de design. As atividades deste ciclo se dividem em três:
 
-<p align='center'>
-    <img src='/_media/images/ciclo_cenarios.png'>
-    <figcaption align='center'>
-        <b>Figura 3: Atividades básicas proposta pela Processo de Design Baseado em Cenários</b>
-        <br><small>Fonte: BARBOSA (2010)</small>
-    </figcaption>
-</p>
+![](/_media/images/ciclo_cenarios.png)
+<figcaption align='center'>
+    <b>Figura 3: Atividades básicas proposta pela Processo de Design Baseado em Cenários</b>
+    <br><small>Fonte: BARBOSA (2010)</small>
+</figcaption>
 
 - **Análise do problema**
 Estudar a situação atual com auxílio de todos os interessados no sistema, desde usuários à mantenedores e clientes, 
@@ -144,13 +138,11 @@ A fase final consiste em prototipar a solução proposta pela equipe de design q
 ### 4.6 Design Dirigido por Objetivos
 O modelo de design dirigido por objetivos vai se pautar na criação de uma solução de design que foca em auxiliar o usuário a atingir seus objetivos. Este ciclo visa explorar as tecnologias em favor dos usuários e da alcance de seus objetivos. As atividades bases são divididas da seguinte maneira:
 
-<p align='center'>
-    <img src='/_media/images/ciclo_objetivos.png'>
-    <figcaption align='center'>
-        <b>Figura 4: Atividades básicas proposta pela Processo de Design Dirigido por Objetivos</b>
-        <br><small>Fonte: BARBOSA (2010)</small>
-    </figcaption>
-</p>
+![](/_media/images/ciclo_objetivos.png)
+<figcaption align='center'>
+    <b>Figura 4: Atividades básicas proposta pela Processo de Design Dirigido por Objetivos</b>
+    <br><small>Fonte: BARBOSA (2010)</small>
+</figcaption>
 
 - **Pesquisar**
 A atividade inicial está relacionada ao conhecimento da equipe de design sobre o usuário e seu contexto de uso. É realizada uma pesquisa sobre as motivações do usuário, a maneira como ele lida com artefatos do sistema, seus objetivos e seu comportamento em geral.
@@ -173,13 +165,11 @@ Com todo o projeto de interfaces em mãos, esta fase propõe que a equipe de des
 ### 4.7 Design Centrado na Comunicação
 O modelo de design centrado na comunicação entende a interação humano-computador como um processo de comunicação entre o usuário e a equipe de design, de modo que o uso da interface releve as intenções de quem a desenhou e os princípios interativos. Este ciclo é projetado para evitar o surgimento das dúvidas dos usuários e tem suas atividades bases divididas em três:
 
-<p align='center'>
-    <img src='/_media/images/ciclo_comunicacao.png'>
-    <figcaption align='center'>
-        <b>Figura 5: Atividades básicas proposta pela Processo de Design Centrado na Comunicação</b>
-        <br><small>Fonte: BARBOSA (2010)</small>
-    </figcaption>
-</p>
+![](/_media/images/ciclo_comunicacao.png)
+<figcaption align='center'>
+    <b>Figura 5: Atividades básicas proposta pela Processo de Design Centrado na Comunicação</b>
+    <br><small>Fonte: BARBOSA (2010)</small>
+</figcaption>
 
 - **Análise:**
 Esta atividade inicializa o ciclo com o objetivo de analisar como cada envolvido, de forma pessoal, interpreta o contexto de uso. Além de avaliar o entendimento compartilhado da situação e criar um esboço sobre a comunicação desejada entre designer e usuário. 

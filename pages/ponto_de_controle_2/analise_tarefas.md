@@ -97,13 +97,12 @@ Plano 0: faça 1 - 2 - 3 - 4.
 
 <hr>
 
-<p align='center'>
-    <img src='/_media/images/AHT_objetivo2.png'>
-    <figcaption align='center'>
-        <b>Figura 2: Representação gráfica do objetivo de renovação do prazo de devolução</b>
-        <br> 
-        Fonte: Elaboração própria
-    </figcaption>
+![](/_media/images/AHT_objetivo2.png)
+<figcaption align='center'>
+    <b>Figura 2: Representação gráfica do objetivo de renovação do prazo de devolução</b>
+    <br> 
+    Fonte: Elaboração própria
+</figcaption>
 </p>
 
 | Objetivos/ operações | Problemas e recomendações |

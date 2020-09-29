@@ -40,47 +40,36 @@ Para criar as personas foi necessário uma releitura do documento de perfil de u
 
 Vale lembrar que as imagens utilizadas nos cartões das personas não são de pessoas reais. Estas imagens são resultados do processamento da rede neural [StyleGAN](https://en.wikipedia.org/wiki/StyleGAN) desenvolvida pela Nvidia. Essa rede neural foi treinada para criar fotos de pessoas, e o serviço está disponibilizado no site [thispersondoesnotexist](https://thispersondoesnotexist.com/).
 
-## 3. Personas Primárias
+## 3. Personas Primária
 
-<p align="center">
-    <img src='/_media/images/persona_1.png'>
-    <figcaption align='center'>
-        <b>Figura 1: Persona N° 1.</b> Fonte: Autor
-  </figcaption>
-</p>
+![](/_media/images/persona_1.png)
+<figcaption align='center'>
+  <b>Figura 1: Persona N° 1.</b> Fonte: Autor
+</figcaption>
 
-<p align="center">
-    <img src='/_media/images/persona_2.png'>
-    <figcaption align='center'>
-        <b>Figura 2: Persona N° 2</b> Fonte: Autor
-  </figcaption>
-</p>
+![](/_media/images/persona_2.png)
+<figcaption align='center'>
+  <b>Figura 2: Persona N° 2</b> Fonte: Autor
+</figcaption>
 
-<p align="center">
-    <img src='/_media/images/persona_3.png'>
-    <figcaption align='center'>
-        <b>Figura 3: Persona N° 3</b> Fonte: Autor
-  </figcaption>
-</p>
-
+![](/_media/images/persona_3.png)
+<figcaption align='center'>
+  <b>Figura 3: Persona N° 3</b> Fonte: Autor
+</figcaption>
 
 ## 4. Persona Secundária
 
-<p align="center">
-    <img src='/_media/images/persona_4.png'>
-    <figcaption align='center'>
-        <b>Figura 4: Persona N° 4</b> Fonte: Autor
-  </figcaption>
-</p>
+![](/_media/images/persona_4.png)
+<figcaption align='center'>
+  <b>Figura 4: Persona N° 4</b> Fonte: Autor
+</figcaption>
 
 ## 5. Persona de antiusuários
 
-<p align="center">
-    <img src='/_media/images/persona_5.png'>
-    <figcaption align='center'>
-        <b>Figura 5: Persona N° 5</b> Fonte: Autor
-  </figcaption>
-</p>
+![](/_media/images/persona_5.png)
+<figcaption align='center'>
+  <b>Figura 5: Persona N° 5</b> Fonte: Autor
+</figcaption>
 
 </div>
 

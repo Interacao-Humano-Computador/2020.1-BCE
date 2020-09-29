@@ -35,7 +35,10 @@
     markdown: {
       renderer: {
         image: function(href, title) {
-          return `<p align="center"><img src="${'http://' + window.location.href.split('/').slice(2, 4).reduce((a,b) => a + b + '/', "").replace('#/', '') + href}" data-origin="${'http://' + window.location.href.split('/').slice(2, 4).reduce((a,b) => a + b + '/', "").replace('#/', '') + href}" alt="${title}"></p>`
+
+          var finalUrl = 'http://' + 
+            window.location.href.split('/').slice(2, 4).reduce((a,b) => a + b + '/', '').replace('#/', '').slice(0,-1) + href;
+          return `<p align='center'><img src='${finalUrl}' data-origin='${finalUrl}' alt='${title}'></p>`
         }
       }
     },
