@@ -6,7 +6,7 @@
 | 23.09.2020 |  0.1   | Criação do documento de princípios gerais | Geraldo Victor  |
 | 25.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
 
-<div align="justify">
+<div align='justify'>
 
 ## 1. Descrição
 

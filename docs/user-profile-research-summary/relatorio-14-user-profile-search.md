@@ -20,18 +20,18 @@ Os métodos abordados na pesquisa foram questionários e entrevistas não estrut
 
 No gráfico, a seguir, os cursos dos respondentes que participaram da pesquisa. Pode-se perceber uma variedade significativa de cursos que podem utilizar a seção de multimeios.
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.1.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.1.png'>
 </p>
 
 No gráfico abaixo, é mostrado dados demográficos: sexo e faixa etária do multimeios da BCE. No total, foram entrevistados nove homens e onze mulheres.
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.2.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.2.png'>
 </p>
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.3.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.3.png'>
 </p>
 
 #### Pergunta 1:
@@ -41,8 +41,8 @@ Pergunta objetiva de alternativas podendo ser assinalado somente uma alternativa
 * 5% Conheciam e não usavam
 * 10% Não conheciam
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.4.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.4.png'>
 </p>
 
 #### Pergunta 2:
@@ -54,8 +54,8 @@ Pergunta objetiva podendo assinalar uma ou várias alternativas, onde foi pergun
 * 5% Tinham cadastro no PodCasting
 * 15% Tinham cadastro em outras
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.5.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.5.png'>
 </p>
 
 
@@ -65,8 +65,8 @@ Pergunta objetiva de alternativas podendo ser assinalado somente uma alternativa
 * 80% Usariam e acham útil
 * 20% Talvez usuaria e acham útil
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.6.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.6.png'>
 </p>
 
 #### Pergunta 4:
@@ -76,8 +76,8 @@ Pergunta objetiva de alternativas podendo ser assinalado somente uma alternativa
 * 25% Concordaram
 * 5% Não concordam nem discordam
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.7.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.7.png'>
 </p>
 
 #### Pergunta 5:
@@ -86,8 +86,8 @@ Pergunta objetiva de alternativas podendo ser assinalado somente uma alternativa
 * 90% Usariam e acham que seria útil
 * 10% Talvez usariam e acham que seria útil
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.8.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-14.8.png'>
 </p>
 
 ## Conclusões

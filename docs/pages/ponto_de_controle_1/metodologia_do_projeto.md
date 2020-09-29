@@ -90,7 +90,7 @@ No nosso contexto, as _dailies_ serão realizadas nas quartas-feiras. O grupo n�
 
 ### 3.2 KANBAN
 
-Kanban é um quadro de cartões, sendo que cada cartão representa uma atividade, onde é controlado os fluxos em que cada cartão se encontra. Esses fluxos podem ser vários, dependendo do processo em questão, mas no geral são 3 fluxos principais: "a fazer", "fazendo" e "feito". 
+Kanban é um quadro de cartões, sendo que cada cartão representa uma atividade, onde é controlado os fluxos em que cada cartão se encontra. Esses fluxos podem ser vários, dependendo do processo em questão, mas no geral são 3 fluxos principais: 'a fazer', 'fazendo' e 'feito'. 
 
 No nosso contexto, o kanban foi dividido em 5 fluxos: _project backlog_, _sprint backlog_, _in progress_, _review_ e _done_. No primeiro processo é onde ficam todos os cartões de tarefas mapeados até o momento. No segundo fluxo ficam os cartões de tarefa que serão realizados na sprint atual, no terceiro fluxo ficam as cartões cuja as tarefas já foram iniciadas, no fluxo _review_ ficam as tarefas que já foram concluídas e estão esperando por revisão de terceiros, e no último fluxo, _done_, ficam as tarefas que já foram revisadas e aprovadas. [[3]](https://pt.wikipedia.org/wiki/Kanban)
 
@@ -100,11 +100,11 @@ Extreme Programming é uma metodologia com foco em agilidade de equipes e qualid
 
 No nosso contexto o XP foi adaptado, uma vez que nosso projeto não irá conter codificação de software e essa metodologia possui um grande enfoque nesse tópico. Assim somente algumas das atividades propostas por essa metodologia foram utilizadas.
 
-#### **3.3.1 Propriedade coletiva e "Programação" Pareada**
+#### **3.3.1 Propriedade coletiva e 'Programação' Pareada**
 
-Essas duas atividades buscam fazer com que todos os membros do tipo, ou a maior parte deles, tenham o sentimento de posse sobre os artefatos do projeto. E assim evitar ao máximo possível o sentimento de "Isso não foi eu que fiz, então não é problema meu".
+Essas duas atividades buscam fazer com que todos os membros do tipo, ou a maior parte deles, tenham o sentimento de posse sobre os artefatos do projeto. E assim evitar ao máximo possível o sentimento de 'Isso não foi eu que fiz, então não é problema meu'.
 
-Com o objetivo de se criar um propriedade coletiva de todos os artefaos do projeto, as atividades chaves são sempre atribuidas para mais de uma pessoa, e revisada por terceiros. Desse modo se envolve várias pessoas durante a conclusão da tarefa, difundindo conhecimento gerado e a "posse" sobre o artefato.
+Com o objetivo de se criar um propriedade coletiva de todos os artefaos do projeto, as atividades chaves são sempre atribuidas para mais de uma pessoa, e revisada por terceiros. Desse modo se envolve várias pessoas durante a conclusão da tarefa, difundindo conhecimento gerado e a 'posse' sobre o artefato.
 
 #### **3.3.2 Entregas pequenas e Refatoração**
 

@@ -23,7 +23,7 @@ A comunidade universitária foi consultada acerca da infraestrutura da UnB. No t
 #### Pergunta 1:
 Pretendia avaliar como os estudantes, docentes e técnicos avaliavam a infraestrutura da biblioteca
 
-<div style="display:flex;">
+<div style='display:flex;'>
   <div>
   Entre os alunos
 
@@ -55,14 +55,14 @@ Pretendia avaliar como os estudantes, docentes e técnicos avaliavam a infraestr
   * 7% Não souberam opinar
   </div>
 </div>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.1.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.1.png'>
 </p>
 
 #### Pergunta 2:
 Pretendia avaliar a qualidade do serviços oferecidos pela biblioteca de acordo com os estudantes, docentes e técnicos.
 
-<div style="display:flex;">
+<div style='display:flex;'>
   <div>
   Entre os alunos
 
@@ -96,14 +96,14 @@ Pretendia avaliar a qualidade do serviços oferecidos pela biblioteca de acordo 
 </div>
 
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.2.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.2.png'>
 </p>
 
 #### Pergunta 3:
 Pretendia avaliar a qualidade do acervo da biblioteca de acordo com os estudantes, docentes e técnicos.
 
-<div style="display:flex;">
+<div style='display:flex;'>
   <div>
   Entre os alunos
 
@@ -137,8 +137,8 @@ Pretendia avaliar a qualidade do acervo da biblioteca de acordo com os estudante
 </div>
 
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.3.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.3.png'>
 </p>
 
 #### Pergunta 4:
@@ -150,8 +150,8 @@ Pretendia avaliar como era considerado o acesso à bibliografia das disciplinas 
 * 10% Consideram ruim
 * 4% Consideram insuficiente
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.4.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-13.4.png'>
 </p>
 
 ## Conclusões

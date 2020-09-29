@@ -63,38 +63,38 @@ O desempenho da BCE visto no sentido de website teve alguma melhora no período 
 * Laboratório de Acesso Digital:
   - Houve um aumento de 40256 para 213786 equivalente a aproximadamente 431%;
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.1.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.1.png'>
 </p>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.2.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.2.png'>
 </p>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.3.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.3.png'>
 </p>
 
 #### Pergunta 2:
 Como esses dados do desempenho da BCE pode refletir na estatística de empréstimo dos livros?
 
 * Apesar de existirem períodos de queda (provalmente por conta de recesso estudantil) é fácil notar que existe uma tendência crescente de empréstimos de livros, como é destacado no gráfico 14.
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.4.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.4.png'>
 </p>
 
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.5.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.5.png'>
 </p>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.6.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.6.png'>
 </p>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.7.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.7.png'>
 </p>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.8.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.8.png'>
 </p>
-<p align="center">
-  <img src="../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.9.png">
+<p align='center'>
+  <img src='../_media/assets/images/print_screen/user-profile-reports/user-profile-search-16.9.png'>
 </p>
 
 ## Conclusões
