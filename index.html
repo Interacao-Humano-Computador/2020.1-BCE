@@ -20,7 +20,8 @@
     repo: 'Interacao-Humano-Computador/2020.1-BCE',
     name: 'Home',
     auto2top: true,
-    basePath: 'https://interacao-humano-computador.github.io/2020.1-BCE/',
+    // basePath: 'https://interacao-humano-computador.github.io/2020.1-BCE/',
+    bolo: 'https://interacao-humano-computador.github.io/2020.1-BCE/',
     
     loadSidebar: true,
     logo:        '_media/logos/unb-logo.png',
@@ -30,8 +31,16 @@
     alias: {
       '/.*/_sidebar.md': '/_sidebar.md',
     },
+
+    markdown: {
+      renderer: {
+        image: function(href, title) {
+          return `<p align="center"><img src="${'http://' + window.location.href.split('/').slice(2, 4).reduce((a,b) => a + b + '/', "").replace('#/', '') + href}" data-origin="${'http://' + window.location.href.split('/').slice(2, 4).reduce((a,b) => a + b + '/', "").replace('#/', '') + href}" alt="${title}"></p>`
+        }
+      }
+    },
     
-    relativePath: false,
+    // relativePath: true,
     subMaxLevel: 1,
     search: {
       noData: {
