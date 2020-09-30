@@ -22,6 +22,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 | <img src="_media/logos/jitsi.png"> | Utilizamos o jitsi como ferramenta de chamadas e video chamadas, pois é uma ferramenta estável e de fácil acesso a todos os integrantes. |
 | <img src="_media/logos/drive.png"> | O Google Drive é uma ótima ferramenta para gerar documentos como: Excel, Word, PowerPoint e permite também o trabalho simultâneo e cooperativo de forma remota. Além de ser uma ferramentade de uso frequente por cada integrante grupo. |
 | <img src="_media/logos/zenhub.png"> | ZenHub é nativamente integrado ao GitHub, para a equipe serve como Kanbam, o diferencial é que podemos usar as issues como atividades a serem realizadas nos quadros de atividades o que melhora a produtividade. |
+| <img src="_media/logos/draw_io.png"> | O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, diagramas, gráficos e outros. Ele disponibiliza recursos para criação de qualquer tipo de desenho e, por ser conectado a uma conta no Google Drive, deixa as criações disponíveis para serem alteradas. |
 
 
 

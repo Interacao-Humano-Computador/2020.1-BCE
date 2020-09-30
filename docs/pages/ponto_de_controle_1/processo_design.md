@@ -6,6 +6,7 @@
 | 15.09.2020 |  0.1   | Criação do documento sobre o Processo de Design escolhido | Rafaella Junqueira, <br> Isabela Carneiro |
 | 17.09.2020 |  0.2   | Revisão do documento | Durval Carvalho |
 | 28.09.2020 |  0.3   | Adição de legendas nas imagens | Durval Carvalho |
+| 30.09.2020 |  0.4   | Refatoração do documento | Rafaella Junqueira |
 
 
 ## 1. Introdução
@@ -15,35 +16,8 @@ Segundo Simone Barbosa (1999), o processo de design envolve três atividades bá
 ## 2. Objetivo
 Este documento visa demonstrar diferentes ciclos de intervenção, chamados processos de design, e a maneira como as atividades básicas são divididas e definidas em cada modelo. O estudo acerca de cada um deles, juntamente com a análise sobre as necessidades do site eleito para a disciplina, permitiu que a escolha do modelo mais adequado fosse escolhido.
 
-## 3. Justificativa 
-Entre os modelos existentes, o Ciclo de Mayhew foi avaliado como o modelo mais adequado para o nosso projeto por seus artefatos serem mais complexos e completos e o grupo acredita que será o ideal para utilizar na disciplina de Interação Humano-Computador.
-Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizados para complementar alguns processos do projeto. Caso isso ocorra será devidamente documentado.
-
-## 4. Modelos de design
-
-### 4.1 **Ciclo de Mayhew**
-
-Proposto por Deborah Mayhew (1999), esse ciclo de vida possui uma visão holística e apresenta três fases principais que devem ser seguidas durante o processo iterativo.
-
-<p align='center'>
-    <img src='_media/images/ciclo_mayhew.png'>
-    <figcaption align='center'>
-        <b>Figura 1: Atividades básicas proposta pelo ciclo de Mayhew</b>
-        <br><small>Fonte: BARBOSA (2010)</small>
-    </figcaption>
-</p>
-
-- **Análise de requisitos**
-A análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto. 
-
-- **Design, avaliação e desenvolvimento**
-A segunda fase do ciclo, caracterizada por design, avaliação e desenvolvimento, tem por objetivo a criação de uma solução que se baseia nas metas de usabilidade definidas durante a análise de requisitos. Esta etapa se divide em três níveis de detalhe, basicamente divididos em: projeto  e avaliação do modelo conceitual, prototipação e avaliação do design de interfaces, e análise interativa das interfaces propostas.
-
-
-- **Instalação**
-Na terceira e última fase do ciclo, é feita a coleta de opiniões dos usuários após um tempo de uso do produto. Tais opiniões serão utilizadas para futuras melhorias do sistema.
-
-### 4.2  Ciclo de Vida em Estrela
+## 3. Modelos de design
+### 3.1  Ciclo de Vida em Estrela
 No  ciclo de vida em estrela a ordem das atividades é decisão do designer, que leva em consideração os recursos disponíveis no momento de iniciar o projeto. Segundo os autores Hix e Hartson (1993), o ciclo divide-se em quatro atividades principais: 
 
 <p align='center'>
@@ -66,7 +40,7 @@ A etapa de síntese é segmentada em três atividades principais: de criação d
 - **Avaliação**
 A avaliação aparece como atividade central do modelo para explicitar que, após a conclusão de cada atividade, o designer deve avaliar os resultados obtidos para verificar se encontrou ou está no caminho certo para encontrar uma solução satisfatória. Está é a única exigência do modelo, surgindo em contrapartida à decisão de sequência das atividades que fica a encargo do designer
 
-### 4.3 Engenharia de Usabilidade de Nielsen
+### 3.2 Engenharia de Usabilidade de Nielsen
 O processo proposto por Jakob Nielsen (1993) define a execução de dez atividades que devem ocorrer durante todo o ciclo de vida do produto, principalmente nos estágios iniciais de um projeto. São elas:
 
 - **Conhecer o usuário**
@@ -99,7 +73,7 @@ A partir dos protótipos criados, o modo como os usuários realizam certas taref
 - **Praticar design interativo**
 Cada vez que os protótipos são testados, melhorias são aplicadas mas também há possibilidade de surgirem alguns problemas. Então, o processo deve se repetir até que as metas de usabilidades definidas sejam alcançadas.
 
-### 4.4 Design Contextual
+### 3.3 Design Contextual
 O design contextual é um modelo que sugere que o designer tenha sua atenção focada no contexto de uso do usuário, não apenas nas interfaces. As atividades principais neste ciclo são divididas em sete:
 
 - **Investigação contextual**
@@ -120,7 +94,7 @@ Após planejado o que deve ser feito para melhorar a forma de trabalho, projeta-
 - **Prototipação e teste**
 A solução projetada passa pelo processo base de prototipação e teste com usuários antes de ser implementada. Isso permitirá que revisão e refinamento do projeto até atingir uma solução satisfatória.
 
-### 4.5 Design Baseado em Cenários
+### 3.4 Design Baseado em Cenários
 Os cenários refletem de forma descrita a sequência de ações de um usuário durante a execução de uma tarefa, eles descrevem hipóteses de uso do sistema. Este modelo prevê a criação de vários cenários e, assim, possibilitar à equipe de design imaginar diferentes situações e gerar ideias de design. As atividades deste ciclo se dividem em três:
 
 <p align='center'>
@@ -141,7 +115,7 @@ Nesta atividade são criados diferentes cenários que cobrem as características
 A fase final consiste em prototipar a solução proposta pela equipe de design que fora descrita em forma de cenários. A avaliação deve ocorrer continuamente durante o processo de design e têm papel de avaliar as impactos da solução sobre o desempenho das tarefas pelo usuário. 
 
 
-### 4.6 Design Dirigido por Objetivos
+### 3.5 Design Dirigido por Objetivos
 O modelo de design dirigido por objetivos vai se pautar na criação de uma solução de design que foca em auxiliar o usuário a atingir seus objetivos. Este ciclo visa explorar as tecnologias em favor dos usuários e da alcance de seus objetivos. As atividades bases são divididas da seguinte maneira:
 
 <p align='center'>
@@ -170,7 +144,7 @@ Após a projeção do funcionamento das interfaces, o foco da equipe será refin
 - **Manter**
 Com todo o projeto de interfaces em mãos, esta fase propõe que a equipe de design acompanhe o desenvolver do projeto para assegurar que a solução de IHC proposta manterá seu funcionamento e objetivos em caso de imprevistos de desenvolvimento no projeto.
 
-### 4.7 Design Centrado na Comunicação
+### 3.6 Design Centrado na Comunicação
 O modelo de design centrado na comunicação entende a interação humano-computador como um processo de comunicação entre o usuário e a equipe de design, de modo que o uso da interface releve as intenções de quem a desenhou e os princípios interativos. Este ciclo é projetado para evitar o surgimento das dúvidas dos usuários e tem suas atividades bases divididas em três:
 
 <p align='center'>
@@ -190,7 +164,27 @@ Após alinhar o entendimento da equipe de design a respeito do contexto, o modo 
 - **Avaliação:**
 A avaliação deste ciclo, assim como a ideia central do modelo, é focada em testar a comunicação do usuário e o alcance de seus objetivos. Deste modo, durante a atividade de avaliação observa-se se houve conflitos ou ruídos na comunicação durante o uso.
 
-##  5. Tarefas referentes ao Ciclo de Mayhew
+### 3.7 **Ciclo de Mayhew**
+Proposto por Deborah Mayhew (1999), esse ciclo de vida possui uma visão holística e apresenta três fases principais que devem ser seguidas durante o processo iterativo.
+
+<p align='center'>
+    <img src='_media/images/ciclo_mayhew.png'>
+    <figcaption align='center'>
+        <b>Figura 1: Atividades básicas proposta pelo ciclo de Mayhew</b>
+        <br><small>Fonte: BARBOSA (2010)</small>
+    </figcaption>
+</p>
+
+- **Análise de requisitos**
+A análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto. 
+
+- **Design, avaliação e desenvolvimento**
+A segunda fase do ciclo, caracterizada por design, avaliação e desenvolvimento, tem por objetivo a criação de uma solução que se baseia nas metas de usabilidade definidas durante a análise de requisitos. Esta etapa se divide em três níveis de detalhe, basicamente divididos em: projeto  e avaliação do modelo conceitual, prototipação e avaliação do design de interfaces, e análise interativa das interfaces propostas.
+
+- **Instalação**
+Na terceira e última fase do ciclo, é feita a coleta de opiniões dos usuários após um tempo de uso do produto. Tais opiniões serão utilizadas para futuras melhorias do sistema.
+
+##  4. Tarefas referentes ao Ciclo de Mayhew
 Cada atividade principal proposta pelo modelo de Deborah Mayhew possui detalhamento a nível de tarefas conforme descrito a seguir.
 
 **Análise de Requisitos**
@@ -217,6 +211,10 @@ Cada atividade principal proposta pelo modelo de Deborah Mayhew possui detalhame
 **Instalação**
 - Coleta da opinião do usuário;
 - Melhorias na solução de IHC.
+
+## 5. Justificativa 
+Entre os modelos existentes, o Ciclo de Mayhew foi avaliado como o modelo mais adequado para o nosso projeto por seus artefatos serem mais complexos e completos e o grupo acredita que será o ideal para utilizar na disciplina de Interação Humano-Computador.
+Ainda assim, se necessário, alguns artefatos de outros modelos serão utilizados para complementar alguns processos do projeto e, caso isso ocorra será devidamente documentado.
 
 ## Bibliografia
 
