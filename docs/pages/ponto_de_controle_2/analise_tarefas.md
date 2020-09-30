@@ -72,8 +72,8 @@ Plano 0: faça 1 - 2 - 3 - 4.
 
 <p text-align="right">
 
-|        Objetivos/ operações       | Problemas e recomendações |
-|:---------------------------------:|:-------------------------:|
+| Objetivos/ operações | Problemas e recomendações |
+|:--------------------:|:-------------------------:|
 | 0. Agendar empréstimo | - |
 | 1. Localize o livro desejado | <p align="left"> **Input**: entre na página principal da BCE </p>|
 | 1.1 Acesse o catálogo da biblioteca |<p align="left"> **Input**: clique na barra de pesquisa da área intitulada "pesquisa integrada" ou "catálogo online". </p>|
@@ -90,7 +90,7 @@ Plano 0: faça 1 - 2 - 3 - 4.
 | 3.3 Clique em "login" | <p align="left"> **Input**: caso tenha realizado a pesquisa e queira reservar um livro mas não tenha realizado login, clique sobre o botão "fechar" do *pop-up* com as informações de localização e tipo do livro que estará aberta. Em seguida clique no botão "login" no canto superior direito. <br>**Feedback**: aparecerá um *pop-up* solicitando informações cadastrais. Após confirmação, aparecerá o nome do usuário no canto superior direito em uma barra verde. </p>|
 
 <figcaption align='center'>
-    <b>Tabela 1: Problemas encontrados durante a análise da tarefa de agendamento de empréstimos</b>
+    <b>Tabela 1: Problemas e recomendações da tarefa de agendamento de empréstimos</b>
     <br> 
     Fonte: Elaboração própria
 </figcaption>
@@ -117,7 +117,7 @@ Plano 0: faça 1 - 2 - 3 - 4.
 | 3. Clique em "Renovar" | <p align="left"> **Feedback**: aparecerá um *pop-up* informando o status de renovação, aprovada ou não. </p>| 
 | 4. Verifique o status de renovação realizada | <p align="left"> **Feedback**: aparecerá uma mensagem indicando renovação ou não do livro e a opção de enviar comprovante por email.</p>|
 <figcaption align='center'>
-    <b>Tabela 2: Problemas encontrados durante a análise da tarefa de renovação do prazo de devolução</b>
+    <b>Tabela 2: Problemas e recomendações da tarefa de renovação do prazo de devolução</b>
     <br> 
     Fonte: Elaboração própria
 </figcaption>
