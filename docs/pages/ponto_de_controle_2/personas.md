@@ -1,4 +1,4 @@
-# Personas
+# <center>Personas
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

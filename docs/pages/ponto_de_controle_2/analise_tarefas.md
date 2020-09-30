@@ -1,4 +1,4 @@
-# <center>Análise de Tarefas</center>
+# <center>Análise de Tarefas
 
 ## Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |

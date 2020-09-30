@@ -1,4 +1,4 @@
-# Relatório da avaliação - BCE
+# <center>Relatório da avaliação - BCE
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
@@ -142,7 +142,7 @@ em comuns, além de buscar entender:
 
 
 ## 4. Conclusão
-Após a análise das entrevistas ficou evidente que todos os participantes apresentou dificuldades durante o uso do site da BCE. As duas dificuldades mais recorrentes foi a ​ dificuldade de acesso e a ​ dificuldade de localização de obras​ tanto no sistema quanto no acervo físico. 
+Após a análise das entrevistas ficou evidente que todos os participantes apresentou dificuldades durante o uso do site da BCE. As duas dificuldades mais recorrentes foi a ​dificuldade de acesso e a dificuldade de localização de obras​ tanto no sistema quanto no acervo físico. 
 
 Uma falha dessa avaliação foi não ter previsto a existência de alunos que nunca pegaram emprestado uma obra do acervo e nunca utilizaram o sistema de surpote a emprestimo do site da BCE. Desse modo os dados gerados pela entrevista número 2 não foram úteis. Uma ponto a se melhorar nas futuras avaliação é definir uma série de pré requisitos para participar da avaliação.
 

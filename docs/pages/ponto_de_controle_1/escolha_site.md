@@ -1,4 +1,4 @@
-# <center>Análise de sites</center>
+# <center>Análise de sites
 
 ## Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
@@ -10,7 +10,7 @@
 <div align="justify">
 
 ## 1. Contexto
-Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações heurísticas, conforme demostrado a seguir.
+Antes de definir um site para desenvolver o projeto de IHC, algumas páginas da internet foram selecionadas a fim de verificar em quais aspectos o projeto poderia atuar para propor melhorias. Para cada site escolhido, a verificação foi feita através de avaliações, heurísticas e por meio de entrevista, cujas conclusões foram as demostradas a seguir.
 
 ### 1.1 SP Trans
 A São Paulo Transportes é a sociedade econômica mista controlada pelo município de São Paulo e tem por finalidade ​a gestão do sistema de transporte público por ônibus em São Paulo. O site denominado SPTrans é o portal de informações gerais para fornecer dados a respeito do transporte público da cidade de São Paulo.
@@ -69,7 +69,7 @@ O escopo dessa avaliação são os serviços de suporte ao empréstimo de livros
 - Agendamento de empréstimos
 - Renovação do prazo de devolução
 
-A avaliação heurística para este site permitiu a identificação de oportunidades de melhoria em  4 aspectos de usabilidade - Projeto estético e minimalista, Prevenção de erros, flexibilidade e eficiência, consistência e padrões. Os problemas identificados por essas heurísticas foram todos classificados com grau de severidade grave ou catastrófica, fatores que contribuem para que o site seja subutilizado. 
+A avaliação por meio de entrevistas para este site permitiu a identificação de oportunidades de melhoria em 4 aspectos de usabilidade - Projeto estético e minimalista, Prevenção de erros, flexibilidade e eficiência, consistência e padrões. Os problemas identificados revelam que houve dificuldade de acesso e de localização de obras​ tanto no sistema quanto no acervo físico, fatores esses que contribuem para que o site seja subutilizado. 
 
 ## 2. Conclusão
 Segundo os critérios propostos nas 10 (dez) heurísticas de Nielsen (2000) e utilizadas nas avaliações feitas, todos os sites apresentaram oportunidades de melhoria em vários aspectos de usabilidade. Entretanto, algumas barreiras foram encontradas principalmente em relação às informações de usuários.

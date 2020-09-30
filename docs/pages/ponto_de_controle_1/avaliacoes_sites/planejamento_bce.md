@@ -1,4 +1,4 @@
-# Planejamento da avaliação - BCE
+# <center>Planejamento da avaliação - BCE
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
@@ -7,7 +7,6 @@
 
 <div align="justify">
 
-Planejamento da Avaliação da Interface do site da BCE
 O primeiro passo para preparar uma avaliação de uma interface é compreender a situação atual do objeto de estudo. Assim o valiador e os envolvidos devem esclarecer qual é o domínio do sistema, quais os papeis e perfis de usuário, quais os objetivos e atividades e em qual contexto o sistema é utilizado.
 
 ## 1. Domínio

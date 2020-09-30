@@ -1,4 +1,4 @@
-# Processo de Design
+# <center>Processo de Design
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

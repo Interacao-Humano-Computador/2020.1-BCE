@@ -1,4 +1,4 @@
-# Guia de Estilo
+# <center>Guia de Estilo
 
 ## Histórico de Versões
 | Data       | Versão | Descrição            | Autor             |

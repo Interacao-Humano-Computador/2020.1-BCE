@@ -1,4 +1,4 @@
-# Perfil de Usuário
+# <center>Perfil de Usuário
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
