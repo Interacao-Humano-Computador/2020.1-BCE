@@ -24,7 +24,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 | <img src="_media/logos/zenhub.png"> | ZenHub é nativamente integrado ao GitHub, para a equipe serve como Kanbam, o diferencial é que podemos usar as issues como atividades a serem realizadas nos quadros de atividades o que melhora a produtividade. |
 | <img height="150px" width="180px" src="_media/logos/obs.png"> | OBS (Open Broadcast Software) é um programa de gravação de tela open source, uma das maiores vantagens se comparado com a própria gravação das video chamadas é a de ficar armazenado localmente ao invés de gravar e em seguida ter que baixar. |
 | <img height="150px" width="180px"  src="_media/logos/camtasia.png"> | Camtasia é um programa de edição de vídeo que conta com excelentes ferramentas para o corte do video e de fácil manuseio, infelizmente é um programa pago, mas um dos integrantes da equipe tem o acesso ao mesmo. |
-| <img height="150px" src="_media/logos/youtube.png"> | Youtube atualmente é uma das ferramentas de streming de video mais popular do mundo, a divulgação das apresentações por meio dessa plataforma torna o acesso muito mais simples e fácil.  |
+| <img height="150px" src="_media/logos/youtube.png"> | Youtube atualmente é uma das ferramentas de streming de video mais populares do mundo, a divulgação das apresentações por meio dessa plataforma torna o acesso muito mais simples e fácil.  |
 
 
 
