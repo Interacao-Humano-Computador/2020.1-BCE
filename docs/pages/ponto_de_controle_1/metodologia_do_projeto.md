@@ -1,4 +1,4 @@
-# Metodologia do projeto e Processos
+# <center>Metodologia do projeto e Processos
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

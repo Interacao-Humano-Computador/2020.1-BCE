@@ -1,4 +1,4 @@
-# Gerenciamento do Projeto
+# <center>Gerenciamento do Projeto
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

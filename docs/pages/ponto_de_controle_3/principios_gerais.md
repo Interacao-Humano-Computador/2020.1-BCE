@@ -1,4 +1,4 @@
-# Princípios Gerais do Projeto
+# <center>Princípios Gerais do Projeto
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

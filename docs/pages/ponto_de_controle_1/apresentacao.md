@@ -1,4 +1,4 @@
-# Apresentação do Ponto de Controle 1
+# <center>Apresentação do Ponto de Controle 1
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
