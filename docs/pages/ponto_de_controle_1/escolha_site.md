@@ -88,6 +88,7 @@ Os planejamento e execuções das avaliações realizadas para os sites podem se
 - [Execução da avaliação - BCE](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_bce.md)
 - [Execução da avaliação - SPTrans](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_SPTrans.md)
 - [Execução da avaliação - SAE](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_sae.md)
+- [Execução da avaliação - ZARA](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_zara.md)
 
 
 </div>
