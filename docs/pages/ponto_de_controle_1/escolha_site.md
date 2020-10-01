@@ -6,6 +6,7 @@
 | 10.09.2020 | 0.1 | Documentação da escolha do site para o projeto | Rafaella Junqueira |
 | 11.09.2020 | 0.2 | Revisão do documento | Durval Carvalho |
 | 18.09.2020 | 0.3 | Rafatoração de formatação | Rafaella Junqueira |
+| 30.09.2020 | 0.4 | Inserção dos links para as avaliações realizadas | Rafaella Junqueira |
 
 <div align="justify">
 
@@ -82,23 +83,25 @@ Portanto, o site da Biblioteca Central da UnB foi o escolhido para o projeto da 
 Os planejamento e execuções das avaliações realizadas para os sites podem ser observados nos seguintes documentos:
 
 - [Planejamento da avaliação - BCE](/pages/ponto_de_controle_1/avaliacoes_sites/planejamento_bce.md)
-- [Execução da avaliação - BCE](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_bce.md)
 - [Planejamento da avaliação - SPTrans](/pages/ponto_de_controle_1/avaliacoes_sites/planejamento_SPTrans.md)
+- [Planejamento da avaliação - SAE](/pages/ponto_de_controle_1/avaliacoes_sites/planejamento_sae.md)
+- [Execução da avaliação - BCE](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_bce.md)
 - [Execução da avaliação - SPTrans](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_SPTrans.md)
+- [Execução da avaliação - SAE](/pages/ponto_de_controle_1/avaliacoes_sites/avaliacao_sae.md)
+
 
 </div>
 
 ## Bibliografia
 
-BARBOSA, Simone; DINIZ, Bruno. _Interação Humano-Computador_. Editora Elsevier, Rio de Janeiro,
+BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**. Editora Elsevier, Rio de Janeiro,
 2010.
 
 MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina.
-_Avaliação Heurística de Sítios na Web_. Universidade Federal Fluminense - UFF, Niterói - RJ.
+**Avaliação Heurística de Sítios na Web**. Universidade Federal Fluminense - UFF, Niterói - RJ.
 
-_Pesquisa perfil de compras em e-commerce_. Disponível em https://www.mundodomarketing.com.br/reportagens/pesquisa/38279/pesquisa-mostra-perfil-de-quem-compra-vestuario-em-e-commerce-de-moda.html Acesso em 10 de setembro de 2020.
+NASCIMENTO, José Antonio Machado. **Usabilidade no contexto de gestores, desenvolvedores e usuários do website da Biblioteca Central da Universidade de Brasília**. Brasília, 2006.
 
-_Relatório de atividades - 2017_. Disponível em https://www.bce.unb.br/wp-content/uploads/2018/03/Relat%c3%b3rio-de-Atividades-2017-BCE-UnB.pdf Acesso em 10 de setembro de 2020.
+**Pesquisa perfil de compras em e-commerce**. Disponível em https://www.mundodomarketing.com.br/reportagens/pesquisa/38279/pesquisa-mostra-perfil-de-quem-compra-vestuario-em-e-commerce-de-moda.html Acesso em 10 de setembro de 2020.
 
-NASCIMENTO, José Antonio Machado. _Usabilidade no contexto de gestores, desenvolvedores e usuários do
-website da Biblioteca Central da Universidade de Brasília_. Brasília, 2006.
+**Relatório de atividades - 2017**. Disponível em https://www.bce.unb.br/wp-content/uploads/2018/03/Relat%c3%b3rio-de-Atividades-2017-BCE-UnB.pdf Acesso em 10 de setembro de 2020.
