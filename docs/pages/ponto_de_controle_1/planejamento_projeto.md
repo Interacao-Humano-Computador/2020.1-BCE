@@ -3,11 +3,11 @@
 ## Histórico de versão
 
 |  Data  | Versão | Descrição | Autor |
-|----|----| --- | --- | 
+| :----: | :----: | :-------: | :---: | 
 | 11.09.2020 | 0.1 | Criação do planejamento do projeto | João Victor |
 | 17.09.2020 | 0.2 | Inclusão das atividades do processo de design ao cronograma | João Victor |
 | 18.09.2020 | 0.3 | Revisão do documento | Rafaella Junqueira |
-| 28.09.2020 |  0.4   | Adição de legendas nas imagens | Durval Carvalho |
+| 28.09.2020 | 0.4 | Adição de legendas nas imagens | Durval Carvalho |
 
 
 ## 1. Cronograma
