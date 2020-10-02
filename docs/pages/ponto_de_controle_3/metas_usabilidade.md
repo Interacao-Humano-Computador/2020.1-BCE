@@ -7,23 +7,38 @@
 
 <div align="justify">
 
-## Eficácia
-É a capacidade de resolver um problema associando ao grau de realização do objetivo. O sistema deve fazer o que se espera dele: agendar empréstimos de materias, renovar prazo de devolução, cancelar reserva.
+## 1. Introdução
+Esse documento tem como objetivo demonstrar as metas de usabilidade, uma lista de fatores que estão ligados diretamente ao uso de sistemas segundo Jakob Nielsen (1993). Essas metas ajudam a resolver problemas com a  produtividade do usuário durante a utilização do sistema e motivações desse usuário para um aprendizado mais eficaz.
 
-## Eficiência
-Na realização de uma tarefa, o sistema deve ter formas de auxílio ao usuário, fazendo com que a tarefa seja realizada de forma clara e rápida.
+## 2. Metas
+### 2.1 Eficácia
+É a capacidade do sistema de resolver aquilo para o qual ele foi desenvolvido. Um sistema eficaz permite aos seus usuários alcançarem seus objetivos durante o uso, realizar suas tarefas, acessar informações necessárias e aprender sobre o sistema.
 
-## Segurança
-O sistema deve previnir o usuário de erros ou ações indesejáveis, possuir recursos para confirmar ações drásticas, sem limitar a interação e navegação do usuário.
+### 2.2 Eficiência
+A eficiência de um sistema esta diretamente ligada a velocidade que um objetivo é alcançado. As condições que podem influenciar diretamente a eficiência de um sistema são: o tempo de resposta que o software leva para dar um feedback esperado e o uso de recursos para executar a resposta.
 
-## Utilidade
-Fornecer ao usuário funções que são esperadas por ele naquele contexto.
+### 2.3 Segurança
+Essa meta é diretamente ligada a situações indesejáveis que possam acontecer durante o uso do sistema. O sistema deve previnir o usuário de erros ou ações indesejáveis, possuir recursos para confirmar ações drásticas, sem limitar a interação e navegação do usuário.O desejável é garantir a segurança durante a execução de tarefas com formas de recuperação de informações ou retorno ao ponto anterior. Pensar na segurança serve para prevenir erros e reduzir riscos referente a ações drásticas como desligar o sistema ou deletar alguma informação.
 
-## Aprendizagem
-O sistema deve ser fácil para aprender a usar, com uma boa navagabilidade e intuitivo.
+### 2.4 Utilidade
+A utilidade de um sistema se da ao fornecer ao usuário um conjunto de funções para auxilia-lo na realização de tarefas,funções essas que já são esperadas no contexto da tarefa. 
 
-## Memorização
-O usuário não deve ser obrigado a reaprender a usar o sistema quando acessa-lo novamente depois de um periodo longo sem usa-lo.
+### 2.5 Aprendizagem
+É a capacidade de aprendizado do usuário ao utilizar o sistema. A meta é ser fácil de aprender a usar o sistema ou produto. Podemos medir isso em vezes que o usuário precisa acessar informações auxiliares para fazer uma tarefa. O ideal é apenas uma vez e na segunda já ter o conhecimento de como desenvolver a tarefa. Mas isso vai depender também do tipo de uso do sistema, se é uso diário ou eventual.
+
+### 2.6 Memorização
+Essa meta é muito importante para sistemas usados eventualmente, pois mede a capacidade de memorização de como utilizar tal sistema.Utilizar um sistema e lembrar depois de meses como se realiza as tarefas desejadas, mostra que o sistema foi desenvolvido de forma intuitiva e de fácil manipulação.
+
+## 3. Metas a serem alcançadas pelo nosso projeto
+Para definir as metas que desejamos alcançar foram levantadas as seguintes questões sobre cada meta:
+
+* Eficácia: O sistema serve ao propósito principal?
+* Eficiência: Quantos recursos são utilizados para realizar a tarefa específica?
+* Segurança: O sistema previne o usuário de erros ou ações indesejáveis? O sistema recupera as ações anteriores?
+* Utilidade: O sistema oferece ao usuário a funcionalidade certa segundo o contexto?
+* Aprendizagem: É fácil aprender a usar?
+* Memorização: Que tipo de suporte é oferecido ao usuário para auxiliá-lo na realização das tarefas, especialmente os itens não recorrentes?
+
 
 </div>
 
