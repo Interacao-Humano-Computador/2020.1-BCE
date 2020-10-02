@@ -13,4 +13,4 @@
 
 - [**Ponto de Controle 3**](/pages/ponto_de_controle_3/principios_gerais.md)
   - [Princípios Gerais](/pages/ponto_de_controle_3/principios_gerais.md)
-  - [Guia de estilo](/pages/ponto_de_controle_2/guia_de_estilo.md)
+  - [Guia de estilo](/pages/ponto_de_controle_3/guia_de_estilo.md)
