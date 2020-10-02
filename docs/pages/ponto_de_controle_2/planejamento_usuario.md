@@ -4,6 +4,11 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 02.10.2020 |  0.1   | Criação do documento | Isabella Carneiro  |
+| 02.10.2020 |  0.1   | Adição objetivos | Isabella Carneiro  |
+| 02.10.2020 |  0.1   | Adição metodos | Isabella Carneiro  |
+| 02.10.2020 |  0.1   | Adição questões práticas | Isabella Carneiro  |
+| 02.10.2020 |  0.1   | Adição questões éticas | Isabella Carneiro  |
+
 
 ## 1- Introdução
 
