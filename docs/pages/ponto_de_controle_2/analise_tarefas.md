@@ -39,7 +39,7 @@ Esta análise parte dos objetivos do usuário para identificar as tarefas que de
 Plano 0: faça 1 - 2. Caso o login não tenha sido realizado previamente, faça 3 - 1 - 2.
 <br>Plano 1: faça 1.1 - 1.2 - 1.4. Caso esteja na área de catálogo de pesquisa geral, faça 1.1 - 1.2 - 1.3 - 1.4.
 <br>Plano 2: faça 2.1 - 2.2 - 2.3 - 2.4. Caso já esteja na área de catálogo de pesquisa geral, faça 2.1 - 2.3 - 2.4.
-<br>Plano 3: faça 3.1 e 3.2. Caso já tenha realizado a pesquisa e esteja na área de catálogo de pesquisa geral, faça 3.3 - 3.2
+<br>Plano 3: faça 3.1 e 3.2.
 
 #### 2.1.2 Representação textual do objetivo de renovação do prazo de devolução:
 
