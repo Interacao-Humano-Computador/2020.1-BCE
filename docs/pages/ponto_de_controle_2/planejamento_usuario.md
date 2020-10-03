@@ -1,34 +1,28 @@
 # Planejamento de avaliação - Perfil de usuário
 
 ## Histórico de Versão
-|    Data    | Versão | Descrição            | Autor(es)       |
-| :--------: | :----: | :------------------: | :-------------: |
-| 02.10.2020 |  0.1   | Criação do documento | Isabella Carneiro  |
-| 02.10.2020 |  0.2   | Adição objetivos | Isabella Carneiro  |
-| 02.10.2020 |  0.3   | Adição metodos | Isabella Carneiro  |
-| 02.10.2020 |  0.4   | Adição questões práticas | Isabella Carneiro  |
-| 02.10.2020 |  0.5   | Adição questões éticas | Isabella Carneiro  |
-| 02.10.2020 |  0.6   | Adição das questões do questionário | Geraldo Victor  |
+| Data       | Versão | Descrição                           | Autor(es)          |
+|:----------:|:------:|:-----------------------------------:|:------------------:|
+| 02.10.2020 | 0.1    | Criação do documento                | Isabella Carneiro  |
+| 02.10.2020 | 0.2    | Adição das questões do questionário | Geraldo Victor     |
+| 03.10.2020 | 0.3    | Refinamento do documento            | Rafaella Junqueira |
 
 
+## 1. Introdução
 
-## 1- Introdução
+A análise a respeito do perfil de usuário é uma descrição das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo avaliado, a fim de coletar dados a agregar os valores em grupos e faixas na qual os usuários se encaixam. Uma vez determinadas essas faixas de valores, é possível categorizar grupos de usuários de acordo com as características semelhantes que apresentam. Este documento descreve o que será avaliado, quais os dados serão coletados e produzidos, além de descrever o método de avaliação utilizado. 
 
-<p> Este documento tem como objetivo planejar a avaliação acerca do perfil do usuário.</p>
-<p> Ele descreve o que irá ser avaliado, quais os dados serão coletados e produzidos, descreve o método de avaliação utilizado e as atividades.</p>
-<p> Para melhor organizar este documento, o grupo se baseou no framework DECIDE. Este framework possui atividades que são interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis. </p>
+## 2. Objetivos da Avaliação
 
-## 2- Objetivos da Avaliação
+O intuito da avaliação que será realizada é coletar dados a respeito das características demográficas básicas, detalhes sobre o grau de experiência dos usuários com tecnologia e frequência de uso do sistema, em específico, as funcionalidades relativas aos objetivos definidos no escopo deste projeto. Este planejamento da avaliação acerca do perfil dos usuários utilizadores do sistema da BCE é de extrema importância para o projeto, pois facilitam a criação de personas,  visto que as melhorias propostas serão baseadas no perfil do usuário definido.
 
-<p> A avaliação que será realizada tem como objetivo definir o perfil dos usuários do sistema da BCE</p>
-<p> Este objetivo é de extrema importância para o projeto, visto que as melhorias propostas serão baseadas no perfil do usuário definido.</p>
+## 3. Métodos de avaliação
 
-## 3- Métodos de avaliação
+O método investigativo foi o escolhido para realizar a avaliação através do uso de questionário contendo perguntas que os usuários e demais participantes devem responder, a fim de fornecer os dados necessários para análise e avaliação acerca do perfil de usuário do site da Biblioteca Central Estudantil (BCE). Os métodos investigativos permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Para tal, a utilização de questionário permite coletar rapidamente dados (principalmente quantitativos) de muitos usuários, de forma rápida, com baixo custo e de fácil análise.
 
-<p> Para alcançar o objetivo proposto foi decidido que será aplicado um questionário/formulário em que os alunos da UnB responderão e com base nessas respostas conseguiremos definir quais as características dos usuários do sistema analisado.</p>
-
-## 4- Perguntas a serem respondidas
-Foram disponibilizadas as seguintes perguntas no questionário:  
+### 3.1 Perguntas a serem respondidas
+O questionário, distribuído em questões de múltipla escolha, é composto pelas seguintes perguntas:
+  
 | Número | Pergunta                                                             |
 | :----  | :------------------------------------------------------------------- |
 | 1      | No último ano, você utilizou os serviços BCE?                        |
@@ -45,18 +39,10 @@ Foram disponibilizadas as seguintes perguntas no questionário:
 | 12     | QVocê já renovou o prazo de devolução de obras pelo site da BCE?     |
 | 13     | Gostaria de dar alguma sugestão de melhoria?                         |
 
-## 5- Questões práticas
+## 4. Avaliação, interpretação e apresentação dos dados
 
-<p> As questões práticas são apenas o recrutamento de participantes e a elaboração das questões para serem respondidas. Como estamos em pandemia e será realizado on-line não há necessidade de equipamentos e local.</p>
+Após a aplicação do questionário, o grupo irá agrupar e analisar os dados coletados em busca de pontos em comum dos participantes para, assim, dividir e categorizar os grupos de usuários. Os resultados da análise serão apresentados em um documento de avaliação com a consolidação das conclusões obtidas, permitindo assim, traçar o perfil do usuário buscado.
 
-## 6- Questões éticas
-<p> As questões éticas serão respeitadas na avaliação. Nenhum dado pessoal ou qualquer informação que prejudique ou constranja o participante será revelado.</p>
-
-## 7- Avaliação, interpretação e apresentação dos dados
-
-<p> Após a aplicação do questionário, o grupo irá agrupar os dados e interpretar os mesmos.</p>
-<p> Os resultados serão apresentados em um documento de avaliação.</p>
-
-## 8- Referências
+## Bibliografia
 
 - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
