@@ -5,12 +5,12 @@
 |:----------:|:------:|:-----------------------------------------------:|:------------------:|
 | 02.10.2020 | 0.1    | Criação do documento                            | Isabella Carneiro  |
 | 02.10.2020 | 0.2    | Adição das questões do questionário             | Geraldo Victor     |
-| 03.10.2020 | 0.3    | Refinamento do documento                        | Rafaella Junqueira |
+| 03.10.2020 | 0.3    | Refinamento dos tópicos do documento            | Rafaella Junqueira |
 | 03.10.2020 | 0.4    | Modificações no tópico Introdução               | Durval Carvalho    |
 | 03.10.2020 | 0.5    | Modificações nos tópico Objetivos e Metodologia | Durval Carvalho    |
 | 03.10.2020 | 0.6    | Modificações na tabela de perguntas             | Durval Carvalho    |
 | 03.10.2020 | 0.7    | Modificações na conclusão do documento          | Durval Carvalho    |
-| 03.10.2020 | 0.8 | Revisão do documento | Rafaella Junqueira |
+| 03.10.2020 | 0.8    | Revisão do documento                            | Rafaella Junqueira |
 
 
 <!-- INTRODUÇÃO SOBRE O PROPÓSITO DESSE DOCUMENTO -->
