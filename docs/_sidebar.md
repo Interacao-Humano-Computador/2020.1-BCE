@@ -7,6 +7,7 @@
   - [Log de atividades](/pages/ponto_de_controle_1/gerenciamento_do_projeto.md)
 
 - [**Ponto de Controle 2**](/pages/ponto_de_controle_2/perfil_usuario.md)
+  - [Planejamento de Pesquisa](/pages/ponto_de_controle_2/questionario_alunos.md)
   - [Perfil de Usuários](/pages/ponto_de_controle_2/perfil_usuario.md)
   - [Personas](/pages/ponto_de_controle_2/personas.md)
   - [Análise de Tarefas](/pages/ponto_de_controle_2/analise_tarefas.md)
