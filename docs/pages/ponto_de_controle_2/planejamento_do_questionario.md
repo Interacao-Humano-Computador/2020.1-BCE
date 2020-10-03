@@ -51,23 +51,18 @@ O intuito da avaliação que será realizada é coletar dados a respeito das car
 
 O método investigativo foi o escolhido para realizar a avaliação através do uso de questionário contendo perguntas que os usuários e demais participantes devem responder, a fim de fornecer os dados necessários para análise e avaliação acerca do perfil de usuário do site da Biblioteca Central Estudantil (BCE). Os métodos investigativos permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Para tal, a utilização de questionário permite coletar rapidamente dados (principalmente quantitativos) de muitos usuários, de forma rápida, com baixo custo e de fácil análise.
 
-Essa pesquisa utilizou tanto técnicas quantitativas como técnicas qualitativas. O formulário elaborada contra com 13 peguntas, sendo 12 objetivas e 1 subjetiva. 
+Essa pesquisa utilizará tanto técnicas quantitativas como técnicas qualitativas. O formulário elaborado conta com 13 peguntas, sendo 12 objetivas e 1 subjetiva. 
 A primeira pergunta do formulário é uma pergunta de filtro, que visa permitir apenas que usuários dos serviços da BCE respondam as demais perguntas. 
-As próximas 6 perguntas se referem a características demográficas, seguidas por 6 peguntas que buscam conhecer como os usuários utilizam o sistema da BCE, sendo a última delas uma pergunta aberta.
+As próximas 6 perguntas se referem a características demográficas, seguidas por 6 peguntas que buscam conhecer como os usuários utilizam o sistema da BCE, sendo a última delas uma pergunta opcional e discurssiva.
 
 ### 3.1. Caracterização da Amostra
 
-Parte importante de uma pesquisa qualitativa é a origem da amostra utilizada, assim, é fundamental definir como foram escolhidos os participantes da entrevista.
-
-Nessa pesquisa, todos os entrevistados são do alunos da UnB, possuindo aspectos em comum. A amostra não foi de tipo aleatória, o questionário foi disponibilizado entre o círculo de conhecidos dos integrantes do grupo, tendo assim maior amostragem de alunos do curso de Engenharia de Software da Faculdade do Gama, fato esse que possivelmente irá influenciar em questões como:
+Parte importante de uma pesquisa qualitativa é a origem da amostra utilizada s, assim, é fundamental definir como foram escolhidos os participantes da entrevista e, nessa pesquisa, todos os entrevistados serão do alunos da UnB, possuindo aspectos em comum.
+A amostra não será de tipo aleatória, o questionário será disponibilizado entre o círculo social dos integrantes deste grupo e sugere-se que busquem conhecidos de outros curso para que a amostra não seja majoritamente composta por alunos do curso de Engenharia de Software da Faculdade do Gama, evitando, assim o enviesamento das questões relacionadas a:
 - Distribuição da faixa etária;
 - Distribuição do conhecimento técnico em sistemas informacionais;
 - Distribuição da área do conhecimento do curso dos alunos
 - Distribuição do dispositivo utilizado durante o acesso do site da BCE;
-
-Diante desse problema, foi sugerido que os integrantes do grupo buscassem conhecidos de outros cursos, pois assim reduziria os impactos causados por essa amostragem não aleatória.
-
-O resultado final, foi a participação de [NUMERO DE PARTICIPANTES].
 
 ### 3.2. Preparação
 
@@ -95,12 +90,12 @@ O questionário, distribuído em questões de múltipla escolha, é composto pel
 
 ## 4. Avaliação, interpretação e apresentação dos dados
 
-Após a aplicação do questionário, o grupo irá agrupar e analisar os dados coletados em busca de pontos em comum dos participantes para, assim, dividir e categorizar os grupos de usuários.
+Após a aplicação do questionário, a equipe irá agrupar e analisar os dados coletados em busca de pontos em comum dos participantes para, assim, dividir e categorizar os grupos de usuários.
 
 Essa análise de dados será realizada nas seguinte etapas:
-- Primeiro os dados serão divididos em dois grupos, alunos de graduação e alunos de pós-graduação. 
-- Serão gerados gráficos com os dados obtidos para facilitar a visualização 
-- Os graficos serão analisados e será definido o perfil de usuário dos alunos de graduação e pós-graduação.
+- Primeiro os dados serão divididos em dois grupos, alunos de graduação e alunos de pós-graduação;
+- Serão gerados gráficos com os dados obtidos para facilitar a visualização;
+- Os graficos serão analisados e será definido o perfil de usuário dos alunos de graduação e pós-graduação;
 - A conclusão dessa análise será apresentada no documento de [**perfil de usuário**](pages/ponto_de_controle_2/perfil_usuario) nos tópicos **4.4. Usuários de Pós-Graduação** e **4.5. Usuários de Graduação**.
 
 ## Bibliografia
