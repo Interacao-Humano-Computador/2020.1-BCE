@@ -36,7 +36,7 @@ O questionário, distribuído em questões de múltipla escolha, é composto pel
 | 9      | Qual dispositivo você mais usa quando acessa o site da BCE?          |
 | 10     | Com que frequência você utiliza o site da BCE?                       |
 | 11     | Você já agendou um empréstimo de livro pelo site da BCE?             |
-| 12     | QVocê já renovou o prazo de devolução de obras pelo site da BCE?     |
+| 12     | Você já renovou o prazo de devolução de obras pelo site da BCE?     |
 | 13     | Gostaria de dar alguma sugestão de melhoria?                         |
 
 ## 4. Avaliação, interpretação e apresentação dos dados
@@ -45,4 +45,4 @@ Após a aplicação do questionário, o grupo irá agrupar e analisar os dados c
 
 ## Bibliografia
 
-- BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
