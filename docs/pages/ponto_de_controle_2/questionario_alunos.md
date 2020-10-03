@@ -10,6 +10,12 @@
 
 ## 1. Introdução
 
+O conhecimento sobre o perfil do usuário do sistema é fundamental para que o designer da interface da aplicação consiga 
+conceber um sistema que satisfaça os problemas dos usuários. Dessa maneira, esse documento visa apresentar o processo de pesquisa realizada para coletar dados a respeito do perfil de um específico grupo de usuários, alunos de graduação e pós-graduação.
+
+Desse modo, foi realizado 
+
+
 A análise a respeito do perfil de usuário é uma descrição das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo avaliado, a fim de coletar dados a agregar os valores em grupos e faixas na qual os usuários se encaixam. Uma vez determinadas essas faixas de valores, é possível categorizar grupos de usuários de acordo com as características semelhantes que apresentam. Este documento descreve o que será avaliado, quais os dados serão coletados e produzidos, além de descrever o método de avaliação utilizado. 
 
 ## 2. Objetivos da Avaliação
