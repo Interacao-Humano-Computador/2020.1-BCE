@@ -8,6 +8,8 @@
 | 02.10.2020 |  0.3   | Adição metodos | Isabella Carneiro  |
 | 02.10.2020 |  0.4   | Adição questões práticas | Isabella Carneiro  |
 | 02.10.2020 |  0.5   | Adição questões éticas | Isabella Carneiro  |
+| 02.10.2020 |  0.6   | Adição das questões do questionário | Geraldo Victor  |
+
 
 
 ## 1- Introdução
@@ -21,12 +23,27 @@
 <p> A avaliação que será realizada tem como objetivo definir o perfil dos usuários do sistema da BCE</p>
 <p> Este objetivo é de extrema importância para o projeto, visto que as melhorias propostas serão baseadas no perfil do usuário definido.</p>
 
-## 3- Perguntas a serem respondidas
-
-
-## 4- Métodos de avaliação
+## 3- Métodos de avaliação
 
 <p> Para alcançar o objetivo proposto foi decidido que será aplicado um questionário/formulário em que os alunos da UnB responderão e com base nessas respostas conseguiremos definir quais as características dos usuários do sistema analisado.</p>
+
+## 4- Perguntas a serem respondidas
+Foram disponibilizadas as seguintes perguntas no questionário:  
+| Número | Pergunta                                                             |
+| :----  | :------------------------------------------------------------------- |
+| 1      | No último ano, você utilizou os serviços BCE?                        |
+| 2      | Qual a sua faixa etária?                                             |
+| 3      | Você se identifica com qual gênero?                                  |
+| 4      | Qual o seu maior grau de formação acadêmica?                         |
+| 5      | O quão distante a biblioteca fica da sua casa?                       |
+| 6      | Seu curso se encaixa em qual área do conhecimento?                   |
+| 7      | Qual o seu nível de experiência com tecnologias?                     |
+| 8      | Você já utilizou o site da BCE?                                      |
+| 9      | Qual dispositivo você mais usa quando acessa o site da BCE?          |
+| 10     | Com que frequência você utiliza o site da BCE?                       |
+| 11     | Você já agendou um empréstimo de livro pelo site da BCE?             |
+| 12     | QVocê já renovou o prazo de devolução de obras pelo site da BCE?     |
+| 13     | Gostaria de dar alguma sugestão de melhoria?                         |
 
 ## 5- Questões práticas
 
