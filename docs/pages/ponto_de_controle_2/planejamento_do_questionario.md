@@ -1,4 +1,4 @@
-# Planejamento da Realização do Questionário dos graduandos e pós-graduandos
+# Planejamento do Questionário
 
 ## Histórico de Versão
 | Data       | Versão | Descrição                                       | Autor(es)          |
@@ -9,6 +9,7 @@
 | 03.10.2020 | 0.4    | Modificações no tópico Introdução               | Durval Carvalho    |
 | 03.10.2020 | 0.5    | Modificações nos tópico Objetivos e Metodologia | Durval Carvalho    |
 | 03.10.2020 | 0.6    | Modificações na tabela de perguntas             | Durval Carvalho    |
+| 03.10.2020 | 0.7    | Modificações na conclusão do documento          | Durval Carvalho    |
 
 
 <!-- INTRODUÇÃO SOBRE O PROPÓSITO DESSE DOCUMENTO -->
@@ -99,7 +100,7 @@ O questionário, distribuído em questões de múltipla escolha, é composto pel
 
 ## 4. Avaliação, interpretação e apresentação dos dados
 
-Após a aplicação do questionário, o grupo irá agrupar e analisar os dados coletados em busca de pontos em comum dos participantes para, assim, dividir e categorizar os grupos de usuários. Os resultados da análise serão apresentados em um documento de avaliação com a consolidação das conclusões obtidas, permitindo assim, traçar o perfil do usuário buscado.
+Após a aplicação do questionário, os dados foram divididos em dois grupos, alunos de graduação e alunos de pós-graduação. Com base nos resultados desses dois grupos, foi criado gráficos para facilitar a visualização. Os resultados das análises destes gráficos estão no documento de [**perfil de usuário**](pages/ponto_de_controle_2/perfil_usuario) nos tópicos **4.4. Usuários de Pós-Graduação** e **4.5. Usuários de Graduação**.
 
 ## Bibliografia
 
