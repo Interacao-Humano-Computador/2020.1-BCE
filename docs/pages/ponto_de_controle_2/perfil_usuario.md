@@ -57,7 +57,7 @@ O resultado dessa pesquisa foram os 14 documentos a seguir:
 
 Com base nesses documentos foram extraidos dados, definições e informações que eram pertinentes ao escopo do nosso projeto. Cada um dessas análises foi realizada no formato de relatórios, onde o responsável realizava a leitura do documento e selecionava as partes pertinentes ao projeto. 
 
-## 4. Usuários
+## 4. Grupo de Usuários
 
 Os usuários no contexto deste projeto são os agentes que utilizam os sistemas da BCE, que podem ser classificados como agentes humanos ou agentes de software. Existem diferentes tipos de usuários a exemplo de estudantes, bibliotecários, professores e pesquisadores. Esse tópico visa definir os tipos de usuários encontrados durante a pesquisa.
 
@@ -68,7 +68,7 @@ Constam no cadastro da BCE 22574 usuários, distribuidos nas seguintes categoria
 - Professores: 12197 (15.6%);
 - Ex-Alunos: 12197 (13.6%).
 
-### 4.1. **Bibliotecários**
+#### 4.1. **Bibliotecários**
 
 Bibliotecário é um profissional liberal que trata a informação e a torna acessível ao usuário final, independente do suporte informacional, cuja responsabilidade é identificar a demanda de informação em diferentes contextos considerando a diversidade do público. Eles podem trabalhar em bibliotecas, centros de documentação, empresas, escritórios jurídicos e pode gerir redes e sistemas de informação. [[13](https://pt.wikipedia.org/wiki/Bibliotec%C3%A1rio)]
 
@@ -223,7 +223,7 @@ Os bibliotecários atendem a 3 tipos de usuários (GARCEZ; RADOS, 2002):
 - Usuário off campus: docentes, discentes e pesquisadores que se encontram distantes geograficamente das bibliotecas, mas estão inseridos nos programas de ensino, pesquisa e extensão das instituições educacionais, que também podem ou não ser intermediados pelos gerenciadores da informação;
 - Usuário remoto: pesquisadores e profissionais liberais que podem ter ou não vinculação com a instituição provedora; o contato pode ser virtualmente, por correio eletrônico, telefone e fax [...].
 
-### 4.2. **Não-usuário de bibliotecas universitárias**
+#### 4.2. **Não-usuário de bibliotecas universitárias**
 
 O não-usuário de um biblioteca é aquele que tem o direito de usar a biblioteca, mas não a usa por um determinado período e não participa das atividades culturais que a biblioteca organiza. É preciso ressaltar que a utilização da biblioteca não é apenas para emprestar um livro ou baixar um artigo do banco de dados, mas também para participar de atividades culturais, exposições, uso das salas de leitura, cabines de internet, etc. Em suma, não é fazer uso de serviços físicos e virtuais e não participar das atividades culturais organizadas pela biblioteca por um determinado tempo. (Silvestre Estela, 2019)
 
@@ -495,20 +495,10 @@ Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docente
   * 5% Não souberam opinar
 <hr>
 
-#### 4.4. Informações que os usuários desejam
 
-Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas universitárias, foram realizadas 30 entrevistas com usuários da biblioteca. Com base nessas entrevistas foi evidenciado alguns pontos em comuns que os usuários desejavam ser informados nos sistemas online da BCE. 
+#### 4.4. Usuários de Pós-Graduação
 
-- Livros mais alugados
-- Seções mais procuradas
-- Quantas pessoas passaram pela BCE
-- Horário de funcionamento
-- Próximos eventos/exposições
-- Vídeos ensinando encontrar obras no acervo
-- Avisos de não funcionamento (greve, paralização, etc.)
-- Serviços ofertados
-
-#### 4.5. Usuários Alunos 
+#### 4.5. Usuários de Graduação
 
 <!-- FALAR MAIS SOBRE OS USUÁRIOS ALUNOS -->
 
@@ -574,6 +564,19 @@ Quando perguntado se os alunos usariam algum serviço de streaming caso ele foss
   * 20% Talvez Usariam
   
 <hr>
+
+## 5. Informações que os usuários desejam
+
+Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas universitárias, foram realizadas 30 entrevistas com usuários da biblioteca. Com base nessas entrevistas foi evidenciado alguns pontos em comuns que os usuários desejavam ser informados nos sistemas online da BCE. 
+
+- Livros mais alugados
+- Seções mais procuradas
+- Quantas pessoas passaram pela BCE
+- Horário de funcionamento
+- Próximos eventos/exposições
+- Vídeos ensinando encontrar obras no acervo
+- Avisos de não funcionamento (greve, paralização, etc.)
+- Serviços ofertados
 
 ## Bibliografia
 
