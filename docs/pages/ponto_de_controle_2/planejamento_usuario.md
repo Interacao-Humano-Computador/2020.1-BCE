@@ -20,8 +20,8 @@ O intuito da avaliação que será realizada é coletar dados a respeito das car
 
 O método investigativo foi o escolhido para realizar a avaliação através do uso de questionário contendo perguntas que os usuários e demais participantes devem responder, a fim de fornecer os dados necessários para análise e avaliação acerca do perfil de usuário do site da Biblioteca Central Estudantil (BCE). Os métodos investigativos permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Para tal, a utilização de questionário permite coletar rapidamente dados (principalmente quantitativos) de muitos usuários, de forma rápida, com baixo custo e de fácil análise.
 
-### 3.1 Perguntas a serem respondidas
-O questionário, distribuído em questões de múltipla escolha, é composto pelas seguintes perguntas:
+### 3.1 Questionário
+O questionário, distribuído em questões de múltipla escolha, é composto pelas seguintes perguntas a serrem respondidas pelos participantes:
   
 | Número | Pergunta                                                             |
 | :----  | :------------------------------------------------------------------- |
