@@ -95,7 +95,13 @@ O questionário, distribuído em questões de múltipla escolha, é composto pel
 
 ## 4. Avaliação, interpretação e apresentação dos dados
 
-Após a aplicação do questionário, os dados foram divididos em dois grupos, alunos de graduação e alunos de pós-graduação. Com base nos resultados desses dois grupos, foi criado gráficos para facilitar a visualização. Os resultados das análises destes gráficos estão no documento de [**perfil de usuário**](pages/ponto_de_controle_2/perfil_usuario) nos tópicos **4.4. Usuários de Pós-Graduação** e **4.5. Usuários de Graduação**.
+Após a aplicação do questionário, o grupo irá agrupar e analisar os dados coletados em busca de pontos em comum dos participantes para, assim, dividir e categorizar os grupos de usuários.
+
+Essa análise de dados será realizada nas seguinte etapas:
+- Primeiro os dados serão divididos em dois grupos, alunos de graduação e alunos de pós-graduação. 
+- Serão gerados gráficos com os dados obtidos para facilitar a visualização 
+- Os graficos serão analisados e será definido o perfil de usuário dos alunos de graduação e pós-graduação.
+- A conclusão dessa análise será apresentada no documento de [**perfil de usuário**](pages/ponto_de_controle_2/perfil_usuario) nos tópicos **4.4. Usuários de Pós-Graduação** e **4.5. Usuários de Graduação**.
 
 ## Bibliografia
 
