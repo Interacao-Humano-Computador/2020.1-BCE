@@ -1,12 +1,14 @@
 # Planejamento da Realização do Questionário dos graduandos e pós-graduandos
 
 ## Histórico de Versão
-| Data       | Versão | Descrição                           | Autor(es)          |
-|:----------:|:------:|:-----------------------------------:|:------------------:|
-| 02.10.2020 | 0.1    | Criação do documento                | Isabella Carneiro  |
-| 02.10.2020 | 0.2    | Adição das questões do questionário | Geraldo Victor     |
-| 03.10.2020 | 0.3    | Refinamento do documento            | Rafaella Junqueira |
-| 03.10.2020 | 0.4    | Modificações no tópico Introdução   | Durval Carvalho |
+| Data       | Versão | Descrição                                       | Autor(es)          |
+|:----------:|:------:|:-----------------------------------------------:|:------------------:|
+| 02.10.2020 | 0.1    | Criação do documento                            | Isabella Carneiro  |
+| 02.10.2020 | 0.2    | Adição das questões do questionário             | Geraldo Victor     |
+| 03.10.2020 | 0.3    | Refinamento do documento                        | Rafaella Junqueira |
+| 03.10.2020 | 0.4    | Modificações no tópico Introdução               | Durval Carvalho    |
+| 03.10.2020 | 0.5    | Modificações nos tópico Objetivos e Metodologia | Durval Carvalho    |
+| 03.10.2020 | 0.6    | Modificações na tabela de perguntas             | Durval Carvalho    |
 
 
 <!-- INTRODUÇÃO SOBRE O PROPÓSITO DESSE DOCUMENTO -->
@@ -57,7 +59,7 @@ As próximas 6 perguntas são de perfil demográfica, seguidas por 6 peguntas qu
 
 
 
-## 3.1. Caracterização da Amostra
+### 3.1. Caracterização da Amostra
 
 Parte importante de uma pesquisa qualitativa é a origem da amostra utilizada. Com isso em mente, é fundamental definir como foi escolhido os participantes da entrevista.
 
@@ -71,29 +73,29 @@ Diante desse problema, foi sugerido que os integrantes do grupo buscasse conheci
 
 O resultado final, foi a participação de [NUMERO DE PARTICIPANTES].
 
-### 3.1 Preparação
+### 3.2. Preparação
 
 O atual contexto de isolamento social que estamos vivendo, atrelado ao método de avaliação escolhido, estingue a necessidade de equipamentos e preparo de local físico, pois o questionário será aplicado de forma online. As questões éticas serão respeitadas na avaliação haja visto que não serão coletados dados identificadores pessoais ou informações que prejudiquen e/ou constranjam o participante.
 
-### 3.2 Questionário
+### 3.3. Questionário
 
 O questionário, distribuído em questões de múltipla escolha, é composto pelas seguintes perguntas a serrem respondidas pelos participantes:
   
 | Número | Pergunta                                                             | Opções de Resposta |
 | :----: | :------------------------------------------------------------------: | :----------------: |
-| 1      | No último ano, você utilizou os serviços BCE?                        | - [ ] SIM <br> - [ ] NÃO |
-| 2      | Qual a sua faixa etária?                                             |
-| 3      | Você se identifica com qual gênero?                                  |
-| 4      | Qual o seu maior grau de formação acadêmica?                         |
-| 5      | O quão distante a biblioteca fica da sua casa?                       |
-| 6      | Seu curso se encaixa em qual área do conhecimento?                   |
-| 7      | Qual o seu nível de experiência com tecnologias informacionais?      |
-| 8      | Você já utilizou o site da BCE?                                      |
-| 9      | Qual dispositivo você mais usa quando acessa o site da BCE?          |
-| 10     | Com que frequência você utiliza o site da BCE?                       |
-| 11     | Você já agendou um empréstimo de livro pelo site da BCE?             |
-| 12     | Você já renovou o prazo de devolução de obras pelo site da BCE?      |
-| 13     | Gostaria de dar alguma sugestão de melhoria?                         |
+| 1      | No último ano, você utilizou os serviços BCE?                        | <img src='_media/assets/question_ans/ansSN.png'> |
+| 2      | Qual a sua faixa etária?                                             |<img src='_media/assets/question_ans/ans2.png'> |
+| 3      | Você se identifica com qual gênero?                                  |<img src='_media/assets/question_ans/ans3.png'> |
+| 4      | Qual o seu maior grau de formação acadêmica?                         |<img src='_media/assets/question_ans/ans4.png'> |
+| 5      | O quão distante a biblioteca fica da sua casa?                       |<img src='_media/assets/question_ans/ans5.png'> |
+| 6      | Seu curso se encaixa em qual área do conhecimento?                   |<img src='_media/assets/question_ans/ans6.png'> |
+| 7      | Qual o seu nível de experiência com tecnologias informacionais?      |<img src='_media/assets/question_ans/ans7.png'> |
+| 8      | Você já utilizou o site da BCE?                                      |<img src='_media/assets/question_ans/ansSN.png'> |
+| 9      | Qual dispositivo você mais usa quando acessa o site da BCE?          |<img src='_media/assets/question_ans/ans9.png'> |
+| 10     | Com que frequência você utiliza o site da BCE?                       |<img src='_media/assets/question_ans/ans10.png'> |
+| 11     | Você já agendou um empréstimo de livro pelo site da BCE?             |<img src='_media/assets/question_ans/ansSN.png'> |
+| 12     | Você já renovou o prazo de devolução de obras pelo site da BCE?      |<img src='_media/assets/question_ans/ansSN.png'> |
+| 13     | Gostaria de dar alguma sugestão de melhoria?                         | Pergunta aberta |
 
 ## 4. Avaliação, interpretação e apresentação dos dados
 
