@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 27.09.2020 |  0.1   | Criação do documento | João Victor |
+| 04.10.2020 |  0.2   | Adição de conteudo | João Victor |
 
 <div align="justify">
 
@@ -32,12 +33,21 @@ Essa meta é muito importante para sistemas usados eventualmente, pois mede a ca
 ## 3. Metas a serem alcançadas pelo nosso projeto
 Para definir as metas que desejamos alcançar foram levantadas as seguintes questões sobre cada meta:
 
-* Eficácia: O sistema serve ao propósito principal?
-* Eficiência: Quantos recursos são utilizados para realizar a tarefa específica?
+* Eficácia: O sistema serve ao propósito principal?     
+    - O sistema deve permitir aos usuários acesso ao catálogo da biblioteca, agendar a reserva de um livro e renovar o prazo de devolução.   
+
+* Eficiência: Quanto tempo demora para realizar a tarefa específica?    
+    - O sistema deve atender as necessidades do usuário de maneira mais veloz, fluida e eficiente possível.
+
 * Segurança: O sistema previne o usuário de erros ou ações indesejáveis? O sistema recupera as ações anteriores?
+    - O sistema deve exibir uma tela de confirmação para algumas tarefas como cancelar reserva de um livro, renovar prazo. 
 * Utilidade: O sistema oferece ao usuário a funcionalidade certa segundo o contexto?
+    - Melhorar o sistema de filtro de busca no catálogo.
 * Aprendizagem: É fácil aprender a usar?
+    - O sistema deve ser mais intuitivo, ter uma fácil utilização e navegabilidade, sem necessidade de longo tempo de aprendizado. Já possui um sistema de ajuda para facilitar esse objetivo.
 * Memorização: Que tipo de suporte é oferecido ao usuário para auxiliá-lo na realização das tarefas, especialmente os itens não recorrentes?
+    - Com um sistema mais intuitivo, a memorização fica mais fácil e mesmo após um periodo sem usar o site, o usuário conseguirá realizar as tarefas desejadas.
+
 
 ## Memorização
 O usuário não deve ser obrigado a reaprender a usar o sistema quando acessa-lo novamente depois de um periodo longo sem usa-lo. 
