@@ -34,7 +34,7 @@ O objetivo principal dessa pesquisa é obter dados para embasar a criação de p
 - Conhecer o nível de conhecimento com tecnologias informacionais
 - Conhecer a distância entre a casa dos alunos e a biblioteca.
 
-Somente com as respostas dessas perguntas já é possível criar uma persona que represente características reais dos alunos usuários da BCE, porém, visando aproveitar o alcance do questionário, foi definido objetivos secundários que irão guiar orientar sobre como o atual sistema da BCE é utilizada pelos alunos. Dessa maneira, os seguintes objetivos secundários foram definidos:
+Somente com as respostas dessas perguntas já é possível criar uma persona que represente características reais dos alunos usuários da BCE, porém, visando aproveitar o alcance do questionário, foi definido objetivos secundários que irão guiar orientar sobre como o atual sistema da BCE é utilizado pelos alunos. Dessa maneira, os seguintes objetivos secundários foram definidos:
 - Conhecer a distribuição dos usuários do site da BCE.
 - Conhecer o dispositivo utilizado durante o acesso do site da BCE.
 - Conhecer a frequência de uso do site da BCE.
