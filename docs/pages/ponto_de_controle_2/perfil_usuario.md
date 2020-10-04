@@ -9,6 +9,7 @@
 | 28.09.2020 |  0.4   | Adição de legendas nas imagens | Durval Carvalho |
 | 03.10.2020 |  0.5   | Modificação no tópico Bibliotecários | Durval Carvalho |
 | 03.10.2020 |  0.6   | Modificação no tópico Não-Usuários | Durval Carvalho |
+| 03.10.2020 |  0.7   | Modificação no tópico Docentes | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -65,13 +66,16 @@ Apesar da pesquisa bibliografia realizada ter gerado uma vasta quantidade de dad
 
 Os usuários no contexto deste projeto são os agentes que utilizam os sistemas da BCE, que podem ser classificados como agentes humanos ou agentes de software. Existem diferentes tipos de usuários a exemplo de estudantes, bibliotecários, professores e pesquisadores. Esse tópico visa definir os tipos de usuários encontrados durante a pesquisa.
 
-Constam no cadastro da BCE 22574 usuários, distribuidos nas seguintes categorias:
-- Alunos de graduação: 12197 (54%);
-- Alunos da pós-graduação: 12197 (7.6%);
-- Servidores: 12197 (5.8%);
-- Professores: 12197 (15.6%);
-- Ex-Alunos: 12197 (13.6%).
-<br><small>Fonte: Relatórios de Atividades da Biblioteca Central de 2019 </small>
+Constam no cadastro da bce 22574 usuários, sendo 12197 alunos de graduação, 12197, alunos da pós-graduação, 12197 servidores, 12197 professores e 12197 ex-alunos. A proporção desses valores podem ser visto na figura abaixo.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/cadastro-ativos-bce.png' width=60%/>
+  <figcaption align='center'>
+    <b>Figura 1: Composição dos cadastros ativos do sistema da BCE.</b>
+    <br> 
+    <a href='[user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf](https://bce.unb.br/wp-content/uploads/2020/07/RelatorioAtividades2019.pdf)'>Fonte: Relatórios de Atividades da Biblioteca Central de 2019</a>
+  </figcaption>
+</p>
 
 #### 4.1. **Bibliotecários**
 
@@ -105,7 +109,7 @@ Durante a pesquisa realizada por Lago (2014) e Rocha (2012) a respeito dos bibli
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png' width=60%/>
   <figcaption align='center'>
-    <b>Figura 1: Gráfico apresentando o tempo que os entrevistados exercem o cargo.</b>
+    <b>Figura 2: Gráfico apresentando o tempo que os entrevistados exercem o cargo.</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf'>Fonte: Lago, 2014</a>
   </figcaption>
@@ -116,7 +120,7 @@ Sobre a faixa etária, 68.2% dos bibliotecários tinham entre 20 a 30 anos (Roch
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png' width=60%>
   <figcaption align='center'>
-    <b>Figura 2: Gráfico apresentando a idade dos entrevistados</b>
+    <b>Figura 3: Gráfico apresentando a idade dos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
   </figcaption>
@@ -127,7 +131,7 @@ Sobre o gênero, a maioria dos bibliotecários era do sexo feminino (77,30%) e a
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png' width=60%>
   <figcaption align='center'>
-    <b>Figura 3: Tabela apresentando o gênero dos entrevistados</b>
+    <b>Figura 4: Figura apresentando o gênero dos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
   </figcaption>
@@ -140,7 +144,7 @@ A respeito da formação acadêmica, 63.7% possuiam somente graduação em bibli
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png' width=70%>
   <figcaption align='center'>
-    <b>Figura 4: Tabela apresentando o grau de escolaridade dos entrevistados</b>
+    <b>Figura 5: Figura apresentando o grau de escolaridade dos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
   </figcaption>
@@ -151,7 +155,7 @@ Quando perguntado sobre as principais dificuldades durante a implementação de 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/dif_uso_estr_mkt_bce.png' width=100%>
   <figcaption align='center'>
-    <b>Tabela 5: Dificuldades idenficadas pelos bibliotecários</b>
+    <b>Figura 6: Dificuldades idenficadas pelos bibliotecários</b>
     <br> 
       <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
   </figcaption>
@@ -163,7 +167,7 @@ Quando perguntado sobre a facilidade na utilização de Tecnologias de Informaç
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 6: Gráfico apresentando o dóminio das TIC pelos entrevistados</b>
+    <b>Figura 7: Gráfico apresentando o dóminio das TIC pelos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf'>Fonte: Lago, 2014</a>
   </figcaption>
@@ -175,7 +179,7 @@ Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 10% conside
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/aval-infra-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 7: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <b>Figura 8: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -187,7 +191,7 @@ Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 14%
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 8: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <b>Figura 9: Gráfico a avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -200,7 +204,7 @@ Quando perguntado sobre a qualidade do acervo da biblioteca, 18% consideram óti
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 9: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <b>Figura 10: Gráfico a avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -213,7 +217,7 @@ Quando perguntado sobre as Tecnologias da Informação e Comunicação (TICs) ma
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png'>
   <figcaption align='center'>
-    <b>Figura 10: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
+    <b>Figura 11: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf'>Fonte: Lago, 2014</a>
   </figcaption>
@@ -229,7 +233,7 @@ Os não usuários podem ser classificados nos seguintes tipos (Silvestre Estela,
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/tipos-nao-usuario.png'>
   <figcaption align='center'>
-    <b>Figura 11: Tipos de não-usuário de bibliotecas definidos na literatura</b>
+    <b>Figura 12: Tipos de não-usuário de bibliotecas definidos na literatura</b>
       <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>
         Fonte: Silvestre Estela. 2019
       </a>
@@ -242,21 +246,19 @@ Em relação a faixa etária, 49.5% dos não usuários possuem entre 20 a 22 ano
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png'>
   <figcaption align='center'>
-    <b>Figura 12: Figura apresentando o ano de graduação e a idade dos não-usuários entrevistados</b>
+    <b>Figura 13: Figura apresentando o ano de graduação e a idade dos não-usuários entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
   </figcaption>
 </p>
 
-<br><br><hr>
-
 Em relação ao curso matrículado, 64% dos não-usuários estão matriculados em cursos das áreas de ciências humanas. (Silvestre Estela, 2019)
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png'>
   <figcaption align='center'>
-    <b>Figura 13: Figura apresentando o curso dos não-usuários entrevistados</b>
+    <b>Figura 14: Figura apresentando o curso dos não-usuários entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
@@ -269,7 +271,7 @@ A fim de conhecer quais critérios de usabilidade e conteúdo eram reconhecidos 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/crite-quali-bce.png'>
   <figcaption align='center'>
-    <b>Figura 14: Figura apresentando os critérios de que os não-usuários avaliavam em suas ferramentas de pesquisa acadêmica</b>
+    <b>Figura 15: Figura apresentando os critérios de que os não-usuários avaliavam em suas ferramentas de pesquisa acadêmica</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
@@ -281,7 +283,7 @@ Afim de descobrir quais eram os motivos para não utilizar os serviços da bibli
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/razoes-nao-uso-bce.png'>
   <figcaption align='center'>
-    <b>Figura 15: Razões que os não-usuários disseram para justicar o não uso dos serviços da biblioteca </b>
+    <b>Figura 16: Razões que os não-usuários disseram para justicar o não uso dos serviços da biblioteca </b>
     <br> 
       <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
@@ -293,7 +295,7 @@ Com base nos dados coletados, as principais dificuldades foram categorizadas e a
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png'>
   <figcaption align='center'>
-    <b>Figura 16: Tabela as dificuldades que os não-usuários atribuiram a biblioteca</b>
+    <b>Figura 17: Tabela as dificuldades que os não-usuários atribuiram a biblioteca</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
@@ -301,167 +303,153 @@ Com base nos dados coletados, as principais dificuldades foram categorizadas e a
 
 #### 4.3. Docentes
 
-Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docentes da Universidade de Brasília com objetivo de identificar o perfil dos docentes e seus comportamentos durante o processo de pesquisa. Os resultados dessa pesquisa foram:
-
-- 39% dos docentes possuíam de 1 a 5 anos de docência, enquanto que 27% possuíam 6 a 10 anos.
+Na pesquisa realizada por Nasser e Dantas (2007), foram entrevistados 20 docentes da Universidade de Brasília com objetivo de identificar o perfil dos docentes e seus comportamentos durante o processo de pesquisa. Os resultados dessa pesquisa foram que 39% dos docentes possuíam de 1 a 5 anos de docência, enquanto que 27% possuíam 6 a 10 anos, como pode ser visto na figura 17.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.1.png'>
   <figcaption align='center'>
-    <b>Figura 10: Gráfico apresentando o tempo de docência dos entrevistados</b>
+    <b>Figura 18: Gráfico apresentando o tempo de docência dos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- 46% eram docentes da área das ciências sociais, e 26% das ciências exatas.
+Em relação a área do conhecimento do curso lecionado pelos docentes, 46% eram da área das ciências sociais, e 26% das ciências exatas.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.2.png'>
   <figcaption align='center'>
-    <b>Figura 11: Gráfico apresentando o grau e a formação dos entrevistados</b>
+    <b>Figura 19: Gráfico apresentando o grau e a formação dos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Durante a pesquisa de referências bibliográficas, 67% dos docentes preferem pesquisar utilizando sites abertos, 20% sites privados, e 13% preferem consultar outros docentes.
+Em relação ao modo de pesquisa que os docentes utilizavam, 67% preferiam pesquisar utilizando sites abertos, 20% sites privados, e 13% preferem consultar outros docentes.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.3.png'>
   <figcaption align='center'>
-    <b>Figura 12: Gráfico apresentando os canais de obtenção de informação preferido pelos entrevistados</b>
+    <b>Figura 20: Gráfico apresentando os canais de obtenção de informação preferido pelos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Durante a pesquisa de referências bibliográficas, a maioria dos docentes busca periódicos científicos, livros e anais de congressos com maior frequência.
+Em relação a frequência que os docentes consumiam informações das diversas fontes, a maioria indicou periódicos científicos, livros e anais de congressos como canal de maior frequência.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.4.png'>
   <figcaption align='center'>
-    <b>Figura 13: Gráfico apresentando a frequências que os entrevistados consumiam cada tipo de fonte de informação</b>
+    <b>Figura 21: Gráfico apresentando a frequências que os entrevistados consumiam cada tipo de fonte de informação</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Entre os serviços ofertados pela BCE, os docentes apontaram que os utilizados com maior frequência (mensalmente) são: Portal de Periódicos da CAPES, Catálogo online da BCE e Biblioteca Digital de Teses e Dissertações.
+Em relação aos serviços ofertados pela BCE, os docentes apontaram que os serviços utilizados com maior frequência são: Portal de Periódicos da CAPES, Catálogo online da BCE e Biblioteca Digital de Teses e Dissertações (BDTD).
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.5.png'>
   <figcaption align='center'>
-    <b>Figura 14: Gráfico apresentando a frequências que os entrevistados utilizavam os serviços ofetados pela BCE</b>
+    <b>Figura 22: Gráfico apresentando a frequências que os entrevistados utilizavam os serviços ofetados pela BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Quando perguntado quais serviços os docentes recomendavam o uso a seus alunos, 15% recomendaram o Portal de Periódicos da CAPES, 14% o serviço de empréstimo, 14% os serviços de pesquisa de material e 12% o site da Biblioteca Digital de Teses e Dissertações.
+Em relação aos serviços que os docentes indicavam aos seus alunos, 15% recomendaram o Portal de Periódicos da CAPES, 14% o serviço de empréstimo, 14% os serviços de pesquisa de material e 12% o site da Biblioteca Digital de Teses e Dissertações.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.6.png'>
   <figcaption align='center'>
-    <b>Figura 15: Gráfico apresentando a quais serviços da BCE os docentes indicavam aos seus alunos</b>
+    <b>Figura 23: Gráfico apresentando a quais serviços da BCE os docentes indicavam aos seus alunos</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Quando perguntado quais eram as principais dificuldades enfrentadas durante o uso dos serviços da BCE, foi descoberto que 42% dos docentes consideram o material bibliográfico disponível insuficiente e/ou desatualizado.
+Em relação às principais dificuldades enfrentadas durante o uso dos serviços da BCE, 42% dos docentes consideram o material bibliográfico disponível insuficiente e/ou desatualizado.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.7.png'>
   <figcaption align='center'>
-    <b>Figura 16: Gráfico apresentando as principais dificuldades enfrentadas pelos docentes durante o uso dos serviços da BCE</b>
+    <b>Figura 24: Gráfico apresentando as principais dificuldades enfrentadas pelos docentes durante o uso dos serviços da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Quando perguntado quais eram as principais barreiras que os docentes encontravam durante a realização de pesquisas online, foi apontado que 23% dos docentes tâm dificuldade para filtrar os grandes volumes de informação disponíveis, 23% não possuem tempo suficiente para realizar pesquisa de qualidade na internet, 18% consideram as interfaces dos sites de pesquisa bibliográficas difíceis de usar, e 12% consideram que as informações obtidas podem não ser confiáveis.
+Quando perguntado quais eram as principais barreiras que os docentes encontravam durante a realização de pesquisas online, foi apontado que 23% dos docentes tâm dificuldade para filtrar os grandes volumes de informação disponíveis, 23% não possuem tempo suficiente para realizar pesquisa de qualidade na internet, 18% consideram as interfaces dos sites de pesquisa bibliográficas difíceis de usar, e 12% consideram que as informações obtidas podem não ser confiáveis.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.8.png'>
   <figcaption align='center'>
-    <b>Figura 17: Gráfico apresentando as principais dificuldades durante a realização de pesquisas online</b>
+    <b>Figura 25: Gráfico apresentando as principais dificuldades durante a realização de pesquisas online</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Quando perguntado quais eram as principais dificuldades enfrentadas durante a utilização de bases de dados, 32% consideraram que as informações relevantes estão em base de dados pagas, 17% possuem dificuldade na escolha da base de dados, 17% possuem dificuldade na combinação dos termos e operadores.
+Quando perguntado quais eram as principais dificuldades enfrentadas durante a utilização de bases de dados, 32% consideraram que as informações relevantes estão em base de dados pagas, 17% possuem dificuldade na escolha da base de dados, 17% possuem dificuldade na combinação dos termos e operadores.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-5.9.png'>
   <figcaption align='center'>
-    <b>Figura 18: Gráfico apresentando as principais dificuldades durante a realização de pesquisas em bases de dados</b>
+    <b>Figura 26: Gráfico apresentando as principais dificuldades durante a realização de pesquisas em bases de dados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/5. [perfect]comportamento_dos_docentes_do_programa_de_pós_graduação_em_administração_ppga_da_universidade_de_brasília_na_busca_e_uso_da_informação.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
-
-- Quando perguntado sobre a exigência do acesso remoto as bases de dados, 80.2% dos docentes afirmam que o uso remoto é imprescindível.
+Quando perguntado sobre a exigência do acesso remoto as bases de dados, 80.2% dos docentes afirmam que o uso remoto é imprescindível.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-19.5.png'>
   <figcaption align='center'>
-    <b>Figura 19: Tabela indicando quantos docentes identificam o recurso de acesso remoto a portais de base de dados como imprescindível</b>
+    <b>Figura 27: Tabela indicando quantos docentes identificam o recurso de acesso remoto a portais de base de dados como imprescindível</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/19. PORTAL PERIÓDICOS CAPES: estudo dos não-usuários docentes das IFES brasileiras.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<hr>
+Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 5% consideram ótima, 33% Consideram boa, 34% Consideram regular, 17% Consideram ruim, 6% Consideram péssimo e 5% Não souberam opinar. (Estela, Cunha, 2017)
 
-- Quando perguntado sobre a qualidade da infraestrutura da biblioteca (Silvestre Estela. 2019):
-  * 5% consideram ótimo
-  * 33% Consideram bom
-  * 34% Consideram regular
-  * 17% Consideram ruim
-  * 6% Consideram péssimo
-  * 5% Não souberam opinar
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-infra-bce-2.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 28: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+  </figcaption>
+</p>
 
-<hr>
 
-- Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca (Silvestre Estela. 2019):
-  * 12% consideram ótimo
-  * 40% Consideram bom
-  * 30% Consideram regular
-  * 9% Consideram ruim
-  * 3% Consideram péssimo
-  * 6% Não souberam opinar
+Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 12% consideram ótima, 40% bom, 30% regular, 9% ruim, 3% péssima e 6% não souberam opinar. (Estela, Cunha, 2017).
 
-<hr>
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce-2.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 29: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+  </figcaption>
+</p>
 
-- Quando perguntado sobre a qualidade do acervo da biblioteca (Silvestre Estela. 2019):
-  * 8% consideram ótimo
-  * 35% Consideram bom
-  * 29% Consideram regular
-  * 18% Consideram ruim
-  * 5% Consideram péssimo
-  * 5% Não souberam opinar
-<hr>
 
+Quando perguntado sobre a qualidade do acervo da biblioteca, 8% consideram ótimo, 35% bom, 29% regular, 18% ruim, 5% péssimo e 5% não souberam opinar.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce-2.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 30: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+  </figcaption>
+</p>
 
 #### 4.4. Usuários de Pós-Graduação
 
