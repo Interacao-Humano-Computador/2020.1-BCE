@@ -6,6 +6,8 @@
 | 25.09.2020 |  0.1   | Criação do documento de características da plataforma | João Victor  |
 | 28.09.2020 |  0.2   | Modificação nos objetivos do documento | Durval Carvalho  |
 | 28.09.2020 |  0.3   | Remoção dos tópicos disconexos do documento | Durval Carvalho |
+| 02.10.2020 |  0.4   | Adição de conteudo | João Victor |
+
 
 <div align="justify">
 
@@ -17,7 +19,8 @@ O objetivo desse documento é determinar quais são as características das plat
 
 ## 3. Características
 
-A plataforma escolhida é uma aplicação web que deve ser responsiva isso é, que responde às dimensões do navegador em qualquer ponto e em qualquer navegador. Esta resposta às dimensões do navegador é feita de forma fluída e flexível, e deve ser adaptativa que se adapta à largura do navegador em pontos específicos.
+A plataforma atual do sistema BCE é uma aplicação web que roda em diferentes browsers como Chrome, Edge e Firefox. É possivel acessar o sistema por computadores ou notebooks e dispositivos móveis como smartphones e tablets, porém a interface não é responsiva, isto é, ela não se adapta ao tamanho da tela de onde está sendo exibida, mantendo a escala e dimensões proporcionais a tela de computadores ou notebooks.
+
 
 
 </div>
