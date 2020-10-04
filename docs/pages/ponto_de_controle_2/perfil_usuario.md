@@ -7,6 +7,7 @@
 | 18.09.2020 |  0.2   | Revisão do documento | Rafaella Junqueira |
 | 22.09.2020 |  0.3   | Adição de novas informações | Durval Carvalho |
 | 28.09.2020 |  0.4   | Adição de legendas nas imagens | Durval Carvalho |
+| 03.10.2020 |  0.5   | Modificação no tópico Bibliotecários | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -25,20 +26,20 @@ Um dos motivos para escolha da BCE como escopo do projeto, foi a imensa quantida
 Partindo desse pressuposto, foram realizadas pesquisas por artigos, dissertações e teses de conclusão de curso que expunham temas relacionados a "bibliotecas universitárias", "usabilidade", "pesquisa acadêmica", "BCE", "UnB" e outras palavras-chave relacionadas ao tema.
 
 O resultado dessa pesquisa foram os 14 documentos a seguir:
-- [Computação em nuvem: estudo sobre o uso e implementação na visão dos bibliotecários da BCE/UnB/Gessyca da Silva Lago. – 2014.][1]
-- [Não-usuário de bibliotecas universitárias: um estudo de caso na Universidade de Brasília - UnB / Flor de María Silvestre Estela. - 2019.][2]
-- [Serviços de Referência e informação em bibliotecas universitárias da América Latina: análise de seus websistes. Alice de Amorim Borges Vazquez. - 2017.][3]
-- [Tendências em bibliotecas universitárias. As mídias sociais aplicadas na BCE-UnB. Sousa, Tamiê Moraes de. ][4]
-- [Comportamento dos docentes do programa de pós-graduação em administração (ppga) da universidade de brasília na busca e uso da informação. Nasser, janne cury; dantas, jefferson higino. - 2007][5]
-- [Avaliação de usabilidade de websites integrando gestores, desenvolvedores e usuários. Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. - 2013.][6]
-- [Usabilidade em bibliotecas digitais. Pereira, fernanda; lima, gercina ângela borém. - 2013][7]
-- [Princípios de marketing aplicados às unidades de informação: estudo de caso da Biblioteca Central da Universidade de Brasília. Stephanie Moira Brauna da Rocha. – 2012][8]
-- [GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Dantas, Jefferson Higino][9]
-- [Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras.  Wesley Rodrigo Fernandes. – 2012.][10]
-- [Biblioteca universitária e os indicadores do sinaes: estudo do caso da universidade de brasília. – 2017. Estela e cunha, flor de maría silvestre estela e murilo bastos da cunha][11]
-- [A Utilização dos Recursos Multimídias para a Busca da Informação na Biblioteca Central da Universidade de Brasília (BCE) - 2011. Santos, Wesclei Batista Santos. ][12]
-- [Análise do espaço virtual da biblioteca central da universidade de brasília: marketing como referencial teóricometodológico – 2012. Barbosa, Thiago Teixeira Barbosa.][13]
-- [Avaliação da usabilidade na interação e recuperação da informação dos usuários pós graduandos no repositório institucional da universidade de brasília. – 2016. Café, Luísa Chaves Café. ][14]
+- [Computação em nuvem: estudo sobre o uso e implementação na visão dos bibliotecários...][1]
+- [Não-usuário de bibliotecas universitárias: um estudo de caso na Universidade de Brasília...][2]
+- [Serviços de Referência e informação em bibliotecas universitárias da América Latina...][3]
+- [Tendências em bibliotecas universitárias. As mídias sociais aplicadas na BCE-UnB...][4]
+- [Comportamento dos docentes do programa de pós-graduação em administração (ppga) da...][5]
+- [Avaliação de usabilidade de websites integrando gestores, desenvolvedores e usuários...][6]
+- [Usabilidade em bibliotecas digitais. Pereira, fernanda; lima, gercina ângela borém...][7]
+- [Princípios de marketing aplicados às unidades de informação: estudo de caso da Biblioteca...][8]
+- [Gestão da informação digital na biblioteca central da universidade de brasília...][9]
+- [Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras.  Wesley...][10]
+- [Biblioteca universitária e os indicadores do sinaes: estudo do caso da universidade...][11]
+- [A Utilização dos Recursos Multimídias para a Busca da Informação na Biblioteca Central...][12]
+- [Análise do espaço virtual da biblioteca central da universidade de brasília: marketing...][13]
+- [Avaliação da usabilidade na interação e recuperação da informação dos usuários pós...][14]
 
 [1]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/1.%20computa%C3%A7%C3%A3o_em_nuvem_estudo_sobre_o_uso_e_implementa%C3%A7%C3%A3o_na_vis%C3%A3o_dos_bibliotec%C3%A1rios_da_bce_unb.pdf
 [2]: https://github.com/Interacao-Humano-Computador/2020.1-BCE/raw/master/docs/user-profile-research-summary/DURVAL/2.%20n%C3%A3o_usu%C3%A1rio_de_bibliotecas_universit%C3%A1rias_um_estudo_de_caso_na_universidade_de_bras%C3%ADlia_.pdf
@@ -57,6 +58,8 @@ O resultado dessa pesquisa foram os 14 documentos a seguir:
 
 Com base nesses documentos foram extraidos dados, definições e informações que eram pertinentes ao escopo do nosso projeto. Cada um dessas análises foi realizada no formato de relatórios, onde o responsável realizava a leitura do documento e selecionava as partes pertinentes ao projeto. 
 
+Apesar da pesquisa bibliografia realizada ter gerado uma vasta quantidade de dados qualitativos e quantitativos a respeito da maior parte dos usuários (servidores, docentes e não-usuários), foi concluído que não havia dados suficiente para caracterizar o perfil dos alunos de graduação e pós-graduação. Desse modo foi necessário realizar uma atividade de coleta de dados, por meio de questionário, para sanar essa falta de informação. O planejamento dessa atividade está disponível no documento [Planejamento do Questionário](pages/ponto_de_controle_2/planejamento_do_questionario). E os resultados dessa atividade está disponível nos tópicos **4.4. Usuários de Pós-Graduação** e **4.5. Usuários de Graduação** desse mesmo documento.
+
 ## 4. Grupo de Usuários
 
 Os usuários no contexto deste projeto são os agentes que utilizam os sistemas da BCE, que podem ser classificados como agentes humanos ou agentes de software. Existem diferentes tipos de usuários a exemplo de estudantes, bibliotecários, professores e pesquisadores. Esse tópico visa definir os tipos de usuários encontrados durante a pesquisa.
@@ -67,19 +70,39 @@ Constam no cadastro da BCE 22574 usuários, distribuidos nas seguintes categoria
 - Servidores: 12197 (5.8%);
 - Professores: 12197 (15.6%);
 - Ex-Alunos: 12197 (13.6%).
+<br><small>Fonte: Relatórios de Atividades da Biblioteca Central de 2019 </small>
 
 #### 4.1. **Bibliotecários**
 
 Bibliotecário é um profissional liberal que trata a informação e a torna acessível ao usuário final, independente do suporte informacional, cuja responsabilidade é identificar a demanda de informação em diferentes contextos considerando a diversidade do público. Eles podem trabalhar em bibliotecas, centros de documentação, empresas, escritórios jurídicos e pode gerir redes e sistemas de informação. [[13](https://pt.wikipedia.org/wiki/Bibliotec%C3%A1rio)]
 
-Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibliotecários que atuavam na BCE, mostrou que:
+No sistema avaliado, os bibliotecários são o grupo de usuário que tem menor representatividade no grupo total de usuários, com somente 5.8%, porém eles são o grupo de usuário que tem maior contato com o sistema, e dependem dele para realizar seu trabalho. Desse modo é de extrema importância conhecê-los para que o sistema possa dar suporte a suas atividades.
 
-<hr>
+Os bibliotecários, no contexto deste projeto, são os responsáveis pela oferta dos serviço de referência. Sendo esses serviços de referências orientados aos seguintes propósivos:
+- Ajudar os usuários a compreender o funcionamento das bibliotecas;
+- Responder perguntas dos usuários;
+- Ajudar os usuários a selecionar as obras desejadas;
+- Promover e personalizar os serviços da biblioteca.
+<br><small>Fonte: Vazquez, 2017</small>
 
-- 47% dos bibliotecários ocupavam o cargo há menos 2 anos. LAGO (2014)
+No caso da BCE, os serviços de referência ofertados pelos bibliotecários são: 
+- **Provisão de documentos**: circulação, consulta, emprestimos entre bibliotecas, comutação, fornecimento de cópias, entrega de material, preparação de tradução;
+- **Provisão de informação**: auxilar os usuários;
+- **Provisão de auxílio bibliografico**: localização de material, especificação de referência, levantamento bibliográfico;
+- **Serviço de alertas**: novas aquisições, exposições;
+- **Orientação ao público**: provisão de guia, consulta orientada, cursos, divulgação de serviços, preparação de obras.
+<br><small>Fonte: Vazquez, 2017</small>
+
+Os bibliotecários atendem a 3 categorias de usuários :
+- **Usuário presencial**: pesquisadores, discentes e docentes das instituições de ensino, que podem ser intermediados ou não pelos gerenciadores da informação na busca por dados e que estão geograficamente próximos à sede física da biblioteca;
+- **Usuário off campus**: docentes, discentes e pesquisadores que se encontram distantes geograficamente das bibliotecas, mas estão inseridos nos programas de ensino, pesquisa e extensão das instituições educacionais, que também podem ou não ser intermediados pelos gerenciadores da informação;
+- **Usuário remoto**: pesquisadores e profissionais liberais que podem ter ou não vinculação com a instituição provedora; o contato pode ser virtualmente, por correio eletrônico, telefone e fax [...].
+<br><small>Fonte: GARCEZ; RADOS, 2002</small>
+
+Durante a pesquisa realizada por Lago (2014) e Rocha (2012) a respeito dos bibliotecários que atuavam na BCE, mostrou que 47% ocupavam o cargo há menos de 2 anos, como mostra a figura 1.
 
 <p align="center">
-  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png' />
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.1.png' width=60%/>
   <figcaption align='center'>
     <b>Figura 1: Gráfico apresentando o tempo que os entrevistados exercem o cargo.</b>
     <br> 
@@ -87,12 +110,10 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
   </figcaption>
 </p>
 
-<hr>
-
-- 68.2% dos bibliotecários estavam na faixa etária de 20 a 30 anos. ROCHA (2012)
+Sobre a faixa etária, 68.2% dos bibliotecários tinham entre 20 a 30 anos (Rocha 2012), como mostra a figura 2.
 
 <p align="center">
-  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png'>
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.2.png' width=60%>
   <figcaption align='center'>
     <b>Figura 2: Gráfico apresentando a idade dos entrevistados</b>
     <br> 
@@ -100,12 +121,10 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
   </figcaption>
 </p>
 
-<hr>
-
-- A maioria dos bibliotecários era do sexo feminino (77,30%) e apenas 22,70% do sexo masculino. ROCHA (2012)
+Sobre o gênero, a maioria dos bibliotecários era do sexo feminino (77,30%) e apenas 22,70% do sexo masculino. (ROCHA, 2012)
 
 <p align="center">
-  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png'>
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.3.png' width=60%>
   <figcaption align='center'>
     <b>Figura 3: Tabela apresentando o gênero dos entrevistados</b>
     <br> 
@@ -115,10 +134,10 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
 
 <hr>
 
-- A maioria dos bibliotecários possuía somente a graduação como formação acadêmica (63.70%). ROCHA (2012)
+A respeito da formação acadêmica, 63.7% possuiam somente graduação em biblioteconomia, e 22.7% possuiam além da graduação alguma especialização. (ROCHA, 2012)
 
 <p align="center">
-  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png'>
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-8.5.png' width=70%>
   <figcaption align='center'>
     <b>Figura 4: Tabela apresentando o grau de escolaridade dos entrevistados</b>
     <br> 
@@ -126,31 +145,22 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
   </figcaption>
 </p>
 
-- Quando perguntado sobre quais seriam as principais dificuldades durante a implementação de novos programas, 28.90% apontaram alto custo, e 26.70% apontaram o número insuficiente de pessoal. ROCHA (2012)
-
-| Dificuldades para uso de estratégias de marketing na BCE | Frequência | Porcentagem |
-| :------------------------------------------------------: | :--------: | :---------: |
-| Limitação de recursos financeiros. | 13 | 28.90% | 
-| Número insuficiente de pessoal.| 12| 26.70% | 
-| Despreparo do pessoal. | 9 | 20.00% | 
-| Falta de apoio da administração superior. | 6 | 13.30% | 
-| Instalações inadequadas para o funcionamento da biblioteca. | 3 | 6.70% |
-| Falta de equipamentos. | 2 | 4.40% |
-| **Total** | **45** | **100%**  |
-
-<figcaption align='center'>
-  <b>Tabela 1: Dificuldades idenficadas pelos bibliotecários</b>
-  <br> 
-    <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
-</figcaption>
-
-<hr>
-
-- 74% dos bibliotecários auto avaliaram-se com facilidade na utilização de Tecnologias de Informação e Comunicação (TIC). LAGO (2014);
-- 16% afirmaram ter dificuldades. LAGO (2014)
+Quando perguntado sobre as principais dificuldades durante a implementação de novos programas, 28.90% apontaram a limitação de recursos financeiros como principal fator, e 26.70% apontaram o número insuficiente de pessoal. (ROCHA, 2012)
 
 <p align="center">
-  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png'>
+  <img src='_media/assets/images/print_screen/user-profile-reports/dif_uso_estr_mkt_bce.png' width=100%>
+  <figcaption align='center'>
+    <b>Tabela 1: Dificuldades idenficadas pelos bibliotecários</b>
+    <br> 
+      <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
+  </figcaption>
+</p>
+
+
+Quando perguntado sobre a facilidade na utilização de Tecnologias de Informação e Comunicação (TIC) da BCE, 74% dos bibliotecários se auto avaliaram com muita facilidade, e 16% com alguma dificuldade. (LAGO, 2014)
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png' width=75%>
   <figcaption align='center'>
     <b>Figura 5: Gráfico apresentando o dóminio das TIC pelos entrevistados</b>
     <br> 
@@ -159,69 +169,55 @@ Durante a pesquisa realizada por LAGO (2014) e ROCHA (2012) a respeito dos bibli
   </figcaption>
 </p>
 
-<hr>
+Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 10% consideram ótima, 35% Consideram boa, 31% Consideram regular, 13% Consideram ruim, 3% Consideram péssimo e 7% Não souberam opinar. (Estela, Cunha, 2017)
 
-- Quando perguntado sobre a qualidade da infraestrutura da biblioteca (Estela, Cunha, 2017):
-  * 10% consideram ótimo
-  * 35% Consideram bom
-  * 31% Consideram regular
-  * 13% Consideram ruim
-  * 3% Consideram péssimo
-  * 7% Não souberam opinar
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/aval-infra-bce.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 6: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+  </figcaption>
+</p>
 
-<hr>
+Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 14% consideram ótima, 44% bom, 23% regular, 14% ruim, 2% péssima e 3% não souberam opinar. (Estela, Cunha, 2017).
 
-- Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca (Estela, Cunha, 2017):
-  * 14% consideram ótimo
-  * 44% Consideram bom
-  * 23% Consideram regular
-  * 14% Consideram ruim
-  * 2% Consideram péssimo
-  * 13% Não souberam opinar
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 7: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+  </figcaption>
+</p>
 
-<hr>
 
-- Quando perguntado sobre a qualidade do acervo da biblioteca (Estela, Cunha, 2017):
-  * 18% consideram ótimo
-  * 40% Consideram bom
-  * 18% Consideram regular
-  * 5% Consideram ruim
-  * 3% Consideram péssimo
-  * 16% Não souberam opinar
+Quando perguntado sobre a qualidade do acervo da biblioteca, 18% consideram ótimo, 40% bom, 18%  regular, 5% ruim, 3% péssimo e 16% não souberam opinar.
 
-<hr>
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 8: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+  </figcaption>
+</p>
 
-- Email, Bases de Dados, Editores de Documentos e Biblioteca Digital foram os recursos de TIC apontados como mais usados. LAGO (2014)
+
+Quando perguntado sobre as Tecnologias da Informação e Comunicação (TICs) mais utilizadas, as seguintes as seguintes tecnologias foram as mais utilizadas: 
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png'>
   <figcaption align='center'>
-    <b>Figura 6: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
+    <b>Figura 9: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf'>Fonte: Lago, 2014</a>
   </figcaption>
   </figcaption>
 </p>
-
-<hr>
-
-Os bibliotecários, no contexto deste projeto, são os responsáveis pela oferta dos serviço de referência. As quatro missões do profissional de referência são (Vazquez, 2017):
-- Ajudar os usuários a compreender o funcionamento das bibliotecas;
-- Responder perguntas dos usuários;
-- Ajudar os usuários a selecionar as obras desejadas;
-- Promover e personalizar os serviços da biblioteca.
-
-As categorias dos serviços de referência ofertados são:
-- Provisão de documentos: circulação, consulta, emprestimos entre bibliotecas, comutação, fornecimento de cópias, entrega de material, preparação de tradução;
-- Provisão de informação: auxilar os usuários;
-- Provisão de auxílio bibliografico: localização de material, especificação de referência, levantamento bibliográfico;
-- Serviço de alertas: novas aquisições, exposições;
-- Orientação ao público: provisão de guia, consulta orientada, cursos, divulgação de serviços, preparação de obras.
-
-Os bibliotecários atendem a 3 tipos de usuários (GARCEZ; RADOS, 2002):
-- Usuário presencial: pesquisadores, discentes e docentes das instituições de ensino, que podem ser intermediados ou não pelos gerenciadores da informação na busca por dados e que estão geograficamente próximos à sede física da biblioteca;
-- Usuário off campus: docentes, discentes e pesquisadores que se encontram distantes geograficamente das bibliotecas, mas estão inseridos nos programas de ensino, pesquisa e extensão das instituições educacionais, que também podem ou não ser intermediados pelos gerenciadores da informação;
-- Usuário remoto: pesquisadores e profissionais liberais que podem ter ou não vinculação com a instituição provedora; o contato pode ser virtualmente, por correio eletrônico, telefone e fax [...].
 
 #### 4.2. **Não-usuário de bibliotecas universitárias**
 
@@ -580,15 +576,15 @@ Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas 
 
 ## Bibliografia
 
-- [1] Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. Avaliação de usabilidade de websitesintegrando gestores, desenvolvedores e usuários, XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013).
-- [2] Dantas, Jefferson Higino. GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Artigo publicado no XV Seminário Nacional de Bibliotecas Universitárias (SNBU)
-- [3] Fernandes, Wesley Rodrigo. Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras / Wesley Rodrigo Fernandes. – 2012.
-- [4] GARCEZ, Eliane Maria Stuart; RADOS, Gregório JeanVarvakis. Biblioteca híbrida: um novo enfoque no suporte à educação à distância. Ciência da Informação, Brasília, v. 31, n. 2, p. 44-51, maio/ago. 2002
-- [5] MANESS, Jack Teoria da biblioteca 2.0: web 2.0 e suas implicações para as bibliotecas. Inf. & Soc.:Est., João Pessoa, v. 17, n. 1, p. 43-51, jan./abr. 2007
-- [6] NASSER, JANNE CURY; DANTAS, JEFFERSON HIGINO. Comportamento dos docentes do Programa de Pós-Graduação em Administração (PPGA) da Universidade de Brasília na busca e uso da informação, 2007.
-- [7] PEREIRA, FERNANDA; LIMA, GERCINA ÂNGELA BORÉM. USABILIDADE EM BIBLIOTECAS DIGITAIS. Artigo apresentado no I Congresso ISKOEspanha e Portugal - 2013
-- [8] Rocha, Stephanie Moira Brauna da. Princípios de marketing aplicados às unidades de informação: estudo de caso da Biblioteca Central da Universidade de Brasília / Stephanie Moira Brauna da Rocha. – 2012
-- [9] Silvestre Estela, Flor de María. Não-usuário de bibliotecas universitárias: um estudo de caso na Universidade de Brasília - UnB / Flor de María Silvestre Estela; orientador Murilo Basto da Cunha. Brasília, 2019. Tese (Doutorado - Doutorado em Ciência da Informação, 2019.
-- [10] Sousa, Tamiê Moraes de. Tendências em bibliotecas universitárias. As mídias sociais aplicadas na BCE-UnB.
-- [11] VEGA, José Antonio Merlo. El servicio bibliotecário de referencia. In:Anales de documentación,n. 3, 2000. p. 93-126
-- [12] Vazquez, Alice de Amorim BorgesServiços de Referência e informação em bibliotecas universitárias da América Latina: análise de seus websistes / Alice de Amorim Borges Vazquez. -2017.
+- 1 Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. Avaliação de usabilidade de websitesintegrando gestores, desenvolvedores e usuários, XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013).
+- 2 Dantas, Jefferson Higino. GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Artigo publicado no XV Seminário Nacional de Bibliotecas Universitárias (SNBU)
+- 3 Fernandes, Wesley Rodrigo. Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras / Wesley Rodrigo Fernandes. – 2012.
+- 4 GARCEZ, Eliane Maria Stuart; RADOS, Gregório JeanVarvakis. Biblioteca híbrida: um novo enfoque no suporte à educação à distância. Ciência da Informação, Brasília, v. 31, n. 2, p. 44-51, maio/ago. 2002
+- 5 MANESS, Jack Teoria da biblioteca 2.0: web 2.0 e suas implicações para as bibliotecas. Inf. & Soc.:Est., João Pessoa, v. 17, n. 1, p. 43-51, jan./abr. 2007
+- 6 NASSER, JANNE CURY; DANTAS, JEFFERSON HIGINO. Comportamento dos docentes do Programa de Pós-Graduação em Administração (PPGA) da Universidade de Brasília na busca e uso da informação, 2007.
+- 7 PEREIRA, FERNANDA; LIMA, GERCINA ÂNGELA BORÉM. USABILIDADE EM BIBLIOTECAS DIGITAIS. Artigo apresentado no I Congresso ISKOEspanha e Portugal - 2013
+- 8 Rocha, Stephanie Moira Brauna da. Princípios de marketing aplicados às unidades de informação: estudo de caso da Biblioteca Central da Universidade de Brasília / Stephanie Moira Brauna da Rocha. – 2012
+- 9 Silvestre Estela, Flor de María. Não-usuário de bibliotecas universitárias: um estudo de caso na Universidade de Brasília - UnB / Flor de María Silvestre Estela; orientador Murilo Basto da Cunha. Brasília, 2019. Tese (Doutorado - Doutorado em Ciência da Informação, 2019.
+- 10 Sousa, Tamiê Moraes de. Tendências em bibliotecas universitárias. As mídias sociais aplicadas na BCE-UnB.
+- 11 VEGA, José Antonio Merlo. El servicio bibliotecário de referencia. In:Anales de documentación,n. 3, 2000. p. 93-126
+- 12 Vazquez, Alice de Amorim BorgesServiços de Referência e informação em bibliotecas universitárias da América Latina: análise de seus websistes / Alice de Amorim Borges Vazquez. -2017.
