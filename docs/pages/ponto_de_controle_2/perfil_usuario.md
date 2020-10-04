@@ -8,6 +8,7 @@
 | 22.09.2020 |  0.3   | Adição de novas informações | Durval Carvalho |
 | 28.09.2020 |  0.4   | Adição de legendas nas imagens | Durval Carvalho |
 | 03.10.2020 |  0.5   | Modificação no tópico Bibliotecários | Durval Carvalho |
+| 03.10.2020 |  0.6   | Modificação no tópico Não-Usuários | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -150,7 +151,7 @@ Quando perguntado sobre as principais dificuldades durante a implementação de 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/dif_uso_estr_mkt_bce.png' width=100%>
   <figcaption align='center'>
-    <b>Tabela 1: Dificuldades idenficadas pelos bibliotecários</b>
+    <b>Tabela 5: Dificuldades idenficadas pelos bibliotecários</b>
     <br> 
       <a href='user-profile-research-summary/DURVAL/8. [ok]princípios_de_marketing_aplicados_àsunidades_de_informação_estudo_de_caso_da_biblioteca_central_da_universidade_de_brasília.pdf'>Fonte: Rocha, 2012</a>
   </figcaption>
@@ -162,7 +163,7 @@ Quando perguntado sobre a facilidade na utilização de Tecnologias de Informaç
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.2.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 5: Gráfico apresentando o dóminio das TIC pelos entrevistados</b>
+    <b>Figura 6: Gráfico apresentando o dóminio das TIC pelos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf'>Fonte: Lago, 2014</a>
   </figcaption>
@@ -174,7 +175,7 @@ Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 10% conside
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/aval-infra-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 6: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <b>Figura 7: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -186,7 +187,7 @@ Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 14%
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 7: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <b>Figura 8: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -199,7 +200,7 @@ Quando perguntado sobre a qualidade do acervo da biblioteca, 18% consideram óti
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 8: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <b>Figura 9: Gráfico a avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -212,7 +213,7 @@ Quando perguntado sobre as Tecnologias da Informação e Comunicação (TICs) ma
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-1.4.png'>
   <figcaption align='center'>
-    <b>Figura 9: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
+    <b>Figura 10: Gráfico apresentando os recursos de TIC mais utilizados pelos entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/1. computação_em_nuvem_estudo_sobre_o_uso_e_implementação_na_visão_dos_bibliotecários_da_bce_unb.pdf'>Fonte: Lago, 2014</a>
   </figcaption>
@@ -225,31 +226,23 @@ O não-usuário de um biblioteca é aquele que tem o direito de usar a bibliotec
 
 Os não usuários podem ser classificados nos seguintes tipos (Silvestre Estela, 2019):
 
-| Tipos de não-usuários | Definição |
-| :-------------------: | :-------: |
-| Não usuários Inflexíveis | São aqueles que não utilizam os serviços da biblioteca porque têm a certeza de que não serão úteis para resolver seus problemas. Assim procuram outros meios para fornecer as informações de que precisam. |
-| Não usuários Subprivilegiados | São aqueles a quem os serviços da biblioteca são negados ou estão fora de seu alcance para seu uso ou não possuem instrução suficiente para usar o tipo de informação que a biblioteca oferece. O que é comum em muitos países que estão em subdesenvolvimento. |
-| Não usuários involuntários | São aqueles a que não tem uma biblioteca acessível para uso |
-| Não usuários não voluntários | São aqueles a que tem uma biblioteca acessível para uso, mas a utilizam raramente ou simplesmente não a usam. |
-| Usuários de segunda mão | São aqueles que delegam a busca de informações a seus subordinados. Portanto, não utilizam fisicamente a biblioteca, mas podem analisar a qualidade das informações e serviços prestados pela biblioteca.  |
-| Não usuários privilegiados | São aqueles que tem acesso à suas próprias fontes de informações, como assinaturas de banco de dados, acesso a associações. Esse usuário prefere usar suas próprias fontes do que as fontes da biblioteca |
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/tipos-nao-usuario.png'>
+  <figcaption align='center'>
+    <b>Figura 11: Tipos de não-usuário de bibliotecas definidos na literatura</b>
+      <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>
+        Fonte: Silvestre Estela. 2019
+      </a>
+  </figcaption>
+</p>
 
-<figcaption align='center'>
-  <b>Tabela 2: Tipos de não-usuário de bibliotecas definidos na literatura</b>
-  <br> 
-    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
-</figcaption>
 
-Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usuários dos serviços da BCE, e pode-se constatar os seguintes conclusões:
-
-<hr>
-
-- 49.5% dos não usuários possuem idade entre 20 a 22 anos. E 48.5% dos não-usuários estão entre o 3º e 4º ano de seus cursos.
+Em relação a faixa etária, 49.5% dos não usuários possuem entre 20 a 22 anos. Já em questão ao período do curso, 48.5% dos não-usuários estão entre o 3º e 4º ano de seus cursos. (Silvestre Estela, 2019)
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.6.png'>
   <figcaption align='center'>
-    <b>Figura 7: Tabela apresentando o ano de graduação e a idade dos não-usuários entrevistados</b>
+    <b>Figura 12: Figura apresentando o ano de graduação e a idade dos não-usuários entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
@@ -258,75 +251,53 @@ Na pesquisa realizada por Silvestre Estela(2019), foi entrevistado 105 não-usu�
 
 <br><br><hr>
 
-- 64% dos não-usuários estão matriculados em cursos das áreas de ciências humanas.
+Em relação ao curso matrículado, 64% dos não-usuários estão matriculados em cursos das áreas de ciências humanas. (Silvestre Estela, 2019)
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.5.png'>
   <figcaption align='center'>
-    <b>Figura 8: Tabela apresentando o curso dos não-usuários entrevistados</b>
+    <b>Figura 13: Figura apresentando o curso dos não-usuários entrevistados</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
 
-<br><br><hr>
+Em relação a ferramenta utilizada para realizar pesquisas acadêmicas, 73% dos não-usuários utilizam somente site do Google para realizar suas pesquisas acadêmicas e 27% preferem o site do Scholar Google. (Silvestre Estela, 2019)
 
-- 73% dos não-usuários preferem utilizar o Google.com para realizar suas pesquisas e 27% preferem o scholar.google.com 
+A fim de conhecer quais critérios de usabilidade e conteúdo eram reconhecidos pelos não-usuários, os seguintes tópicos foram citados:
 
-<br><br><hr>
-
-- A fim de conhecer quais critérios de usabilidade e conteúdo eram reconhecidos pelos não-usuários, os seguintes tópicos foram citados:
-
-| Categoria do critério | Critério |
-| :-:                   | :-:      |
-| Usabilidade | É fácil de usar;<br/> Sempre usei;<br/> Ele é o único que conheço;<br/> É mais prático;<br/> Você só precisa colocar o tópico no mecanismo de busca;<br/> É o principal mecanismo de busca;<br/> É rápido;<br/> É grátis;<br/> É um mecanismo de busca que todos consultam;<br/> É prático e rápido;<br/> O uso é fácil e você encontra de tudo;<br/> Você só pesquisa com uma palavra;<br/> A interface é simples e fácil de usar;<br/> Posso consultá-lo de qualquer lugar;<br/> Posso fazer meu trabalho sem sair de casa;<br/> |
-| Conteúdo | contém todas as informações de que preciso;<br/> Sempre encontro as informações de que preciso;<br/> Possui informações em todos os formatos;<br/> Você encontra informações em todos os idiomas;<br/> Sempre mostra algumas informações relacionadas ao assunto que você está procurando;<br/> Porque possui artigos científicos;<br/> Tem muita informação;<br/> Em uma única pesquisa, você pode encontrar de vídeos a resumos de livros;<br/> Encontro artigos e livros completos que me servem;<br/> Tem todos os tipos de documentos e os PDFs de que preciso;<br/> Possui as informações em diversas mídias, vídeos, artigos, pdfs | 
-
-<figcaption align='center'>
-  <b>Tabela 3: Critérios de qualidade que os não-usuários de bibliotecas atribuiram as ferramentas que utilizavam para pesquisa (google e google acadêmico) </b>
-  <br> 
-  <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
-</figcaption>
-
-<br><br><hr>
-
-- Afim de descobrir quais eram os motivos para não utilizar os serviços da biblioteca e quais potenciais melhorias poderiam levar a utilizar os serviços, os seguintes tópicos foram citados:
-
-| Razões para o não uso da biblioteca | Condição para voltar a ser um usuário da biblioteca |
-| :-: | :-: |
-| Fica longe da minha faculdade | Entrega de livros | 
-| Dificuldade para localizar os livros nas estantes | Aplicativo com mapa de localização do livro; <br/> Uma pessoa da biblioteca em cada sala para nos ajudar | 
-| Poucos exemplares  | Disponibilizar livros digitais; <br/> Aplicativo para saber a disponibilidade dos livros | 
-| Livros desatualizados  | Comprar as últimas versões dos livros; <br/> Aplicativos que mostre as edições disponíveis |
-| Não se sabe usar o catálogo  | Comprar as últimas versões dos livros; <br/> Aplicativos que mostre as edições disponíveis |
-| Não sei usar o catálogo  | Uma pessoa explicando como é usado e nos acompanhando para encontrar o livro; <br/> Aplicativo para fazer pesquisas como o Google |
-| Não há espaço para trabalho em grupo  | Disponibilizar espaços para coworking | 
-| Nunca fui, não conheço  | Exposições com estudantes de arte; <br/> Concursos de leitura; <br/> Visitas guiadas; Palestras no dia de boas-vindas à universidade | 
-| Fechado por motivos de greve  | Poste avisos em locais centrais como restaurante universitário, minhocão, paradeiros de obnibus ou faculdades.
-Aplicativo de biblioteca | 
-| Não há tomadas  | Colocar tomadas | 
-
-<figcaption align='center'>
-  <b>Tabela 4: Razões que os não-usuários disseram para justicar o não uso dos serviços da biblioteca </b>
-  <br> 
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/crite-quali-bce.png'>
+  <figcaption align='center'>
+    <b>Figura 14: Figura apresentando os critérios de que os não-usuários avaliavam em suas ferramentas de pesquisa acadêmica</b>
+    <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
-</figcaption>
+  </figcaption>
+</p>
 
-<hr>
-<br>
+
+Afim de descobrir quais eram os motivos para não utilizar os serviços da biblioteca e quais potenciais de melhorias poderiam levar a utilizar os serviços, os seguintes tópicos foram citados:
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/razoes-nao-uso-bce.png'>
+  <figcaption align='center'>
+    <b>Figura 15: Razões que os não-usuários disseram para justicar o não uso dos serviços da biblioteca </b>
+    <br> 
+      <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
+  </figcaption>
+</p>
+
 
 Com base nos dados coletados, as principais dificuldades foram categorizadas e associadas aos tópicos citados pelos não-usuários.
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/user-profile-search-2.7.png'>
   <figcaption align='center'>
-    <b>Figura 9: Tabela as dificuldades que os não-usuários atribuiram a biblioteca</b>
+    <b>Figura 16: Tabela as dificuldades que os não-usuários atribuiram a biblioteca</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Silvestre Estela. 2019</a>
   </figcaption>
 </p>
-
-<hr>
 
 #### 4.3. Docentes
 
