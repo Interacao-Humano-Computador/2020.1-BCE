@@ -11,6 +11,7 @@
 | 03.10.2020 |  0.6   | Modificação no tópico Não-Usuários | Durval Carvalho |
 | 03.10.2020 |  0.7   | Modificação no tópico Docentes | Durval Carvalho |
 | 03.10.2020 |  0.8   | Modificação no tópico Usuários de Pós-Graduação  | Durval Carvalho |
+| 03.10.2020 |  0.9   | Modificação no tópico Usuários de Graduação  | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -175,12 +176,12 @@ Quando perguntado sobre a facilidade na utilização de Tecnologias de Informaç
   </figcaption>
 </p>
 
-Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 10% consideram ótima, 35% Consideram boa, 31% Consideram regular, 13% Consideram ruim, 3% Consideram péssimo e 7% Não souberam opinar. (Estela, Cunha, 2017)
+Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 10% consideram ótima, 35% consideram boa, 31% consideram regular, 13% consideram ruim, 3% consideram péssimo e 7% não souberam opinar. (Estela, Cunha, 2017)
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/aval-infra-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 8: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <b>Figura 8: Gráfico da avaliação da qualidade da infraestrutura da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -192,7 +193,7 @@ Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 14%
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 9: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <b>Figura 9: Gráfico da avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -205,7 +206,7 @@ Quando perguntado sobre a qualidade do acervo da biblioteca, 18% consideram óti
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 10: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <b>Figura 10: Gráfico da avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -414,12 +415,12 @@ Quando perguntado sobre a exigência do acesso remoto as bases de dados, 80.2% d
   </figcaption>
 </p>
 
-Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 5% consideram ótima, 33% Consideram boa, 34% Consideram regular, 17% Consideram ruim, 6% Consideram péssimo e 5% Não souberam opinar. (Estela, Cunha, 2017)
+Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 5% consideram ótima, 33% consideram boa, 34% consideram regular, 17% consideram ruim, 6% consideram péssimo e 5% não souberam opinar. (Estela, Cunha, 2017)
 
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-infra-bce-2.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 28: Gráfico a avaliação da qualidade da infraestrutura da BCE</b>
+    <b>Figura 28: Gráfico da avaliação da qualidade da infraestrutura da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -431,7 +432,7 @@ Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 12%
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce-2.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 29: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <b>Figura 29: Gráfico da avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -443,7 +444,7 @@ Quando perguntado sobre a qualidade do acervo da biblioteca, 8% consideram ótim
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce-2.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 30: Gráfico a avaliação da qualidade do acervo da BCE</b>
+    <b>Figura 30: Gráfico da avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
@@ -504,7 +505,7 @@ Em relação ao nível de experiência com tecnologias informacionais, 50% dos p
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/experiencia-tecnologias-pos-grad.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 34: Distribuição do curso dos pós-graduados</b>
+    <b>Figura 35: Distribuição do nível de experiência que os pós-graduandos se consideram em sistemas computacionais</b>
     <br> 
     Fonte: Autor
   </figcaption>
@@ -515,7 +516,7 @@ Quando perguntado se os alunos de pós-graduação já utilizam o site da BCE, 7
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/ja-utilizou-site-BCE.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 34: Distribuição do curso dos pós-graduados</b>
+    <b>Figura 36: Distribuição do curso dos pós-graduados</b>
     <br> 
     Fonte: Autor
   </figcaption>
@@ -526,7 +527,7 @@ Quando perguntado qual dispositivo era mais usado quando se realizava o acesso a
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/dispositivo-acesso-BCE.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 35: Distribuição dos dispositivos usados para acessar o site da BCE</b>
+    <b>Figura 37: Distribuição dos dispositivos usados para acessar o site da BCE</b>
     <br> 
     Fonte: Autor
   </figcaption>
@@ -537,7 +538,7 @@ Quando perguntado com que frequência se era utilizado o site da BCE, foi eviden
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/frequencia-uso-site-bce.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 36: Distribuição da frequência de uso do site da BCE</b>
+    <b>Figura 38: Distribuição da frequência de uso do site da BCE</b>
     <br> 
     Fonte: Autor
   </figcaption>
@@ -549,7 +550,7 @@ Quando perguntado aos alunos de pós-graduação se já utilizam o serviço de a
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/agendamento-de-livro-site-bce-pos.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 37: Distribuição de pós-graduados que já utilizam o serviço de agendameto pelo site da BCE</b>
+    <b>Figura 39: Distribuição de pós-graduados que já utilizam o serviço de agendameto pelo site da BCE</b>
     <br> 
     Fonte: Autor
   </figcaption>
@@ -561,7 +562,7 @@ Quando perguntado aos alunos de pós-graduação se já utilizam o serviço de r
 <p align="center">
   <img src='_media/assets/images/print_screen/user-profile-reports/devolucao-obras-site-bce-pos.png' width=75%>
   <figcaption align='center'>
-    <b>Figura 38: Distribuição de pós-graduados que já utilizam o serviço de renovação de empréstimos de obras pelo site da BCE</b>
+    <b>Figura 40: Distribuição de pós-graduados que já utilizam o serviço de renovação de empréstimos de obras pelo site da BCE</b>
     <br> 
     Fonte: Autor
   </figcaption>
@@ -570,48 +571,169 @@ Quando perguntado aos alunos de pós-graduação se já utilizam o serviço de r
 
 #### 4.5. Usuários de Graduação
 
-<!-- FALAR MAIS SOBRE OS USUÁRIOS ALUNOS -->
+Neste trabalho, usuários de graduação são alunos de universidades que utilizam os serviços da BCE, independentemente do curso de sua graduação. 
 
+Para descobrir informações sobre o perfil desse grupo de usuáriios, foi realizado uma atividade de coleta de dados, que é detalhada no documento [*Planejamento do Questionário**](pages/ponto_de_controle_2/planejamento_do_questionario.md). Esse questionário teve 92 respostas, sendo somente 53 referentes a alunos de graduação. Os resultados obtido da análise dessas submissões foi que 60.4% dos participantes estão na faixa etária de 21 a 23 anos, como pode ser visto na figura a seguir.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/faixa-etaria-graduação.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 41: Distribuição da faixa etária dos alunos de graduação</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Em relação ao gênero dos participantes do questionário, 60% eram do sexo masculino e 40% feminino.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/genero-graduacao.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 42: Distribuição do gênero dos alunos de graduação</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Como foi evidenciado pela pesquisa de Silvestre Estela (2019), a distância é um dos fatores que os não-usuários da BCE levantaram para justificar a não utilização dos serviços da biblioteca. Com isso em mente foi buscado levantar os dados a respeito da distância que os graduandos estão da BCE. Os resultados obtidos foi que 54.7% dos participantes do questionário moram à mais de 25 km da BCE, 32.1% estão entre 10 a 25 km de distância da BCE, 11.3% estão entre 3 a 10 km e 1.9% estão à menos de 3 km.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/distancia-graduandos.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 43: Distribuição da distância da casa dos graduados da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Em relação ao curso dos graduandos, foi evidenciado que 45.3% dos participantes do questionário são de cursos da área das Tecnológicas, 35.8% são das Ciências Exatas, 13.2% das Ciências Humanas e 5.7% das Ciências Biológicas.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/curso-graduandos.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 44: Distribuição do curso dos graduados</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Em relação ao nível de experiência com tecnologias informacionais, 45.3% dos participantes se consideram com nível avançado no uso de sistemas computacionais, 28.3% se consideraram com nível intermediário, 11.3% se dizem especialistas e 15.1% se consideram leigos/iniciantes.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/experiencia-tecnologias-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 45: Distribuição do nível de experiência que os graduandos se consideram em sistemas computacionais</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado se os alunos de graduação já utilizam o site da BCE, 94.3% disseram que sim e 5.7% disseram que não.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/ja-utilizou-site-BCE-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 46: Distribuição do curso dos pós-graduados</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado qual dispositivo era mais usado quando se realizava o acesso ao site da BCE, foi evidenciado que 83% utilizam um computador próprio, 13.2% utilizam o celular e 3.8% utilizam o computador da biblioteca.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/dispositivo-acesso-BCE-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 47: Distribuição dos dispositivos usados para acessar o site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado com que frequência se era utilizado o site da BCE, foi evidenciado que 32.1% utilizam anualmente ou nunca, 28.3% utilizam semestralmente, 26.4% utilizam mensalmente, 7.5% utilizam quinzenalmente e 5.7% utilizam semanalmente.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/frequencia-uso-site-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 48: Distribuição da frequência de uso do site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado aos alunos de graduação se já utilizam o serviço de agendamento de empréstimo de livros pelo site da BCE, 69.8% disseram que não e 30.2% disseram que sim.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/agendamento-de-livro-site-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 49: Distribuição de graduados que já utilizam o serviço de agendameto pelo site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+
+Quando perguntado aos alunos de graduação se já utilizam o serviço de renovação de empréstimo de livros pelo site da BCE, 62.3% disseram que sim e 37.7% disseram que não.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/devolucao-obras-site-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 50: Distribuição de graduados que já utilizam o serviço de renovação de empréstimos de obras pelo site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+
+Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 9% consideram ótima, 25% consideram boa, 28% consideram regular, 15% consideram ruim, 22% consideram péssimo e 1% não souberam opinar. (Estela, Cunha, 2017)
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/aval-infra-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 51: Gráfico da avaliação da qualidade da infraestrutura da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+</p>
+
+Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 13% consideram ótima, 38% bom, 24% regular, 11% ruim, 10% péssima e 4% não souberam opinar. (Estela, Cunha, 2017).
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-servi-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 52: Gráfico da avaliação da qualidade do acervo da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+</p>
+
+Quando perguntado sobre a qualidade do acervo da biblioteca, 14% consideram ótimo, 33% bom, 24%  regular, 15% ruim, 10% péssimo e 5% não souberam opinar.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/quali-acerv-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 53: Gráfico da avaliação da qualidade do acervo da BCE</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+</p>
+
+Quando perguntado sobre o acesso à bibliografia das disciplinas por meio da biblioteca, 26% consideram excelente, 4% bom, 25%  regular, 10% ruim, 4% insuficiente.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/acesso-bibliografia-bce-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 54: Gráfico da avaliação do acesso à bibliografia das disciplinas por meio da biblioteca</b>
+    <br> 
+    <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
+  </figcaption>
+</p>
+
+<!-- 
 <hr>
 
-- Quando perguntado sobre a qualidade da infraestrutura da biblioteca (Estela, Cunha, 2017):
-  * 9% Consideram ótimo
-  * 25% Consideram bom
-  * 28% Consideram regular
-  * 15% Consideram ruim
-  * 22% Consideram péssimo
-  * 1% Não souberam opinar
-
-<hr>
-
-- Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca (Estela, Cunha, 2017):
-  * 13% Consideram ótimo
-  * 38% Consideram bom
-  * 24% Consideram regular
-  * 11% Consideram ruim
-  * 10% Consideram péssimo
-  * 4% Não souberam opinar
-
-<hr>
-
-- Quando perguntado sobre a qualidade do acervo da biblioteca (Estela, Cunha, 2017):
-  * 14% Consideram ótimo
-  * 33% Consideram bom
-  * 24% Consideram regular
-  * 15% Consideram ruim
-  * 10% Consideram péssimo
-  * 5% Não souberam opinar
-
-<hr>
-
-- Quando perguntado sobre o acesso à bibliografia das disciplinas por meio da biblioteca (Estela, Cunha, 2017):
-  * 26% Consideram excelente
-  * 4% Consideram bom
-  * 25% Consideram regular
-  * 10% Consideram ruim
-  * 4% Consideram insuficiente
-  
-<hr>
+ESSAS INFORMAÇÕES NÃO SÃO RELEVANTES PARA O PERFIL DE USUÁRIO
+TALVES UTILIZAMOS ESSAS INFORMAÇÕES EM OUTROS DOCUMENTOS FUTURAMENTE
 
 Quando perguntado se os alunos entrevistados conheciam e utilizavam algum serviço de streaming de media, as seguintes respostas foram obtidas (Santos, 2011):
   * 85% Conhecem e usam
@@ -634,6 +756,7 @@ Quando perguntado se os alunos usariam algum serviço de streaming caso ele foss
   * 20% Talvez Usariam
   
 <hr>
+-->
 
 ## 5. Informações que os usuários desejam
 
