@@ -10,6 +10,7 @@
 | 03.10.2020 |  0.5   | Modificação no tópico Bibliotecários | Durval Carvalho |
 | 03.10.2020 |  0.6   | Modificação no tópico Não-Usuários | Durval Carvalho |
 | 03.10.2020 |  0.7   | Modificação no tópico Docentes | Durval Carvalho |
+| 03.10.2020 |  0.8   | Modificação no tópico Usuários de Pós-Graduação  | Durval Carvalho |
 
 ## 1. Introdução
 
@@ -422,7 +423,6 @@ Quando perguntado sobre a qualidade da infraestrutura da biblioteca, 5% consider
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
-  </figcaption>
 </p>
 
 
@@ -434,7 +434,6 @@ Quando perguntado sobre a qualidade os serviços oferecidos pela biblioteca, 12%
     <b>Figura 29: Gráfico a avaliação da qualidade do acervo da BCE</b>
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
-  </figcaption>
   </figcaption>
 </p>
 
@@ -448,10 +447,126 @@ Quando perguntado sobre a qualidade do acervo da biblioteca, 8% consideram ótim
     <br> 
     <a href='user-profile-research-summary/DURVAL/2. não_usuário_de_bibliotecas_universitárias_um_estudo_de_caso_na_universidade_de_brasília_.pdf'>Fonte: Estela, Cunha, 2017</a>
   </figcaption>
-  </figcaption>
 </p>
 
 #### 4.4. Usuários de Pós-Graduação
+
+Neste trabalho, pós-graduação é entendido como qualquer curso acadêmico que um aluno de uma universidade realiza após a conclusão de sua graduação. Desse modo, mestrado, doutorado e especializações são todos considerados pós-graduações. Esse agrupamento foi avaliado como necessário, pois sua representação no grupo de usuário total, quando separados, eram muito pequenas.
+
+Esse grupo de usuário, diferentemente dos alunos de graduação, utilizam os serviços de Bibliotecas Universitárias de maneira mais intensa. (Silvestre Estela, 2019). Desse modo, é fundamental que durante o design das interfaces dos serviços da BCE sejam considerados.
+
+Para descobrir informações sobre o perfil desse grupo de usuáriios, foi realizado uma atividade de coleta de dados, que é detalhada no documento [*Planejamento do Questionário**](pages/ponto_de_controle_2/planejamento_do_questionario.md). Esse questionário teve 92 respostas, sendo somente 10 referentes a alunos de pós-graduação. Os resultados obtido da análise dessas 10 submissões foi que 70% dos participantes estão na faixa etária de 24 a 26 anos, como pode ser visto na figura a seguir.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/faixa-etaria-pos-graduação.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 31: Distribuição da faixa etária dos alunos de pós-graduação</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Em relação ao gênero dos participantes do questionário, 60% eram do sexo masculino e 40% feminino.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/genero-pos-graduacao.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 32: Distribuição do gênero dos alunos de pós-graduação</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Como foi evidenciado pela pesquisa de Silvestre Estela (2019), a distância é um dos fatores que os não-usuários da BCE levantaram para justificar a não utilização dos serviços da biblioteca. Com isso em mente foi buscado levantar os dados a respeito da distância que os pós-graduandos estão da BCE. Os resultados obtidos foi que 50% dos participantes do questionário moram entre 10 a 25 km de distância da BCE, 30% estão à mais de 25 km e 20% estão entre 3 a 10 km.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/distancia-pos-graduandos.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 33: Distribuição da distância da casa dos pós-graduados da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Em relação ao curso dos pós-graduandos, foi evidenciado que 50% dos participantes do questionário são de cursos da área das Ciências Humanas, enquanto que 30% são da área das Tecnológicas e 20% das Ciências Exatas.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/curso-pos-graduandos.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 34: Distribuição do curso dos pós-graduados</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Em relação ao nível de experiência com tecnologias informacionais, 50% dos participantes se consideram com nível avançado no uso de sistemas computacionais, enquanto que 40% se consideraram com nível intermediário e 10% se consideram leigos/iniciantes.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/experiencia-tecnologias-pos-grad.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 34: Distribuição do curso dos pós-graduados</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado se os alunos de pós-graduação já utilizam o site da BCE, 70% disseram que sim e 30% disseram que não.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/ja-utilizou-site-BCE.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 34: Distribuição do curso dos pós-graduados</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado qual dispositivo era mais usado quando se realizava o acesso ao site da BCE, foi evidenciado que a grande maioria (90%) dos participantes do questionário utilizam um computador próprio.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/dispositivo-acesso-BCE.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 35: Distribuição dos dispositivos usados para acessar o site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+Quando perguntado com que frequência se era utilizado o site da BCE, foi evidenciado que 30% utilizam anualmente ou nunca, 30% utilizam semestralmente, 10% utilizam mensalmente, 10% utilizam quinzenalmente e 20% utilizam semanalmente.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/frequencia-uso-site-bce.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 36: Distribuição da frequência de uso do site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+
+Quando perguntado aos alunos de pós-graduação se já utilizam o serviço de agendamento de empréstimo de livros pelo site da BCE, 50% disseram que sim e 50% disseram que não.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/agendamento-de-livro-site-bce-pos.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 37: Distribuição de pós-graduados que já utilizam o serviço de agendameto pelo site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
+
+Quando perguntado aos alunos de pós-graduação se já utilizam o serviço de renovação de empréstimo de livros pelo site da BCE, 80% disseram que sim e 20% disseram que não.
+
+<p align="center">
+  <img src='_media/assets/images/print_screen/user-profile-reports/devolucao-obras-site-bce-pos.png' width=75%>
+  <figcaption align='center'>
+    <b>Figura 38: Distribuição de pós-graduados que já utilizam o serviço de renovação de empréstimos de obras pelo site da BCE</b>
+    <br> 
+    Fonte: Autor
+  </figcaption>
+</p>
+
 
 #### 4.5. Usuários de Graduação
 
@@ -535,15 +650,16 @@ Na pesquisa realiza por Sousa (2019), a respeito das tendências em bibliotecas 
 
 ## Bibliografia
 
-- 1 Amaral, Sueli Angélica do; Nascimento, Jose Antonio Machado. Avaliação de usabilidade de websitesintegrando gestores, desenvolvedores e usuários, XIV Encontro Nacional de Pesquisa em Ciência da Informação (ENANCIB 2013).
-- 2 Dantas, Jefferson Higino. GESTÃO DA INFORMAÇÃO DIGITAL NA BIBLIOTECA CENTRAL DA UNIVERSIDADE DE BRASÍLIA: relato de experiência. Artigo publicado no XV Seminário Nacional de Bibliotecas Universitárias (SNBU)
-- 3 Fernandes, Wesley Rodrigo. Portal Periódicos Capes: estudo dos não-usuários docentes das IFES brasileiras / Wesley Rodrigo Fernandes. – 2012.
-- 4 GARCEZ, Eliane Maria Stuart; RADOS, Gregório JeanVarvakis. Biblioteca híbrida: um novo enfoque no suporte à educação à distância. Ciência da Informação, Brasília, v. 31, n. 2, p. 44-51, maio/ago. 2002
-- 5 MANESS, Jack Teoria da biblioteca 2.0: web 2.0 e suas implicações para as bibliotecas. Inf. & Soc.:Est., João Pessoa, v. 17, n. 1, p. 43-51, jan./abr. 2007
-- 6 NASSER, JANNE CURY; DANTAS, JEFFERSON HIGINO. Comportamento dos docentes do Programa de Pós-Graduação em Administração (PPGA) da Universidade de Brasília na busca e uso da informação, 2007.
-- 7 PEREIRA, FERNANDA; LIMA, GERCINA ÂNGELA BORÉM. USABILIDADE EM BIBLIOTECAS DIGITAIS. Artigo apresentado no I Congresso ISKOEspanha e Portugal - 2013
-- 8 Rocha, Stephanie Moira Brauna da. Princípios de marketing aplicados às unidades de informação: estudo de caso da Biblioteca Central da Universidade de Brasília / Stephanie Moira Brauna da Rocha. – 2012
-- 9 Silvestre Estela, Flor de María. Não-usuário de bibliotecas universitárias: um estudo de caso na Universidade de Brasília - UnB / Flor de María Silvestre Estela; orientador Murilo Basto da Cunha. Brasília, 2019. Tese (Doutorado - Doutorado em Ciência da Informação, 2019.
-- 10 Sousa, Tamiê Moraes de. Tendências em bibliotecas universitárias. As mídias sociais aplicadas na BCE-UnB.
-- 11 VEGA, José Antonio Merlo. El servicio bibliotecário de referencia. In:Anales de documentación,n. 3, 2000. p. 93-126
-- 12 Vazquez, Alice de Amorim BorgesServiços de Referência e informação em bibliotecas universitárias da América Latina: análise de seus websistes / Alice de Amorim Borges Vazquez. -2017.
+- 1 Amaral, Sueli Angélica Do; Nascimento, Jose Antonio Machado. Avaliação De Usabilidade De Websitesintegrando Gestores, Desenvolvedores E Usuários, Xiv Encontro Nacional De Pesquisa Em Ciência Da Informação (Enancib 2013).
+- 2 Dantas, Jefferson Higino. Gestão Da Informação Digital Na Biblioteca Central Da Universidade De Brasília: Relato De Experiência. Artigo Publicado No Xv Seminário Nacional De Bibliotecas Universitárias (Snbu)
+- 3 Fernandes, Wesley Rodrigo. Portal Periódicos Capes: Estudo Dos Não-usuários Docentes Das Ifes Brasileiras / Wesley Rodrigo Fernandes. – 2012.
+- 4 Garcez, Eliane Maria Stuart; Rados, Gregório Jeanvarvakis. Biblioteca Híbrida: Um Novo Enfoque No Suporte À Educação À Distância. Ciência Da Informação, Brasília, V. 31, N. 2, P. 44-51, Maio/ago. 2002
+- 5 Maness, Jack Teoria Da Biblioteca 2.0: Web 2.0 E Suas Implicações Para as Bibliotecas. Inf. & Soc.:est., João Pessoa, V. 17, N. 1, P. 43-51, Jan./abr. 2007
+- 6 Nasser, Janne Cury; Dantas, Jefferson Higino. Comportamento Dos Docentes Do Programa De Pós-graduação Em Administração (Ppga) Da Universidade De Brasília Na Busca E Uso Da Informação, 2007.
+- 7 Pereira, Fernanda; Lima, Gercina Ângela Borém. Usabilidade Em Bibliotecas Digitais. Artigo Apresentado No I Congresso Iskoespanha E Portugal - 2013
+- 8 Rocha, Stephanie Moira Brauna Da. Princípios De Marketing Aplicados Às Unidades De Informação: Estudo De Caso Da Biblioteca Central Da Universidade De Brasília / Stephanie Moira Brauna Da Rocha. – 2012
+- 9 Silvestre Estela, Flor De María. Não-usuário De Bibliotecas Universitárias: Um Estudo De Caso Na Universidade De Brasília - Unb / Flor De María Silvestre Estela; Orientador Murilo Basto Da Cunha. Brasília, 2019. Tese (Doutorado - Doutorado Em Ciência Da Informação, 2019.
+- 10 Sousa, Tamiê Moraes De. Tendências Em Bibliotecas Universitárias. As Mídias Sociais Aplicadas Na Bce-unb.
+- 11 Vega, José Antonio Merlo. El Servicio Bibliotecário De Referencia. In:anales De Documentación,n. 3, 2000. P. 93-126
+- 12 Vazquez, Alice De Amorim Borgesserviços De Referência E Informação Em Bibliotecas Universitárias Da América Latina: análise De Seus Websistes / Alice De Amorim Borges Vazquez. -2017.
+
