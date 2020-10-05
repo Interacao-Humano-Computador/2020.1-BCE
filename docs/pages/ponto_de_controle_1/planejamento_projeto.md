@@ -9,7 +9,6 @@
 | 18.09.2020 | 0.3 | Revisão do documento | Rafaella Junqueira |
 | 28.09.2020 | 0.4 | Adição de legendas nas imagens | Durval Carvalho |
 
-
 ## 1. Cronograma
 <p text-align="justify">&emsp;&emsp;O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
 

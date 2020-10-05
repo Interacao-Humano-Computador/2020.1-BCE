@@ -13,6 +13,8 @@
 | 03.10.2020 |  0.8   | Modificação no tópico Usuários de Pós-Graduação  | Durval Carvalho |
 | 03.10.2020 |  0.9   | Modificação no tópico Usuários de Graduação  | Durval Carvalho |
 
+<div align="justify">
+
 ## 1. Introdução
 
 Esse documento visa explorar as caracteristicas de usuários e não usuários dos sistemas de BCE. O primeiro passo para ampliar o entendimento a respeito dos usuários é traçar um perfil deles. Assim, perguntas como: "quem são eles?", "quais seus objetivos?", "qual o grau de escolaridade deles?", e outras, nos ajudarão a entender a quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para atividades de análise e avaliação. (Courage e Baxter, 2005; Hackos e Redish, 1998).

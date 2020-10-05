@@ -5,6 +5,8 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 05.10.2020 |  0.1   | Criação do documento | Durval Carvalho |
 
+<div align="justify">
+
 ## 1. Introdução
 
 Devido a pandemia causada pelo novo coronavírus, SARS-CoV2, a disciplina foi ofertada a distância, EAD. Por esse motivo, a apresentação do projeto será realizada em formato de vídeo. Dessa maneira o grupo se organizou para realizar a criação dos slides, gravação da apresentação e edição do video gerado.
@@ -18,3 +20,5 @@ O grupo durante produzir vários documentos entre o início do projeto e a entre
 <p align='center'>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0QJBnaA_uTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+</div>

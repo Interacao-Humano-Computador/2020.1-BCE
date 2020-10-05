@@ -7,6 +7,8 @@
 | 20.09.2020 |  0.2   | Revisão do documento | Durval Carvalho |
 | 28.09.2020 |  0.3   | Adição de legendas nas imagens | Durval Carvalho |
 
+<div align="justify">
+
 ## 1. Introdução
 
 Esse documento tem o objetivo de descrever as atividades, as reuniões e as decisões de projeto realizadas durante a elaboração da primeira entrega. O objetivo desse documento é facilitar o entendimento da cronologia das atividades realizadas e documentadas no Github.
@@ -295,3 +297,5 @@ A atividade N° 15 feita foi a entrega do documento de gerenciamento do projeto,
     <br><small>Fonte: Repositório do trabalho</small>
     </figcaption>
 </p>
+
+</div>

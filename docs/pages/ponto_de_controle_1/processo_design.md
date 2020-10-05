@@ -8,9 +8,9 @@
 | 28.09.2020 |  0.3   | Adição de legendas nas imagens | Durval Carvalho |
 | 30.09.2020 |  0.4   | Refatoração do documento | Rafaella Junqueira |
 
+<div align="justify">
 
 ## 1. Introdução
-<div align="justify">
 Segundo Simone Barbosa (1999), o processo de design envolve três atividades básicas: identificação do problema, criação de uma proposta de intervenção e avaliação da intervenção. Entre os vários processos existentes, cada um detalha as atividades básicas de forma diferente e define como executar cada tarefa, a sequência em que devem ser executadas, os artefatos necessários para cada uma e os produzidos por elas. Todos os processos de design possuem uma característica comum que é a execução de atividades de forma interativa, permitindo refinamentos sucessivos da análise da situação atual e da proposta de intervenção. 
 
 ## 2. Objetivo

@@ -20,6 +20,7 @@
 |27/09/2020 | 0.15 | Revisão do documento | Durval Carvalho |
 | 28.09.2020 |  0.16   | Adição de legendas nas imagens | Durval Carvalho |
 
+<div align="justify">
 
 ## 1. Introdução
 

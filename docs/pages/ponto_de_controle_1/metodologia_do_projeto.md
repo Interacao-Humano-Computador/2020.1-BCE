@@ -7,6 +7,8 @@
 | 17.09.2020 |  0.2   | Revisão do documento | Durval Carvalho |
 | 28.09.2020 |  0.3   | Adição de legendas nas imagens | Durval Carvalho |
 
+<div align="justify">
+
 ## 1. Introdução
 
 O documento de metodologia busca descrever as abordagens utilizadas durante o processo de desenvolvimento desse projeto.  Nele será descrito quais metodologias foram usadas como referência, e quais métodos foram adotados para o nosso contexto. Esse documento também visa explorar como a equipe se organizou e comunicou durante o projeto.
@@ -130,6 +132,8 @@ Não oficialmente, os membros os membros do projeto participam de um grupo de te
 * A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamento, de modo que toda a comunidade se beneficie.
 
 Com isso em mente, é desejável que qualquer pessoa que se interesse pelo projeto possa acessá-lo livremente, sem autorizações e inclusões em canais não oficiais.
+
+</div>
 
 ## Bibliografia
 
