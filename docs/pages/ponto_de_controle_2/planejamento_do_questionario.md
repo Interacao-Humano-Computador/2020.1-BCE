@@ -1,4 +1,4 @@
-# Planejamento do Questionário
+# <center>Planejamento do Questionário
 
 ### Histórico de Versão
 | Data       | Versão | Descrição                                       | Autor(es)          |
@@ -12,7 +12,8 @@
 | 03.10.2020 | 0.7    | Modificações na conclusão do documento          | Durval Carvalho    |
 | 03.10.2020 | 0.8    | Revisão do documento                            | Rafaella Junqueira |
 
-
+<div align="justify">
+  
 <!-- INTRODUÇÃO SOBRE O PROPÓSITO DESSE DOCUMENTO -->
 ## 1. Introdução
 
@@ -97,6 +98,8 @@ Essa análise de dados será realizada nas seguinte etapas:
 - Serão gerados gráficos com os dados obtidos para facilitar a visualização;
 - Os graficos serão analisados e será definido o perfil de usuário dos alunos de graduação e pós-graduação;
 - A conclusão dessa análise será apresentada no documento de [**perfil de usuário**](pages/ponto_de_controle_2/perfil_usuario) nos tópicos **4.4. Usuários de Pós-Graduação** e **4.5. Usuários de Graduação**.
+
+</div>
 
 ## Bibliografia
 
