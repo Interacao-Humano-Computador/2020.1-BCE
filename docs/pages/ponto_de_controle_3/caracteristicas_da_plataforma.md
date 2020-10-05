@@ -169,9 +169,9 @@ Com base no Plano Anual de Contratações (PAC) referente ao ano de 2020, foi ob
 Somente com pesquisa bibliográficas, não foi possivel saber se a BCE conta com um servidor exclusivo ou se utiliza um servidor compartilhado com outros sistemas. Para efeitos de comparação, foi escolhido o servidor da DELL PowerEdge 2950 III, que possui as mesmas especificações definidas pelo PAC de 2020 da FUB. [6]
 
 <p align='center'>
-    <img src='_media/assets/images/dell-server.png'>
+    <img src='_media/assets/images/dell-server.png' width='50%'>
     <figcaption align='center'>
-        <b>Figura 7: Servidor utilizado como comparação</b>
+        <b>Figura 7: Servidor DELL PowerEdge 2950 III utilizado como comparação</b>
         <br>
         Fonte: Site da DELL
     </figcaption>
@@ -200,7 +200,7 @@ Já para software clientes (plataformas que irão utilizar o sistema web), os se
 
 O serviço de empréstimo da BCE é um sistema web baseado no software _Meu Pergamum_. As especificações mínimas de hardware desse software são atendidas pelos computadores e servidores da BCE, desse modo, caso o designer deseje modificar as estilização do software _Meu Pergamum_ não será gerado impacto no serviço. 
 
-Porém, caso seja necessário desenvolver ou utilizar um novo software para dar suporte ao serviço de empréstimo da BCE, será necessário que os requisitos desse novo sistema seja no máximo a capacidade computacional já adquirida pela BCE, não sendo necessário a aquisição de novos componentes.
+Porém, caso seja necessário desenvolver ou utilizar um novo software para dar suporte ao serviço de empréstimo da BCE, será necessário que os requisitos mínimos de hardware desse novo sistema seja no máximo a capacidade computacional já adquirida pela BCE, não sendo necessário a aquisição de novos componentes.
 
 </div>
 
