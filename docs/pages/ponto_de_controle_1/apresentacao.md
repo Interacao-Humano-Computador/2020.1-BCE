@@ -11,10 +11,10 @@ Devido a pandemia causada pelo novo coronavírus, SARS-CoV2, a disciplina foi of
 
 ## 2. Metodologia
 
-O grupo durante produzir vários documentos entre o início do projeto e a entrega do ponto de controle 1. Esses documentos foram sumarizados pela @isabellacgmsa em forma de slides. Após a confecção os integrantes do grupo adicionou e removeu conteúdo da sua parte da apresentação até chegar em uma versão final dos slides. Assim que os slides foram finalizados, o grupo se reuniu por meio de chamada de vídeo para realizar a apresentação. O @geraldovictor foi responsável pela gravação e edição do vídeo. Uma vez com o vídeo editado, foi solicitado alguns cortes, e assim foi concluído a versão final da apresentação.
+O grupo durante o desenvolvimento do projeto produziu vários documentos que foram sumarizados em formato de slides, para facilitar a apresentação. Desse modo, por mais que os slides dessa apresentação contenha o cerne do conteúdo, é imprescindível a leitura dos documentos produzidos, pois somente nesses o conteúdo está devidamente contextualizado e referenciado.
 
 ## Resultado
 
 <p align='center'>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0QJBnaA_uTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q4liqvFu-T8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
