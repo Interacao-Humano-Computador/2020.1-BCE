@@ -7,15 +7,18 @@
 | 28.09.2020 |  0.2   | Modificação nos objetivos do documento | Durval Carvalho  |
 | 28.09.2020 |  0.3   | Remoção dos tópicos disconexos do documento | Durval Carvalho |
 | 02.10.2020 |  0.4   | Adição de conteudo | João Victor |
+| 05.10.2020 |  0.5   | Modificações nos tópicos: Introdução, Objetivos | Durval Carvalho |
 
 
 <div align="justify">
 
 ## 1. Introdução
-Nesse documento são definidos os objetivos, os recursos e as restrições do sistema de empréstimo da Biblioteca Central da UnB.
+
+A análise das capacidades e restrições da plataforma é um das tarefas propostas pelo ciclo de vida de Mayhew, onde será examinado as possibilidades e restrições em termos de equipamentos, sistemas operacionais, ambientes gráficos, recursos de rede e outras peculiares da plataforma onde o sistema irá ser instalado e utilizado.
 
 ## 2. Objetivos
-O objetivo desse documento é determinar quais são as características das plataformas que irão consumir ou disponibilizar o sistema. Uma vez compreendido as suas características, será possível produzir design personalizado que leva em consideração características peculiares de cada plataforma, como por exemplo tamanho de tela, capacidade média de processamento, memória disponível etc.
+
+Esse documento visa identificar e detalhar as características da plataforma onde será consumida e/ou disponibilizada o sistema de empréstimo de obras da BCE. Uma vez compreendido suas características, será possível produzir um design personalizado que leva em consideração características peculiares de cada plataforma, como por exemplo tamanho de tela, capacidade média de processamento, memória disponível etc.
 
 ## 3. Características
 
