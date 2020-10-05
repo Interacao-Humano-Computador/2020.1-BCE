@@ -1,4 +1,4 @@
-# Metas de usabilidade
+# <center>Metas de usabilidade
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
