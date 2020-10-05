@@ -1,10 +1,11 @@
-# Metodologia do projeto e Processos
+# <center>Metodologia do projeto e Processos
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 08.09.2020 |  0.1   | Criação do documento | Durval Carvalho |
 | 17.09.2020 |  0.2   | Revisão do documento | Durval Carvalho |
+| 28.09.2020 |  0.3   | Adição de legendas nas imagens | Durval Carvalho |
 
 ## 1. Introdução
 
