@@ -1,6 +1,6 @@
 # Planejamento do Questionário
 
-## Histórico de Versão
+### Histórico de Versão
 | Data       | Versão | Descrição                                       | Autor(es)          |
 |:----------:|:------:|:-----------------------------------------------:|:------------------:|
 | 02.10.2020 | 0.1    | Criação do documento                            | Isabella Carneiro  |

@@ -1,6 +1,6 @@
 # <center>Personas
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 24.09.2020 |  0.1   | Criação do documento de personas | Durval Carvalho |

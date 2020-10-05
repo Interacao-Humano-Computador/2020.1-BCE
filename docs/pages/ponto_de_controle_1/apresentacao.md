@@ -1,6 +1,6 @@
 # <center>Apresentação do Ponto de Controle 1
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 19.09.2020 |  0.1   | Criação do documento | Durval Carvalho |

@@ -1,6 +1,6 @@
 # <center>Planejamento do projeto</center>
 
-## Histórico de versão
+### Histórico de Versão
 
 |  Data  | Versão | Descrição | Autor |
 | :----: | :----: | :-------: | :---: | 

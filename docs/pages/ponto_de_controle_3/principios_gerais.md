@@ -1,6 +1,6 @@
 # <center>Princípios Gerais do Projeto
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 23.09.2020 |  0.1   | Criação do documento de princípios gerais | Geraldo Victor  |

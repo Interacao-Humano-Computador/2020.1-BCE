@@ -1,6 +1,6 @@
 # <center>Perfil de Usuário
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 17.09.2020 |  0.1   | Criação do documento | Durval Carvalho |

@@ -1,6 +1,6 @@
 # <center>Metodologia do projeto e Processos
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 08.09.2020 |  0.1   | Criação do documento | Durval Carvalho |

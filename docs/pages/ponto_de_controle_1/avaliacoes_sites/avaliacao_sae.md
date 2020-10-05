@@ -1,6 +1,6 @@
 # <center>Relatório da avaliação - SAE
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 02.09.2020 |  0.1   | Criação do documento | Geraldo Victor |

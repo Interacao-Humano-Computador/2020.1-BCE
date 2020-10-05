@@ -1,6 +1,6 @@
 # <center>Relatório da avaliação - Zara
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 03.09.2020 |  0.1   | Criação do documento | Isabella Carneiro |

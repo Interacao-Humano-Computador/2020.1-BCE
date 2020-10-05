@@ -1,6 +1,6 @@
 # <center>Planejamento da avaliação - SAE
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 27.08.2020 |  0.1   | Criação do documento | Geraldo Victor |

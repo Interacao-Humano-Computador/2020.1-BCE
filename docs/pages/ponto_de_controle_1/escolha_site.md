@@ -1,6 +1,6 @@
 # <center>Análise de sites
 
-## Histórico de Versão
+### Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 10.09.2020 | 0.1 | Documentação da escolha do site para o projeto | Rafaella Junqueira |

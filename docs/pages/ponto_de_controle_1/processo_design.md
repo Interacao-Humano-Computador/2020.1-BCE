@@ -1,6 +1,6 @@
 # <center>Processo de Design
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 15.09.2020 |  0.1   | Criação do documento sobre o Processo de Design escolhido | Rafaella Junqueira, <br> Isabela Carneiro |

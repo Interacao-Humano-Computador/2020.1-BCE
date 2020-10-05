@@ -1,6 +1,6 @@
 # <center>Análise de Tarefas
 
-## Histórico de Versão
+### Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 26.09.2020 | 0.1 | Realização da Análise de Tarefas | Rafaella Junqueira |
