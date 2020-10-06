@@ -8,8 +8,6 @@
 
 <div align="justify">
 
-<div align="justify">
-
 ## 1. Introdução
 
 Devido a pandemia causada pelo novo coronavírus, SARS-CoV2, a disciplina foi ofertada a distância, EAD. Por esse motivo, a apresentação do projeto será realizada em formato de vídeo. Dessa maneira o grupo se organizou para realizar a criação dos slides, gravação da apresentação e edição do video gerado.
@@ -17,8 +15,6 @@ Devido a pandemia causada pelo novo coronavírus, SARS-CoV2, a disciplina foi of
 ## 2. Metodologia
 
 O grupo produzir vários documentos durante o desenvolvimento do projeto, esses documentos foram sumarizados pela @isabellacgmsa em forma de slides. Após a confecção os integrantes do grupo adicionou e removeu conteúdo da sua parte da apresentação até chegar em uma versão final dos slides. Assim que os slides foram finalizados, o grupo se reuniu por meio de chamada de vídeo para realizar a apresentação. O @geraldovictor foi responsável pela gravação e edição do vídeo. Uma vez com o vídeo editado, foi solicitado alguns cortes, e assim foi concluído a versão final da apresentação.
-
-</div>
 
 </div>
 
