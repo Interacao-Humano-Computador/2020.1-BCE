@@ -10,17 +10,18 @@
 | 05.10.2020 |  0.5   | Modificações nos tópicos: Introdução, Objetivos | Durval Carvalho |
 | 05.10.2020 |  0.6   | Adição do tópicos: Características das Plataformas | Durval Carvalho |
 | 05.10.2020 |  0.7   | Adição do tópicos: Conclusão | Durval Carvalho |
+| 05.10.2020 |  0.8   | Correção de erros de digitação | Durval Carvalho |
 
 
 <div align="justify">
 
 ## 1. Introdução
 
-A análise das capacidades e restrições da plataforma é um das tarefas propostas pelo ciclo de vida de Mayhew, onde será examinado as possibilidades e restrições em termos de equipamentos, sistemas operacionais, ambientes gráficos, recursos de rede e outras peculiares da plataforma onde o sistema irá ser instalado e utilizado.
+A análise das capacidades e restrições da plataforma é um das tarefas propostas pelo ciclo de vida de Mayhew, onde será examinado as possibilidades e restrições em termos de equipamentos, sistemas operacionais, ambientes gráficos, recursos de rede e outras peculiaridades da plataforma onde o sistema irá ser instalado e utilizado.
 
 ## 2. Objetivos
 
-Esse documento visa identificar e detalhar as características da plataforma onde será consumida e/ou disponibilizada o sistema de empréstimo de obras da BCE. Uma vez compreendido suas características, será possível produzir um design personalizado que leva em consideração características peculiares de cada plataforma, como por exemplo tamanho de tela, capacidade média de processamento, memória disponível etc.
+Esse documento visa identificar e detalhar as características da plataforma onde será consumida e/ou disponibilizada o sistema de empréstimo de obras da BCE. Uma vez entendido suas características, será possível produzir um design personalizado que leva em consideração características peculiares de cada plataforma, como por exemplo tamanho de tela, capacidade média de processamento, memória disponível etc.
 
 ## 3. Características das Plataformas
 
@@ -30,21 +31,21 @@ O sistema da BCE é um sistema projetado para utilização através de navegador
 
 ### 3.1. Vantagens e Desvantagens de Aplicações Web
 
-Durante muito tempo as aplicações desktop supriram todas as necessidades dos usuários de software nas mais diversas áreas. Porém, nos últimos anos o desenvolvimento web tem crescido vertiginosamente. Sistemas web possui um conjunto de particularidades que podem ser vistas como vantajosas ou desvantajosas, depedente da situação. [1]
+Durante muito tempo as aplicações desktop supriram todas as necessidades dos usuários de software nas mais diversas áreas. Porém, nos últimos anos o desenvolvimento web tem crescido vertiginosamente. Os sistemas web possuem particularidades que podem ser vistas como vantajosas ou desvantajosas, depedente da situação. [1]
 
 #### 3.1.1. Segurança de Dados
 
 Em geral, aplicações web tendem a ser um pouco mais seguras para o usuário, em relação a segurança de dados, devido a limitação de funcionar na plataforma do navegador. Essa limitação, impossibilita que uma aplicação maliciosa tente acessar dados do computador do usuário, pois existe um navegador intermediando a aplicação e o computador do usuário. [1]
 
-Porém, essa características também pode interferir na usabilidade do sistema, pois o sistema necessariamente precisa pedir autorização do usuário em toda interação com os dados do computador. [1]
+Porém, essas características também podem interferir na usabilidade do sistema, pois o para todoa interação com dados do computador é necessário a autorização explícita do usuário. [1]
 
 #### 3.1.2. Confiabilidade do sistema
 
-Confiabilidade é um termo definido na ISO/IEC 25010 que define as condições de funcionamento de um sistema sob condições determinadas em um dado perído de tempo, de forma confiável, controlando e revertendo situação de erros no sistema. [2]
+Confiabilidade é um termo definido na ISO/IEC 25010 que define as condições de funcionamento de um sistema sob condições determinadas em um dado período de tempo, de forma confiável, controlando e revertendo situação de erros no sistema. [2]
 
 Com a definição desse termo em mente, pode-se dizer que sistemas web geralmente são menos confiáveis do que sistemas desktop, pois seu bom funcionamento depende de mais variáveis como: versão do navegador utilizado, estabilidade de rede, presença de plugins de navegadores que interferem no sistema etc. [1]
 
-Os desenvolvedores de sistemas web tem muito pouco ou nenhum controle sobre a plataforma que os usuários iram consumir a aplicação. Essa características faz com que frequentemente surja problemas na utilização do sistema em cenários imprevistos, como o uso em um navegador não testado pelos desenvolvedores (tipo o [Opera](https://www.opera.com/pt-br)). [1]
+Os desenvolvedores de sistemas web tem muito pouco ou nenhum controle sobre a plataforma que os usuários irão consumir a aplicação. Isso faz com que surjam problemas na utilização do sistema em cenários imprevistos, como o uso em um navegador desatualizado, ou um navegador onde não foi testado a aplicação (tipo o [Opera](https://www.opera.com/pt-br)). [1]
 
 Uma tendência comum que se vem sendo utilizada por sistemas web complexos é o suporte exclusivo a um grupo exclusivo de navegadores, o Google Chrome por exemplo. Essa abordagem impõe ao usuário a utilização da plataforma definida pelos desenvolvedores, porém maximiza as possibilidades da aplicação, uma vez que o sistema será desenvolvido utilizado recursos específicos da API (Application Programming Interface) do navegador em questão. [1]
 
@@ -61,7 +62,7 @@ Eficiência de desempenho é um termo definido na ISO/IEC 25010 que define o des
 
 Normalmente, aplicações web não executam o processamento pesado no lado do usuário (conexão com banco de dados, processamento de imagem etc.), cabendo ao servidor da aplicação, que geralmente são máquinas com maior capacidade computacional a responsabilidade de processamento presado.
 
-Essa característica faz com que os usuários não precisem de hardware de alto desempenho para utilizar serviços que demandem alto desempenho de hardware. Essa centralização do processamento de dados no lado do servidor possibilita que o usuário possam utilizar diversos dispositivo como terminal de acesso, somente definindo as operações que deseja realizar.
+Essa característica faz com que os usuários não precisem de hardware de alto desempenho para utilizar serviços que demandem alto desempenho de hardware. Essa centralização do processamento de dados,  no lado do servidor, possibilita que os usuários possam utilizar diversos seus dispositivo dispositivo com hardware inferior como terminal de acesso, somente definindo as operações que deseja realizar.
 
 Com o avanço das tecnologias web, surgiu uma nova categoria de aplicação web, as aplicações do lado do cliente (Clientside). Nesse tipo de aplicação, o servidor logo na primeira interação irá enviar todos os dados necessários para o funcionamento do sistema, desse modo todo processamento que não exige armazenagem e consulta de bancos de dados serão realizados no dispositivo do usuário. Essas aplicações costumam exigir mais do dispositivo que acessa o sistema.
 
@@ -85,7 +86,7 @@ Na pesquisa de mercado realizada pelo site Statcounter referente ao mês de outu
     </figcaption>
 </p>
 
-Nessa mesma pesquisa é apresentado a composição do mercado de acordo com a versão dos navegadores utilizado. É importante conhecer essas versões devido o fato de que os navegadores mais antigos não suportam as novas versões das tecnologias web comumente usadas em sistemas web (novas tags de HTML, novos recursos da API do JavaScript, novas maneiras de estilização do CSS). Como pode ser visto na figura abaixo, a o Google Chrome 85.0 é a versão mais utilizada do navegador com 56.6%, seguido pelo Chrome for Android (versão 85.0) com 22.13%, seguido pelo Safari Iphone (versão 13.1) com 3.76%.
+Nessa mesma pesquisa é retratado a composição do mercado de acordo com a versão dos navegadores utilizado. É importante conhecer essas versões devido o fato de que os navegadores mais antigos não suportam as novas versões das tecnologias web comumente usadas em sistemas web (novas tags de HTML, novos recursos da API do JavaScript, novas maneiras de estilização do CSS). Como pode ser visto na figura abaixo, a versão 8.5 do Google Chrome 85.0 é a mais utilizada do navegador com 56.6%, seguido pelo Chrome for Android (versão 85.0) com 22.13%, seguido pelo Safari Iphone (versão 13.1) com 3.76%.
 
 <p align='center'>
     <img src='_media/assets/images/print_screen/market-share-browser-version.png'>
@@ -96,7 +97,7 @@ Nessa mesma pesquisa é apresentado a composição do mercado de acordo com a ve
     </figcaption>
 </p>
 
-Com essas estatísticas em mente, é possível pressumir que os usuários da nossa aplicação potencialmente irão utilizar esses navegadores nessas versões. Com isso em mente, foi avaliado as APIs dos navegadores mais usados em suas respectivas versões, para identificar quais recursos estavam ou não disponíveis para uso do designer. Os recursos identificados foram:
+Com essas estatísticas em mente, é possível presumir que os usuários da nossa aplicação potencialmente irão utilizar esses navegadores nessas versões. Com isso em mente, foi avaliado as APIs dos navegadores mais usados em suas respectivas versões, para identificar quais recursos estavam ou não disponíveis para uso do designer. Os recursos identificados foram:
 
 <p align='center'>
     <img src='_media/assets/images/print_screen/browser-support-1.png'>
@@ -124,7 +125,7 @@ Além de conhecer a plataforma de software que o sistema da BCE depende, é prec
 
 #### 3.3.1. Computadores da Biblioteca
 
-A Comissão Permanente de Aquisição de Recursos de Tecnologias da Informação e Comunicação define um documento chamado "Padronização de Computadores na FUB" onde é defido as característica de hardware dos computadores que são exigidos em editais de aquisição. Os computadores nesses documentos são classifcados de acordo com o seu uso, começando pelo uso mais casual, onde não muito do hardware, até computadores de uso específico, onde é exigido processamentos específicos. Essas classificações são: [5]
+A Comissão Permanente de Aquisição de Recursos de Tecnologias da Informação e Comunicação define um documento chamado "Padronização de Computadores na FUB" onde é defido as característica de hardware dos computadores que são exigidos em editais de aquisição. Os computadores nesses documentos são classificados de acordo com o seu uso, começando pelo uso mais casual, onde não é exigido muito do hardware, até computadores de uso específico, onde é exigido processamento e armazenamento maior. Essas classificações são: [5]
 
 * **Microcomputador perfil I**: Computador para usuários que necessitem acesso à internet, utiliza pacotes de escritório, fazem uso de programas convencionais com demanda moderada de processamento, armazenamento e memória. [5]
   
@@ -182,7 +183,7 @@ O servidor DELL PowerEdge 2950 III é um servidor de entrada da linha de servido
 
 Uma vez que o sistema de empréstimo da BCE foi desenvolvido utilizando o software _Meu Pergamum_, foi analisado as espeficiações mínimas desse software para verificar se as espeficiações do servidor descrito pela PAC de 2020 suportava a aplicação.
 
-No [site da PUCPR](https://www.pergamum.pucpr.br/redepergamum/pergamum_caracteristicas_tecnicas.php?ind=2), organização que mantêm o software _Meu Pergamum_ defini os seguintes requisitos de hardware para instalar o software em sevidores: [8]
+No [site da PUCPR](https://www.pergamum.pucpr.br/redepergamum/pergamum_caracteristicas_tecnicas.php?ind=2), organização que mantêm o software _Meu Pergamum_ definiu os seguintes requisitos de hardware para instalar o software em servidores: [8]
 
 * Pré-requisitos: Banco de dados SQL Server ou Banco de dados Oracle Instalados
 * Processador: Intel Pentium IV Dual Core 2Ghz
