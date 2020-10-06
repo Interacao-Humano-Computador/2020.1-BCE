@@ -17,3 +17,4 @@
   - [Princípios Gerais](/pages/ponto_de_controle_3/principios_gerais.md)
   - [Metas de Usabilidade](/pages/ponto_de_controle_3/metas_usabilidade.md)
   - [Guia de estilo](/pages/ponto_de_controle_3/guia_de_estilo.md)
+  - [Característic. da Plataforma](/pages/ponto_de_controle_3/caracteristicas_da_plataforma.md)
