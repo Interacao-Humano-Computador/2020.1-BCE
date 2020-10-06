@@ -183,7 +183,7 @@ O servidor DELL PowerEdge 2950 III é um servidor de entrada da linha de servido
 
 Uma vez que o sistema de empréstimo da BCE foi desenvolvido utilizando o software _Meu Pergamum_, foi analisado as espeficiações mínimas desse software para verificar se as espeficiações do servidor descrito pela PAC de 2020 suportava a aplicação.
 
-No [site da PUCPR](https://www.pergamum.pucpr.br/redepergamum/pergamum_caracteristicas_tecnicas.php?ind=2), organização que mantêm o software _Meu Pergamum_ definiu os seguintes requisitos de hardware para instalar o software em servidores: [8]
+No [site da PUCPR](https://www.pergamum.pucpr.br/redepergamum/pergamum_caracteristicas_tecnicas.php?ind=2), organização que mantêm o software _Meu Pergamum_, é definido os seguintes requisitos de hardware para instalar o software em servidores: [8]
 
 * Pré-requisitos: Banco de dados SQL Server ou Banco de dados Oracle Instalados
 * Processador: Intel Pentium IV Dual Core 2Ghz
@@ -191,7 +191,7 @@ No [site da PUCPR](https://www.pergamum.pucpr.br/redepergamum/pergamum_caracteri
 * Memória: 4GB disponíveis
 * Sistema Operacional: Windows Server ou Linux
 
-Já para software clientes (plataformas que irão utilizar o sistema web), os seguintes requisitos mínimos são definidos: [8]
+Já para as plataformas que irão consumir a aplicação (computadores de uso pessoal ou compartilhado), os seguintes requisitos mínimos são definidos: [8]
 
 * Processador: Intel Pentium IV 3Ghz
 * Navegador: Internet Explorer >=10.0, Firefox >=16.0, Chrome >=26.0
