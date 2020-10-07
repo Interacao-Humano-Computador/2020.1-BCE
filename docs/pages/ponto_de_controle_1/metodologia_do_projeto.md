@@ -117,7 +117,7 @@ Essas duas etapas buscam realizar interações curtas mantendo a qualidade. Esse
 
 ### 4. Plano de comunicação
 
-Com o objetivo de evitar evitar problemas na comunicação dos membros e consequentemente gerar problemas nas entregas do projeto, foi pensando no plano de comunicação da equipe.
+Com o objetivo de evitar problemas na comunicação dos membros e consequentemente gerar problemas nas entregas do projeto, foi pensando no plano de comunicação da equipe.
 
 Oficialmente, toda a comunicação deve ser realizada por meio de duas ferramentas, o site de hospedagem de repositórios, GitHub, e o site de vídeoconferência Jitsi, sendo que as vídeosconferências realizadas devem ser documentadas e mantidas no GitHub.
 
