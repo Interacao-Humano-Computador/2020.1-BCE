@@ -5,6 +5,7 @@
 |:----------:|:------:|:--------------------:|:------------------:|
 | 07.10.2020 | 0.1    | Criação do documento | Rafaella Junqueira |
 | 12.10.2020 | 0.2    | Revisão do documento | Durval Carvalho |
+| 12.10.2020 | 0.3    | Adição de perguntas | João Victor |
 
 <div align="justify">
 
@@ -35,6 +36,27 @@ A entrevista trata-se de uma conversa guiada por um roteiro e irá conter pergun
 | Você se identifica com qual gênero?                   |                                                          |
 | Qual o seu nível de formação acadêmica atual?         | - Graduação <br> - Mestrado<br> - Dutorado               |
 | Seu curso atual pertence a qual área do conhecimento? | - Exatas <br>- Humanas<br>- Saúde<br>- Ciências naturais |
+| Você utiliza o site da BCE? | |
+| Se não utiliza por que? | |
+| Quais as pricipais funcionalidades voce utiliza do site da BCE? | |
+| Quais as funcionalidades voce menos usa? | |
+| Já utilizou o catalogo da BCE | |
+| Já utilizou o sistema de agendar reserva do site da BCE? | |
+| Já utilizou o sistema de renovar prazo de reserva do site? | |
+| Qual frequencia voce utiliza o site? | |
+| Qual sua maior dificuldade ao usar o site da BCE | |
+| O que voce acredita que poderia ser feito para resolver essas dificuldades? | |
+| O que acha do sistema de catalogo do site BCE? | |
+| O que acha do sistema de agendamento de reservado site da BCE? | |
+| O que acha do sistema de renovar prazo de reserva do site BCE? | |
+| O que acha da estrutura de menus e submenus do site? | |
+| O que acha sobre o filtro de busca do catalogo | |
+| O que acha sobre os resultados de pesquisa no catalogo? | |
+| Ja houve casos da pesquisa no catalogo não trazer os resultados esperados? | |
+| Ja utilizou algum outro sistema parecido? | |
+| Se sim, existe alguma funcionalidade nele que seria util no site da BCE?  | |
+| Qual funcionalidade você acredita que falta no site da BCE | |
+| Qual seria um sistema ideal para voce? | |
 | ....... | |
 
 ## 6. Resultados
