@@ -74,7 +74,7 @@ O atual contexto de isolamento social que estamos vivendo, atrelado ao método d
 O questionário, distribuído em questões de múltipla escolha, é composto pelas seguintes perguntas a serrem respondidas pelos participantes:
   
 | Número | Pergunta                                                             | Opções de Resposta |
-| :----: | :------------------------------------------------------------------: | :----------------: |
+| :----: | :------------------------------------------------------------------ | :----------------: |
 | 1      | No último ano, você utilizou os serviços BCE?                        | <img src='_media/assets/question_ans/ansSN.png'> |
 | 2      | Qual a sua faixa etária?                                             |<img src='_media/assets/question_ans/ans2.png'> |
 | 3      | Você se identifica com qual gênero?                                  |<img src='_media/assets/question_ans/ans3.png'> |

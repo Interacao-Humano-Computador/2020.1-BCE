@@ -17,13 +17,13 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 
 <!-- NÃO É PRECISO CONFIGURAR O TAMANHO DAS IMAGENS, A TABELA REGULA O TAMANHO SOZINHA!!! -->
 |     |     | 
-| :-: | :-: |
+| :-: | :- |
 | <img src="_media/logos/github.png" width="450"> | O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação. |
 | <img src="_media/logos/telegram.png"> | Escolhemos o Telegram como ferramenta de comunicação, pois todos os integrantes do grupo já estão familiarizados com ela, além de ser possível criar enquetes o que facita a tomada de decisões. |
 | <img src="_media/logos/jitsi.png"> | Utilizamos o jitsi como ferramenta de chamadas e video chamadas, pois é uma ferramenta estável e de fácil acesso a todos os integrantes. |
 | <img src="_media/logos/drive.png"> | O Google Drive é uma ótima ferramenta para gerar documentos como: Excel, Word, PowerPoint e permite também o trabalho simultâneo e cooperativo de forma remota. Além de ser uma ferramentade de uso frequente por cada integrante grupo. |
 | <img src="_media/logos/zenhub.png"> | ZenHub é nativamente integrado ao GitHub, para a equipe serve como Kanbam, o diferencial é que podemos usar as issues como atividades a serem realizadas nos quadros de atividades o que melhora a produtividade. |
-| <img src="_media/logos/draw_io.png"> | O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, diagramas, gráficos e outros. Ele disponibiliza recursos para criação de qualquer tipo de desenho e, por ser conectado a uma conta no Google Drive, deixa as criações disponíveis para serem alteradas. |
+| <img src="_media/logos/draw_io.png"> | O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, diagramas, gráficos e outros. Ele disponibiliza recursos para criação de qualquer tipo de desenho e, por ser conectado a uma conta no Google Drive, deixa as criações disponíveis para serem alteradas. Ferramenta utilizada para a criação dos fluxos da análise de tarefas. |
 | <img src="_media/logos/obs.png"> | OBS (Open Broadcast Software) é um programa de gravação de tela open source, uma das maiores vantagens se comparado com a própria gravação das video chamadas é a de ficar armazenado localmente ao invés de gravar e em seguida ter que baixar. |
 | <img src="_media/logos/camtasia.png"> | Camtasia é um programa de edição de vídeo que conta com excelentes ferramentas para o corte do video e de fácil manuseio, infelizmente é um programa pago, mas um dos integrantes da equipe tem o acesso ao mesmo. |
 | <img src="_media/logos/youtube.png"> | Youtube atualmente é uma das ferramentas de streming de video mais populares do mundo, a divulgação das apresentações por meio dessa plataforma torna o acesso muito mais simples e fácil.  |
