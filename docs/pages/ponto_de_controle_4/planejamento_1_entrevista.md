@@ -70,7 +70,7 @@ A entrevista trata-se de uma conversa guiada por um roteiro e irá conter pergun
 | 26     | Qual funcionalidade você gostaria que existisse no site da BCE?                                                  |
 | 27     | Para você, qual seria um sistema ideal para a biblioteca?                                                        |
 
-## 6. Resultados
+## 7. Resultados
 As entrevistas realizadas serão documentadas e as respostas serão consolidadas como forma de insumo para uma nova análise de tarefas, de acordo com a visão do usuário final.
 
 </div>
