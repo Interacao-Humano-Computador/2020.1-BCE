@@ -14,7 +14,7 @@ Devido a pandemia causada pelo novo coronavírus, SARS-CoV2, a disciplina foi of
 
 ## 2. Metodologia
 
-O grupo produziu vários documentos durante o desenvolvimento do projeto, que foram sumarizados em formato de slides, para facilitar a apresentação. Por mais que os slides dessa apresentação contenha o cerne do conteúdo, é imprescindível a leitura dos documentos produzidos, pois somente nos documentos é possível a leitura do conteúdo contextualizado e devidamente referenciado. 
+O grupo produziu vários documentos durante o desenvolvimento do projeto, que foram sumarizados em formato de slides, para facilitar a apresentação. Por mais que os slides dessa apresentação contenham o cerne do conteúdo, é imprescindível a leitura dos documentos produzidos, pois somente nos documentos é possível a leitura do conteúdo contextualizado e devidamente referenciado. 
 
 ## Resultado
 
