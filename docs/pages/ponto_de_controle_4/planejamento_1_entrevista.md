@@ -1,12 +1,14 @@
 # <center>Planejamento da entrevista
 
 ### Histórico de Versão
-| Data       | Versão | Descrição            | Autor              |
-|:----------:|:------:|:--------------------:|:------------------:|
-| 07.10.2020 | 0.1    | Criação do documento | Rafaella Junqueira |
-| 12.10.2020 | 0.2    | Revisão do documento | Durval Carvalho |
-| 12.10.2020 | 0.3    | Adição de perguntas | João Victor |
-| 13.10.2020 | 0.4    | Revisão do documento | Durval Carvalho |
+| Data       | Versão | Descrição                         | Autor              |
+|:----------:|:------:|:---------------------------------:|:------------------:|
+| 07.10.2020 | 0.1    | Criação do documento              | Rafaella Junqueira |
+| 12.10.2020 | 0.2    | Revisão do documento              | Durval Carvalho    |
+| 12.10.2020 | 0.3    | Adição de perguntas               | João Victor        |
+| 13.10.2020 | 0.4    | Revisão do documento              | Durval Carvalho    |
+| 13.07.2020 | 0.5    | Adição do campo "Preparação"      | Rafaella Junqueira |
+| 13.07.2020 | 0.6    | Adição e refatoração de perguntas | Rafaella Junqueira |
 
 <div align="justify">
 
