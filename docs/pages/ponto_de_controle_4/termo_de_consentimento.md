@@ -4,47 +4,30 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 13.10.2020 |  0.1   | Criação do documento do termo de consentimento | Geraldo Victor  |
+| 14.10.2020 |  0.2   | Mudanças na Introdução, <br>Definição de Termo de Consentimento | Durval Carvalho  |
+| 14.10.2020 |  0.3   | Criação de um termo de consentimento | Durval Carvalho  |
 
 ## Introdução
 
-Este documento tem por objetivo descrever como será o modelo de termo de consentimento que estaremos usando no nosso projeto, ele se baseia no termo de consentimento descrito no livro: Interação Humano Computador escrito por Simone Diniz Junqueira Barbosa e Bruno Santana da Silva. Logo abaixo o modelo do termo é descrito.
+Este documento tem por objetivo apresentar o termo de consentimento que estaremos usando no nosso projeto, ele se baseia no termo de consentimento descrito no livro: Interação Humano Computador escrito por Simone Diniz Junqueira Barbosa e Bruno Santana da Silva. 
 
-Somos uma equipe de consultoria da << empresa >>, que está participando do
-projeto do sistema << nome e breve descrição do sistema >>. Nessa etapa do
-projeto, queremos conhecer o que algumas das pessoas que irão << usar o/ser
-afetadas pelo>> sistema pensam a respeito do << sistema atual/ processo atual >>
-e como imaginam que o novo sistema deveria apoiar o seu trabalho. Estamos
-realizando uma série de pesquisas, e solicitamos seu consentimento para a
-realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é
-importante que você conheça as seguintes informações sobre a pesquisa:
-- Os dados coletados durante a entrevista destinam-se estritamente a atividades de
-análise e desenvolvimento do sistema << nome do sistema >>.
-- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas
-para o cliente. A divulgação desses resultados pauta-se no respeito à sua
-privacidade, e o anonimato dos participantes será preservado em quaisquer
-documentos que elaborarmos.
-- O consentimento para a entrevista é uma escolha livre, feita mediante a
-prestação de todos os esclarecimentos necessários sobre a pesquisa.
-- A entrevista pode ser interrompida a qualquer momento, segundo a sua
-disponibilidade e vontade.
-- Nossa equipe encontra-se disponível para contato através do e-mail << email da equipe >>. De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
-<p>
-( ) Dou meu consentimento para a sua realização.
-</p>
-<p>
-( ) Não consinto com a sua realização.
-</p>
-<p>
- << local >>, << data >>
-</p>
-<p>
- << assinatura do entrevistador >> << assinatura do entrevistado >>
-</p>
-<p>
- << nome do entrevistador >> << nome do entrevistado >>
-</p>
- Ao assinar esse termo, o participante atesta que entende as garantias e os riscos
-do estudo e concorda com sua participação naquelas condições.
+## O que é termo de consentimento
+
+A participação em uma pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes. Desse modo, todo participante de qualquer estudo tem o direito de saber o objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos de participantes do estudo e quaisquer riscos que estejam envolvidos. Essas informações devem ser comunicadas ao participante previamente, durante o processo de recrutamento, e depois reiteradas no início da atividade através de um **termo de consentimento**.
+
+Ao concordar com o termo de consentimento, o participante atesta que entende as garantias e os ricos do estudo e concorda com sua participação naquelas condições descritas.
+
+Visto que foi identificado a necessidade de validar alguns artefatos do nosso projeto através de entrevistas com clientes, foi necessário a realização de um termo de consentimento.
+
+## Nosso termo de consentimento
+<!-- LINK TO EDIT: https://docs.google.com/document/d/1IQOqaXB40Xfog3XaNTmW_wSonVKU6UGhSibQ-G9233c/edit?usp=sharing -->
+
+<iframe 
+    style="width: 100%; height: 600px;"
+    class="embed-responsive-item" 
+    src="/pages/ponto_de_controle_4/termo_de_consentimento.pdf" type="application/pdf" 
+    allowfullscreen>
+</iframe>
 
 ## Bibliografia
 
