@@ -4,6 +4,7 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 13.10.2020 |  0.1   | Criação do documento | Geraldo Victor |
+| 14.10.2020 |  0.2   | Atualização de link  | Geraldo Victor |
 
 <div align="justify">
 
@@ -18,7 +19,7 @@ O grupo produziu vários documentos durante o desenvolvimento do projeto, que fo
 ## Resultado
 
 <p align='center'>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/cFOArfBm7N8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5uB9ksh4Wqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 </div>
