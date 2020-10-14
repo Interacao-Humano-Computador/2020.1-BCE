@@ -58,7 +58,7 @@ A entrevista trata-se de uma conversa guiada por um roteiro e irá conter pergun
 | 17   | Você costuma pedir envio de confirmação da renovação para o email? | [ ] Sim<br>[ ] Não|
 | 18     | O que acha do sistema de renovar prazo de devolução do site BCE? | 
 
-| Número | <center>Perguntas extas e abertas                                                                                |
+| Número | <center>Perguntas extras e abertas                                                                                |
 |:------:|:-----------------------------------------------------------------------------------------------------------------|
 | 19     | Qual sua maior dificuldade ao usar o site da BCE?<br>⚠️ Caso não haja dificuldades, pule para a pergunta 21       |
 | 20     | O que você acredita que poderia ser feito para resolver essas dificuldades?                                      |

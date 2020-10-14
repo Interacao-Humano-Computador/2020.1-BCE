@@ -20,3 +20,4 @@
   - [Característic. da Plataforma](/pages/ponto_de_controle_3/caracteristicas_da_plataforma.md)
 
 - [**Ponto de Controle 4**](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
+  - [Planejamento da Entrevista](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
