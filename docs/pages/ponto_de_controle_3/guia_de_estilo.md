@@ -1,6 +1,6 @@
 # <center>Guia de Estilo
 
-## Histórico de Versões
+### Histórico de Versões
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 23/09/2020 | 0.1 | Criação do Documento | Isabella Carneiro |

@@ -1,6 +1,6 @@
 # <center>Características da plataforma
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 25.09.2020 |  0.1   | Criação do documento de características da plataforma | João Victor  |
