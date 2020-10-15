@@ -25,7 +25,7 @@ Visto que foi identificado a necessidade de validar alguns artefatos do nosso pr
 <iframe 
     style="width: 100%; height: 600px;"
     class="embed-responsive-item" 
-    src="/pages/ponto_de_controle_4/termo_de_consentimento.pdf" type="application/pdf" 
+    src="pages/ponto_de_controle_4/termo_de_consentimento.pdf" type="application/pdf" 
     allowfullscreen>
 </iframe>
 
