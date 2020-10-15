@@ -22,12 +22,15 @@ Visto que foi identificado a necessidade de validar alguns artefatos do nosso pr
 ## Nosso termo de consentimento
 <!-- LINK TO EDIT: https://docs.google.com/document/d/1IQOqaXB40Xfog3XaNTmW_wSonVKU6UGhSibQ-G9233c/edit?usp=sharing -->
 
-<iframe 
-    style="width: 100%; height: 600px;"
-    class="embed-responsive-item" 
-    src="pages/ponto_de_controle_4/termo_de_consentimento.pdf" type="application/pdf" 
-    allowfullscreen>
-</iframe>
+<p align='center'>
+    <a href='pages/ponto_de_controle_4/termo_de_consentimento.pdf' target='_blank'>
+        <img src='_media/assets/termo-de-consentimento.png'>
+        <figcaption align='center'>
+            <b>Figura 1: Termo de consentimento usado nas entrevistas</b>
+            <br><small>Fonte: Autor</small>
+        </figcaption>
+    </a>
+</p>
 
 ## Bibliografia
 
