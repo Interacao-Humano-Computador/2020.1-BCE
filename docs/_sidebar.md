@@ -22,3 +22,4 @@
 - [**Ponto de Controle 4**](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
   - [Planejamento da Entrevista](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
   - [Termo de Consentimento](/pages/ponto_de_controle_4/termo_de_consentimento.md)
+  - [Entrevistas](/pages/ponto_de_controle_4/entrevistas.md)
