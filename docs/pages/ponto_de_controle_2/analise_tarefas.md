@@ -6,6 +6,7 @@
 | 26.09.2020 | 0.1 | Realização da Análise de Tarefas | Rafaella Junqueira |
 | 27.09.2020 | 0.2 | Refinamento do documento | Rafaella Junqueira |
 | 28.09.2020 | 0.3 | Adição de legendas nas imagens | Durval Carvalho |
+| 19.10.2020 | 0.4 | Explicação sobre escolha da notação gráfica | Rafaella Junqueira |
 
 <div align="justify"> 
 
@@ -19,7 +20,7 @@ Esta análise parte dos objetivos do usuário para identificar as tarefas que de
 
 ### 2.1 Representação textual
 
-#### 2.1.1 Representação textual do objetivo de agendamento de empréstimos:
+#### 2.1.1 Representação textual do objetivo de agendamento de empréstimos
 
 **0.** Agendar empréstimos
 <br>&emsp;&emsp;**1.** Localize o livro desejado
@@ -41,7 +42,7 @@ Plano 0: faça 1 - 2. Caso o login não tenha sido realizado previamente, faça 
 <br>Plano 2: faça 2.1 - 2.2 - 2.3 - 2.4. Caso já esteja na área de catálogo de pesquisa geral, faça 2.1 - 2.3 - 2.4.
 <br>Plano 3: faça 3.1 e 3.2.
 
-#### 2.1.2 Representação textual do objetivo de renovação do prazo de devolução:
+#### 2.1.2 Representação textual do objetivo de renovação do prazo de devolução
 
 **0.** Renovar prazo de devolução
 <br>&emsp;&emsp;**1.** Acesse perfil do usuário
@@ -57,7 +58,10 @@ Plano 0: faça 1 - 2 - 3 - 4.
 <br>Plano 4: faça 4.1
     
 ### 2.2 Representação gráfica
+A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005), e possui uma estrutura formada por retângulos, que representam tarefas e subtarefas, e linhas que marcam a relação hierárquica entre as tarefas. Os planos de cada tarefa são descritos junto à linha vertical, logo abaixo do retângulo que contém a tarefa decomposta. As análises gráficas são complementadas por explicações em forma de tabela, equivalentes aos diagramas apresentados, conforme descritos abaixo:<br>
 
+#### 2.2.1 Representação gráfica do objetivo de agendamento de empréstimo
+<br>
 <p align='center'>
     <img src='_media/images/AHT_objetivo1.png'>
     <figcaption align='center'>
@@ -66,8 +70,6 @@ Plano 0: faça 1 - 2 - 3 - 4.
         Fonte: Elaboração própria
     </figcaption>
 </p>
-
-OBS.: [Representação do objetivo 1 de forma expandida](https://github.com/Interacao-Humano-Computador/2020.1-BCE/blob/master/docs/_media/images/AHT_objetivo1.png)
 
 <hr>
 
@@ -89,14 +91,16 @@ OBS.: [Representação do objetivo 1 de forma expandida](https://github.com/Inte
 | 3.1 Acesse perfil do usuário |  **Input**: página principal da BCE ou área de "Pesquisa Geral";<br> **Plano**: caso esteja na página principal da BCE, clique em "minha conta" localizada no canto superior direito. Caso esteja na área de "Pesquisa Geral", clique na tecla "login" localizada no canto superior direito;<br>**Feedback**: em caso de login realizado a partir da tela principal, será redirecionado para uma página de autenticação contendo espaços para CPF e senha. Em caso de login realizado pela tela de "Pesquisa geral" (após buscado o livro), aparecerá um *pop-up* com espaço para CPF e senha.|
 | 3.2 Insira CPF e senha |  **Input**: página redireciona a partir da principal da BCE ou *pop-up* da área de "Pesquisa Geral; <br>**Feedback**: após confirmar, será redirecionado para a área de perfil do usuário. A confirmação é indicada ao surgir o nome do usuário no canto superior direito em uma barra verde.<br>**Problema**: quando direcionado após fazer login, não existem meios de retornar à busca, é preciso retornar para a página principal da BCE direto pela barra URL;<br>**Recomendações**: a logo da UnB localizada na parte esquerda esquerda poderia redirecionar o usuário para a página incial, onde é possível realizar a busca por materiais.|
 
+
 <figcaption align='center'>
     <b>Tabela 1: Problemas e recomendações do objetivo de agendamento de empréstimos</b>
     <br> 
-    Fonte: Elaboração própria
-</figcaption>.
-
+    Fonte: Elaboração própria.
+</figcaption>
 <hr>
 
+#### 2.2.2 Representação gráfica do objetivo de renovação do prazo de devolução
+<br>
 <p align='center'>
     <img src='_media/images/AHT_objetivo2.png'>
     <figcaption align='center'>
@@ -122,9 +126,14 @@ OBS.: [Representação do objetivo 1 de forma expandida](https://github.com/Inte
 
 <br>
 
+</div>
+
 ## Bibliografia
 BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
 
+Preece, J.; Rogers, Y,; Sharp, H. **Design de Interação**. Porto ALegre: Bookman, 2005.
+
 CAETANO, Cíntia. **Projeto de Interface**. Disponível em http://www.ic.uff.br/~ccaetano/aulas/IHC_Aula_7_Projeto_de_Interface_Analise_Ususario_e_Tarefa.pdf Acesso em 26 de setembro de 2020.
 
-</div>
+CAIADO, Márcio S. **Análise Hierárquica de Tarefas**. Disponível em https://docplayer.com.br/13376795-Analise-de-tarefas-analise-hierarquica-de-tarefas.html Acesso em 26 de setembro de 2020. 
+
