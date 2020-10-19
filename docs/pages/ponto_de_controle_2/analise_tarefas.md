@@ -6,6 +6,7 @@
 | 26.09.2020 | 0.1 | Realização da Análise de Tarefas | Rafaella Junqueira |
 | 27.09.2020 | 0.2 | Refinamento do documento | Rafaella Junqueira |
 | 28.09.2020 | 0.3 | Adição de legendas nas imagens | Durval Carvalho |
+| 19.10.2020 | 0.4 | Explicação sobre escolha da notação gráfica | Rafaella Junqueira |
 
 <div align="justify"> 
 
