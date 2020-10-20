@@ -7,6 +7,7 @@
 | 29.09.2020 |  0.2   | Adição das ferramentas | Isabella Carneiro |
 | 29.09.2020 |  0.3   | Adição da descrição | Isabella Carneiro  |
 | 29.09.2020 |  0.4   | Adição do objetivo | Isabella Carneiro  |
+| 20.10.2020 |  0.5   | Adição de storyboards | Geraldo Victor  |
 
 
 
@@ -31,10 +32,14 @@
 <p>Por esse motivo, optou-se por utilizar o primeiro e, se necessário, complementar com o uso do aplicativo Canva para a adição de objetos que não se encontram no banco de imagens da aplicação.</p>
 
 ## 4. Escolha das Histórias
+<p>Na primeira história é ilustrado o descontentamento quanto a falta de responsividade em dispositivos móveis no site da BCE. Já na segunda história é ilustrado como deveria ser e o quanto poderia agregar aos usuários que tem dificuldade de leitura.</p>
 
 ## 5. Resultados
+<img src='../../_media/images/storyboard_1.png'>
+<img src='../../_media/images/storyboard_2.png'>
 
 ## 6. Conclusão
+Como foi ilustrado acima o site da BCE não é responsivo o que acarreta na desistência do uso do mesmo em dispositivos móveis, seria de suma importância que ele fosse, tendo em vista a facilidade de acesso que alunos têm atualmente a dispositivos móveis.
 
 ## 7. Referências
 - Sommerville, Ian. Engenharia de Software. 9a Edic¸ao. Pearson.
