@@ -31,6 +31,8 @@ Os participantes selecionados foram aqueles tinham utilizado os serviços da BCE
 
 ## 4. Entrevistas
 
+No total foram realizadas 4 entrevistas, sendo duas delas com alunos de graduação e duas com alunos de pós-graduação.
+
 ## 4.1 Entrevista 1
 
 <p align='center'>
@@ -170,6 +172,58 @@ Quando perguntado sobre a documentação do site, quando apertado o botão "Ajud
 Quando perguntado sobre outros site de bibliotecas, a Rebeca afirma que já utilizou o site da biblioteca da Universidade Católica de Brasília, porém não se lembra de funcionalidades específicas desse site.
 
 Quando perguntado sobre funcionalidades que a participante gostaria de ver presente no site da BCE, a Rebeca citou que gostaria de saber a atual lotação de pessoas na BCE, pois muitas vezes se dirigiu até a BCE e estava muito cheia. A Rebeca também gostaria que o site sugerisse livros que estão presentes no catálogo, de acordo com os livros previamente pesquisados/emprestados, para assim personalizar mais o uso do sistema.
+
+## 4.4. Entrevista 4
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube-nocookie.com/embed/6RZFCH9pbww" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+></iframe>
+
+A quarta entrevista foi realizada na data 20/10/20 às 22:20AM, e teve duração total de 30 minutos. O participante se chama Leonardo Gomes, 20 anos, estudante do quinto semestre do curso de graduação Engenharia de Software da UnB.
+
+O Leonardo, quando precisa acessar o site da BCE, realiza uma busca no Google utilizando o termo BCE, e acessa o link referente ao site, geralmente o primeiro da lista.
+
+Em relação ao serviço de busca no acervo da BCE, o Leonardo afirmou que poucas vezes foi necessário realizar buscas no sistema, porém, durante a entrevista ficou claro que ele sabia como utilizar esse serviço, e conseguiu localizar o livro "Engenharia de Software - Sommerville - 8ª Edição" rapidamente. Durante a busca pelo livro, o Leonardo primeiro procurou pelo termo "Engenharia de Software" e buscou nos resultados obtidos o nome do autor. Após perceber que não iria encontrar o livro desejado dessa maneira, ele escreveu o nome do autor na _string_ de busca.
+
+Em relação ao serviço de agendamento de empréstimo, o Leonardo, assim como os outros entrevistados, procurou algum link para o serviço no detalhamento do livro desejado. Porém ficou claro que o serviço não estava disponível nesse local. Desse modo, o Leonardo ficou em dúvidas a respeito de onde seria necessário acessar para realizar um agendamento. Os locais onde ele procurou, na respectiva ordem foi:
+1. Barra lateral do detalhamento do livro
+2. Links após a seção de detalhamento do livro
+3. Na página principal, no menu de icones esquerno, na seção Empréstimos
+
+Quando perguntado sobre o modo de acesso ao painel de acesso restrito do site da BCE, o Leonardo conseguiu rapidamente realizar o acesso com suas credenciais. Antes da gravação ele disse que foi preciso recuperar a senha, e não enfrentou nenhuma dificuldade. Uma observação feita pelo Leonardo, foi que durante a recuperação de senha, foi imposto que a senha fosse composta exclusivamente por números, e que durante o login era aceito a digitação dos diversos tipos de caracteres.
+
+Quando perguntado sobre os passos realizados para realizar um empréstimo, o Leonardo afirma que sabia que podia agendar antes de realizar o empréstimo, mas nunca o fez, e nem sabe como fazer.
+
+Quando perguntado sobre a integração do site de BCE com o email, o Leonardo afirma que essa funcionalidade foi ativida durante a criação de sua conta, junto da bibliotecária. E que essa funcionalidade funciona bem, sempre recebendo as devidas notificações em sua caixa de email.
+
+Quando perguntado sobre a percepção a respeito do serviço de agendamento de empréstimo, o Leonardo afirma que o site apresenta pouca memorabilidade. E como ele somente utiliza o site poucas vezes por semestre, é uma experiência desagradável ter que aprender como o site funciona toda vez.
+
+Quando perguntado sobre a percepção a respeito do serviço de busca de obras do acervo, o Leonardo afirma que sua experiência foi boa, e que gosta dos filtros de pesquisa e da forma como o resultado é apresentado.
+
+Quando foi pedido ao Leonardo que realizasse uma exploração em voz alta no painel de acesso restrito, o Leonardo fez as seguintes observações:
+
+- Durante a navegação do painel principal, o Leonardo afirma que não gosta muito das cores. Observa que a Logo está cortada. 
+
+- Durante a navegação do painel principal, o Leonardo elogia os atalhos aos títulos pendentes e títulos reservados.
+
+- Durante da seção História material pendente, o Leonardo afirma que não tem a mínima ideia do que seja. 
+  
+- Durante da seção Consulta ao malote , o Leonardo afirma que não tem a mínima ideia do que seja. 
+ 
+Quando perguntado sobre a percepção a respeito dos menus e submenus do site, o Leonardo afirma que em questão de experiência de usuário, é bem ruim. Ele cita o botão de _logout_ que parece um imagem de fundo e não um botão. Ele também afirma que o site tem um aspecto velho e poderia ter um design mais contemporâneo. Mas também afirma que em relação a usabilidade o site não é péssimo, e que consegue realizar as tarefas desejadas sem muitas dificuldades.
+
+O Leonardo afirma que sempre conseguiu achar os livros nas buscas pelo site, e que nunca aconteceu de realizar uma busca, de um livro presente na biblioteca, e não encontrá-lo nos resultados do site.
+
+Quando perguntado sobre a documentação do painel da BCE, disponibilizada no botão de ajuda, o Leonardo afirma que nunca a tinha utilizado, e que nem sabia que ela existia. Ele considera que essa funcionalidade é útil, mas mal implementada, uma vez que está "escondida" e que apresenta a documentação em partes. Quando informado que a documentação mostrada quando aperta no botão muda de acordo com o site acessado, o Leonardo afirma que uma vez clicado e visto o documento, acharia que em todas as páginas o mesmo documento seria mostrado, e desse modo, não clicaria novamente.
+
+Quando perguntado sobre outros sites que oferecem serviços semelhantes ao site da BCE, o Leonardo citou o site LeLivros, e elogiou a funcionalidade de sugestão de obras com base nas pesquisas anteriores. O Leonardo afirma que seria interessante se no site da BCE fosse sugerido livros de acordo com o curso do usuário.
+
+Quando perguntado sobre algum serviço que a BCE poderia ofertar a seus usuários, o Leonardo afirma que seria interessante se no site ficasse disponível a informação da quantidade de computadores disponíveis para uso.
  
 ## 4. Conclusão
 
