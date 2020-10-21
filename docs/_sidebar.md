@@ -18,6 +18,7 @@
   - [Metas de Usabilidade](/pages/ponto_de_controle_3/metas_usabilidade.md)
   - [Guia de estilo](/pages/ponto_de_controle_3/guia_de_estilo.md)
   - [Característic. da Plataforma](/pages/ponto_de_controle_3/caracteristicas_da_plataforma.md)
+  - [Apresentação PC 3](/pages/ponto_de_controle_3/apresentacao.md)
 
 - [**Ponto de Controle 4**](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
   - [Planejamento da Entrevista](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
