@@ -175,14 +175,16 @@ Quando perguntado sobre funcionalidades que a participante gostaria de ver prese
 
 ## 4.4. Entrevista 4
 
-<iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube-nocookie.com/embed/6RZFCH9pbww" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-></iframe>
+<p align='center'>
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube-nocookie.com/embed/6RZFCH9pbww" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+    ></iframe>
+</p>
 
 A quarta entrevista foi realizada na data 20/10/20 às 22:20AM, e teve duração total de 30 minutos. O participante se chama Leonardo Gomes, 20 anos, estudante do quinto semestre do curso de graduação Engenharia de Software da UnB.
 
