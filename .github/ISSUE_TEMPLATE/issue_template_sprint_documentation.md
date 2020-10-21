@@ -17,4 +17,4 @@ Descrição | Data
 | #(id da issue) | @(nome do responsável) | | |
 | #(id da issue) | @(nome do responsável) | | |
 
-✔️✖️
+✔️✖️⚠️
