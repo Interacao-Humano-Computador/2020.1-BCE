@@ -31,7 +31,7 @@ about: Template padrão para criação de atas de reunião
     <td colspan='7'></td>
   </tr>
 
-<!-- ✔️✖️ -->
+<!-- ✔️✖️⚠️-->
   <tr>
     <td colspan='9'><center><b>Integrantes</b></td>
   </tr>
