@@ -7,6 +7,7 @@
 | 21.10.2020 |  0.2   | Definição dos Tópicos Introdução, Objetivos e Metodologia | Durval Carvalho  |
 | 21.10.2020 |  0.3   | Definição do Tópico Avaliação | Durval Carvalho  |
 | 21.10.2020 |  0.4   | Definição da Conclusão | Durval Carvalho  |
+| 22.10.2020 |  0.5   | Correções | Isabella Carneiro  |
 
 <div align="justify">
 
@@ -24,7 +25,7 @@ O objetivo desse documento é detalhar o máximo possível os aspectos referente
 
 ## 3. Metodologia
 
-A validação do protótipo de baixa fidelidade que será realizada irá seguir as etapas definidas no livro Interação Humano-Computador, de Simone Barbosa e Bruno Silva. No capítulo 10, no tópico 10.2.3. "Prototipação em Papel" são definidos as etapas necessárias desde a concepção do protótipo até o relato de resultados. 
+A validação do protótipo de baixa fidelidade que será realizada irá seguir as etapas definidas no livro Interação Humano-Computador, de Simone Barbosa e Bruno Silva. No capítulo 10, no tópico 10.2.3. "Prototipação em Papel" são definidas as etapas necessárias desde a concepção do protótipo até o relato de resultados. 
 
 Como esse documento se propõe a planejar a avaliação do protótipo, desse modo, não abordaremos as etapas referentes a concepção do protótipo e começaremos na etapa de preparação da avaliação.
 
@@ -41,10 +42,10 @@ As atividades que os usuários devem realizar são as mesmas que o protótipo de
 
 #### 4.1.1. Busca de Obras no Acervo
 
-A busca de obras no acervo consiste em pesquisar por uma determinada obra (livro, artigo, revista, etc.) no serviço de busca integrada da BCE. Esse serviço irá listar diversas obras que contenham o termo digitado na barra de pesquisa. Será carregado uma lista com o detalhamento das obras encontradas.
+A busca de obras no acervo consiste em pesquisar por uma determinada obra (livro, artigo, revista, etc.) no serviço de busca integrada da BCE. Esse serviço irá listar diversas obras que contenham o termo digitado na barra de pesquisa. Será carregada uma lista com o detalhamento das obras encontradas.
 
 Esse detalhamento irá conter informação as informações referentes a:
-- localização física (número da pratileira) da obra na biblioteca.
+- Localização física (número da prateleira) da obra na biblioteca.
 - Disponibilidade da obra (Quantidade disponível para empréstimo)
 - Links para acesso online
 - Assuntos chaves (keywords) da obra encontrada
@@ -53,7 +54,7 @@ Esse detalhamento irá conter informação as informações referentes a:
 - Idioma da obra
 - Edição
 
-O objetivo dessa atividade é avaliar se o usuário é capaz de realizar a busca, e identificar informações referentes a obra.
+O objetivo dessa atividade é avaliar se o usuário é capaz de realizar a busca, e identificar informações referentes à obra.
 
 A avaliação deverá ocorrer da seguinte maneira:
 
@@ -83,7 +84,7 @@ A avaliação deverá ocorrer da seguinte maneira:
 
 Mostre a tela com o site principal da BCE, onde estará presente a barra de pesquisa integrada da BCE.
 
-4. Pegunte quais dos termos ele digitaria (título, autor, ano de publicação, etc.)
+4. Pergunte quais dos termos ele digitaria (título, autor, ano de publicação, etc.)
 
 Dependendo da resposta do participante, mostre a tela com a barra de pesquisa preenchida com os termos citados.
 
@@ -93,7 +94,7 @@ Caso contrário, o participante use uma string de busca com termos detalhados, p
 
 No caso da ISBN mostre a lista com somente a obra. Caso contrário mostre uma lista com várias obras, e entre elas a obra desejada.
 
-Caso o usuário apresente alguma dificuldade ou fique "emperrado" em alguma parte, espera alguns segundos para observar suas interações e depois intervelha e ajude-o a encontrar a obra desejada.
+Caso o usuário apresente alguma dificuldade ou fique "emperrado" em alguma parte, espere alguns segundos para observar suas interações e depois intervenha e ajude-o a encontrar a obra desejada.
 
 #### 4.1.2. Agendamento de empréstimo
 
@@ -113,11 +114,11 @@ Uma vez clicado no botão referente ao agendamento, mostre a tela de autentifica
 
 2. Peça para o usuário realizar o login
 
-3. Se o usuário falar que não sabe qual senha deve usar, peça recuperar sua senha.
+3. Se o usuário falar que não sabe qual senha deve usar, peça para o mesmo recuperar sua senha.
 
-Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email), mostre o pop de envio de senha por email. Após o usuário clicar no botão de fechar o popup, mostre a tela de autentificação novamente.
+Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email), mostre o pop-up de envio de senha por email. Após o usuário clicar no botão de fechar o pop-up, mostre a tela de autentificação novamente.
 
-Após autentificação ser realizada, mostre a tela de confirmação do agendamento. Caso o usuário confime, mostre o popup de agendamento confimado. Caso contrário mostre o pop de agendamento cancelado.
+Após autentificação ser realizada, mostre a tela de confirmação do agendamento. Caso o usuário confime, mostre o pop-up de agendamento confimado. Caso contrário mostre o pop-up de agendamento cancelado.
 
 Caso o agendamento seja bem sucedido, mostre a tela de obras agendadas, onde estará presente o livro agendado e a data máxima que o livro estará disponível para empréstimo.
 
@@ -145,21 +146,21 @@ Caso o usuário clique no botão referente a realização de login, mostre a tel
 
 3. Peça para o usuário realizar o login
 
-4. Se o usuário falar que não sabe qual senha deve usar, peça recuperar sua senha.
+4. Se o usuário falar que não sabe qual senha deve usar, peça para o mesmo recuperar sua senha.
 
-Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email), mostre o pop de envio de senha por email. Após o usuário clicar no botão de fechar o popup, mostre a tela de autentificação novamente.
+Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email), mostre o pop-up de envio de senha por email. Após o usuário clicar no botão de fechar o pop-up, mostre a tela de autentificação novamente.
 
 Após autentificação ser realizada, mostre a tela do painel principal do acesso restrito, e nela deverá está presente os livros que estão em posse do participante.
 
 Observe o participante, caso ele não saiba o que fazer, ajude-o. Informe que é preciso identificar o livro, e clicar no botão de renovação de prazo.
 
-Após o usuário clicar no botão da renovação, mostre a tela referente aos detalhes do empréstimo. E mostre o popup de confirmação da renovação. 
+Após o usuário clicar no botão da renovação, mostre a tela referente aos detalhes do empréstimo. E mostre o pop-up de confirmação da renovação. 
 
-Caso a renovação confirmada, mostre o popup de renovação bem sucedido. 
+Caso a renovação confirmada, mostre o pop-up de renovação bem sucedido. 
 
-Caso a renovação não seja confirmada, mostre o popup informado que a renovação foi cancelada.
+Caso a renovação não seja confirmada, mostre o pop-up informado que a renovação foi cancelada.
 
-Quando os popups forem fechado volte para o painel principal de acesso restrito.
+Quando os pop-ups forem fechado volte para o painel principal de acesso restrito.
 
 5. Peça para o usuário realizar o _logout_
 
@@ -177,7 +178,7 @@ Qualquer pessoa que se encaixe em algum desses perfis estão aptos de serem recr
 
 Procure por pessoas com esse perfil, entre em contato, explique a motivação da avaliação e os detalhes envolvidos. Caso a pessoa confirme o desejo de participar, combine uma data e um horário.
 
-Caso o avaliador consiga recrutar mais de 3 pessoas, escolha a pessoa com a data mais próxima para realizar o teste-piloto. Teste-piloto é uma execução da avaliação com o objetivo de identificar que podem surgir durante a avaliação.
+Caso o avaliador consiga recrutar mais de 3 pessoas, escolha a pessoa com a data mais próxima para realizar o teste-piloto. Teste-piloto é uma execução da avaliação com o objetivo de identificar dúvidas que podem surgir durante a avaliação.
 
 ### 4.3. Execução do teste piloto
 
