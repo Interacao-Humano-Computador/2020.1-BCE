@@ -9,6 +9,7 @@
 | 29.09.2020 |  0.4   | Adição do objetivo | Isabella Carneiro  |
 | 20.10.2020 |  0.5   | Adição de storyboards | Geraldo Victor  |
 | 21.10.2020 |  0.6   | Modificações nos tópicos: Introdução, Objetivo e Metodologia | Durval Carvalho  |
+| 22.10.2020 |  0.7   | Modificações e adições nos tópicos: Escolha das histórias, Resultados e Conclusão | Geraldo Victor  |
 
 <div align='justify'>
 
@@ -39,18 +40,59 @@ Por esse motivo, optou-se por utilizar o _StoryboardThat_ e, se necessário, com
 
 
 ## 4. Escolha das Histórias
-Na primeira história é ilustrado o descontentamento quanto a falta de responsividade em dispositivos móveis no site da BCE. Já na segunda história é ilustrado como deveria ser e o quanto poderia agregar aos usuários que tem dificuldade de leitura.
+Nosso primeiro storyboard retrata a situação atual do site da BCE no diz respeito a responsividade do do mesmo, onde fica claro que o site da BCE não atende a essa demanda que é de suma importância,logo em seguida há uma representação do que seria o ideal, com esse storyboard o nosso objetivo é ilustrar uma tarefa descrita na análise de tarefas, sendo ela a de realizar o empréstimo de um livro.
 
+No segundo storyboard o foco é diferente do anterior, nele temos um aluno que tinha o interesse em fazer o empréstimo de um livro do seu interesse, mas que infelizmente não estava disponível, então é orientado sobre a possibilidade de reserva de empréstimo. Já no segundo bloco de quadrinhos é ilustrado uma situação em que ele já conhece a possibilidade de reservar e decide fazer uso da mesma. Dessa forma nosso segundo storyboard tem o objetivo de retratar outra tarefa descrita na nossa análise de tarefas, sendo ela a de reservar um empréstimo.
 
 ## 5. Resultados
+
+Para criação de um storyboard é extremamente importante definirmos qual cobertura o mesmo deve proporcionar, a seguir os storyboard terão suas atividades e tarefas descritas, para que assim o haja uma descrição mais detalhada acerca dessa cobertura.
+
+### Tabela de cobertura do primeiro storyboard 
+| Atividade | Tarefa |
+| :-:       | :-   |
+| Setting / Preparo | **1. Definição das pessoas envolvidas:** Alunos de graduação <br> **2. Definição do ambiente da história:** Faculdade (sala de aula, biblioteca).<br> **3. Definição de qual tarefa será abordada:** Realizar o empréstimo de um livro. |
+| Sequence / Sequência | **1. Definição de quais passos estão envolvidos para realização da tarefa:** Acessar o site da BCE, realizar o login, reservar um livro.<br> **2. Definição do que leva a pessoa a usar a aplicação:** Reservar um livro pra conseguir com mais facilidade o seu empréstimo.<br> **3. Definição de qual (e como) a tarefa será ilustrada:** Fazer o empréstimo do livro, será ilustrado um aluno precisando fazer o empréstimo do livro para estudar para uma prova que se aproxima. |
+| Satisfaction / Satisfação | **1. Definição da motivação principal da pessoa que usa a aplicação:** Fazer o empréstimo de livros.<br> **2. Definição das realizações que a aplicação permite:** Não ter que ser surpreendido pela falta do livro desejado causa uma sensação de segurança<br> **3. Definição das necessidades que a aplicação se proprõe a sanar:** Necessidade de garantir o empréstimo de um livro para aqueles que desejam fazer o empréstimo do mesmo. |
+
+### Ilustração de uma situação em que o usuário precisa realizar a tarefa de fazer o empréstimo
+
+* Como pode acontecer: 
+
+<img src='../../_media/images/storyboard_3.png'>
+
+* Como poderia ter sido:
+
+<img src='../../_media/images/storyboard_4.png'>
+
+ **Fonte**:(Autor)
+
+
+### Tabela de cobertura do primeiro storyboard 
+| Atividade | Tarefa |
+| :-:       | :-   |
+| Setting / Preparo | **1. Definição das pessoas envolvidas:** Alunos de graduação <br> **2. Definição do ambiente da história:** Faculdade (sala de aula).<br> **3. Definição de qual tarefa será abordada:** Realizar a renovação de um empréstimo. |
+| Sequence / Sequência | **1. Definição de quais passos estão envolvidos para realização da tarefa:** Acessar o site da BCE, realizar o login, renovar um empréstimo.<br> **2. Definição do que leva a pessoa a usar a aplicação:** Realizar a renovação de um empréstimo sem ter que ir fisicamente ao local onde o livro foi retirado.<br> **3. Definição de qual (e como) a tarefa será ilustrada:** Fazer a renovação de um empréstimo, será ilustrado um aluno precisando fazer a renovação de um empréstimo online, pois ele não pode ir fisicamente ao local de onde o livro foi emprestado. |
+| Satisfaction / Satisfação | **1. Definição da motivação principal da pessoa que usa a aplicação:** Fazer a renovação do empréstimo sem ter que ir ao local de onde foi emprestado.<br> **2. Definição das realizações que a aplicação permite:** Conforto de não ter que se deslocar pra realizar uma tarefa simples quando não tem tempo para essa tarefa, além de tranquilidade com o fato de não ter que pagar multa.<br> **3. Definição das necessidades que a aplicação se proprõe a sanar:** Necessidade de deslocamento que muitas vezes pode ser um grande empecilho para aqueles que precisam renovar um empréstimo. |
+
+## Ilustração de uma situação em que o usuário precisa realizar a tarefa de renovar um empréstimo
+
+* Como é atualmente:
+
 <img src='../../_media/images/storyboard_1.png'>
+
+* Como poderia ser:
+
 <img src='../../_media/images/storyboard_2.png'>
+
+ **Fonte**:(Autor)
 
 
 ## 6. Conclusão
-Como foi ilustrado acima o site da BCE não é responsivo o que acarreta na desistência do uso do mesmo em dispositivos móveis, seria de suma importância que ele fosse, tendo em vista a facilidade de acesso que alunos têm atualmente a dispositivos móveis.
 
+Como foi visto nesse documento o storyboard é uma ferramenta muito útil para exemplificar como as tarefas da aplicação podem ser realizadas, quais necessidade o ela atende, a quem se destina, quais motivações levam o usuário a utilizá-la, além de muitos outros pontos positivos que aqui foram destacadas.
 
 ## 7. Referências
-- Sommerville, Ian. Engenharia de Software. 9a Edic¸ao. Pearson.
+
+- Sommerville, Ian. Engenharia de Software. 9a Edição. Pearson.
 - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
