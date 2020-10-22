@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <title>BCE - Biblioteca Central da UnB</title>
+  <meta name="description" content="Avaliação das Interfaces do site da BCE">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="icon" href="_media/favicon.ico">
+  
+  <!-- Theme: Simple Dark -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
+  <style>
+
+    /* CHANGE DEFAULT TABLE TRANSPARENT HEADER */
+    #main > table > thead > tr > th:not(:last-child), #main > table > tbody > tr > td:not(:last-child) {
+      border-right: 1px solid #555 !important;
+    }
+
+    body > section > div.cover-main > p:nth-child(4) > a:nth-child(1) {
+      background-color: #003366 !important;
+    }
+
+    /* CHANGE BUTTON COLOR ON COVER */
+    body > section > div.cover-main > p:nth-child(4) > a:nth-child(2) {
+      background-color: #006633;
+    }
+
+    /* CHANGE COLOR OF LINKS ON HOVER */
+    #main > ul > li > a {
+      color: #7292ea;
+    }
+
+    /* CHANGE COLOR OF LINKS ON HOVER */
+    #main > ul > li > a:hover {
+      color: pink;
+    }
+
+    /* BACKGROUND COLOR MASK */
+    :root { --cover-background-mask-visibility: 0; }
+
+  </style>
+
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+<script>
+  window.$docsify = {
+    repo: 'Interacao-Humano-Computador/2020.1-BCE',
+    name: 'Home',
+    auto2top: true,
+    loadSidebar: true,
+    alias: { '/.*/_sidebar.md': '/_sidebar.md', },
+    subMaxLevel: 1,
+    coverpage: true,
+    search: { noData: { '/': 'No results!' }, paths: 'auto', placeholder: { '/': '🔍 Search' } }
+  }
+</script>
+
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+<!-- plugins -->
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<script src="https://unpkg.com/docsify-sidebar-collapse@1.1.5/dist/docsify-sidebar-collapse.min.js"></script>
+
+<!-- embed pdf -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+</html>
