@@ -1,6 +1,6 @@
 # StoryBoard
 
-## Histórico de Versão
+### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 29.09.2020 |  0.1   | Criação do documento | Isabella Carneiro  |
@@ -9,7 +9,8 @@
 | 29.09.2020 |  0.4   | Adição do objetivo | Isabella Carneiro  |
 | 20.10.2020 |  0.5   | Adição de storyboards | Geraldo Victor  |
 | 21.10.2020 |  0.6   | Modificações nos tópicos: Introdução, Objetivo e Metodologia | Durval Carvalho  |
-| 22.10.2020 |  0.7   | Modificações e adições nos tópicos: Escolha das histórias, Resultados e Conclusão | Geraldo Victor  |
+| 21.10.2020 |  0.7   | Adição do detalhamento textual do storyboard 1 | Durval Carvalho  |
+| 22.10.2020 |  0.8   | Modificações e adições nos tópicos: Escolha das histórias, Resultados e Conclusão | Geraldo Victor  |
 
 <div align='justify'>
 
@@ -51,7 +52,7 @@ Para criação de um storyboard é extremamente importante definirmos qual cober
 ### Tabela de cobertura do primeiro storyboard 
 | Atividade | Tarefa |
 | :-:       | :-   |
-| Setting / Preparo | **1. Definição das pessoas envolvidas:** Alunos de graduação <br> **2. Definição do ambiente da história:** Faculdade (sala de aula, biblioteca).<br> **3. Definição de qual tarefa será abordada:** Realizar o empréstimo de um livro. |
+| Setting / Preparo | **1. Definição das pessoas envolvidas:** Aluno Rafael, Bibliotecária Júlia <br> **2. Definição do ambiente da história:** Faculdade (sala de aula, biblioteca).<br> **3. Definição de qual tarefa será abordada:** Realizar o empréstimo de um livro. |
 | Sequence / Sequência | **1. Definição de quais passos estão envolvidos para realização da tarefa:** Acessar o site da BCE, realizar o login, reservar um livro.<br> **2. Definição do que leva a pessoa a usar a aplicação:** Reservar um livro pra conseguir com mais facilidade o seu empréstimo.<br> **3. Definição de qual (e como) a tarefa será ilustrada:** Fazer o empréstimo do livro, será ilustrado um aluno precisando fazer o empréstimo do livro para estudar para uma prova que se aproxima. |
 | Satisfaction / Satisfação | **1. Definição da motivação principal da pessoa que usa a aplicação:** Fazer o empréstimo de livros.<br> **2. Definição das realizações que a aplicação permite:** Não ter que ser surpreendido pela falta do livro desejado causa uma sensação de segurança<br> **3. Definição das necessidades que a aplicação se proprõe a sanar:** Necessidade de garantir o empréstimo de um livro para aqueles que desejam fazer o empréstimo do mesmo. |
 
@@ -59,19 +60,30 @@ Para criação de um storyboard é extremamente importante definirmos qual cober
 
 * Como pode acontecer: 
 
+<p align="center">
 <img src='../../_media/images/storyboard_3.png'>
+  <figcaption align='center'>
+    <b>Figura 1: StoryBoard 1</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
 
 * Como poderia ter sido:
 
+<p align="center">
 <img src='../../_media/images/storyboard_4.png'>
+  <figcaption align='center'>
+    <b>Figura 2: StoryBoard 1</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
 
- **Fonte**:(Autor)
-
-
-### Tabela de cobertura do primeiro storyboard 
+### Tabela de cobertura do segundo storyboard 
 | Atividade | Tarefa |
 | :-:       | :-   |
-| Setting / Preparo | **1. Definição das pessoas envolvidas:** Alunos de graduação <br> **2. Definição do ambiente da história:** Faculdade (sala de aula).<br> **3. Definição de qual tarefa será abordada:** Realizar a renovação de um empréstimo. |
+| Setting / Preparo | **1. Definição das pessoas envolvidas:** Aluno Alberto e Aluno Bernardo <br> **2. Definição do ambiente da história:** Faculdade (sala de aula).<br> **3. Definição de qual tarefa será abordada:** Realizar a renovação de um empréstimo. |
 | Sequence / Sequência | **1. Definição de quais passos estão envolvidos para realização da tarefa:** Acessar o site da BCE, realizar o login, renovar um empréstimo.<br> **2. Definição do que leva a pessoa a usar a aplicação:** Realizar a renovação de um empréstimo sem ter que ir fisicamente ao local onde o livro foi retirado.<br> **3. Definição de qual (e como) a tarefa será ilustrada:** Fazer a renovação de um empréstimo, será ilustrado um aluno precisando fazer a renovação de um empréstimo online, pois ele não pode ir fisicamente ao local de onde o livro foi emprestado. |
 | Satisfaction / Satisfação | **1. Definição da motivação principal da pessoa que usa a aplicação:** Fazer a renovação do empréstimo sem ter que ir ao local de onde foi emprestado.<br> **2. Definição das realizações que a aplicação permite:** Conforto de não ter que se deslocar pra realizar uma tarefa simples quando não tem tempo para essa tarefa, além de tranquilidade com o fato de não ter que pagar multa.<br> **3. Definição das necessidades que a aplicação se proprõe a sanar:** Necessidade de deslocamento que muitas vezes pode ser um grande empecilho para aqueles que precisam renovar um empréstimo. |
 
@@ -79,14 +91,25 @@ Para criação de um storyboard é extremamente importante definirmos qual cober
 
 * Como é atualmente:
 
+<p align="center">
 <img src='../../_media/images/storyboard_1.png'>
+  <figcaption align='center'>
+    <b>Figura 3: StoryBoard 2</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
 
 * Como poderia ser:
 
+<p align="center">
 <img src='../../_media/images/storyboard_2.png'>
-
- **Fonte**:(Autor)
-
+  <figcaption align='center'>
+    <b>Figura 4: StoryBoard 2</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
 
 ## 6. Conclusão
 
