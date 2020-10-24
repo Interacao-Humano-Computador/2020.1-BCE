@@ -136,7 +136,7 @@ O João afirma que sente falta de algumas funcionalidades, como agendamento de s
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen
         ></iframe>
-    ></iframe>
+    </iframe>
 </p>
 
 A terceira entrevista foi realizada no dia 15 de outubro às 14:00AM, e teve duração total de 26 minutos. A participante se chama Rebeca Gouveia, de 24 anos de idade, e está finalizando o seu mestrado e iniciando o doutorado, ambos em história e na Universidade de Brasília. O campo de estudo, de ambas as formações, é a "História da Publicação de Livros Impressos da Inglaterra no Século XVI e XVII".
