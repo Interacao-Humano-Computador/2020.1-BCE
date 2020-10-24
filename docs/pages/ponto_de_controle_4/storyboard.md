@@ -53,7 +53,7 @@ Uma vez que imagens podem ter diversas interpretações, de acordo com a pessoa 
 ### 5.1. Renovação de Prazo de Entrega
 
 <p align="center">
-<img src='../../_media/assets/detalhamento-storyboard-1.png'>
+<img src='_media/assets/detalhamento-storyboard-1.png'>
   <figcaption align='center'>
     <b>Figura 1: Detalhamento textual do storyboard 1 e 2</b>
     </br>
@@ -62,7 +62,7 @@ Uma vez que imagens podem ter diversas interpretações, de acordo com a pessoa 
 </p></br>
 
 <p align="center">
-<img src='../../_media/images/storyboard_1.png'>
+<img src='_media/images/storyboard_1.png'>
   <figcaption align='center'>
     <b>StoryBoard 1: Essa história representa como atualmente os usuários se sentem em relação a responsividade do site</b>
     </br>
@@ -71,7 +71,7 @@ Uma vez que imagens podem ter diversas interpretações, de acordo com a pessoa 
 </p></br>
 
 <p align="center">
-<img src='../../_media/images/storyboard_2.png'>
+<img src='_media/images/storyboard_2.png'>
   <figcaption align='center'>
     <b>StoryBoard 2: Essa história representa como os usuários poderiam gostar de um site resposível que facilite sua utilização. </b>
     </br>
@@ -82,7 +82,7 @@ Uma vez que imagens podem ter diversas interpretações, de acordo com a pessoa 
 ### 5.2. Agendamento de empréstimo
 
 <p align="center">
-<img src='../../_media/assets/detalhamento-storyboard-2.png'>
+<img src='_media/assets/detalhamento-storyboard-2.png'>
   <figcaption align='center'>
     <b>Figura 2: Detalhamento textual do storyboard 3 e 4</b>
     </br>
@@ -91,7 +91,7 @@ Uma vez que imagens podem ter diversas interpretações, de acordo com a pessoa 
 </p></br>
 
 <p align="center">
-<img src='../../_media/images/storyboard_3.png'>
+<img src='_media/images/storyboard_3.png'>
   <figcaption align='center'>
     <b>StoryBoard 3: Essa história mostra um usuário que é impossibilitado de pegar um livro devido a falta de exemplares para empréstimo</b>
     </br>
@@ -102,7 +102,7 @@ Uma vez que imagens podem ter diversas interpretações, de acordo com a pessoa 
 * Como poderia ter sido:
 
 <p align="center">
-<img src='../../_media/images/storyboard_4.png'>
+<img src='_media/images/storyboard_4.png'>
   <figcaption align='center'>
     <b>StoryBoard 4: Essa história mostra um usuário que agendou um empréstimo e conseguiu pegar um livro disputado</b>
     </br>
