@@ -33,6 +33,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 | <img src="_media/logos/docsify-logo.png"> | O docsify é um gerador de páginas estáticas sob demanda. No nosso projeto ele foi configurado para realizar o transpilação de arquivos em Markdown para páginas HTML. No nosso projeto ele foi configurado junto com o GitHub Pages para que o site fosse hospedado pelo GitHub  |
 | <img src="_media/logos/canva-logo.png"> | Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais. No nosso projeto ele foi usado para fazer pequenas edições nas imagens que utilizamos |
 | <img src="_media/logos/uxpressia-logo.png"> | A uxpressia é uma ferramenta online para mapeamento de jornada do cliente, criação de personas e mapa de impacto. No nosso projeto essa ferramenta foi usada para criação das personas.  |
+| <img src="_media/logos/storyboardthat_logo.png"> | StoryboardThat é uma ferramenta que auxilia na criação de storyboards já que conta com ilustrações prontas de cenários e de pessoas, balões de fala e objetos, fazendo com que essa tarefa seja muito mais simples.  |
 
 
 
