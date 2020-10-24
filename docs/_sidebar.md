@@ -25,3 +25,8 @@
   - [Termo de Consentimento](/pages/ponto_de_controle_4/termo_de_consentimento.md)
   - [Entrevistas](/pages/ponto_de_controle_4/entrevistas.md)
   - [Análise de Tarefas](/pages/ponto_de_controle_4/analise_tarefa.md)
+  - [StoryBoard](/pages/ponto_de_controle_4/storyboard.md)
+  - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_4/plan_aval_prototipo_baixa_fidelidade.md)
+
+- [**Ponto de Controle 5**](/pages/ponto_de_controle_5/termo_de_consentimento.md)
+  - [Termo de Consentimento](/pages/ponto_de_controle_5/termo_de_consentimento.md)
