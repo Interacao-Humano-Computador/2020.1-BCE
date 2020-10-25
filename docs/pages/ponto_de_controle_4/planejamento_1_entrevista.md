@@ -1,4 +1,4 @@
-# <center>Planejamento da entrevista
+# Planejamento da entrevista
 
 ### Histórico de Versão
 | Data       | Versão | Descrição                         | Autor              |

@@ -1,4 +1,4 @@
-# <center> Entrevista
+# Entrevista
 
 ### Histórico de Versão
 
@@ -128,14 +128,12 @@ O João afirma que sente falta de algumas funcionalidades, como agendamento de s
 
 <p align='center'>
     <iframe 
-        <iframe 
-            width="560" 
-            height="315" 
-            src="https://www.youtube-nocookie.com/embed/7wiIyZExfnY" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen
-        ></iframe>
+        width="560" 
+        height="315" 
+        src="https://www.youtube-nocookie.com/embed/7wiIyZExfnY" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
     ></iframe>
 </p>
 

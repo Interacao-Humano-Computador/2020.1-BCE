@@ -24,6 +24,7 @@
   - [Planejamento da Entrevista](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
   - [Termo de Consentimento](/pages/ponto_de_controle_4/termo_de_consentimento.md)
   - [Entrevistas](/pages/ponto_de_controle_4/entrevistas.md)
+  - [Análise de Tarefas v2](/pages/ponto_de_controle_4/analise_tarefa_v2.md)
   - [StoryBoard](/pages/ponto_de_controle_4/storyboard.md)
   - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_4/plan_aval_prototipo_baixa_fidelidade.md)
 
