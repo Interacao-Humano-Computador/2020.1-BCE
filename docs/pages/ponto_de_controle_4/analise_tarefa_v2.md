@@ -1,29 +1,39 @@
-# <center> Análise de tarefas
+# Avaliação da Análise de tarefas v2
 
 ### Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 22.10.2020 | 0.1 | Realização da Análise de Tarefas | Rafaella Junqueira |
+| 25.10.2020 | 0.2 | Revisão | Durval Carvalho |
 
 <div align="justify"> 
 
 ## 1. Introdução
-A análise de tarefas pode ser realizada em diferentes momentos do desenvolvimento: na fase anterior ao desenvolvimento do produto, analisando a situação atual e contando ou não com apoio de softwares, após realizada uma intervenção que inclua sistemas computacionais, ou visando o redesenho de um sistema já existente. 
+A análise de tarefas pode ser realizada em 2 momentos do desenvolvimento
+- Na fase anterior ao desenvolvimento do produto, analisando a situação atual, podendo contar ou não com o apoio de um software (versões anteriores)
+- Após a realização de uma intervenção em um sistemas computacionais;
 
-Nesta fase do projeto, a análise de tarefas se dá com o intuito de propor melhorias para o design do site, utilizando como insumo as respostas obtidas através das entrevistas realizadas com usuários finais do sistema. O método utilizado para realização desta análise será a Análise Hierárquica de Tarefas (AHT), utilizando-se a notação proposta por Preece, Rogers e Sharp (2005).
+A análise de tarefa que é apresentada nesse documento, se enquadra no primeiro momento apresentado, na fase anterior do desenvolvimento, contando com o apoio da versão atual do sistema. O intuito dessa atividade é propor melhorias para o design do site, essas melhorias são baseadas na análise do comportamento do usuário, obtidas em entrevistas com usuários reais do sistema. O método utilizado para realização desta análise é a Análise Hierárquica de Tarefas (AHT), utilizando-se a notação proposta por Preece, Rogers e Sharp (2005).
 
 ## 2. Objetivo
-A primeira análise de tarefas realizada, através do método de inspeção, possuia o intuito de identifcar como os objetivos de agendamento de empréstimo e renovação de prazo de devolução podiam ser atingidos dada a atual situação de desenho do site. Esta nova análise pretende verificar se o que foi levantado previamente está de acordo com as experiências dos usuários ao realizarem essas tarefas no sistema. Assim, será possível comparar os caminhos identificados com aqueles realmente realizados e, então, propor melhorias de desenho para o site da BCE.
+A primeira análise de tarefas realizada, através do método de inspeção, possuia o intuito de identifcar como os objetivos de agendamento de empréstimo e renovação de prazo de devolução podiam ser atingidos dada a atual situação de desenho do site. 
 
-## 3. Análise e levantamento de dados
-A identificação a respeito da forma como os usuários realizam suas tarefas foi feita utilizando a técnica de entrevistas, cujos relatos podem ser verificados no [documento de entrevistas](/pages/ponto_de_controle_4/entrevistas.md). O elenco de entrevistados contou com usuários experientes a respeito do uso do sistema e também com usuários que nunca tinham realizado atividades de agendamento de empréstimo ou renovação do prazo de devolução, e para esses, durante suas entrevistas foi solicitado que tentassem atingir ambos os objetivos.
+Esta nova análise pretende verificar se o que foi levantado previamente está de acordo com as experiências dos usuários. Assim, será possível analisar os caminhos realizados pelos usuários e propor um design que apoie a intuição das pessoas que utilizam o sistema. Com base nessa análise, será possível realizar um design de interface mais efetivo, que melhore características como Memorabildiade, Usabilidade e Aprendizagem.
 
-A análise sobre as respostas e a maneira como atingem os objetivos revelou que, tanto para os usuários mais experientes quando para aqueles que não estão acostumados ao sistema e tentaram realizar as tarefas pela primeira vez, a forma como o site foi pensado para a realização das tarefas não é intuitiva aos usuários. Todos os entrevistados apresentaram dificuldade em atingir os objetivos e a maioria imaginou o mesmo cenário a respeito de como as informações estariam dispostas e onde encontrariam o elemento que levaria ao alcance do objetivo em questão.
+## 3. Análise e levantamento de dados (Metodologia)
 
-Desta forma, baseado na primeira análise de tarefas, com as dificuldades encontradas pela equipe durante o processo de mapear o funcionamento do site, atrelada às conclusões provenientes das entrevistas, uma nova representação textual e gráfica das tarefas foi desenvolvida. As representações já contam com as melhorias propostas para a disposição dos elementos de tal forma a aumentar a memorabilidade do site durante a realização dessas tarefas.
+Para que fosse possível validar a análise de tarefa sugerida pelos designers, foi necessário realizar entrevistas estruturadas com usuários reais do sistema. O [planejamento](planejamento_1_entrevista.md) e a [execução](/pages/ponto_de_controle_4/entrevistas.md) dessas entrevistas podem ser vistas em seus respectivos documentos.
+
+Resumidamente, essas entrevistas consistiam em observar os usuários realizando determinadas ações no sistema da BCE. O elenco de entrevistados contou com usuários novatos, isso é, usuários que nunca tinham realizadas determinadas ações, e usuários experiêntes, isso é, usuários que já conheciam as ações solicitadas.
+
+Com base na observação e análise usuários usando o sistema, foi possível observar caminhos comuns que todos os entrevistados realizavam. Foi possível também analisar a sequência de ações realizadas para alcançar determinado objetivo, fornecendo assim dados que auxiliam na correção do documento de análise de tarefa. Outra conclusão que foi possível concluir, é que todos os usuários consideram o site da BCE pouco intuitivo.
+
+Desta forma, baseado na [primeira análise de tarefas](/pages/ponto_de_controle_2/analise_tarefas.md), nos dados obtidos pela entrevistas, e na análise do designer, foi possível realizar uma nova versão da Análise de Tarefa, incluindo as representações textuais e gráficas das tarefas envolvidas. Essa nova versão poderá ser usada no design de futuras interfaces, pois já condiz com a intuição dos usuários.
 
 ## 4. Análise Hierárquica de Tarefas (AHT)
-Este tipo de análise parte dos objetivos do usuário para identificar as tarefas que devem ser realizadas a fim de atingir tais objetivos. Um plano configura a sequência de tarefas que deve ser realizada, como caminhos a serem percorridos, para atingir um determinado objetivo. <br>A forma adotada para demonstrar as tarefas serão as notações textual e gráfica propostas pelas autoras Preece, Rogers e Sharp (2005). Na notação textual, os itens de número zero representam os objetivos, os itens subsequentes são as tarefas e seus subitens representam sub tarefas.
+Este tipo de análise parte dos objetivos do usuário para identificar as tarefas que devem ser realizadas a fim de atingir tais objetivos. Um plano configura a sequência de tarefas que deve ser realizada, como caminhos a serem percorridos, para atingir um determinado objetivo. 
+
+A forma adotada para demonstrar as tarefas serão as notações textual e gráfica propostas pelas autoras Preece, Rogers e Sharp (2005). Na notação textual, os itens de número zero representam os objetivos, os itens subsequentes são as tarefas e seus subitens representam sub tarefas.
 
 ### 4.1 Representação textual
 
@@ -86,7 +96,7 @@ A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005),
 | 1.4 Identifique na lista o livro desejado | **Input**: lista de livros gerada após inserção do título buscado;<br>**Problema**: os livros encontrados não possuem imagem da capa;<br>**Recomendação**: acrescentar a imagem da capa para facilitar a identificação. |
 | 2. Reserve o livro | **Input**: lista de livros gerada após inserção do título buscado; |
 | 2.1 Selecione o livro desejado | **Input**: livro desejado já identificado na lista;<br>**Action**: clique sobre o título desejado;<br>**Feedback**: será direcionado para uma tela contendo as informações específicas do livro;<br>**Problema**: as informações estão dispostas de maneira não convencional. Além de existirem muitas informações nas laterais da página;<br>**Recomendações**: reformular a disposição das informações para evitar uso excessivo de espaço e dar mais visibilidade às informações de localização e reserva do exemplar. Desta forma, as funcionalidades que atualmente se encontram "escondidas" nas laterais da página também ficarão mais em evidência.|
-| 2.2 Selecione "reservar obra" | **Input**: tela contendo as informações específicas do livro desejado;<br>**Action**: clicar sobre o botão de "reservar obra";<br>**Feedback**: uma tela com dados da obra no acervo será aberta;<br>**Problema**: atualmente, a opção de reserva se encontra apenas quando ã área "ver registro no catálogo" é clicada, na parte esquerda da tela de dados da obra, dificultando o acesso intuitivo.<br>**Recomendações**: o botão de reserva deve estar presente na tela de informações específicas do livro.|
+| 2.2 Selecione "reservar obra" | **Input**: tela contendo as informações específicas do livro desejado;<br>**Action**: clicar sobre o botão de "reservar obra";<br>**Feedback**: uma tela com dados da obra no acervo será aberta;<br>**Problema**: atualmente, a opção de reserva se encontra apenas quando a área "ver registro no catálogo" é clicada, na parte esquerda da tela de dados da obra, dificultando o acesso intuitivo.<br>**Recomendações**: o botão de reserva deve estar presente na tela de informações específicas do livro.|
 | 2.3 Insira os dados de cadastro | **Input**: tela com informações de localização e tipo do livro;<br>**Action**: digite o CPF e a senha cadastrados na biblioteca e clique em "confirmar".<br>**Feedback**: caso a reserva não possa ser realizada aparecerá a mensagem "Reserva Cancelada. O usuário não pode reservar este tipo de obra desta biblioteca". Em caso de sucesso, aparecerá uma mensagem confirmando a reserva e o prazo para retirada do exemplar. |
 
 <figcaption align='center'>
@@ -123,9 +133,12 @@ A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005),
 </figcaption>
 
 ## 5. Conclusão
-Através das entrevistas foi possível descobrir que todos os entrevistados tiveram a mesma expectativa sobre como deveria estar a disposição dos elementos na página para que atingissem o objetivo de agendar um empréstimo. Esse entendimento sobre a disposição dos elementos ocorreu tanto por parte dos participantes, apesar dos diferentes níveis de experiência de uso na plataforma, quanto por parte da equipe ao realizar a primeira análise de tarefas. 
 
-Assim, para o objetivo de agendamento de empréstimo o subobjetivo de realização do login foi retirado, e o elemento responsável por efetuar o agendamento passou a ser mapeado na área de informações específicas da obra. O objetivo de renovação do prazo de devolução teve suas tarefas validadas, indicando que o caminho está intuitivo aos usuário, logo, foi mantido.
+Com base nas entrevistias e na análise dos passos efetuados pelos usuários, foi possível aferir que todos os entrevistados tinham expectativas em comuns sobre onde deveria está dispostos certos elementos na página. Vale lembra que essas expectativas são de usuários novatos e experiêntes, levando a pensar que é a não disposição desses elementos nos locais procurados se trata de uma falha grave de design.
+
+Desse modo, foi criado uma nova Análise de Tarefa que especifica os objetivos, os passos, e as tarefas que devem ser executadas para realizar determinada ação no site.
+
+A principal mudança foi na atividade de Agendamento de Empréstimo, onde o elemento responsável por efetuar o agendamento passou a está disposto logo após a identificação da obra no catálogo. As demais atividades foram validadas e não apresentaram mudanças significativas na ordem de execução, somente no seu detalhamento.
 
 </div>
 
