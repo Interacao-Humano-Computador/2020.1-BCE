@@ -122,6 +122,11 @@ A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005),
     Fonte: Elaboração própria
 </figcaption>
 
+## 5. Conclusão
+Através das entrevistas foi possível descobrir que todos os entrevistados tiveram a mesma expectativa sobre como deveria estar a disposição dos elementos na página para que atingissem o objetivo de agendar um empréstimo. Esse entendimento sobre a disposição dos elementos ocorreu tanto por parte dos participantes, apesar dos diferentes níveis de experiência de uso na plataforma, quanto por parte da equipe ao realizar a primeira análise de tarefas. 
+
+Assim, para o objetivo de agendamento de empréstimo o subobjetivo de realização do login foi retirado, e o elemento responsável por efetuar o agendamento passou a ser mapeado na área de informações específicas da obra. O objetivo de renovação do prazo de devolução teve suas tarefas validadas, indicando que o caminho está intuitivo aos usuário, logo, foi mantido.
+
 </div>
 
 ## Bibliografia
