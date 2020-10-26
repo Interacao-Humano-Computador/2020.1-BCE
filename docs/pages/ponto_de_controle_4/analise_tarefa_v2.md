@@ -18,7 +18,9 @@ A análise de tarefas pode ser realizada em 3 momentos do desenvolvimento
 A análise de tarefas que é apresentada nesse documento se enquadra no primeiro momento apresentado, na fase anterior do desenvolvimento, contando com o apoio da versão atual do sistema. O intuito dessa atividade é propor melhorias para o design do site baseando-se na análise do comportamento do usuário obtidas em entrevistas com usuários reais do sistema. O método utilizado para realização desta análise é a Análise Hierárquica de Tarefas (AHT), utilizando-se a notação proposta por Preece, Rogers e Sharp (2005).
 
 ## 2. Objetivo
-A primeira análise de tarefas realizada, através do método de inspeção, possuia o intuito de identifcar como os objetivos de agendamento de empréstimo e renovação de prazo de devolução podiam ser atingidos dada a atual situação de desenho do site. Esta nova análise pretende verificar se o que foi levantado previamente está de acordo com as experiências dos usuários. Assim, será possível analisar os caminhos realizados pelos usuários e propor um design que apoie a intuição das pessoas que utilizam o sistema. Com base nessa análise, será possível realizar um design de interface mais efetivo, que melhore características como Memorabildiade, Usabilidade e Aprendizagem.
+A primeira análise de tarefas realizada, através do método de inspeção, possuia o intuito de identifcar como os objetivos de agendamento de empréstimo e renovação de prazo de devolução podiam ser atingidos dada a atual situação de desenho do site. Esta nova análise pretende verificar se o que foi levantado previamente está de acordo com as experiências dos usuários. 
+
+Assim, será possível analisar os caminhos realizados pelos usuários e propor um design que apoie a intuição das pessoas que utilizam o sistema. Com base nessa análise, será possível realizar um design de interface mais efetivo, que melhore características como Memorabildiade, Usabilidade e Aprendizagem.
 
 ## 3. Análise e levantamento de dados (Metodologia)
 
