@@ -1,28 +1,28 @@
-# Avaliação da Análise de tarefas v2
+# Avaliação da Análise de tarefas
 
 ### Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 22.10.2020 | 0.1 | Realização da Análise de Tarefas | Rafaella Junqueira |
-| 25.10.2020 | 0.2 | Revisão | Durval Carvalho |
+| 25.10.2020 | 0.2 | Revisão do documento | Durval Carvalho |
+| 26.10.2020 | 0.3 | Revisão do documento | Rafaella Junqueira |
 
 <div align="justify"> 
 
 ## 1. Introdução
-A análise de tarefas pode ser realizada em 2 momentos do desenvolvimento
-- Na fase anterior ao desenvolvimento do produto, analisando a situação atual, podendo contar ou não com o apoio de um software (versões anteriores)
+A análise de tarefas pode ser realizada em 3 momentos do desenvolvimento
+- Na fase anterior ao desenvolvimento do produto, analisando a situação atual, podendo contar ou não com o apoio de um software (versões anteriores);
 - Após a realização de uma intervenção em um sistemas computacionais;
+- Visando o redesenho de um sistema já existente.
 
-A análise de tarefa que é apresentada nesse documento, se enquadra no primeiro momento apresentado, na fase anterior do desenvolvimento, contando com o apoio da versão atual do sistema. O intuito dessa atividade é propor melhorias para o design do site, essas melhorias são baseadas na análise do comportamento do usuário, obtidas em entrevistas com usuários reais do sistema. O método utilizado para realização desta análise é a Análise Hierárquica de Tarefas (AHT), utilizando-se a notação proposta por Preece, Rogers e Sharp (2005).
+A análise de tarefas que é apresentada nesse documento se enquadra no primeiro momento apresentado, na fase anterior do desenvolvimento, contando com o apoio da versão atual do sistema. O intuito dessa atividade é propor melhorias para o design do site baseando-se na análise do comportamento do usuário obtidas em entrevistas com usuários reais do sistema. O método utilizado para realização desta análise é a Análise Hierárquica de Tarefas (AHT), utilizando-se a notação proposta por Preece, Rogers e Sharp (2005).
 
 ## 2. Objetivo
-A primeira análise de tarefas realizada, através do método de inspeção, possuia o intuito de identifcar como os objetivos de agendamento de empréstimo e renovação de prazo de devolução podiam ser atingidos dada a atual situação de desenho do site. 
-
-Esta nova análise pretende verificar se o que foi levantado previamente está de acordo com as experiências dos usuários. Assim, será possível analisar os caminhos realizados pelos usuários e propor um design que apoie a intuição das pessoas que utilizam o sistema. Com base nessa análise, será possível realizar um design de interface mais efetivo, que melhore características como Memorabildiade, Usabilidade e Aprendizagem.
+A primeira análise de tarefas realizada, através do método de inspeção, possuia o intuito de identifcar como os objetivos de agendamento de empréstimo e renovação de prazo de devolução podiam ser atingidos dada a atual situação de desenho do site. Esta nova análise pretende verificar se o que foi levantado previamente está de acordo com as experiências dos usuários. Assim, será possível analisar os caminhos realizados pelos usuários e propor um design que apoie a intuição das pessoas que utilizam o sistema. Com base nessa análise, será possível realizar um design de interface mais efetivo, que melhore características como Memorabildiade, Usabilidade e Aprendizagem.
 
 ## 3. Análise e levantamento de dados (Metodologia)
 
-Para que fosse possível validar a análise de tarefa sugerida pelos designers, foi necessário realizar entrevistas estruturadas com usuários reais do sistema. O [planejamento](planejamento_1_entrevista.md) e a [execução](/pages/ponto_de_controle_4/entrevistas.md) dessas entrevistas podem ser vistas em seus respectivos documentos.
+Para que fosse possível validar a análise de tarefa sugerida pelos designers, foi necessário realizar entrevistas estruturadas com usuários reais do sistema, cujos [planejamento](planejamento_1_entrevista.md) e [execução](/pages/ponto_de_controle_4/entrevistas.md) dessas entrevistas podem ser vistas em seus respectivos documentos.
 
 Resumidamente, essas entrevistas consistiam em observar os usuários realizando determinadas ações no sistema da BCE. O elenco de entrevistados contou com usuários novatos, isso é, usuários que nunca tinham realizadas determinadas ações, e usuários experiêntes, isso é, usuários que já conheciam as ações solicitadas.
 
@@ -134,11 +134,9 @@ A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005),
 
 ## 5. Conclusão
 
-Com base nas entrevistias e na análise dos passos efetuados pelos usuários, foi possível aferir que todos os entrevistados tinham expectativas em comuns sobre onde deveria está dispostos certos elementos na página. Vale lembra que essas expectativas são de usuários novatos e experiêntes, levando a pensar que é a não disposição desses elementos nos locais procurados se trata de uma falha grave de design.
+Com base nas entrevistias e na análise dos passos efetuados pelos usuários, foi possível aferir que todos os entrevistados tinham expectativas em comunm sobre onde deveriam estar dispostos certos elementos na página. Vale lembra que essas expectativas são de usuários novatos e experientes no sistema, corroborando a ideia de que a não disposição desses elementos nos locais procurados se trata de uma falha de design.
 
-Desse modo, foi criado uma nova Análise de Tarefa que especifica os objetivos, os passos, e as tarefas que devem ser executadas para realizar determinada ação no site.
-
-A principal mudança foi na atividade de Agendamento de Empréstimo, onde o elemento responsável por efetuar o agendamento passou a está disposto logo após a identificação da obra no catálogo. As demais atividades foram validadas e não apresentaram mudanças significativas na ordem de execução, somente no seu detalhamento.
+Desse modo, foi criada uma nova Análise de Tarefas que especifica os objetivos, os passos, e as tarefas que devem ser executadas para realizar determinada ação no site. A principal mudança foi na atividade de Agendamento de Empréstimo, onde o elemento responsável por efetuar o agendamento passou a estar disposto logo após a identificação da obra no catálogo. As demais atividades foram validadas e não apresentaram mudanças significativas na ordem de execução, somente em seu detalhamento.
 
 </div>
 
