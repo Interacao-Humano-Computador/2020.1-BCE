@@ -86,6 +86,6 @@ Esse documento visa facilitar a vida do avaliador durante a realização das ava
 
 ## Referências Bibliográficas
 
-BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador. Computador. Editora Campus -- ElsevierElsevier, 2010., 2010.
+BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus -- ElsevierElsevier, 2010.
 
 </div>
