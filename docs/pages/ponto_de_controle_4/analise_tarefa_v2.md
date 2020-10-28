@@ -126,7 +126,7 @@ A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005),
 | 1.1 Insira CPF e senha | **Input**: página de autenticação;<br>**Feedback**: ao logar, será redirecionado para a área de perfil do usuário.|
 | 2. Identifique o livro desejado | **Input**: página de perfil do usuário aberta;<br>**Action**: clique sobre a área "títulos pendentes" ou sobre a área de "renovação" na lateral esquerda;<br>**Feedback**: haverá uma lista com informações sobre livros emprestados e ainda não devolvidos. Ao lado de cada título haverá o botão "renovar".</p>|
 | 3. Renove o prazo |  **Input**: livro identificado na lista "Títulos pendentes";<br>**Action**: clique sobre o botão "renovar";<br>**Feedback**: aparecerá um *pop-up* informando o status de renovação, aprovada ou não. </p>| 
-| 4. Verifique o status de renovação | **Feedback**: aparecerá uma mansagem indicando renovação defetivada ou não do livro e a opção "enviar comprovante por email";<br>**Plano**: caso queira receber por email a confirmação de renovação, clique na opção "receber por email"</p>|
+| 4. Verifique o status de renovação | **Feedback**: aparecerá uma mensagem indicando renovação efetivada ou não do livro e a opção "enviar comprovante por email";<br>**Plano**: caso queira receber por email a confirmação de renovação, clique na opção "receber por email"</p>|
 
 <figcaption align='center'>
     <b>Tabela 2: Problemas e recomendações do objetivo de renovação do prazo de devolução</b>
