@@ -26,10 +26,10 @@
   - [Entrevistas](/pages/ponto_de_controle_4/entrevistas.md)
   - [Análise de Tarefas v2](/pages/ponto_de_controle_4/analise_tarefa_v2.md)
   - [StoryBoard](/pages/ponto_de_controle_4/storyboard.md)
-  - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_4/plan_aval_prototipo_baixa_fidelidade.md)
   - [Plan. Aval. Storyboard](/pages/ponto_de_controle_4/plan_aval_storyboard.md)
 
 - [**Ponto de Controle 5**](/pages/ponto_de_controle_5/termo_de_consentimento.md)
   - [Termo de Consentimento](/pages/ponto_de_controle_5/termo_de_consentimento.md)
   - [Protótipo de baixa fidelidade](/pages/ponto_de_controle_5/low_fidelity_prototype.md)
+  - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_4/plan_aval_prototipo_baixa_fidelidade.md)
     
