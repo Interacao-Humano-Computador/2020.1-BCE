@@ -30,3 +30,5 @@
 
 - [**Ponto de Controle 5**](/pages/ponto_de_controle_5/termo_de_consentimento.md)
   - [Termo de Consentimento](/pages/ponto_de_controle_5/termo_de_consentimento.md)
+  - [Protótipo de baixa fidelidade](/pages/ponto_de_controle_5/low_fidelity_prototype.md)
+    
