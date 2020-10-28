@@ -10,24 +10,26 @@
 | 27.10.2020 |  0.5   | Adição dos protótipos | Isabella Carneiro e Geraldo Victor  |
 | 27.10.2020 |  0.6   | Adição da conclusão | Isabella Carneiro e Geraldo Victor  |
 | 27.10.2020 |  0.7   | Adição das referências | Isabella Carneiro e Geraldo Victor  |
+| 28.10.2020 |  0.8   | Revisão do documento | Durval Carvalho |
 
 
 
 
 ### 1. Introdução
 
-Um protótipo de baixa fidelidade simula algumas características do projeto, sendo que a ênfase é na funcionalidade e não na estética.
-Nesse tipo de protótipo, geralmente, pretende-se obter um feedback de usuários que farão o teste preliminar.
+O método de protótipo em papel avalia a usabilidade de um design de IHC representado em papel (Syner, 2003). Por meio de simulações de uso com participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identificar problemas de usubalidade antes mesmo de construir uma solução de IHC executável. Por ser um protótipo de baixa fidelidade, a ênfase maior é na funcionalidade do sistema e não na estética.
 
 ### 2. Objetivo
 
-O objetivo do protótipo é definir como será a interação do usuário com o sistema. Tal meta será alcançada com a avaliação dos protótipos pelos usuários.
+O objetivo de se realizar essa atividade é identificar o mais cedo possível problemas de usabilidade, com base nas interações dos potenciais usuários do sistema. Essa abordagem também irá facilitar a avaliação de soluções parciais, que não cobrem toda a interface. 
+
+Com isso em mente, esse documento visa apresentar os protótipos que foram feitos com essa finalidade, para que assim, futuramente, seja realizado uma atividade de validação e se identifique eventuais problemas.
 
 ### 3. Metodologia
 
-Para a realização dos protótipos de baixa fidelidade foi utilizado o software balsamiq por ter os traços de baixa fidelidade e permitir o trabalho conjunto.
+Para a realização dos protótipos de baixa fidelidade foi utilizado o software `balsamiq` por ter os traços de baixa fidelidade e permitir o trabalho conjunto.
 As telas foram feitas de acordo com as tarefas definidas no documento Análise de Tarefas.
-O fluxo foi feito com o intuito de ser o mais simplificado possível para diminuir possíveis dúvidas do usuário.  
+O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do sistema tenha uma alta usabilidade, e não apresente dúvidas em relação da ordem que as tarefas devem ser executadas.
 
 ### 4. Protótipos
 
@@ -83,10 +85,11 @@ O fluxo foi feito com o intuito de ser o mais simplificado possível para diminu
 <img src="_media/images/low_fidelity_prototype_18.png">
 
 
-
 ### 5. Conclusão
 
 Pode-se concluir que por meio da prototipação de baixa fidelidade é possível ter uma visualização inicial de como o sistema deve ser e evitar que erros sejam cometidos em processos iniciais o que acarreta em mais custo em refatorações e manutenções, além de também ficar mais claro qual design o sistema deverá ter, mesmo que seja a grosso modo.
+
+Com base nos protótipos apresentados nesse documento, será possível planejar e executar uma avaliação do design pensando e assim será possível consolidar algumas ideias dos designers da aplicação.
 
 ### Referências
 
