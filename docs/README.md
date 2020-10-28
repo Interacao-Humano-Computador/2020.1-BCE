@@ -34,6 +34,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 | <img src="_media/logos/canva-logo.png"> | Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais. No nosso projeto ele foi usado para fazer pequenas edições nas imagens que utilizamos |
 | <img src="_media/logos/uxpressia-logo.png"> | A uxpressia é uma ferramenta online para mapeamento de jornada do cliente, criação de personas e mapa de impacto. No nosso projeto essa ferramenta foi usada para criação das personas.  |
 | <img src="_media/logos/storyboardthat_logo.png"> | StoryboardThat é uma ferramenta que auxilia na criação de storyboards já que conta com ilustrações prontas de cenários e de pessoas, balões de fala e objetos, fazendo com que essa tarefa seja muito mais simples.  |
+| <img src="_media/logos/balsamiq_logo.png"> | Balsamiq é uma excelente ferramente para prototipagem de baixa fidelidade, por meio dela também foi possível realizar o trabalho cooperativo e remoto devido a situação atual onde o distanciamento social é essêncial.  |
 
 
 
