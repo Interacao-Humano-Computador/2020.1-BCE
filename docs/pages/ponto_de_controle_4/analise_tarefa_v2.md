@@ -79,7 +79,7 @@ A notação gráfica para a AHT tem como base os autores Preece e Rogers (2005),
 #### 4.2.1 Representação gráfica do objetivo de agendamento de empréstimo
 <br>
 <p align='center'>
-    <img src='/_media/images/AHT_2_objetivo1.png'>
+    <img src='_media/images/AHT_2_objetivo1.png'>
     <figcaption align='center'>
         <b>Figura 1: Representação gráfica do objetivo de agendamento de empréstimos.</b>
         <br> 
