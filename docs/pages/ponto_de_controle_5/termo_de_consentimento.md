@@ -1,4 +1,4 @@
-# Termo de consentimento
+# Termo de consentimento das entrevistas do Protótipo
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
@@ -17,7 +17,7 @@ Ao concordar com o termo de consentimento, o participante atesta que entende as 
 
 Visto que foi identificado a necessidade de validar alguns artefatos do nosso projeto através de entrevistas com clientes, foi necessário a realização de um termo de consentimento.
 
-## Nosso termo de consentimento
+## Nosso termo de consentimento das entrevistas de Aval. Protótipo
 
 <!-- LINK TO EDIT: https://docs.google.com/document/d/1gO1LLqKdzVhIJVxjZfMQ-6oJs92XGVHLPO4IDnoNi68/edit?usp=sharing -->
 
@@ -25,7 +25,21 @@ Visto que foi identificado a necessidade de validar alguns artefatos do nosso pr
     <a href='pages/ponto_de_controle_4/termo_de_consentimento.pdf' target='_blank'>
         <img src='_media/assets/termo-de-consentimento-2.png'>
         <figcaption align='center'>
-            <b>Figura 1: Termo de consentimento usado nas entrevistas</b>
+            <b>Figura 1: Termo de consentimento usado nas entrevistas de avaliação do protótipo</b>
+            <br><small>Fonte: Autor</small>
+        </figcaption>
+    </a>
+</p>
+
+## Nosso termo de consentimento das entrevistas de Aval. Storyboard
+
+<!-- LINK TO EDIT: https://docs.google.com/document/d/1BGbmD5hppn9KxTPGc05nFfvP7JFZ8Ds8p9NQJqFXcNc/edit?usp=sharing -->
+
+<p align='center'>
+    <a href='pages/ponto_de_controle_4/termo_de_consentimento.pdf' target='_blank'>
+        <img src='_media/assets/termo-de-consentimento-3.png'>
+        <figcaption align='center'>
+            <b>Figura 2: Termo de consentimento usado nas entrevistas de avaliação dos storyboards</b>
             <br><small>Fonte: Autor</small>
         </figcaption>
     </a>
