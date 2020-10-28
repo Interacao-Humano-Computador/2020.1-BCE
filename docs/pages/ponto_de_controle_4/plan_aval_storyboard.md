@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |   Autor(es)    |
 | :--------: | :----: | :------------------: | :------------: |
 | 27.10.2020 |  0.1   | Criação do documento | Geraldo Victor |
+| 28.10.2020 |  0.2   | Revisão do documento | Durval Carvalho|
 
 <div align="justify">
 
@@ -28,7 +29,7 @@ O método de avaliação escolhido para avaliar o storyboard é o de investigaç
 
 ### 4.1. Definição das tarefas que serão executadas
 
-Para validação do storyboard serão feitas algumas perguntas com objetivo de saber se os storyboards condizem ou não com a realidade dos entrevistados, se há alguma sugestão, crítica, se há algo para ser acrescentado/alterado, ou se identificam algum erro.
+Para validação do storyboard serão feitas algumas perguntas com objetivo de saber se os storyboards condizem ou não com a realidade dos entrevistados, se há alguma sugestão, crítica, se há algo possa ser acrescentado e/ou alterado, ou até se algum erro foi identificado.
 
 ### 4.2. Definição dos participante e Recrutamento
 
@@ -47,15 +48,15 @@ Procure por pessoas com esse perfil, entre em contato, explique a motivação da
 
 ### 4.3. Roteiro de perguntas
 
-As entrevistas podem ser classificadas como estruturadas, não estruturadas e semiestruturadas. Para essa avaliação o tipo que será utilizado será o das entrevistas semiestruturadas, dessa forma a entrevista deve possuir um roteiro composto dos tópicos ou perguntas(geralmente abertas) que devem ser endereçados na entrevista, em ordem lógica.O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, porém mantendo o foco nos objetivos da entrevista. As seguintes perguntas deverão constar na avaliação afim de se obter uma avaliação por parte dos usuários a respeito do storyboard.
+As entrevistas podem ser classificadas como estruturadas, não estruturadas e semiestruturadas. Para essa avaliação o tipo que será utilizado será o das entrevistas semiestruturadas, dessa forma a entrevista deve possuir um roteiro composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em ordem lógica.O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, porém mantendo o foco nos objetivos da entrevista. As seguintes perguntas deverão constar na avaliação afim de se obter uma avaliação por parte dos usuários a respeito do storyboard.
 
-1. Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade? <br>Altertivas: Sim, Não.
-2. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br>(Pergunta aberta).
-3. Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? <br>Altertivas: Sim, Não.
-4. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br>(Pergunta aberta).
-5. Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? <br>Altertivas: Sim, Não.
-6. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br>(Pergunta aberta).
-7. Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? <br>Altertivas: Sim, Não.
+1. Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade? <br> **Altertivas**: [ ] Sim [ ]Não.
+2. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br> (Pergunta aberta).
+3. Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? <br> **Altertivas**: [ ] Sim [ ]Não.
+4. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br> (Pergunta aberta).
+5. Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? <br> **Altertivas**: [ ] Sim [ ]Não.
+6. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br> (Pergunta aberta).
+7. Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? <br> **Altertivas**: [ ] Sim [ ]Não.
 8. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br>(Pergunta aberta).
 
 ### 4.4. Execução das Avaliações
@@ -66,7 +67,7 @@ Antes da entrevista converse com o participante, explicando novamente a motivaç
 
 No começo da avaliação mostre o [termo de compromisso](/pages/ponto_de_controle_5/termo_de_consentimento.md) e pergunte se o participante está de acordo. Caso não esteja a avaliação é cancelada.
 
-Após toda a configuração, começe a gravar a vídeoconferência.
+Após toda a configuração, começe a gravar o audio do vídeoconferência.
 
 Durante a avaliação realize as atividades detalhadas no tópico 4.1.
 
@@ -76,7 +77,7 @@ Sempre que achar importante, realize anotações para que no término da avalia�
 
 Após cada entrevista o avaliador deve escrever um pequeno relatório identificando os problemas encontrados, os sugestões de melhoria e outros aspectos importantes.
 
-O avaliador deve fazer o upload do vídeo em algum serviço de hospedagem de vídeo e colocar o link junto do relatório.
+O avaliador deve fazer o upload do audio da vídeoconferência no repositório do projeto no GitHub e colocar o link junto do relatório.
 
 Após a produção de todos os pequenos relatórios, o avaliador deverá escrever uma conclusão da atividade de avaliação, onde será listado todos os problema com suas devidas priorização (qual deve ser resolvido primeiro).
 
