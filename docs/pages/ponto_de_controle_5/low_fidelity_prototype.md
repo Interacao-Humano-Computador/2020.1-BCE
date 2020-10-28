@@ -4,6 +4,15 @@
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
 | 27.10.2020 |  0.1   | Criação do documento | Isabella Carneiro e Geraldo Victor  |
+| 27.10.2020 |  0.1   | Adição da introdução | Isabella Carneiro e Geraldo Victor  |
+| 27.10.2020 |  0.1   | Adição da metodologia | Isabella Carneiro e Geraldo Victor  |
+| 27.10.2020 |  0.1   | Adição do objetivo | Isabella Carneiro e Geraldo Victor  |
+| 27.10.2020 |  0.1   | Adição dos protótipos | Isabella Carneiro e Geraldo Victor  |
+| 27.10.2020 |  0.1   | Adição da conclusão | Isabella Carneiro e Geraldo Victor  |
+| 27.10.2020 |  0.1   | Adição das referências | Isabella Carneiro e Geraldo Victor  |
+
+
+
 
 ### 1. Introdução
 
