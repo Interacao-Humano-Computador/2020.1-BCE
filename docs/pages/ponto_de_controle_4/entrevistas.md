@@ -10,7 +10,8 @@
 | 15.10.2020 | 0.4 | Adição da Entrevista N° 2 | Durval Carvalho |
 | 15.10.2020 | 0.5 | Adição da Entrevista N° 3 | Durval Carvalho |
 | 15.10.2020 | 0.6 | Adição da Conclusão | Durval Carvalho |
-| 19.10.2020 | 0.7 | Revisão da Entrevista do Hugo | Durval Carvalho |
+| 19.10.2020 | 0.7 | Revisão da Entrevista N° 1 | Durval Carvalho |
+| 21.10.2020 | 0.8 | Adição da Entrevista N° 4 | Durval Carvalho |
 
 <div align="justify">
 
