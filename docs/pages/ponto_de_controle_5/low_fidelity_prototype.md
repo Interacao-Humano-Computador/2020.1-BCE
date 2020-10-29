@@ -41,9 +41,17 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
   </figcaption>
 </p></br>
 
+<img src="_media/images/low_fidelity_prototype_1-0.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 2: Popup data tela inicial para quando o usuário fugir do fluxo do protótipo</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
 <img src="_media/images/low_fidelity_prototype_1-1.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 2: Tela inicial com barra de busca preenchida</b>
+    <b>Protótipo de tela 3: Tela inicial com barra de busca preenchida</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -51,7 +59,15 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_2.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 3: Tela dResultado da busca</b>
+    <b>Protótipo de tela 4: Tela de Resultado da busca</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_2-0.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 5: Popup da Tela de Resultado da busca para quando o resultado fugir do fluxo</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -59,7 +75,15 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_3.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 4: Seleção de uma obra</b>
+    <b>Protótipo de tela 5: Detalhamento de uma obra</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_3-0.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 6: Popup da Tela de Detalhamento para quando o resultado fugir do fluxo</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -67,7 +91,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_4.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 5: Redirecionamento para login    </b>
+    <b>Protótipo de tela 7: Redirecionamento para login </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -75,7 +99,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_4-1.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 6: Tela de login preenchida    </b>
+    <b>Protótipo de tela 8: Tela de login preenchida </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -83,7 +107,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_4-2.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 7: Popup de senha inválida</b>
+    <b>Protótipo de tela 9: Popup de senha inválida</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -91,7 +115,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_5.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 8: Login com botão de ajuda clickado    </b>
+    <b>Protótipo de tela 10: Tela de Login com botão de ajuda clicado </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -99,7 +123,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_6.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 9: Enviar email de restauração de senha    </b>
+    <b>Protótipo de tela 11: Tela de recuperação de senha </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -107,7 +131,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_6-1.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 10: Tela de restauração de senha preenchida </b>
+    <b>Protótipo de tela 12: Tela de recuperação de senha preenchida </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -115,7 +139,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_7.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 11: Pop-pup link enviado    </b>
+    <b>Protótipo de tela 13: Pop-pup link enviado </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -123,7 +147,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_8.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 12: Trocar senha    </b>
+    <b>Protótipo de tela 14: Tela de redefinição de senha </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -131,7 +155,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_8-1.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 13: Tela de Troca de Senha preenchida </b>
+    <b>Protótipo de tela 15: Tela de redefinição de senha preenchida </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -139,7 +163,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_9.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 14: Pop-pup dados da obra e confirma dados    </b>
+    <b>Protótipo de tela 16: Popup de detalhamento da obra selecionada para reserva</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -147,7 +171,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_10.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 15: Confirmar reserva    </b>
+    <b>Protótipo de tela 17: Popup de confirmação de agendamento de empréstimo</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -155,7 +179,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_11.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 16: Pop-up após reserva confirmada    </b>
+    <b>Protótipo de tela 18: Pop-up de reserva confirmada com sucesso</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -163,7 +187,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_12.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 17: Pop-up após reserva cancelada    </b>
+    <b>Protótipo de tela 19: Pop-up de reserva cancelada com sucesso</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -171,7 +195,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_13.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 18: Histórico com calendario selecionado    </b>
+    <b>Protótipo de tela 20: Tela do calendário expandido</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -179,7 +203,15 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_14.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 19: Listagem de livros para renovar e listagem de livros já emprestados na data selecionada    </b>
+    <b>Protótipo de tela 21: Tela inicial do painel de acesso restrito do site da BCE</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_14-0.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 22: Popup de funcionalidade não implementada da tela inicial do painel de acesso restrito do site da BCE</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -187,7 +219,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_16.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 20: Pop-pup ou clicar em renovação pra finalizá-la    </b>
+    <b>Protótipo de tela 23: Popup de confirmação de renovação da data de devolução</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -195,7 +227,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_17.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 21: Pop-pup de renovação bem sucedida    </b>
+    <b>Protótipo de tela 24: Popup de renovação realizada com sucesso</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -203,7 +235,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_18.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 22: Pop-pup de renovação cancelada    </b>
+    <b>Protótipo de tela 25: Popup de renovação cancelada com sucesso</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
