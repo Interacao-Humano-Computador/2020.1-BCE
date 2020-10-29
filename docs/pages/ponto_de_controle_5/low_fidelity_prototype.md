@@ -13,6 +13,7 @@
 | 27.10.2020 |  0.7   | Adição das referências         | Isabella Carneiro e Geraldo Victor |
 | 28.10.2020 |  0.8   |  Revisão do documento          |          Durval Carvalho           |
 | 28.10.2020 |  0.9   |  Adição de legendas nas imagens|          Geraldo Victor            |
+| 29.10.2020 |  0.10   | Modificações nos protótipos | Durval Carvalho |
 
 ### 1. Introdução
 
@@ -34,14 +35,23 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_1.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 1: Busca de acervo para reserva</b>
+    <b>Protótipo de tela 1: Tela inicial do site da BCE</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_1-1.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 1: Tela inicial com barra de busca preenchida</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
 </p></br>
 
 <img src="_media/images/low_fidelity_prototype_2.png">
-  <figcaption align='center'><b>Protótipo de tela 2: Resultado da busca</b>
+  <figcaption align='center'>
+    <b>Protótipo de tela 2: Tela dResultado da busca</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -57,6 +67,22 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 <img src="_media/images/low_fidelity_prototype_4.png">
   <figcaption align='center'>
     <b>Protótipo de tela 4: Redirecionamento para login    </b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_4-1.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 5: Tela de login preenchida    </b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_4-2.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 6: Popup de senha inválida</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -78,6 +104,14 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
   </figcaption>
 </p></br>
 
+<img src="_media/images/low_fidelity_prototype_6-1.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 6: Tela de restauração de senha preenchida </b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
 <img src="_media/images/low_fidelity_prototype_7.png">
   <figcaption align='center'>
     <b>Protótipo de tela 7: Pop-pup link enviado    </b>
@@ -89,6 +123,14 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 <img src="_media/images/low_fidelity_prototype_8.png">
   <figcaption align='center'>
     <b>Protótipo de tela 8: Trocar senha    </b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></br>
+
+<img src="_media/images/low_fidelity_prototype_8-1.png">
+  <figcaption align='center'>
+    <b>Protótipo de tela 8: Tela de Troca de Senha preenchida </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
@@ -136,7 +178,7 @@ O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do
 
 <img src="_media/images/low_fidelity_prototype_14.png">
   <figcaption align='center'>
-    <b>Protótipo de tela 14: Listagem de livros ara renovar e listagem de livros já emprestados na data selecionada    </b>
+    <b>Protótipo de tela 14: Listagem de livros para renovar e listagem de livros já emprestados na data selecionada    </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
