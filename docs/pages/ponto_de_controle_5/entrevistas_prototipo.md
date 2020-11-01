@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor |
 |:----:|:------:|:---------:|:-----:|
 | 29.10.2020 | 0.1 | Criação do documento | Durval Carvalho |
+| 31.10.2020 | 0.2 | Adição dos vídeos | Durval Carvalho |
 
 <div align="justify">
 
@@ -30,10 +31,10 @@ Os participantes selecionados foram aqueles tinham utilizado os serviços da BCE
 
 No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduação e Y com alunos de pós-graduação.
 
-## 4.1 Entrevista Piloto
+## 4.1 Entrevista 1 - Piloto
 
 <p align='center'>
-    <iframe></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kPO50W7FJRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!-- A primeira entrevista foi realizada na data 15/10/20 às 8:00AM, e teve duração total de 23 minutos. O participante se chama Hugo Sobral... -->
@@ -44,9 +45,21 @@ No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduaç�
 ## 4.2 Entrevista 2
 
 <p align='center'>
-    <iframe 
-    ></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/krt3ueFtREE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+## 4.3 Entrevista 3
+
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YHppiC3hti0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## 4.4 Entrevista 4
+
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jrXCQ2jEmWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 ## 4. Conclusão
 
