@@ -7,6 +7,7 @@
 | 29.10.2020 | 0.1 | Criação do documento | Durval Carvalho |
 | 31.10.2020 | 0.2 | Adição dos vídeos | Durval Carvalho |
 | 31.10.2020 | 0.3 | Adição da transcrição da Segunda Entrevista | Durval Carvalho |
+| 31.10.2020 | 0.3 | Adição da transcrição da Quarta Entrevista | Durval Carvalho |
 
 <div align="justify">
 
@@ -73,6 +74,15 @@ O Iuri, durante a avaliação da disposição das informações no protótipo, e
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jrXCQ2jEmWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+A quarta entrevista foi realizada na data 31/10/20 às 13:30PM, e teve duração total de 12 minutos. A participante se chama Sofia Consolmagno, estudante de graduação do curso de Engenharia Eletrônica da UnB.
+
+A Sofia, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. A Sofia afirma que quando busca uma obra, geralmente, não possui uma obra específica em mente, e sim um tópico em que ela deseja obter obras que relacionadas. Desse modo, ela utiliza principalmente a pesquisa nas bases de dados, assim a barra de pesquisa principal presente no site da BCE, onde só foi listado livros não seria de grande utilidade para ela, pois ela desejava obter todas os tipos de obras (livros, artigos, revistas, etc.) que tratassem o assunto especificado.
+ 
+A Sofia, durante o fluxo de autentificação (login e recuperação de senha), realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Ela afirma que os passos realizados para recuperar sua senha e realizar o login foram os passos que ela estava esperando.
+
+A Sofia, durante a realização do fluxo de reserva de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Porém, durante a execução de todas os caminhos do fluxo (fluxo completo ou fluxo com cancelamento no meio) informou que sentiu de um botão explícito de cancelar, além do botão de fechar o popup, pois assim teria certeza que o cancelamento foi bem sucedido.
+
+A Sofia, durante a avaliação da disposição das informações no protótipo, afirmou que sentiu falta de uma coluna na tabela de renovação referente as data previstas para a devolução das obras.
 
 ## 4. Conclusão
 
@@ -83,8 +93,11 @@ Os resultados das entrevistas foram satisfatórios. Com base no teste-piloto foi
 
 
 Os resultados referentes ao design do protótipo também foram satisfatórios. Com base nas observações feitas pelos entrevistados foi possível identificar falhas no design que serão consertadas para os próximos protótipos. Essas falhas encontradas foram:
-- A ausência de uma coluna com as datas de prazo de devolução vigente das obras emprestadas.
-- A ausência de botões explícitos, com o texto "Cancelar" nos popups de confirmação de ação.
-- A ausência de botões explícitos, com o texto "OK" nos popups de status de sistema.
+- A ausência de uma coluna com as datas de prazo de devolução vigente das obras emprestadas. [Entrevista 4]
+- A ausência de botões explícitos, com o texto "Cancelar" nos popups de confirmação de ação. [Entrevista 2]
+- A ausência de botões explícitos, com o texto "OK" nos popups de status de sistema. [Entrevista 2]
+- A barra de pesquisa do site base da bce (bce.unb.br/) lista somente livros. Esse comportamento não atende a demanda de usuários que desejam obter todos os tipos de obras relacionado com o tema especificado. [Entrevista 4]
+- A ausência da nova data de devolução da obra renovada no popup de confirmação da renovação. [Entrevista 4]
+- A confusão entre cancelar uma ação e fechar um popup. Um mesmo botão ser usado em contexto diferentes fez com que os usuários se confundirem. [Entrevista 4]
 
 </div>
