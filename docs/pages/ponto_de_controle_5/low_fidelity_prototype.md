@@ -15,6 +15,7 @@
 | 28.10.2020 |  0.9   |  Adição de legendas nas imagens|          Geraldo Victor            |
 | 29.10.2020 |  0.10   | Modificações nos protótipos | Durval Carvalho |
 | 29.10.2020 |  0.11   | Adição grafo dos protótipos | Durval Carvalho |
+| 29.10.2020 |  0.12   | Modificação do tópico "Metodologia" | Durval Carvalho |
 
 ### 1. Introdução
 
@@ -28,9 +29,11 @@ Com isso em mente, esse documento visa apresentar os protótipos que foram feito
 
 ### 3. Metodologia
 
+Foi realizado uma prototipação vertical, isso é, um protótipo que explora um subgrupo de funcionalidades do sistema (no nosso caso: procura de obras no acervo, autentificação no sistema, agendamento de empréstimo, e renovação de data de devolução) de forma aprofundada.
+
 Para a realização dos protótipos de baixa fidelidade foi utilizado o software `balsamiq` por ter os traços de baixa fidelidade e permitir o trabalho conjunto.
-As telas foram feitas de acordo com as tarefas definidas no documento Análise de Tarefas.
-O fluxo foi feito com o intuito de ser simples e intuitivo, de modo que o uso do sistema tenha uma alta usabilidade, e não apresente dúvidas em relação da ordem que as tarefas devem ser executadas.
+
+As telas foram feitas de acordo com as tarefas definidas no documento Análise de Tarefas. O fluxo modelado tem o intuito de ser simples e intuitivo, de modo que o uso do sistema tenha uma alta usabilidade, e não apresente dúvidas em relação da ordem que as tarefas devem ser executadas.
 
 ### 4. Protótipos
 
