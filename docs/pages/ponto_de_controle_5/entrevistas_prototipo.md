@@ -6,6 +6,7 @@
 |:----:|:------:|:---------:|:-----:|
 | 29.10.2020 | 0.1 | Criação do documento | Durval Carvalho |
 | 31.10.2020 | 0.2 | Adição dos vídeos | Durval Carvalho |
+| 31.10.2020 | 0.3 | Adição da transcrição da Segunda Entrevista | Durval Carvalho |
 
 <div align="justify">
 
@@ -48,6 +49,18 @@ No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduaç�
     <iframe width="560" height="315" src="https://www.youtube.com/embed/krt3ueFtREE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+O segundo entrevista foi realizada na data 30/10/20 às 22:43PM, e teve duração total de 8 minutos. O participante se chama Iuri Severo, estudante de graduação do curso de Engenharia de Software da UnB.
+
+O Iuri, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. O Iuri afirma que os passos realizados foram os que ele já estava esperando, e confirma que a presença das imagens da capa dos livros o ajudou a encontrar o livro desejado rapidamente. O Iuri, antes de digitar o termo na barra de pesquisa, pretendia utilizar o filtro, para assim realizar uma pesquisa mais refinada.
+
+O Iuri, durante o fluxo de autentificação (login e recuperação de senha), realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Ele afirma que os passos realizados para recuperar sua senha e realizar o login foram os passos que ele estava esperando.
+
+O Iuri, durante a realização do fluxo de reserva de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Porém, durante a execução de todas os caminhos do fluxo (fluxo completo ou fluxo com cancelamento no meio) informou que sentiu falta de algum tipo de aviso que o cancelamento foi bem sucessido. Outra elemento de interface que o Iuri sentiu falta foi um botão explícito para realizar o cancelamento, invés de simplesmente fechar o popup de confirmação.
+
+O Iuri, durante  a realização do fluxo de renovação do prazo de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Porém, durante a realização do subfluxo onde é cancelado a ação de renovação de prazo de empréstimo, ele afirma que sentiu falta de um botão de cancelamento explícto, além do botão de fechar o popup. Outra observação foi a respeito de os popups de status final da ação, ele afirma esses popups deveriam ter um botão de "OK" para fechá-los, além do botão de fechar popup.
+
+O Iuri, durante a avaliação da disposição das informações no protótipo, elogiou a simplicidade do layout e que as informações estão bem posicionadas, não sendo necessário navegar entre várias páginas para realizar uma determinada ação.
+
 ## 4.3 Entrevista 3
 
 <p align='center'>
@@ -62,5 +75,16 @@ No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduaç�
 
 
 ## 4. Conclusão
+
+Os resultados das entrevistas foram satisfatórios. Com base no teste-piloto foi possível corrigir vários "bugs" que estavam nos protótipos e foi possível arrumar alguns detalhes do planejamento da entrevista. Alguns desses "bugs" e consertos foram:
+- [Entrevista] Mostrar os detalhes do livro pelo video-conferência, invés de mandar pelo telegram, para assim evitar a exposição de informações do participante.
+- [Protótipo] Durante a entrevista-piloto foi possível encontrar alguns links quebrados entre as telas que foram consertadas para as próximas entrevistas.
+- [Protótipo] A inserção do sub-fluxo de recuperar senha na primeira tentativa de acesso ao painel, para assim simular uma situação mais próxima da realidade.
+
+
+Os resultados referentes ao design do protótipo também foram satisfatórios. Com base nas observações feitas pelos entrevistados foi possível identificar falhas no design que serão consertadas para os próximos protótipos. Essas falhas encontradas foram:
+- A ausência de uma coluna com as datas de prazo de devolução vigente das obras emprestadas.
+- A ausência de botões explícitos, com o texto "Cancelar" nos popups de confirmação de ação.
+- A ausência de botões explícitos, com o texto "OK" nos popups de status de sistema.
 
 </div>
