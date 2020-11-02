@@ -10,6 +10,7 @@
 | 31.10.2020 | 0.3 | Adição da transcrição da Quarta Entrevista | Durval Carvalho |
 | 02.11.2020 | 0.4 | Adição da transcrição da Primeira Entrevista | Isabella Carneiro |
 | 02.11.2020 | 0.5 | Adição da transcrição da Terceira Entrevista | Isabella Carneiro |
+| 02.11.2020 | 0.6 | Revisão do Documento | Rafaella Junqueira |
 
 <div align="justify">
 
@@ -33,7 +34,7 @@ Os participantes selecionados foram aqueles que tinham utilizado os serviços da
 
 ## 4. Entrevistas
 
-No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduação e Y com alunos de pós-graduação.
+No total foram realizadas 4 entrevistas, 1 entrevista para o teste piloto, e 3 para avaliação do protótipo. Sendo 3 entrevistados alunos de graduação e 1 alunos de pós-graduação.
 
 ## 4.1 Entrevista 1 - Piloto
 
