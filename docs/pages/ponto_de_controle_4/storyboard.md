@@ -116,7 +116,7 @@ Espera-se que com a leitura desse documento, todos os membros da equipe e intere
 
 Espera-se que com base nas informações contidas nesse documento, os designers possam desenvolver uma interface que possibilite melhores interações entre o sistema da BCE e seus usuários.
 
-## 7. Referências
+## Bibliografia
 
 - Sommerville, Ian. Engenharia de Software. 9a Edição. Pearson.
 - BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
