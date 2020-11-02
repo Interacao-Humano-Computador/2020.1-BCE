@@ -8,12 +8,13 @@
 | 31.10.2020 | 0.2 | Adição dos vídeos | Durval Carvalho |
 | 31.10.2020 | 0.3 | Adição da transcrição da Segunda Entrevista | Durval Carvalho |
 | 31.10.2020 | 0.3 | Adição da transcrição da Quarta Entrevista | Durval Carvalho |
+| 02.11.2020 | 0.4 | Adição da transcrição da Primeira Entrevista | Isabella Carneiro |
 
 <div align="justify">
 
 ## 1. Introdução
 
-Esse documento contém os resultados das entrevistas realizada. Em cada entrevista será apresentado o vídeo da entrevista, as informações obtidas de cada um dos participantes, e as conclusões do entrevistador.
+Esse documento contém os resultados das entrevistas realizadas. Em cada entrevista será apresentado o vídeo da entrevista, as informações obtidas de cada um dos participantes, e as conclusões do entrevistador.
 
 ## 2. Objetivo
 
@@ -39,10 +40,23 @@ No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduaç�
     <iframe width="560" height="315" src="https://www.youtube.com/embed/kPO50W7FJRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<!-- A primeira entrevista foi realizada na data 15/10/20 às 8:00AM, e teve duração total de 23 minutos. O participante se chama Hugo Sobral... -->
+A primeira entrevista foi realizada na data 29/10/20 às 21:50 PM, e teve duração total de 13 minutos. O participante se chama Leonardo Gomes, 20 anos, estudante do quinto semestre do curso de graduação Engenharia de Software da UnB.
+
+O Leonardo, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades.
+
+O Leonardo, durante o fluxo de autentificação (login e recuperação de senha), realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Ele afirma que os passos realizados para recuperar sua senha e realizar o login foram os passos que ele estava esperando. Ele acha que pessoa não necessariamente precisaria colocar o cpf novamente no fluxo de recuperação de senha, sua sugestão foi em vez do cpf a pessoa inserir o email.
+
+O Leonardo, durante a realização do fluxo de reserva de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Leonardo elogia o fato de que durante o caminho tem a possibilidade de retornar, caso tenha cometido algum erro.
+
+O Leonardo, durante  a realização do fluxo de renovação do prazo de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades.
+
+O Leonardo sugeriu que nas próximas entrevistas modificassemos a ordem dos passos para que não ficasse repetitivo realizar o login mais de uma vez.
 
 ## 4.1.1. Melhorias no protótipo
 
+- Durante a entrevista, foi notado um problema na linkagem do logout nas páginas, que foi resolvido para a realização das outras entrevistas.
+- Corrigir o fluxo de senha incorreta.
+- Corrigir a linkagem no 'x' dos pop-up.
 
 ## 4.2 Entrevista 2
 
@@ -50,7 +64,7 @@ No total foram realizadas XYZ entrevistas, sendo X delas com alunos de graduaç�
     <iframe width="560" height="315" src="https://www.youtube.com/embed/krt3ueFtREE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-O segundo entrevista foi realizada na data 30/10/20 às 22:43PM, e teve duração total de 8 minutos. O participante se chama Iuri Severo, estudante de graduação do curso de Engenharia de Software da UnB.
+A segunda entrevista foi realizada na data 30/10/20 às 22:43PM, e teve duração total de 8 minutos. O participante se chama Iuri Severo, estudante de graduação do curso de Engenharia de Software da UnB.
 
 O Iuri, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. O Iuri afirma que os passos realizados foram os que ele já estava esperando, e confirma que a presença das imagens da capa dos livros o ajudou a encontrar o livro desejado rapidamente. O Iuri, antes de digitar o termo na barra de pesquisa, pretendia utilizar o filtro, para assim realizar uma pesquisa mais refinada.
 
