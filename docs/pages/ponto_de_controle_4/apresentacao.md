@@ -1,4 +1,4 @@
-# <center>Apresentação do Ponto de Controle 4
+# <center> Apresentação do Ponto de Controle 4
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

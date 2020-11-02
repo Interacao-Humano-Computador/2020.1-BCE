@@ -1,4 +1,4 @@
-# Avaliação da Análise de tarefas
+# <center> Avaliação da Análise de tarefas
 
 ### Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |

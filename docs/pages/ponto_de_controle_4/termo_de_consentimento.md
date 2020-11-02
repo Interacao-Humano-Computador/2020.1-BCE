@@ -1,4 +1,4 @@
-# Termo de consentimento
+# <center> Termo de consentimento
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

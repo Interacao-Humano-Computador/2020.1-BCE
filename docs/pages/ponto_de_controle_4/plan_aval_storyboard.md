@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do StoryBoard
+# <center> Planejamento da Avaliação do StoryBoard
 
 ### Histórico de Versão
 
@@ -85,8 +85,8 @@ Após a produção de todos os pequenos relatórios, o avaliador deverá escreve
 
 Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Desse modo, o avaliador está livre para realizar mudanças durante ou previamente a avaliação, mas sempre lembrando de manter a consistência entre os diversos participantes.
 
-## Referências Bibliográficas
+## Bibliografia
 
-BARBOSA, S.D.J.; SILVA, B.S. Interação Humano--Computador.Editora Campus -- ElsevierElsevier, 2010.
+BARBOSA, S.D.J.; SILVA, B.S. **Interação Humano--Computador**.Editora Campus- ElsevierElsevier, 2010.
 
 </div>
