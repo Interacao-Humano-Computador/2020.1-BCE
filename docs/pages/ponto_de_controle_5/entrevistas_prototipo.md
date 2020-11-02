@@ -9,6 +9,7 @@
 | 31.10.2020 | 0.3 | Adição da transcrição da Segunda Entrevista | Durval Carvalho |
 | 31.10.2020 | 0.3 | Adição da transcrição da Quarta Entrevista | Durval Carvalho |
 | 02.11.2020 | 0.4 | Adição da transcrição da Primeira Entrevista | Isabella Carneiro |
+| 02.11.2020 | 0.5 | Adição da transcrição da Terceira Entrevista | Isabella Carneiro |
 
 <div align="justify">
 
@@ -81,6 +82,16 @@ O Iuri, durante a avaliação da disposição das informações no protótipo, e
 <p align='center'>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YHppiC3hti0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+A terceira entrevista foi realizada na data 30/10/20 às 18:00PM, e teve duração total de 8 minutos. A participante se chama Paula Gurgel, estudante de doutorado da UnB.
+
+A Paula, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades.
+ 
+A Paula, durante o fluxo de autentificação (login e recuperação de senha), realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades. Ela afirma que os passos realizados para recuperar sua senha e realizar o login foram os passos que ela estava esperando.
+
+A Paula, durante a realização do fluxo de reserva de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades.
+
+A Paula, durante a avaliação da disposição das informações no protótipo, afirmou que estava tudo conforme esperado, que as informações estão bem claras na tela.
 
 ## 4.4 Entrevista 4
 
