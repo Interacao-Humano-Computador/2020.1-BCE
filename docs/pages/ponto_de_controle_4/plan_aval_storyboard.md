@@ -50,14 +50,17 @@ Procure por pessoas com esse perfil, entre em contato, explique a motivação da
 
 As entrevistas podem ser classificadas como estruturadas, não estruturadas e semiestruturadas. Para essa avaliação o tipo que será utilizado será o das entrevistas semiestruturadas, dessa forma a entrevista deve possuir um roteiro composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em ordem lógica.O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, porém mantendo o foco nos objetivos da entrevista. As seguintes perguntas deverão constar na avaliação afim de se obter uma avaliação por parte dos usuários a respeito do storyboard.
 
-1. Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade? <br> **Altertivas**: [ ] Sim [ ]Não.
-2. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br> (Pergunta aberta).
-3. Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? <br> **Altertivas**: [ ] Sim [ ]Não.
-4. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br> (Pergunta aberta).
-5. Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? <br> **Altertivas**: [ ] Sim [ ]Não.
-6. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br> (Pergunta aberta).
-7. Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? <br> **Altertivas**: [ ] Sim [ ]Não.
-8. Em caso negativavo a última pergunta, qual sugestão de alteração ou melhoria para o storyboard sugere?<br>(Pergunta aberta).
+| Número | <center>Pergunta | <center>Opções de resposta |
+|:---:|:----------|:-------------------|
+| 1 | Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 3 |
+| 2 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
+| 3 | Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto que a reserva de empréstimo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 5 |
+| 4 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
+| 5 | Com relaçao ao terceiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, vá para a pergunta 7 |
+| 6 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
+| 7 | Com relação ao quarto storyboard, a situação ilustrada retrata bem o quanto que o site ser responsivo ajuda o estudante? | [ ] Sim<br>[ ] Não<br>⚠️ Caso a resposta seja afirmativa, finalize a entrevista. |
+| 8 | Qual sugestão de alteração ou melhoria para o storyboard sugere? | Pergunta discursiva |
+
 
 ### 4.4. Execução das Avaliações
 
