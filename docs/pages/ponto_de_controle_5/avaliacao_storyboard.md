@@ -6,6 +6,7 @@
 | 02.11.2020 | 0.1    | Criação e consolidação do documento | Rafaella Junqueira |
 | 02.11.2020 | 0.2    | Realização de entrevistas           | Geraldo Victor     |
 | 02.11.2020 | 0.3    | Realização de entrevistas           | João Victor Matos  |
+| 02.11.2020 | 0.4    | Revisão do Documento           | Durval Carvalho  |
 
 <div align="justify">
 
@@ -35,11 +36,11 @@ Ao todo foram realizadas 5 entrevistas com estudantes de graduação da Universi
     </iframe>
 </p>
 
-A primeira enrevista foi realizada pelo integrante João Victor, dia 02 de novembro às 10:00, com o participante Alexandre Moriya, estudante de Engenharia de Energia na Faculdade Gama - FGA. O participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
+A primeira entrevista foi realizada pelo integrante João Victor, dia 02 de novembro às 10:00, com o participante Alexandre Moriya, estudante de Engenharia de Energia na Faculdade Gama - FGA. O participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
 
 Quando perguntado sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, Alexandre diz que muitas vezes as pessoas desconhecem a existência do site e, quando conhecem o site, não conseguem visualizar as funcionalidades pelo celular. Sobre o segundo storyboard, que retrata os benefícios de um site responsivo, o participante alegou que a situação ilustrada retrata bem a realidade e ajuda bastante a utilização por facilitar a visualização e o acesso ao site.     
 
-Quando perguntado sobre o terceiro storyboard, representando um contexto em que o usuário não consegue reservar um livro pela ausência de exemplares no momento em que faz a tentativa, Alexandre diz que a situação acontece até bastante, muitas pessoas desejam pegar um livro emprestado e, ao chegar à biblioteca, uma pessoa já não encontra mais exemplares disponíveis.
+Quando perguntado sobre o terceiro storyboard, representando um contexto em que o usuário não consegue reservar um livro pela ausência de exemplares no momento em que faz a tentativa, Alexandre diz que a situação acontece com frequência, muitas pessoas desejam pegar um livro emprestado e, ao chegar à biblioteca, uma pessoa já não encontra mais exemplares disponíveis.
 
 Por fim, quando perguntado sobre o quarto storyboard, que retrata a situação de uso do site da BCE para reserva de livros, o participante declarou que a reserva de empréstimo ajuda bastante o estudante, pois é possível se programar com antecedência e visualizar se o livro já foi emprestado ou está disponível.   
 
@@ -55,9 +56,9 @@ Por fim, quando perguntado sobre o quarto storyboard, que retrata a situação d
     </iframe>
 </p>
 
-A segunda enrevista foi realizada pelo integrante Geraldo Victor, dia 02 de novembro às 12:30, com a participante Bruna Almeida, estudante de Engenharia de Software na Faculdade Gama - FGA. A participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
+A segunda entrevista foi realizada pelo integrante Geraldo Victor, dia 02 de novembro às 12:30, com a participante Bruna Almeida, estudante de Engenharia de Software na Faculdade Gama - FGA. A participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
 
-Quando perguntada sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, a participante alega já ter passado pela situação de tentar utilizar o site pelo celular e ter tido dificuldades. Segundo Bruna, a utilização pelo computador é mais tranquila de se utilizar mas pelo celular, acha complicado. 
+Quando perguntada sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, a participante alega já ter passado pela situação de tentar utilizar o site pelo celular e ter tido dificuldades. Segundo Bruna, a utilização pelo computador é mais tranquila de se utilizar do que pelo celular. 
 
 Sobre o segundo storyboard, Bruna concorda que o site responsivo ajudaria muito durante a utilização pois o celular está sempre de fácil acesso, assim, seria bem mais fácil consultar o site pelo celular. A consulta seria mais rápida e fácil pois o que é necessário ser feito no atual contexto é abrir o computador e ir atrás das informações no site.
 
@@ -77,7 +78,7 @@ Por fim, quando perguntado sobre o quarto storyboard e a satisfação de agendar
     </iframe>
 </p>
 
-A terceira enrevista foi realizada pelo integrante João Victor, dia 02 de novembro às 14h, com o participante Kaique Borges, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
+A terceira entrevista foi realizada pelo integrante João Victor, dia 02 de novembro às 14h, com o participante Kaique Borges, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter visualizado os storyboards criados pelo grupo antes da realização da entrevista.
 
 Quando perguntado sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, o participante diz concordar com a situação ilustrada, afirmando que o site é difícil de utilizar e todas as vezes precisa de um computador para consultar os livros buscados.
 
@@ -96,15 +97,15 @@ Em relação ao quarto storyboard e o quanto o agendamento de empréstimo pode b
     </iframe>
 </p>
 
-A quarta enrevista foi realizada pelo integrante Geraldo Victor, dia 02 de novembro às 15h, com o participante Matheus Gois, estudante de Engenharia Eletrônica na Faculdade Gama - FGA.
+A quarta entrevista foi realizada pelo integrante Geraldo Victor, dia 02 de novembro às 15h, com o participante Matheus Gois, estudante de Engenharia Eletrônica na Faculdade Gama - FGA.
 
-Quando perguntado sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, Gois afirma já ter tido a experiência de utilizar o site da BCE pelo celular e ter achado ruim.  O participante ainda relata que tem o costume de realizar o primeiro acesso aos sites utilizando o smathphone e, caso tenha uma boa experiência, então acessa o site em questão pelo computador. 
+Quando perguntado sobre o primeiro storyboard, que retrata a ausência de responsividade do site e os impactos disso na utilização em dispositivos móveis, Matheus Gois afirma já ter tido a experiência de utilizar o site da BCE pelo celular e ter achado ruim.  O participante ainda relata que tem o costume de realizar o primeiro acesso aos sites utilizando o smartphone e, caso tenha uma boa experiência, então acessa o site em questão pelo computador. 
 
 O participante afirma que a responsividade é um fator de grande relevância para ele e essencial para qualquer site, ainda mais pelo fato de que, hoje em dia, qualquer site deve permitir que o usuário o acesse pelo celular. Diz que é quase inaceitável que um site não tenha essa função e que ela é realmente necessária, portanto, ele concorda com a situação ilustrada pelo segundo storyboard.
 
-A respeito do terceiro storyboard, retratando a situação em que o usuário não consegue reservar um livro pela ausência de exemplares no momento da tentativa, Gois relata já ter passado duas vezes pela situação em seus primeiros semestres, quando a disputa pelos livros eram maiores, então não conseguiu alugar os livros desejados.  
+A respeito do terceiro storyboard, retratando a situação em que o usuário não consegue reservar um livro pela ausência de exemplares no momento da tentativa, Matheus Gois relata já ter passado duas vezes pela situação em seus primeiros semestres, quando a disputa pelos livros eram maiores, então não conseguiu alugar os livros desejados.  
 
-O quarto storyboard e o retrato da situação em que o agendamento de empréstimos é benéfico para os estudantes, Gois diz também já ter passado pela situação e concorda que o agendamento via site da BCE é um facilitador no momento de pegar um livro na biblioteca.
+O quarto storyboard e o retrato da situação em que o agendamento de empréstimos é benéfico para os estudantes, Matheus Gois diz também já ter passado pela situação e concorda que o agendamento via site da BCE é um facilitador no momento de pegar um livro na biblioteca.
 
 ### 4.5 Entrevista 5
 <p align="center">
