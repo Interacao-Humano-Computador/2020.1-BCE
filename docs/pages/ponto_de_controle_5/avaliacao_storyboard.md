@@ -7,6 +7,7 @@
 | 02.11.2020 | 0.2    | Realização de entrevistas           | Geraldo Victor     |
 | 02.11.2020 | 0.3    | Realização de entrevistas           | João Victor Matos  |
 | 02.11.2020 | 0.4    | Revisão do Documento           | Durval Carvalho  |
+| 03.11.2020 | 0.5    | Adição de video da 5 entrevista           | João Victor  |
 
 <div align="justify">
 
@@ -109,7 +110,7 @@ O quarto storyboard e o retrato da situação em que o agendamento de empréstim
 
 ### 4.5 Entrevista 5
 <p align="center">
-    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JLIusvc8ZYc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 A útlima entrevista foi realizada pelo integrante João Victor, dia 02 de novembro às 15h, com a participante Amanda Henriques, estudante de Engenharia Eletrônica na Faculdade Gama - FGA.
