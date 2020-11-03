@@ -34,4 +34,5 @@
   - [Protótipo de baixa fidelidade](/pages/ponto_de_controle_5/low_fidelity_prototype.md)
   - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_5/plan_aval_prototipo_baixa_fidelidade.md)
   - [Aval. Storyboards](/pages/ponto_de_controle_5/avaliacao_storyboard.md)
+  - [Entrevistas - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/entrevistas_prototipo.md)
     
