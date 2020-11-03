@@ -1,4 +1,4 @@
-# Termo de consentimento das entrevistas do Protótipo
+# <center>Termo de consentimento das entrevistas do Protótipo
 
 ## Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

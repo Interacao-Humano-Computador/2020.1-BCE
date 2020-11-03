@@ -1,4 +1,4 @@
-# Avaliação da Análise de tarefas
+# <center> Avaliação da Análise de tarefas
 
 ### Histórico de Versão
 | Data       | Versão | Descrição            | Autor             |
@@ -22,7 +22,7 @@ A primeira análise de tarefas realizada, através do método de inspeção, pos
 
 Assim, será possível analisar os caminhos realizados pelos usuários e propor um design que apoie a intuição das pessoas que utilizam o sistema. Com base nessa análise, será possível realizar um design de interface mais efetivo, que melhore características como Memorabildiade, Usabilidade e Aprendizagem.
 
-## 3. Análise e levantamento de dados (Metodologia)
+## 3. Metodologia
 
 Para que fosse possível validar a análise de tarefa sugerida pelos designers, foi necessário realizar entrevistas estruturadas com usuários reais do sistema, cujos [planejamento](planejamento_1_entrevista.md) e [execução](/pages/ponto_de_controle_4/entrevistas.md) dessas entrevistas podem ser vistas em seus respectivos documentos.
 

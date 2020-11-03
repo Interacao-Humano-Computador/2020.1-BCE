@@ -21,16 +21,18 @@
   - [Apresentação PC 3](/pages/ponto_de_controle_3/apresentacao.md)
 
 - [**Ponto de Controle 4**](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
-  - [Planejamento da Entrevista](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
+  - [Plan. Aval. Analise Tarefas](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
   - [Termo de Consentimento](/pages/ponto_de_controle_4/termo_de_consentimento.md)
   - [Entrevistas](/pages/ponto_de_controle_4/entrevistas.md)
-  - [Análise de Tarefas v2](/pages/ponto_de_controle_4/analise_tarefa_v2.md)
+  - [Aval. Análise de Tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md)
   - [StoryBoard](/pages/ponto_de_controle_4/storyboard.md)
   - [Plan. Aval. Storyboard](/pages/ponto_de_controle_4/plan_aval_storyboard.md)
+  - [Apresentação PC 4](/pages/ponto_de_controle_4/apresentacao.md)
 
 - [**Ponto de Controle 5**](/pages/ponto_de_controle_5/termo_de_consentimento.md)
   - [Termo de Consentimento](/pages/ponto_de_controle_5/termo_de_consentimento.md)
   - [Protótipo de baixa fidelidade](/pages/ponto_de_controle_5/low_fidelity_prototype.md)
   - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_5/plan_aval_prototipo_baixa_fidelidade.md)
+  - [Aval. Storyboards](/pages/ponto_de_controle_5/avaliacao_storyboard.md)
   - [Entrevistas - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/entrevistas_prototipo.md)
     

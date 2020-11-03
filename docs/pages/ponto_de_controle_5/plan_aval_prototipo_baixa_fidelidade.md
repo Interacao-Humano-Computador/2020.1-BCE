@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Protótipo de Baixa Fidelidade
+# <center>Planejamento da Avaliação do Protótipo de Baixa Fidelidade
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |

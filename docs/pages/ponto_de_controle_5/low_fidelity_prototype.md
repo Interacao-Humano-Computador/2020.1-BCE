@@ -1,4 +1,4 @@
-# Protótipo de Baixa Fidelidade
+# <center>Protótipo de Baixa Fidelidade
 
 ### Histórico de Versão
 
@@ -267,4 +267,4 @@ Com base nos protótipos apresentados nesse documento, será possível planejar 
 
 ### Referências
 
-- JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
+PREECE, J.; ROGERS, Y; SHARP, H. **Design de Interação: Além da interação homem-computador.** John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.

@@ -1,4 +1,4 @@
-# StoryBoard
+# <center> StoryBoard
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
@@ -118,5 +118,6 @@ Espera-se que com base nas informações contidas nesse documento, os designers 
 
 ## Bibliografia
 
-- Sommerville, Ian. Engenharia de Software. 9a Edição. Pearson.
-- BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+Sommerville, Ian. **Engenharia de Software**. 9a Edição. Pearson.
+
+BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.

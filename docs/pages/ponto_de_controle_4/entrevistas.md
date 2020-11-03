@@ -1,4 +1,4 @@
-# Entrevista
+# <center> Entrevista
 
 ### Histórico de Versão
 
