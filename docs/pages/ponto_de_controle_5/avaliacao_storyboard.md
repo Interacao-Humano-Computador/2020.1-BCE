@@ -18,7 +18,7 @@ O storyboard é tipo de protótipo de baixa fidelidade e consiste em uma série 
 O objetivo desta avaliação é validar se os contextos descritos pelos storyboards representam a realidade vivenciada pelos usuários da BCE. As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no [planejamento da avaliação](/pages/ponto_de_controle_4/plan_aval_storyboard.md) dos storyboards.
 
 ## 3. Metodologia
-De acordo com Barbosa e Silva (2010), entrevistas permite ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
+De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
 
 O elenco de entrevistados conta com pessoas que utilizam ou já utilizaram o site da BCE, porém, não foi exigido que os usuários possuissem experiência em questão de uso do sistema ou familiaridade com as questões de usabilidade do site. Apenas que conhecessem os sistemas disponíveis e já os tivessem utilizado em algum momento. 
 
