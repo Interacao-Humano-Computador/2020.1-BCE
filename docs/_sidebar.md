@@ -35,4 +35,8 @@
   - [Protótipo de baixa fidelidade](/pages/ponto_de_controle_5/low_fidelity_prototype.md)
   - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_5/plan_aval_prototipo_baixa_fidelidade.md)
   - [Entrevistas - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/entrevistas_prototipo.md)
-    
+
+- [**Ponto de Controle 6**](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md)
+  - [Plan. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md)
+  - [Termo de Consentimento](/pages/ponto_de_controle_6/termo_de_consentimento.md)
+
