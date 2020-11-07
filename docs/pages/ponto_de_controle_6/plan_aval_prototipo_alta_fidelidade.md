@@ -5,6 +5,7 @@
 | :--------: | :----: | :------------------: | :-------------: |
 | 04.11.2020 |  0.1   | Criação do documento | Durval Carvalho  |
 | 04.11.2020 |  0.2   | Adição do tópico WCAG | Durval Carvalho  |
+| 07.11.2020 |  0.3   | Adição das atividades avaliadas | Durval Carvalho  |
 
 <div align="justify">
 
@@ -29,6 +30,8 @@ Na segunda etapa, onde ocorrerá as validações com os usuários, o avaliador i
 Como esse documento se propõe a planejar a avaliação do protótipo, desse modo, não abordaremos as etapas referentes a concepção do protótipo e começaremos na etapa de preparação da avaliação.
 
 ## 4. Etapa Estática - Inspeção
+
+Inspeção é um método de avaliação que permite o avaliador tentar identificar problemas que os usuários podem vir a ter quando interagirem com o sistema. Esse método não envolve diretamente os usuários do sistema, e visa, com base em critérios, identificar problemas em soluções de IHC.
 
 ### 4.1. Diretrizes de Acessibilidade para o Conteúdo da Web - WCAG
 
@@ -250,10 +253,37 @@ Caso um rótulo (label) não seja suficiente para explicar o preenchimento de um
 Sempre que o usuário puder acrescentar qualquer informação via formulário, deve-se possibilitar o cancelamento do envio ou a verificação e/ou confirmação dos dados.
 
 [Link para descrição completa](https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-all)
+
  
+### 4.2. Verificação da Consistência e Padronização
+
+O objetivo dessa verificação é analisar as telas do protótipo, afim de identificar falhas no guia de estilo. Esse objetivo é desmembrado em subobjetivos que guiar o processo de verificação, esses objetivos são:
+- Verificar o layout das telas
+    - Verificar as proporções das telas, e dos componentes presentes.
+    - Verificar a disposição dos componentes na tela
+- Verificar a tipografia utilizada
+    - Verificar a fonte utilizada
+    - Verificar o tamanho da fonte utilizada
+    - Verificar as cores utilizadas na fonte
+- Verificar o simbolismo utilizado
+    - Verificar se todo elemento simbólico possui um texto associado
+    - Verificar se o uso dos símbolos é consistente
+- Verificar as cores utilizadas
+    - Verificar se o uso das cores é consistente
+    - Verificar se há excesso no uso de cores em alguma tela
+    - Verificar se há falta de uso de cores em alguma tela
+    - Verificar se as cores utilizadas estão presente na paleta de cores
+
 ## 5. Etapa de Validação - Entrevistas
 
 A utilização de entrevistas na etapa de validação possibilita uma alta apropriação da tecnologia, no nosso caso o protótipo, por parte dos entrevistados, que são potenciais usuários do sistema, ([1]). O objetivo das entrevistas é coletar informações detalhadas e profundas de usuários individuais a respeito da usabildidade do sistema e potenciais pontos de melhoria.
+
+Os objetivos dessa atividade de validação é:
+- Verificar a **eficácia** dessas telas, isso é, se os usuários conseguem alcançar seus objetivos durante o uso.
+- Verificar a **eficiência**, isso é, a velocidade e precisão que os usuários alcançam seus objetivos durante o uso.
+- Verificar a **tolerância a erros** das telas, isso é, se a ocorrência de erros não implica em danos de informações, produtividade, etc.
+- Verificar a **utilidade** do sistema, isso é, verificar se o conjunto de funcionalidade ofertada contempla as necessidades dos usuários.
+- Verificar a **learnability** do sistema, isso é, se os usuário aprendem rapidamente a utilizar o sistema.
 
 ### 5.1. Recrutamento dos participantes
 O primeiro passo é definir quem vai participar da avaliação. É de extrema importância que os participante tenham o mesmo perfil de usuário do usuários da BCE. Esses perfis estão disponíveis no [documento de perfil de usuário](pages/ponto_de_controle_2/perfil_usuario.md).
@@ -281,9 +311,71 @@ As atividades que os usuários devem realizar são as mesmas que o protótipo de
 - Renovação de prazo de devolução;
 
 #### 5.2.1. Busca de obras no acervo
+
+A atividade "busca de obras no acervo" consiste no uso do sistema da BCE para identificar um determinado recurso (livro, artigo, revistas, etc.). O objetivo relacionado com essa procura dessa obra pode ser diversos, dentre eles:
+- Um professor pode querer saber se determinada obra está presente na biblioteca, para assim utilizá-la como referência em seu material
+- Um funcionário da biblioteca pode querer descobrir o local físico cadastrado para aquela obra, para assim guardá-lo corretamente.
+- Um aluno pode desejar agendar um empréstimo de uma obra
+
+Para avaliar essa atividade, os seguinte passos foram projetados:
+
+1. Explique para o participante que ele deverá procurar um livro no protótipo.
+2. Mostre a capa do livro
+3. Mostre a tabela de informações do livro.
+
+<br>
+<p align='center'>
+    <img 
+    src='_media/images/plan_aval/ian-sommerville-software-engineering-9th.jpg' width='40%'>
+    <figcaption align='center'>
+        <b>Figura 1: Capa do livro que que deve ser procurado</b>
+  </figcaption>
+</p>
+<br>
+<p align='center'>
+    <img src='_media/assets/detalhes-sobre-livro-2.png' width='100%'>
+    <figcaption align='center'>
+        <b>Figura 2: Dados referentes ao livro que deve ser procurado</b>
+  </figcaption>
+</p>
+
+4. Contextualize o participante com a seguinte história:
+
+> “[...] Suponha que você esteja querendo saber se essa edição do livro mostrei pra você esteja presente no acervo da BCE. Como você faria para verificar?[...]”
+
 #### 5.2.2. Autentificação do usuário
+
+A atividade de autentificação de usuário faz referência a todo o fluxo de ação que o usuário deve realizar para fazer login na área de acesso restrito e recuperar suas credencais, uma vez esquecida. Para melhor avaliação desse fluxo, ele será avaliado durante o fluxo de agendamento de empréstimo, onde será necessário realizar a autenficação.
+
 #### 5.2.3. Agendamento de empréstimo
+
+A atividade de “agendamento de empréstimo” possibilita que os usuários garantam que determinada obra esteja presente na biblioteca na data agendada para empréstimo. 
+
+Para avaliar essa atividade, os seguinte passos foram projetados:
+
+1. Caso o participante não esteja na tela de detalhamento de uma obra, mostre novamente as informações da figura 1 e figura 2.
+
+2. Contextualize o participante com a seguinte história:
+
+> “[...] Suponha que esse livro tenha poucos exemplares disponíveis na biblioteca, e que você quer garantir que ele estará presente na data que você for até a biblioteca pegá-lo. Como você faria para agendar o empréstimo? [...]”
+
+3. Para realizar essa atividade o usuário terá que acessa a área de acesso restrito, sendo necessário realizar autenficação do usuário.
+
+4. Após a realização bem sucedida da atividade. Contextualize o participante com a seguinte história:
+
+> “[...] Suponha que durante a navegação do sistema você tenha aberto o livro errado e tenha clicado no botão de agendamento de empréstimo por acidente. Como você faria para cancelar um empréstimo marcado? [...]”
+
+5. Após todas as atividades, peça para o participante realizar o _logout_.
+
 #### 5.2.4. Renovação de prazo de devolução
+
+A atividade de “Renovação de prazo de devolução” possibilita que os usuários possam renovar a data de devolução de determinada obra em sua posse, remotamente.
+
+Para avaliar essa atividade, os seguinte passos foram projetados:
+
+1. Contextualize o participante com a seguinte história:
+
+> “[...] Suponha que você esteja em sua posse o livro <COLOCAR O LIVRO DO PROTOTIPO AQUI>, você ainda não terminou de utilizar o livro e hoje é data limite para devolução. Como você faria para renovar o prazo de devolução? [...]”
 
 ### 5.3. Avaliação da Entrevista - Teste Piloto
 
