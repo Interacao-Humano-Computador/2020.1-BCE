@@ -31,7 +31,7 @@ Esse tipo de abordagem possibilita a coleta de muitas informações dos usuário
 
 ## 4. Entrevistas
 
-A utilização de entrevistas na etapa de validação possibilita uma alta apropriação da tecnologia, no nosso caso o protótipo, por parte dos entrevistados, que são potenciais usuários do sistema, ([1]). O objetivo das entrevistas é coletar informações detalhadas e profundas de usuários individuais a respeito da usabildidade do sistema e potenciais pontos de melhoria.
+A utilização de entrevistas na etapa de validação possibilita uma alta apropriação da tecnologia, no nosso caso o protótipo, por parte dos entrevistados, que são potenciais usuários do sistema, (Barbosa, 2010). O objetivo das entrevistas é coletar informações detalhadas e profundas de usuários individuais a respeito da usabildidade do sistema e potenciais pontos de melhoria.
 
 Os objetivos dessa atividade de validação é:
 - Verificar a **eficácia** dessas telas, isso é, se os usuários conseguem alcançar seus objetivos durante o uso.
