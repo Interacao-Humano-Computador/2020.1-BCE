@@ -5,6 +5,7 @@
 |:----------:|:------:|:-------------------------------:|:------------------:|
 | 07.11.2020 | 0.1    | Criação do documento            | Rafaella Junqueira |
 | 07.11.2020 | 0.2    | Adição das atividades avaliadas | Durval Carvalho    |
+| 09.11.2020 | 0.3    | Revisão do documento            | Durval Carvalho    |
 
 <div align="justify">
 
@@ -47,7 +48,6 @@ As atividades definidas nessa avaliação podem ser executadas pelos seguintes p
 - Alunos de Graduação
 - Alunos de Pós-Graduação
 - Ex-Alunos
-- Professores
 
 Qualquer pessoa que se encaixe em algum desses perfis estão aptos de serem recrutados para a atividade de validação. É desejável que os participantes dessa entrevista não tenham participado de entrevistas anteriores.
 
@@ -96,7 +96,7 @@ Para avaliar essa atividade, os seguinte passos foram projetados:
 
 4. Contextualize o participante com a seguinte história:
 
-> "Suponha que você esteja querendo saber se essa edição do livro mostrei pra você esteja presente no acervo da BCE. Como você faria para verificar?[...]”
+> "Suponha que você esteja querendo saber se essa edição do livro que mostrei  está presente no acervo da BCE. Como você faria para verificar isso? [...]”
 
 #### 4.2.2. Autenticação do usuário
 
