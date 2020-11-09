@@ -6,6 +6,7 @@
 | 04.11.2020 | 0.1    | Criação do documento            | Durval Carvalho    |
 | 04.11.2020 | 0.2    | Adição do tópico WCAG           | Durval Carvalho    |
 | 07.11.2020 | 0.3    | Revisão do documento            | Rafaella Junqueira |
+| 09.11.2020 | 0.4    | Correção de erros de digitação  | Durval Carvalho    |
 
 <div align="justify">
 
@@ -19,19 +20,13 @@ A avaliação do protótipo de alta fidelidade será dividida em duas etapas, fa
 
 O documento que evidencia a segunda etapa se encontra disponível no [planejamento das entrevistas](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md) com usuários. Já o atual documento guarda as informações do planejamento das atividades de avaliação da fase estática. 
 
-<!-- Desse modo, este documento visa documentar e planejar como será realizado a avaliação do protótipo de alta fidelidade desenvolvido pela nossa equipe. -->
-
 ## 2. Objetivo
 
-<!-- O objetivo desse documento é detalhar o máximo possível os aspectos referentes a avaliação do protótipo de alta fidelidade, de modo que o futuro avaliador não tenha dúvidas durante a avaliação e possa realizar uma avaliação metódica e sistemática com diversos usuários. -->
-
-O objetivo desse documento é detalhar o máximo possível os aspectos referentes a avaliação do protótipo de alta fidelidade, de modo que o futuro avaliador não tenha dúvidas durante a avaliação e possa realizar uma avaliação metódica e sistemática com diversos usuários. Este documento irá detalhar a primeira etapa da avaliação, intitulada como avaliação estática.
+O objetivo desse documento é detalhar o máximo possível os aspectos referentes a avaliação do protótipo de alta fidelidade, de modo que o futuro avaliador não tenha dúvidas durante a avaliação e possa realizar uma avaliação metódica e sistemática. Este documento irá detalhar a primeira etapa da avaliação, intitulada como avaliação estática.
 
 ## 3. Metodologia
 
 A primeira etapa deste planejamento é uma avaliação estática, que consiste em realizar uma inspeção nas telas do protótipo avaliando critérios especificados nas [Diretrizes de Acessibilidade para o Conteúdo da Web (WCAG)](https://guia-wcag.com/). Nessa etapa o avaliador deve percorrer o protótipo a procura de inconsistências definidas no checklist de acessibilidade.
-
-<!-- Na segunda etapa, onde ocorrerão as validações junto aos usuários, o avaliador se reunirá com potenciais usuários do sistema a fim de avaliar a usabilidade do sistema e coletar sugestões de melhoria.  -->
 
 Como esse documento se propõe a planejar a avaliação do protótipo, desse modo, não abordaremos as etapas referentes a concepção do protótipo e começaremos na etapa de preparação da avaliação.
 
@@ -45,7 +40,7 @@ As Diretrizes de Acessibilidade para o Conteúdo da Web (WCAG, do inglês Web Co
 
 Elas consistem de um conjunto de recomendações para fazer com que o conteúdo seja acessível, principalmente para utilizadores com deficiência, mas também para todos os agentes de usuários, incluindo dispositivos bastante limitados, tais como os telefones celulares. ([3]).
 
-Os pontos de verificação do WCAG são definidos em 3 níveis (A, AA e AAA), partindo de pontos gerais para pontos especídicos.
+Os pontos de verificação do WCAG são definidos em 3 níveis (A, AA e AAA), partindo de pontos gerais para pontos específicos.
 
 No nosso contexto, foram localizados 12 pontos de nível A, 9 pontos de nível AA e 10 pontos de nível AAA. Quanto mais pontos forem atendidos, maior será o grau de usabilidade do sistema avaliado. 
 
