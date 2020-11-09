@@ -1,4 +1,4 @@
-# <center>Planejamento do Questionário
+# <center>Planejamento da Pesquisa
 
 ### Histórico de Versão
 | Data       | Versão | Descrição                                       | Autor(es)          |
