@@ -23,23 +23,23 @@
 - [**Design, Avaliação e Desenvolvimento**](/pages/ponto_de_controle_2/personas.md)
   - **Nível 1**
   - [Personas](/pages/ponto_de_controle_2/personas.md)
-  - [Plan. Aval. Analise Tarefas](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
-  - [Termo Consen. - Análise de Tarefas](/pages/ponto_de_controle_4/termo_de_consentimento.md)
-  - [Entrevistas - Análise de Tarefas](/pages/ponto_de_controle_4/entrevistas.md)
-  - [Aval. Análise de Tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md)
+  - [Planejamento da Avaliação - Analise Tarefas](/pages/ponto_de_controle_4/planejamento_1_entrevista.md)
+  - [Termo de Consentimento - Análise de Tarefas](/pages/ponto_de_controle_4/termo_de_consentimento.md)
+  - [Entrevistas de validação - Análise de Tarefas](/pages/ponto_de_controle_4/entrevistas.md)
+  - [Análise de Tarefas v2](/pages/ponto_de_controle_4/analise_tarefa_v2.md)
   - [StoryBoard](/pages/ponto_de_controle_4/storyboard.md)
-  - [Plan. Aval. Storyboard](/pages/ponto_de_controle_4/plan_aval_storyboard.md)
-  - [Termo Consen. - Storyboard](/pages/ponto_de_controle_5/termo_de_consentimento.md)
-  - [Aval. Storyboards](/pages/ponto_de_controle_5/avaliacao_storyboard.md)
+  - [Planejamento da Avalaliação - Storyboard](/pages/ponto_de_controle_4/plan_aval_storyboard.md)
+  - [Termo Consentimento - Storyboard](/pages/ponto_de_controle_5/termo_de_consentimento.md)
+  - [Entrevistas de validação do Storyboards](/pages/ponto_de_controle_5/avaliacao_storyboard.md)
   - **Nível 2**
   - [Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/low_fidelity_prototype.md)
-  - [Plan. Aval. Prot. Baixa Fidelidade](/pages/ponto_de_controle_5/plan_aval_prototipo_baixa_fidelidade.md)
-  - [Termo Consen. - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/termo_de_consentimento.md)
-  - [Entrevistas - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/entrevistas_prototipo.md)
+  - [Planej. da Aval. Protótipo de Baixa Fidelidade](/pages/ponto_de_controle_5/plan_aval_prototipo_baixa_fidelidade.md)
+  - [Termo Consent. - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/termo_de_consentimento.md)
+  - [Entrev. de valid. - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/entrevistas_prototipo.md)
   - **Nível 3**
   <!-- - [Protótipo Alta Fidelidade]() -->
-  - [1ª etapa - Plan. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md)
-  - [2ª etapa - Plan. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prot_alta_fidelidade_entrevistas.md)
+  - [1ª etapa - Planej. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md)
+  - [2ª etapa - Planej. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prot_alta_fidelidade_entrevistas.md)
   - [Termo Consen. - Protótipo Alta Fidelidade](/pages/ponto_de_controle_6/termo_de_consentimento.md)
 <!-- - [**Instalação**]() -->
      
