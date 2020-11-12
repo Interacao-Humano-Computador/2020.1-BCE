@@ -37,7 +37,7 @@
   - [Termo Consent. - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/termo_de_consentimento.md)
   - [Entrev. de valid. - Protótipo Baixa Fidelidade](/pages/ponto_de_controle_5/entrevistas_prototipo.md)
   - **Nível 3**
-  <!-- - [Protótipo Alta Fidelidade]() -->
+  - [Protótipo Alta Fidelidade](/pages/ponto_de_controle_6/high_fidelity_prototype.md)
   - [1ª etapa - Planej. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md)
   - [2ª etapa - Planej. Aval. Prot. Alta Fidelidade](/pages/ponto_de_controle_6/plan_aval_prot_alta_fidelidade_entrevistas.md)
   - [Termo Consen. - Protótipo Alta Fidelidade](/pages/ponto_de_controle_6/termo_de_consentimento.md)
