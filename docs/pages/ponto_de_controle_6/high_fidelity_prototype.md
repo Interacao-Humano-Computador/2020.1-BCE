@@ -2,12 +2,14 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |       Descrição                |             Autor(es)              |
-| :--------: | :----: | :----------------------------: | :--------------------------------: |
-| 11.11.2020 |  0.1   |  Criação do documento          | Geraldo Victor |
+| Data | Versão | Descrição | Autor(es) |
+| :--: | :----: | :-------: | :-------: |
+| 11.11.2020 | 0.1 | Criação do documento | Geraldo Victor |
+| 12.11.2020 | 0.2 | Revisão do documento | Durval Carvalho |
+
 ### 1. Introdução
 
-O método de protótipagem de alta fidelidade se preocupa em se parecer ao máximo com o produto final, desta forma os stakeholders tem a oportunidade de vislumbrar antecipadamente uma representação muito próxima do que seria seu produto final e discutir detalhes mais aprofundados das concepções concepbidas nestes tipos de protótipo.
+O método de protótipagem de alta fidelidade se preocupa em se parecer ao máximo com o produto final, desta forma os stakeholders tem a oportunidade de vislumbrar antecipadamente uma representação muito próxima do que seria seu produto final e discutir detalhes mais aprofundados das desições de design concebidas neste tipo de protótipo.
 
 ### 2. Objetivo
 
