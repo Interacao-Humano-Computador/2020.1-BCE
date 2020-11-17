@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |     Autor      |
 | :--------: | :----: | :------------------: | :------------: |
 | 17.11.2020 |  0.1   | Criação do documento | Geraldo Victor |
+| 17.11.2020 |  0.2   | Adição da Entrevista Piloto | Durval Carvalho |
 
 <div align="justify">
 
@@ -14,7 +15,7 @@ Esse documento contém os resultados das entrevistas realizadas. Em cada entrevi
 
 ## 2. Objetivo
 
-O objetivo dessas entrevistas foi verificar e validar o fluxo e a disposição de elementos do [protótipo](pages/ponto_de_controle_6/high_fidelity_prototype.md) referente à nova interface do site da BCE. Outro objetivo secundário foi avaliar sugestões de melhorias e potenciais funcionalidades que os usuários desejariam no site da BCE.
+O objetivo dessas entrevistas foi verificar e validar a usabilidade do [protótipo de alta fidelidade](pages/ponto_de_controle_6/high_fidelity_prototype.md) referente à nova interface do site da BCE. Outro objetivo secundário foi coletar sugestões de melhorias e potenciais funcionalidades que os usuários desejariam no site da BCE.
 
 ## 3. Metodologia
 
@@ -28,18 +29,25 @@ Os participantes selecionados foram aqueles que tinham utilizado os serviços da
 
 ## 4. Entrevistas
 
-No total foram realizadas 4 entrevistas, 1 entrevista para o teste piloto, e 3 para avaliação do protótipo. Sendo 3 entrevistados alunos de graduação e 1 alunos de pós-graduação.
+No total foram realizadas 4 entrevistas, 1 entrevista para o teste piloto, e 3 para avaliação do protótipo. Sendo 1 ex-aluno, e 3 alunos de graduação.
 
 ## 4.1 Entrevista 1 - Piloto
 
 <p align='center'>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6VvEZP4t8pg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+A primeira entrevista foi realizada na data 16/11/20 às 18:20, e teve duração total de 17 minutos. O participante se chama Kalebe Lopes, estudante do curso de graduação Engenharia de Software da UnB.
 
-## 4.1.1. Melhorias no protótipo
+Durante a gravação da entrevista do teste piloto do Kabele, houve um problema na tela a ser gravada, e invés de gravar a tela do participante, foi gravada a tela do entrevistador. Esse problema foi consertado para as demais entrevistas.
 
+Outro problema identificado foi o tamanho da tela do protótipo, que na tela do kalebe estava pequeno, fazendo com que a visualização do protótipo ficasse prejudicada. Esse problema foi corrigido configurando o zoom do navegador antes da realização das atividades no protótipo. Esse procedimento se tornou padrão para as demais entrevistas.
 
+Uma das partes da entrevista, era pedir para que o entrevistado cancelar uma ação em andamento. Com base na experiência do Kalebe, ficou evidente que essa parte da entrevista confundia o usuário e quebrava a imersão do protótipo, pois ele precisava realizar um passo a passo explicado pelo entrevistador. Desse modo, essa parte do planejamento foi removida para as demais entrevistas.  
+
+Outro problema identificado foi o eco gerado por estar conectado no computador e pelo celular na chamada de vídeo. A solução encontrada foi utilizar a câmera do celular e o microfone do computador. Essa solução foi seguida para as demais entrevistas.
+
+Durante a entrevista do Kaleve, foram encontradas algumas links entre as telas do protótipos que estavam quebrados ou errados. Esses problemas foram consertados para as demais entrevistas.
 
 ## 4.2 Entrevista 2
 
