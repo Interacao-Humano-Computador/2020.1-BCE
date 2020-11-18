@@ -42,6 +42,7 @@
   - [Planej. Aval. Prot. Alta Fidelidade - 2ª etapa](/pages/ponto_de_controle_6/plan_aval_prot_alta_fidelidade_entrevistas.md)
   - [Termo Consen. - Protótipo Alta Fidelidade](/pages/ponto_de_controle_6/termo_de_consentimento.md)
   - [Avaliação Prot. Alta Fidelidade - 1ª etapa](/pages/ponto_de_controle_6/aval_prot_alta_fidelidade_1_etapa.md)
+  - [Entrevistas Prot. Alta Fidelidade - 2ª etapa](/pages/ponto_de_controle_6/entrevistas_prototipo.md)
 <!-- - [**Instalação**]() -->
      
 
