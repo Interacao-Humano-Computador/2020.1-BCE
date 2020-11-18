@@ -96,7 +96,7 @@ Deve ser possível cancelar ou reverter qualquer ação que envolva clique ou to
 
 **Exemplo**: Nenhuma ação deve ser executável com somente 1 clique. Sempre deve ser perguntado se o usuário realmente deseja realizar aquela ação.
 
-[Link para descrição completa](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation
+[Link para descrição completa](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation)
 
 ##### 4.1.1.9. Identificação do erro
 Erros durante e após o preenchimento de dados em formulários, devem ser identificados de forma específica e clara para o usuário. O acesso aos campos com erros também deve ser simplificado.
@@ -116,7 +116,7 @@ Sempre que um processo de login exigir um mecanismo de função cognitiva (memor
 [Link para descrição completa](https://w3c.github.io/wcag/understanding/accessible-authentication)
 
 ##### 4.1.1.12. Entrada redundante
-Sempre que houver o preenchimento de etapas em uma processo, qualquer tipo de informação inserida previamente não deverá ser solicitada novamente a não ser que seja essencial (exemplo: reinserção de senha de confirmação).
+Sempre que houver o preenchimento de etapas em um processo, qualquer tipo de informação inserida previamente não deverá ser solicitada novamente a não ser que seja essencial (exemplo: reinserção de senha de confirmação).
 
 [Link para descrição completa](https://w3c.github.io/wcag/understanding/redundant-entry)
 
