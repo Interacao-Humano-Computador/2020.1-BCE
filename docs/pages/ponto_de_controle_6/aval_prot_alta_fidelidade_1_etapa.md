@@ -7,6 +7,7 @@
 | 17.11.2020 | 0.2    | Adição nível AA                 | Isabella Carneiro  |
 | 18.11.2020 | 0.3    | Finalização nível AA            | Isabella Carneiro  |
 | 18.11.2020 | 0.4    | Adição do nível AAA             | Rafaella Junqueira |
+| 18.11.2020 | 0.5    | Revisão do Documento            | Durval Carvalho    |
 
 <div align="justify">
 
@@ -16,7 +17,7 @@ A utilização de protótipos durante a atividade de design é fundamental para 
 ## 2. Objetivo
 O objetivo desta etapa de avaliação é realizar uma inspeção nas telas do protótipo avaliando critérios especificados nas [Diretrizes de Acessibilidade para o Conteúdo da Web (WCAG)](https://guia-wcag.com/). Inspeção é um método de avaliação que permite o avaliador tentar identificar problemas que os usuários podem vir a ter quando interagirem com o sistema. 
 
-Os resultados coletados nesta fase, juntamente com os resultados da [segunda etapa de avaliação](), vão compor as conclusões finais acerca do protótipo de alta fidelidade criado, possibilitando a proposição de melhorias para o design final do site da Biblioteca Central da UnB. 
+Os resultados coletados nesta fase, juntamente com os resultados da [segunda etapa de avaliação](/pages/ponto_de_controle_6/entrevistas_prototipo.md), vão compor as conclusões finais acerca do protótipo de alta fidelidade, possibilitando a proposição de melhorias para o design final do site da Biblioteca Central da UnB. 
 
 ## 3. Metodologia
 Os princípios que serão inspecionados durante esta avaliação estática estão dispostos e detalhados no [planejamento da primeira etapa](/pages/ponto_de_controle_6/plan_aval_prototipo_alta_fidelidade.md) de avaliação do protótipo de alta fidelidade. 
@@ -44,11 +45,11 @@ A avaliação da etapa estática é dividida em 3 níveis: A, AA e AAA. Para fim
 Foram identificados alguns pontos do protótipo que não estão de total acordo com os critérios avaliados, como:
 * A funcionalidade para recuperação de senha só é possível ser consultada caso tente-se realizar o login antes de buscar um livro, a funcionalidade não está disponível para utilização no momento em que o usuário tenta se autenticar para reservar um livro; 
 * Durante a tentativa de login para realizar a reserva de um livro, não há a opção de cancelar a ação nem de retornar à tela anterior;
-* Durante a tentativa de login para realizar a reserva de um livro, caso clicado em "entrar" sem insrção das credenciais, não há mensagem de erro;
+* Durante a tentativa de login para realizar a reserva de um livro, caso clicado em "entrar" sem inserção das credenciais, não há mensagem de erro;
 * Durante a tentativa de login para realizar a reserva de um livro, a opção "esqueceu sua senha?" não está disponível;
 * Quando selecionada a opção "reservar o livro", é direcionado para a página de acesso restrito do usuário e recebido o alerta de "renovação do prazo de devolução", não de reserva de livro. 
 * Quando acessado o painel de acesso restrito, não há opção de retornar para a lista de livros que estava sendo buscado;
-* Quando acessado o painel de acesso restrito, o retorno para a tela inciail da biblioteca não está claro, dá-se apenas pela logo da UnB;
+* Quando acessado o painel de acesso restrito, o retorno para a tela inicial da biblioteca não está claro, dá-se apenas pela logo da UnB;
 * Os campos de login não indicam como deve ser o preenchimento (Exemplo: "exemplo@gmail.com", ou "senha de 6 dígitos");
 * A tela 41, referente à inserção de senha para o login para a área de acesso restrito, não possui mensagem de erro caso tente-se logar sem inserir a senha;
 * A tela 35, referente à recuperação de senha, não apresenta mensagem de erro caso clicado em "enviar link" sem antes inserir o email;
