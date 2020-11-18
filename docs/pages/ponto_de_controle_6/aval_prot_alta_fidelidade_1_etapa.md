@@ -5,6 +5,7 @@
 |:----------:|:------:|:-------------------------------:|:------------------:|
 | 16.11.2020 | 0.1    | Criação do documento            | Rafaella Junqueira |
 | 17.11.2020 | 0.2    |Adição nível AA            | Isabella Carneiro |
+| 18.11.2020 | 0.3    |Finalização nível AA            | Isabella Carneiro |
 
 <div align="justify">
 
@@ -28,11 +29,11 @@ A avaliação da etapa estática é dividida em 3 níveis: A, AA e AAA. Para fim
 | Conteúdo não textual        | 🟢 | Contraste (mínimo)           | 🔴 | Contraste (melhorado) | 🔴 |
 | Características sensoriais  | 🟢 | Redimensionar texto          | 🟡 | Teclado (sem exceção) | 🔴 |
 | Utilização de cores         | 🟢 | Imagens de texto             | 🟢 | Sem limite de tempo   | 🟢 |
-| Três flashes                | 🟢 | Refluxo                      |  | Nova autenticação     | 🟢 |
-| Página com título           | 🟢 | Contraste Não-Textual        |  | Limites de tempo      | 🟢 |
-| Ordem do foco               | 🟡 | Cabeçalhos e rótulos         |  | Cabeçalhos da seção   | 🟢 |
-| Finalidade do link          | 🟢 | Espaçamento da área clicável |  | Palavras incomuns     | 🟢 |
-| Cancelamento de acionamento | 🟡 | Controles ocultos            |  | Abreviações           | 🟢 |
+| Três flashes                | 🟢 | Refluxo                      | 🔴 | Nova autenticação     | 🟢 |
+| Página com título           | 🟢 | Contraste Não-Textual        | 🔴 | Limites de tempo      | 🟢 |
+| Ordem do foco               | 🟡 | Cabeçalhos e rótulos         | 🟢 | Cabeçalhos da seção   | 🟢 |
+| Finalidade do link          | 🟢 | Espaçamento da área clicável | 🟡 | Palavras incomuns     | 🟢 |
+| Cancelamento de acionamento | 🟡 | Controles ocultos            | 🟢 | Abreviações           | 🟢 |
 | Identificação do erro       | 🟡 | Sugestão de erro             | 🟢 | Pronúncia             | 🟢 |
 | Rótulos e instruções        | 🟡 | Mensagens de status          | 🟢 | Ajuda                 | 🟢 |
 | Autenticação acessível      | 🟢 |                              |  | Prevenção de erro     | 🟡 |
@@ -58,6 +59,7 @@ Foram identificados alguns pontos do protótipo que não estão de total acordo 
 * As telas de login não possuem opção de contraste nem de redimensionar texto;
 * Não foi identificado nenhuma imagem que não possui um texto que explique-a;
 * Quando ocorre um erro há uma mensagem explicando e também há mensagem que explica o status se for feita a operação sem erro;
+* É preciso analisar as alterações necessárias para se cumprir os critérios AA: Refluxo, Contraste-não textual e espaçamento da área clicável.
 
 
 
