@@ -4,8 +4,9 @@
 | Data       | Versão | Descrição                       | Autor(es)          |
 |:----------:|:------:|:-------------------------------:|:------------------:|
 | 16.11.2020 | 0.1    | Criação do documento            | Rafaella Junqueira |
-| 17.11.2020 | 0.2    |Adição nível AA            | Isabella Carneiro |
-| 18.11.2020 | 0.3    |Finalização nível AA            | Isabella Carneiro |
+| 17.11.2020 | 0.2    | Adição nível AA                 | Isabella Carneiro  |
+| 18.11.2020 | 0.3    | Finalização nível AA            | Isabella Carneiro  |
+| 18.11.2020 | 0.4    | Adição do nível AAA             | Rafaella Junqueira |
 
 <div align="justify">
 
