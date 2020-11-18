@@ -7,6 +7,8 @@
 | 17.11.2020 |  0.1   | Criação do documento | Geraldo Victor |
 | 17.11.2020 |  0.2   | Adição da Entrevista Piloto | Durval Carvalho |
 | 18.11.2020 |  0.3   | Adição da Conclusão | Durval Carvalho |
+| 18.11.2020 |  0.4   | Adição da entrevista 3 | João Victor |
+
 
 <div align="justify">
 
@@ -76,7 +78,7 @@ O Thiago, durante a avaliação da disposição das informações no protótipo,
 
 A segunda entrevista foi realizada na data 17/11/20 às 16:30, e teve duração total de 13 minutos aproximadamente. O participante se chama Pedro Miranda, estudante do curso de graduação Engenharia de Software da UnB.
 
-O Pedro, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), nela ele disse que pesquisaria pelo titulo e clicaria em pesquisar, após isso ele realiza a tarefa sem dificuldades. Ele comenta depois que na aba de pesquisa sentiu falta de informações que afirmem que é uma busca de livro. Pedro afirma também que gostou das informações disponíveis sobre os livros, que para ele o autor e o idioma são os mais importantes.
+O Pedro, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), nela ele disse que pesquisaria pelo titulo e clicaria em pesquisar, após isso ele realiza a tarefa sem dificuldades. Ele comenta depois que na tela de pesquisa sentiu falta de informações que afirmem que é uma busca de livro. Pedro afirma também que gostou das informações disponíveis sobre os livros, que para ele o autor e o idioma são os mais importantes.
 
 O Pedro, durante a realização do fluxo de reserva de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem dificuldades, ele acrescentou que achou incomodo o botão de sair estar posicionado na direita superior, ele esperava que estivesse na parte esquerda da tela igual o botão de retornar. Ele acrescenta também que não seria necessário ler as informações sobre o livro no pop-up, pois conseguia ver a capa do livro selecionado ao lado. 
 
@@ -98,5 +100,8 @@ Com base nas demais entrevistas foi possível validar o protótipo de alta fidel
 - [Entrevista 2] Já na tela de resultado da pesquisa, deve possuir alguns botões de ação, para assim reduzir a quantidade de cliques.
 - [Entrevista 2] Deve-se melhorar a estilização e os textos associados aos botões, pois alguns botões não aparentam ser botões, e possuem textos muito grandes.
 - [Entrevista 2] Os textos apresentados nas modais de confirmação devem ser melhor estilizada, pois o tamanho dos textos está desproporcional com o tamanho do modal.
+- [Entrevista 3] A tela de pesquisa precisa de algo que afirme que é uma busca de livros.
+- [Entrevista 3] Permitir renovar obras por meio da busca no acervo.
+- [Entrevista 3] No Pop-Up de renovação deve apresentar a capa do livro desejado para ter uma confirmação mais visual.
 
 </div>
