@@ -9,7 +9,7 @@
 
 ### 1. Introdução
 
-O método de protótipagem de alta fidelidade se preocupa em se parecer ao máximo com o produto final, desta forma os stakeholders tem a oportunidade de vislumbrar antecipadamente uma representação muito próxima do que seria seu produto final e discutir detalhes mais aprofundados das desições de design concebidas neste tipo de protótipo.
+O método de protótipagem de alta fidelidade se preocupa em se parecer ao máximo com o produto final, desta forma os stakeholders tem a oportunidade de vislumbrar antecipadamente uma representação muito próxima do que seria seu produto final e discutir detalhes mais aprofundados das decisões de design concebidas neste tipo de protótipo.
 
 ### 2. Objetivo
 
