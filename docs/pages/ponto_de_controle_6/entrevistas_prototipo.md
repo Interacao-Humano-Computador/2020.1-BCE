@@ -6,6 +6,7 @@
 | :--------: | :----: | :------------------: | :------------: |
 | 17.11.2020 |  0.1   | Criação do documento | Geraldo Victor |
 | 17.11.2020 |  0.2   | Adição da Entrevista Piloto | Durval Carvalho |
+| 18.11.2020 |  0.3   | Adição da Conclusão | Durval Carvalho |
 
 <div align="justify">
 
@@ -74,13 +75,16 @@ O Thiago, durante a avaliação da disposição das informações no protótipo,
 </p>
 
 
-## 4.4 Entrevista 4
-
-<p align='center'>
-
-</p>
-
-
 ## 4. Conclusão
+
+Os resultados das entrevistas de validação foram satisfatórios. Com base no teste-piloto foi possível identificar e corrigir vários defeitos no protótipo, como defeitos de links entre telas, e também foi possível melhorar a dinâmica de entrevista.
+
+Com base nas demais entrevistas foi possível validar o protótipo de alta fidelidade produzido, e identificar os principais problemas e pontos de melhoria, sendo eles:
+
+- [Entrevista 2] A tela de resultado da pesquisa deve apresentar os resultados em uma rolagem vertical, e não horizontal.
+- [Entrevista 2] A quantidade de obras apresentadas na tela de resultado de pesquisa deve ser maior, somente 6 obras é muito pouco.
+- [Entrevista 2] Já na tela de resultado da pesquisa, deve possuir alguns botões de ação, para assim reduzir a quantidade de cliques.
+- [Entrevista 2] Deve-se melhorar a estilização e os textos associados aos botões, pois alguns botões não aparentam ser botões, e possuem textos muito grandes.
+- [Entrevista 2] Os textos apresentados nas modais de confirmação devem ser melhor estilizada, pois o tamanho dos textos está desproporcional com o tamanho do modal.
 
 </div>
