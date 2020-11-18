@@ -47,7 +47,7 @@ Uma das partes da entrevista, era pedir para que o entrevistado cancelar uma aç
 
 Outro problema identificado foi o eco gerado por estar conectado no computador e pelo celular na chamada de vídeo. A solução encontrada foi utilizar a câmera do celular e o microfone do computador. Essa solução foi seguida para as demais entrevistas.
 
-Durante a entrevista do Kaleve, foram encontradas algumas links entre as telas do protótipos que estavam quebrados ou errados. Esses problemas foram consertados para as demais entrevistas.
+Durante a entrevista do Kalebe, foram encontrados alguns links entre as telas do protótipos que estavam quebrados ou errados. Esses problemas foram consertados para as demais entrevistas.
 
 ## 4.2 Entrevista 2
 
@@ -70,8 +70,20 @@ O Thiago, durante a avaliação da disposição das informações no protótipo,
 ## 4.3 Entrevista 3
 
 <p align='center'>
-
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mtwo1ovlaE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+A segunda entrevista foi realizada na data 17/11/20 às 16:30, e teve duração total de 13 minutos aproximadamente. O participante se chama Pedro Miranda, estudante do curso de graduação Engenharia de Software da UnB.
+
+O Pedro, durante a realização do fluxo de busca de um livro no acervo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), nela ele disse que pesquisaria pelo titulo e clicaria em pesquisar, após isso ele realiza a tarefa sem dificuldades. Ele comenta depois que na aba de pesquisa sentiu falta de informações que afirmem que é uma busca de livro. Pedro afirma também que gostou das informações disponíveis sobre os livros, que para ele o autor e o idioma são os mais importantes.
+
+O Pedro, durante a realização do fluxo de reserva de empréstimo, realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem dificuldades, ele acrescentou que achou incomodo o botão de sair estar posicionado na direita superior, ele esperava que estivesse na parte esquerda da tela igual o botão de retornar. Ele acrescenta também que não seria necessário ler as informações sobre o livro no pop-up, pois conseguia ver a capa do livro selecionado ao lado. 
+
+O Pedro, durante a realização do fluxo de renovação do prazo de empréstimo, na primeira tentativa ele tentou buscar o livro no catálogo para depois renovar. Sem sucesso foi orientado a realizar o fluxo de autentificação (login e recuperação de senha). Após realizar a autenticação ele realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem mais dificuldades. Ele afirma que no pop-up de renovação ele leria as informações sobre o livro, pois não tinha a imagem da capa do livro.
+
+O Pedro, durante o fluxo de autentificação (login e recuperação de senha), realizou as atividades conforme modelado na [segunda versão da análise de tarefas](/pages/ponto_de_controle_4/analise_tarefa_v2.md), sem apresentar dificuldades, ele achou que este fluxo seguia um padrão da maioria dos sites.
+
+Após a realizações desses fluxos, ele afirmou que não encontrou mais informações para acrescentar além das que já foram citadas acima.
 
 
 ## 4.4 Entrevista 4
