@@ -106,3 +106,6 @@ Com base nas demais entrevistas foi possível validar o protótipo de alta fidel
 - [Entrevista 3] O Pop-Up de renovação deve apresentar a capa do livro desejado para ter uma confirmação mais visual.
 - [Entrevista 3] A posição do botão de sair deve ser a esquerda.
 </div>
+
+## Bibliografia
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
