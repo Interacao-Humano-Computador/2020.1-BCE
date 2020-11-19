@@ -3,7 +3,7 @@
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
 | :--------: | :----: | :------------------: | :-------------: |
-| 07.11.2020 |  0.1   | Criação do documento | Durval Carvalho |
+| 19.11.2020 |  0.1   | Criação do documento | Durval Carvalho |
 
 <div align="justify">
 
