@@ -64,64 +64,7 @@ Foram identificados alguns pontos do protótipo que não estão de total acordo 
 * É preciso analisar as alterações necessárias para se cumprir os critérios AA: Refluxo, Contraste-não textual e espaçamento da área clicável.
 
 
-
-<!-- ### 4.2 Nível AA
-
-| Tela| Contraste (mínimo) |Redimensionar texto | Imagens de texto | Refluxo | Contraste Não-Textual | Cabeçalhos e rótulos | Espaçamento da área clicável | Controles ocultos | Sugestão de erro | Mensagens de status |
-:----:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
- **1**  | ✅ | ✅ | ✅ | ? | ? | ? | ? | ? | ✅ | ✅ |
- **2**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **3**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **4**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **5**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **6**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **7**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **8**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **9**  | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **10** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **11** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **12** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **13** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **14** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **15** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **16** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **17** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **18** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **19** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **20** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **21** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **22** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **23** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **24** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **25** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **26** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **27** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **28** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **29** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **30** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **31** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **32** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **33** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **34** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **35** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **36** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **37** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **38** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **39** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **40** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **41** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **42** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **43** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **44** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **45** | ❌ | ❌ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **46** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **47** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **48** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **49** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ |
- **50** | ✅ | ✅ | ✅ |   |   |   |   |   | ✅ | ✅ | -->
-
-
-## 5. Conclusão
+## 6. Conclusão
 A análise do protótipo nesta primeira etapa da avaliação gerou pontos de observação baseados nos critérios definidos por cada nível das diretrizes de acessibilidade para o conteúdo web (WCAG). Esses pontos serão priorizados e, juntamente com os resultados da segunda etapa da avaliação, referente às entrevistas com usuários, serão adotadas algumas medidas de melhoria para o protótipo existente a fim de validar e consolidar a proposta de design feita pela equipe.
 
 </div>
