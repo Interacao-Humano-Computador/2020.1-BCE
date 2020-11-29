@@ -12,6 +12,7 @@
   - [Apresentação PC 4](/pages/ponto_de_controle_4/apresentacao.md)
   - [Apresentação PC 5](/pages/ponto_de_controle_5/apresentacao.md)
   - [Apresentação PC 6](/pages/ponto_de_controle_6/apresentacao.md)
+  - [Apresentação PC 7](/pages/ponto_de_controle_7/apresentacao.md)
   
 - [**Análise de requisitos**](/pages/ponto_de_controle_2/planejamento_do_questionario.md)
   - [Planejamento de Pesquisa](/pages/ponto_de_controle_2/planejamento_do_questionario.md)
