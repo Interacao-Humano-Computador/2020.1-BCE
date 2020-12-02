@@ -1,4 +1,4 @@
-# <center> Apresentação do Ponto de Controle 6
+# <center> Apresentação do Projeto Final
 
 ### Histórico de Versão
 |    Data    | Versão | Descrição            | Autor(es)       |
